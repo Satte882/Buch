@@ -70,6 +70,21 @@ Der Reversal besteht deshalb nicht darin, dass „alles inszeniert“ war. Er be
 
 Arbeitsannahme: Die Quelle hat Daniel gerade deshalb ausgewählt, weil er zu Beginn als regelorientierter, glaubwürdiger Ermittler besonders geeignet ist, erfolgreiche Grenzüberschreitungen zu legitimieren.
 
+### Motiv der Quelle – Arbeitsrichtung
+
+Die konkrete Identität bleibt offen. Für die Plotlogik gilt jedoch:
+
+> Die Quelle will nicht primär Chaos erzeugen oder persönlich Daniel zerstören. Sie will beweisen, dass der bestehende Sicherheitsapparat unter realem Zeitdruck zu langsam und zu eng begrenzt ist – und dadurch dauerhaft weitergehende präventive Möglichkeiten legitimieren.
+
+Die Quelle beziehungsweise die dahinterstehende funktionale Rolle glaubt selbst, dass die Bedrohungen real und die bestehenden Verfahren unzureichend sind. Damit entsteht kein einfacher „böser Verschwörer“, sondern eine radikalisierte Version derselben Logik, in die Daniel später selbst gerät.
+
+Offen bis zur Figurenkonkretisierung:
+
+- Einzelperson oder kleiner interner Kreis,
+- institutionelle Position,
+- persönliche Verbindung zu Daniel,
+- ob das Motiv ausschließlich ideologisch oder zusätzlich persönlich geprägt ist.
+
 ## Persönliche Bedrohung – Arbeitsfestlegung
 
 Die bisherige Beobachtung Daniels reicht als Psychothriller-Motor allein nicht aus.
