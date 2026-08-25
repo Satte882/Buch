@@ -15,4 +15,4 @@ Daniel kommt an einen Punkt, an dem seine bisherige Begründung nicht mehr ausre
 Der Kipppunkt muss ambivalent bleiben. Daniels Entscheidung darf weder offensichtlich richtig noch offensichtlich falsch sein.
 
 ## Status
-Offen.
+Ebene 2 – Ereignisse definiert. Details bleiben für spätere Ebenen offen.
