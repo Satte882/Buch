@@ -70,6 +70,16 @@ Der Reversal besteht deshalb nicht darin, dass „alles inszeniert“ war. Er be
 
 Arbeitsannahme: Die Quelle hat Daniel gerade deshalb ausgewählt, weil er zu Beginn als regelorientierter, glaubwürdiger Ermittler besonders geeignet ist, erfolgreiche Grenzüberschreitungen zu legitimieren.
 
+### Drei-Ebenen-Regel für die Quelle
+
+Damit die Quelle kein allwissendes Plotgerät wird, muss sie auf allen späteren Ebenen konsistent über drei Grenzen beschrieben werden:
+
+1. **Tatsächlicher Zugang** – Sie besitzt früher als Daniel Zugriff auf bestimmte operative oder interne Informationsfragmente, aber nicht auf das vollständige Lagebild.
+2. **Reale Begrenzung** – Sie kann die extremistische Struktur nicht vollständig steuern, kennt nicht jedes Detail, kann Zeitpunkte und Ausgänge nicht garantieren und kann mit einzelnen Einschätzungen auch falsch oder veraltet liegen.
+3. **Verdecktes Motiv** – Sie beeinflusst vor allem Priorisierung und Interpretation: welcher Hinweis zuerst sichtbar wird, welche Unsicherheit Daniel akzeptieren soll und wann Zeitdruck maximal wirkt.
+
+Wichtig: Die Quelle liefert mehrfach **wahre und nützliche Informationen**. Ihre Gefährlichkeit liegt nicht darin, dass alles gelogen ist, sondern darin, dass Wahrheit selektiv als Steuerungsinstrument eingesetzt wird.
+
 ### Motiv der Quelle – Arbeitsrichtung
 
 Die konkrete Identität bleibt offen. Für die Plotlogik gilt jedoch:
@@ -78,12 +88,14 @@ Die konkrete Identität bleibt offen. Für die Plotlogik gilt jedoch:
 
 Die Quelle beziehungsweise die dahinterstehende funktionale Rolle glaubt selbst, dass die Bedrohungen real und die bestehenden Verfahren unzureichend sind. Damit entsteht kein einfacher „böser Verschwörer“, sondern eine radikalisierte Version derselben Logik, in die Daniel später selbst gerät.
 
+Bei der späteren Figurenkonkretisierung muss dieses Systemmotiv in ein **persönliches Motiv** übersetzt werden: reales früheres Versagen, Kontrollverlust, Kränkung oder Pflichtverständnis. Kein abstrakter Verfassungsmonolog.
+
 Offen bis zur Figurenkonkretisierung:
 
 - Einzelperson oder kleiner interner Kreis,
 - institutionelle Position,
 - persönliche Verbindung zu Daniel,
-- ob das Motiv ausschließlich ideologisch oder zusätzlich persönlich geprägt ist.
+- welches frühere Erlebnis das Motiv emotional trägt.
 
 ## Persönliche Bedrohung – Arbeitsfestlegung
 
@@ -93,13 +105,30 @@ Deshalb gilt ab Baustein 05/06 zusätzlich:
 
 > Eine Person aus Daniels privatem Nahbereich wird durch den Fall beziehungsweise die Reichweite der Quelle konkret gefährdet.
 
+Diese Person muss jedoch **vor** der Gefährdung bereits narrativen Eigenwert besitzen. Sie wird daher in Baustein 02/03 funktional als private Bezugsperson vorbereitet, ohne Name oder endgültige Beziehung festzulegen.
+
+Die frühe Funktion lautet:
+- sie zeigt eine private Seite Daniels, die der Hauptfall allein nicht zeigen kann,
+- sie besitzt ein eigenes kleines Ziel oder Bedürfnis,
+- zwischen ihr und Daniel besteht eine reale Reibung, die nicht erst aus der späteren Gefährdung entsteht.
+
 Noch nicht festlegen:
 
 - wer diese Person ist,
 - welche genaue Beziehung sie zu Daniel hat,
 - ob die Gefährdung von der extremistischen Struktur oder der manipulierenden Quelle ausgeht.
 
-Diese Rollenentscheidung erfolgt erst bei der Figurenkonkretisierung. Auf Ereignis- und Beat-Ebene muss aber bereits berücksichtigt werden, dass Daniel spätestens ab der Romanmitte **nicht mehr nur beruflich und abstrakt betroffen** ist.
+Die konkrete Rollenentscheidung erfolgt erst bei der Figurenkonkretisierung. Auf Ereignis- und Beat-Ebene muss aber bereits berücksichtigt werden, dass Daniel spätestens ab der Romanmitte **nicht mehr nur beruflich und abstrakt betroffen** ist.
+
+## Daniels Wahrnehmung unter Druck
+
+Der Psychothriller braucht keine beliebige „unzuverlässige Wahrnehmung“ und keine Halluzinationsmechanik.
+
+Stattdessen gilt:
+
+> **Motiviertes Framing:** Daniel sieht reale Fakten, gewichtet mehrdeutige Informationen unter wachsendem Druck aber zunehmend zugunsten der bedrohlicheren beziehungsweise handlungsorientierten Lesart.
+
+Früh erkennt und korrigiert er dieses Framing noch selbst. Später wird genau diese Selbstkorrektur schwächer. Dadurch bleibt seine Entwicklung psychologisch nachvollziehbar und der Leser kann denselben Informationsstand anders bewerten als Daniel.
 
 ## Bereits gesetzte Anker
 
@@ -143,26 +172,26 @@ Daniels konkrete Reaktion bleibt offen. Die Szene erklärt keine Moral.
 `Schuss ohne Kontext → scheinbar gewöhnlicher Fall → Quelle wirkt hilfreich → Quelle wirkt verdächtig → Daniel als Ziel erkannt → Erfolge werden umgedeutet → finale Gefahr bleibt real → moralische Unsicherheit bleibt`
 
 ### Persönliche Bedrohung
-`keine → Daniel wird beobachtet → Daniel gezielt ausgewählt → private Nähe wird gefährdet → neutrale Distanz unmöglich → Identität/Selbstbild und persönlicher Verlust stehen gleichzeitig auf dem Spiel`
+`keine → private Bezugsperson und leichte Reibung etabliert → Daniel wird beobachtet → Daniel gezielt ausgewählt → private Nähe wird gefährdet → neutrale Distanz unmöglich → Identität/Selbstbild und persönlicher Verlust stehen gleichzeitig auf dem Spiel`
 
 ### Staat
 `normale Verfahren → Ausnahme → erfolgreicher Sonderweg → Ausnahme wird Modell → breitere Befugnisse → Erfolg schützt Befugnisse trotz Manipulation → Institutionalisierung`
 
 ## Status
 
-| Baustein | Ebene 1 | Ebene 2 – Ereignisse |
-| --- | --- | --- |
-| 01 Cold Open | gesetzt | fertig |
-| 02 Ausgangswelt / Daniel | gesetzt | fertig |
-| 03 Auslösendes Ereignis | gesetzt | fertig |
-| 04 Erste Entscheidung | gesetzt | fertig |
-| 05 Entdeckung & Eskalation | gesetzt | fertig |
-| 06 Moralischer Kipppunkt | gesetzt | fertig |
-| 07 Reversal / Umdeutung | gesetzt | fertig |
-| 08 Finale Entscheidung & Konsequenz | gesetzt | fertig |
-| 09 Nachhall / Schlussszene | gesetzt | fertig |
+| Baustein | Ebene 1 | Ebene 2 – Ereignisse | Ebene 3 – Beats |
+| --- | --- | --- | --- |
+| 01 Cold Open | gesetzt | fertig | fertig |
+| 02 Ausgangswelt / Daniel | gesetzt | fertig | fertig |
+| 03 Auslösendes Ereignis | gesetzt | fertig | fertig |
+| 04 Erste Entscheidung | gesetzt | fertig | offen |
+| 05 Entdeckung & Eskalation | gesetzt | fertig | offen |
+| 06 Moralischer Kipppunkt | gesetzt | fertig | offen |
+| 07 Reversal / Umdeutung | gesetzt | fertig | offen |
+| 08 Finale Entscheidung & Konsequenz | gesetzt | fertig | offen |
+| 09 Nachhall / Schlussszene | gesetzt | fertig | offen |
 
-Aktueller Gate: **Gesamtprüfung der Ereignisebene (#5).**
+Aktuelles Gate: **Beat-Ebene für Bausteine 04–09 (#7 und #8), danach Gesamtprüfung #9.**
 
 ## Leitregeln
 
@@ -174,3 +203,5 @@ Aktueller Gate: **Gesamtprüfung der Ereignisebene (#5).**
 6. Die Bedrohung bleibt real; die Manipulation liegt in der Informationssteuerung.
 7. Ein Ereignis muss auch für einen Leser spannend sein können, der sich nicht für Sicherheitspolitik interessiert.
 8. Keine neue Figur ohne dramaturgische Funktion.
+9. Das fünfteilige Beat-Schema ist ein Planungsraster, kein später sichtbarer Szenenrhythmus.
+10. Daniel wird nicht beliebig unzuverlässig; sein blinder Fleck entsteht durch motiviertes Framing unter Druck.
