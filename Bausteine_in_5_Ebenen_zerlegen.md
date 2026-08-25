@@ -270,3 +270,35 @@ Besser:
 Sonst investieren wir sehr viel Arbeit in Details eines Plots, dessen großer Twist später vielleicht noch geändert wird.
 
 Unser nächster Schritt wäre daher klar: Wir definieren jetzt ausschließlich die Ereignisebene für die 9 Bausteine. Noch keine Szenen, keine Dialoge, keine neuen Charaktere außer wenn ein Ereignis zwingend eine Rollenfunktion benötigt.
+
+
+---
+
+Arbeitsreihenfolge über alle Bausteine
+
+Die fünf Ebenen werden nicht nacheinander pro Baustein vollständig abgearbeitet.
+
+Also nicht:
+
+Baustein 1 → Ebene 2 → Ebene 3 → Ebene 4 → Ebene 5
+
+danach Baustein 2 → Ebene 2 → Ebene 3 → Ebene 4 → Ebene 5
+
+Sondern horizontal über den gesamten Roman:
+
+1. Alle 9 Bausteine → Ebene 2: Ereignisse
+2. Gesamtlogik und roten Faden prüfen
+3. Alle 9 Bausteine → Ebene 3: Beats
+4. Gesamtlogik erneut prüfen
+5. Alle 9 Bausteine → Ebene 4: Szenenkarten
+6. Erst danach Ebene 5: Ausformulierung
+
+Grundprinzip:
+
+> Vom Groben ins Feine – aber immer über den ganzen Roman hinweg.
+
+Dadurch können spätere Erkenntnisse, insbesondere aus Reversal, Eskalation oder Ende, noch auf frühere Bausteine zurückwirken, ohne bereits detailliert ausgearbeitete Szenen neu schreiben zu müssen.
+
+Ausnahme:
+
+Einzelne bereits gesetzte Szenen oder Bilder – wie der Cold Open – dürfen parallel bestehen bleiben. Sie sind vorläufige Fixpunkte, dürfen den späteren roten Faden aber noch nicht unnötig festlegen.
