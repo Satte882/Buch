@@ -14,5 +14,12 @@ Daniel trifft die Entscheidung, auf die seine gesamte Entwicklung zugelaufen ist
 ## Dramaturgische Bedingung
 Das Finale darf nicht nur den Gegner besiegen oder einen Anschlag verhindern. Daniels Entscheidung muss die Ordnung verändern, in der die Schlussszene später möglich wird.
 
+## Ereignisse – Ebene 2
+- `EREIGNISSE/08_01.md` – Daniel bestätigt die finale Gefahr unabhängig
+- `EREIGNISSE/08_02.md` – Daniel entscheidet sich, die erweiterten Möglichkeiten zu nutzen
+- `EREIGNISSE/08_03.md` – Der Cold Open holt die Handlung ein
+- `EREIGNISSE/08_04.md` – Der finale Zugriff verhindert die Katastrophe
+- `EREIGNISSE/08_05.md` – Der Erfolg überlebt die Enthüllung
+
 ## Status
-Offen.
+Ebene 2 definiert. Beats und Szenenkarten noch offen.
