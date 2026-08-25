@@ -21,7 +21,7 @@ Der Roman eröffnet mit einem starken, zunächst nicht vollständig erklärten B
 - Spielt sie chronologisch am Anfang oder ist sie ein Vorgriff auf einen späteren Punkt der Geschichte?
 
 ## Verknüpfte Szene
-[`SZENEN/001_EINGANGSSZENE.md`](../../SZENEN/001_EINGANGSSZENE.md)
+[`001_EINGANGSSZENE.md`](001_EINGANGSSZENE.md)
 
 ## Dramaturgische Bedingung
 Die spätere Auflösung muss die Bedeutung dieser Szene verändern oder vertiefen. Der Cold Open darf nicht nur ein effektvoller Einstieg ohne spätere Funktion sein.
