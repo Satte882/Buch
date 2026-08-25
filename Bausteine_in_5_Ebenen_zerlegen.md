@@ -302,3 +302,52 @@ Dadurch können spätere Erkenntnisse, insbesondere aus Reversal, Eskalation ode
 Ausnahme:
 
 Einzelne bereits gesetzte Szenen oder Bilder – wie der Cold Open – dürfen parallel bestehen bleiben. Sie sind vorläufige Fixpunkte, dürfen den späteren roten Faden aber noch nicht unnötig festlegen.
+
+
+---
+
+Psychothriller-Prüfung über alle fünf Ebenen
+
+Die Positionierung des Romans ist: Psychothriller zuerst, politisch-gesellschaftlicher Tiefgang darunter. Deshalb reicht es nicht, die Handlung nur nach Daniels Entwicklung und der äußeren Bedrohung zu strukturieren.
+
+Jeder Baustein erfüllt künftig zwei Funktionen gleichzeitig:
+
+1. Daniels Entwicklung und die äußere Handlung vorantreiben.
+2. Die Wahrnehmung des Lesers steuern: Wissen geben, Zweifel erzeugen, Annahmen aufbauen und später gezielt umdeuten.
+
+Zusätzlich zu den bisherigen Entwicklungsachsen werden deshalb zwei weitere Achsen geführt:
+
+Wahrheit / Leserwissen
+
+Schuss ohne Kontext → scheinbare Erklärung → Zweifel → alternative Erklärung → scheinbare Gewissheit → Widerspruch → Umdeutung → Wahrheit → neue Unsicherheit
+
+Persönliche Bedrohung
+
+abstrakt → konkret → Daniel betroffen → Verlust droht → Daniel kann nicht mehr neutral handeln
+
+Damit werden künftig sechs Entwicklungsachsen kontrolliert:
+
+- Daniel
+- Gesellschaft
+- Staat
+- Bedrohung
+- Wahrheit / Leserwissen
+- persönliche Bedrohung
+
+Für Ebene 2 – Ereignisse gilt deshalb zusätzlich zu den bisherigen drei Fragen:
+
+- Was glaubt der Leser nach diesem Ereignis?
+- Welche Information erhält der Leser tatsächlich?
+- Welche Annahme soll später falsch, unvollständig oder anders interpretierbar sein?
+- Erhöht das Ereignis die persönliche Bedrohung oder bleibt es nur abstrakt?
+- Erzeugt es eine neue Frage, die zum Weiterlesen zwingt?
+
+Wichtig:
+
+Nicht jedes Ereignis braucht einen Twist. Die Informationsarchitektur muss aber über den gesamten Roman bewusst geführt werden. Hinweise müssen rückblickend logisch sein, auch wenn der Leser ihre Bedeutung zunächst falsch einschätzt.
+
+Der Reversal in Baustein 07 soll deshalb nicht nur eine Überraschung erzeugen, sondern frühere Ereignisse neu interpretierbar machen.
+
+Grundprinzip für den Thriller:
+
+> Spannung entsteht nicht nur daraus, was passiert, sondern daraus, was der Leser zu einem bestimmten Zeitpunkt darüber zu wissen glaubt.
