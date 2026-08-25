@@ -13,5 +13,11 @@ Eine Enthüllung oder Entwicklung zwingt Daniel und den Leser, zentrale Ereignis
 ## Dramaturgische Bedingung
 Das Reversal darf kein beliebiger Überraschungstwist sein. Es muss rückwirkend logisch sein und bereits vorhandene Ereignisse in neuem Licht erscheinen lassen.
 
+## Ereignisse – Ebene 2
+- `EREIGNISSE/07_01.md` – Das Muster der Auslassungen
+- `EREIGNISSE/07_02.md` – Der erste Vorfall hätte früher gestoppt werden können
+- `EREIGNISSE/07_03.md` – Daniel war das eigentliche Versuchsfeld
+- `EREIGNISSE/07_04.md` – Die letzte Warnung ist trotzdem echt
+
 ## Status
-Offen.
+Ebene 2 definiert. Beats und Szenenkarten noch offen.
