@@ -15,4 +15,4 @@ Daniel trifft erstmals eine Entscheidung, die ihn aus seiner bisherigen sicheren
 Die Entscheidung muss aktiv von Daniel ausgehen. Er darf nicht nur Opfer äußerer Umstände sein.
 
 ## Status
-Offen.
+Ebene 2 – Ereignisse definiert. Details bleiben für spätere Ebenen offen.
