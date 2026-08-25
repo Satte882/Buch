@@ -90,7 +90,7 @@ Am Ende sitzt der Protagonist in einer Anhörung, Lagebesprechung oder vergleich
 
 Ein jüngerer Beamter fordert eine noch weitergehende Maßnahme und begründet sie mit denselben Argumenten, die der Protagonist selbst zu Beginn seiner Entwicklung verwendet hat.
 
-Der Protagonist erkennt sich in ihm wieder – nur einen Schritt weiter.
+Der Protagonist erkennt sich in ihm wieder – nur deutlich weiter, ungefähr zwei Schritte über seinem damaligen Ausgangspunkt.
 
 Damit bleibt offen, ob er Deutschland gerettet, beschädigt oder beides zugleich getan hat.
 
