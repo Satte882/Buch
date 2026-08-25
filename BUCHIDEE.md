@@ -4,7 +4,9 @@
 Frühe Romanidee / Arbeitsstand. Kein Sachbuch.
 
 ## Grundidee
-Ein politischer Thriller in Deutschland über die schrittweise Verschiebung rechtsstaatlicher Grenzen unter realem Sicherheitsdruck.
+Ein Psychothriller mit politisch-gesellschaftlichem Setting in Deutschland über die schrittweise Verschiebung rechtsstaatlicher Grenzen unter realem Sicherheitsdruck.
+
+Die politische und rechtsstaatliche Dimension ist der inhaltliche Unterbau. Der unmittelbare Leseantrieb soll aus Psychothriller-Mechanik entstehen: Mystery, Manipulation, persönliche Bedrohung, Kontrollverlust und Umdeutung.
 
 Die Geschichte soll keine einfache Antwort auf die Frage geben, ob der Staat „zu hart“ oder „zu schwach“ handelt. Die Bedrohung ist real, die Entscheidungen sind nachvollziehbar – und gerade deshalb wird die Entwicklung gefährlich.
 
