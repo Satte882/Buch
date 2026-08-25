@@ -14,4 +14,4 @@ Daniels erste Entscheidung löst nicht einfach ein Problem, sondern öffnet eine
 Die Eskalation darf nicht nur quantitativ sein („noch größerer Anschlag“). Die Bedeutung des Konflikts muss sich erweitern: persönlich, institutionell und moralisch.
 
 ## Status
-Offen.
+Ebene 2 – Ereignisse definiert. Details bleiben für spätere Ebenen offen.
