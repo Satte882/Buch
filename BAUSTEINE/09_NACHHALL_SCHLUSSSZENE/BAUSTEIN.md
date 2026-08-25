@@ -27,5 +27,10 @@ Die letzte Wirkung soll nicht sein: „Daniel war böse.“
 
 Sondern: Die Grenze, die für Daniel einmal extrem erschien, ist für den Jüngeren bereits der normale Startpunkt.
 
+## Ereignisse – Ebene 2
+- `EREIGNISSE/09_01.md` – Die Krise ist vorbei, die neue Ordnung bleibt
+- `EREIGNISSE/09_02.md` – Daniel erlebt die Ausnahme als Routine
+- `EREIGNISSE/09_03.md` – Der Jüngere geht zwei Schritte weiter
+
 ## Status
-Endbild gesetzt, konkrete Ausgestaltung offen.
+Endbild gesetzt und Ebene 2 definiert. Konkrete Ausgestaltung bleibt für Beats und Szenenkarten offen.
