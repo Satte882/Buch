@@ -772,7 +772,7 @@ Daniel stellte die Pfanne auf den Herd zurück.
 
 Mara nahm zwei Teller aus dem Schrank. Sie wirkte nicht wie jemand, der auf eine bestimmte Reaktion wartete. Eher wie jemand, der den Satz schon einige Male allein gesagt hatte.
 
-„Und?“ fragte Daniel.
+„Und?“, fragte Daniel.
 
 „Und sie wollen mich.“
 
@@ -810,7 +810,7 @@ Daniel setzte sich ihr gegenüber.
 
 Mara arbeitete seit Jahren in einem größeren Planungsbüro. Projekte, Teams, Kunden, zu viele Sitzungen. Sie beschwerte sich selten darüber. Wenn sie etwas ändern wollte, änderte sie es meistens, bevor andere überhaupt verstanden hatten, dass sie unzufrieden war.
 
-„Gehalt?“ fragte Daniel.
+„Gehalt?“, fragte Daniel.
 
 Sie nannte eine Zahl.
 
