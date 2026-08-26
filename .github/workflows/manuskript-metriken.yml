@@ -63,12 +63,12 @@ jobs:
               '09': [str(i) for i in range(44, 48)],
           }
           targets = {
-              '01': 1200,
+              '01': 800,
               '02': 9000,
               '03': 11000,
               '04': 8500,
               '05': 12000,
-              '06': 13000,
+              '06': 13400,
               '07': 7000,
               '08': 10500,
               '09': 4800,
@@ -133,7 +133,7 @@ jobs:
               '',
               'Gezählt wird reproduzierbar aus dem Prosatext unter den Überschriften `## Prolog` und `## 1` bis `## 47`. Markdown-Überschriften selbst zählen nicht. Wörter mit Bindestrich oder Apostroph werden als ein Wort behandelt. Die Zahl kann geringfügig von Microsoft Word abweichen; für die Repo-Steuerung ist diese Zählung verbindlich.',
               '',
-              'Die Zielwerte stammen aus `UMFANG_UND_AUSBAUSTEUERUNG.md`. Kapitel-Zielwerte werden erst in `AUSBAU_MATRIX.md` nach Diagnose festgelegt; die Ist-Werte hier dienen dafür als Basis.',
+              'Die Baustein-Ziele stammen aus `UMFANG_UND_AUSBAUSTEUERUNG.md`; die Kapitel-Zielkorridore aus `AUSBAU_MATRIX.md`.',
           ]
 
           Path('MANUSKRIPT_METRIKEN.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
