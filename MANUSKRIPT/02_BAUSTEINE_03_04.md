@@ -686,9 +686,7 @@ Berg verschränkte die Arme.
 
 Daniel wusste, was er meinte.
 
-Er mochte es nicht.
-
-Das war etwas anderes.
+Er mochte nur nicht, dass Heller recht hatte.
 
 „Was können Sie parallel ziehen?“ fragte Heller.
 
@@ -2036,7 +2034,7 @@ Er hatte den Rechner bereits gesperrt und wollte gehen, als das private Telefon 
 
 Zwei Zeilen.
 
-**21.14 Uhr. B-QV 4172 gegen den geschützten Altbestand.**
+**B-QV 4172. Drei Treffer. Sie haben auf das Kennzeichen begrenzt.**
 
 **Sie haben entschieden, bevor es zu spät war.**
 
@@ -2044,33 +2042,13 @@ Daniel entsperrte den Rechner wieder.
 
 Nicht wegen des Kennzeichens.
 
-Wegen der Uhrzeit.
+Wegen der Begrenzung.
 
-21.14 Uhr war falsch.
+Dass er nur nach Kennzeichentreffern und vorhandenen Zuordnungen gesucht hatte, stand in seinem Vermerk. Berg kannte ihn. Lena ebenfalls.
 
-Der Abgleich hatte am Vorabend um 19.24 Uhr stattgefunden.
+Die operative Zusammenfassung war nach der Lage an einen kleinen Koordinationskreis gegangen, zu dem auch Hellers Bereich gehörte. Wie detailliert sein Zugriff darin beschrieben worden war, wusste Daniel nicht.
 
-Daniel sah genauer hin.
-
-Dann verstand er.
-
-21.14 Uhr war die Zeit, zu der Lena nach dem Zugriff die Protokollspur für die interne Dokumentation hatte sichern lassen.
-
-Die Quelle wusste nicht nur, dass Daniel gesucht hatte.
-
-Sie kannte einen internen Verarbeitungsschritt danach.
-
-Daniel öffnete den Verteiler der Nachbesprechung.
-
-Berg hatte den Ablauf.
-
-Lena hatte die Zugriffsdokumentation.
-
-Die operative Zusammenfassung war nach der Lage an den kleinen Koordinationskreis gegangen, zu dem auch Hellers Bereich gehörte.
-
-Drei verschiedene Wege.
-
-Keiner erklärte allein alles.
+Drei mögliche Wege. Keiner erklärte allein alles.
 
 Daniel klickte nicht auf Namen.
 
