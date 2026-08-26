@@ -1326,7 +1326,7 @@ Vielleicht morgen.
 
 Vielleicht war das Kennzeichen nichts.
 
-Ein Mietwagen einer Kurierfirma in Berlin war ungefähr so außergewöhnlich wie Regen im November.
+Ein Mietwagen einer Kurierfirma war in Berlin ungefähr so außergewöhnlich wie Regen.
 
 Daniel dachte an Tobias Ahrens.
 
