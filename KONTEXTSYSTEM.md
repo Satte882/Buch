@@ -44,6 +44,7 @@ Pflichtkontext:
 - bereits vorhandene Beats an den Übergängen
 - Doppelboden / Leserwissen der betroffenen Bausteine
 - Entwicklungsachsen Daniel, Bedrohung, Wahrheit/Leserwissen, persönliche Bedrohung und Staat
+- relevante Thriller-Leitprinzipien aus `PSYCHOTHRILLER_POSITIONIERUNG_UND_BAUSTEINE.md`
 
 `STILREFERENZ.md` muss hier **nicht vollständig eingebettet** werden, weil noch keine Romanprosa entsteht. Relevant sind nur Regeln, die Dramaturgie und Informationsdosierung beeinflussen.
 
@@ -60,17 +61,33 @@ Pflichtkontext:
 - relevante Ereignisse und Beats
 - aktuelle Figurenprofile
 - `STILREFERENZ.md` **vollständig lesen**
+- `PSYCHOTHRILLER_POSITIONIERUNG_UND_BAUSTEINE.md`
 - Doppelboden und Leserwissen der konkreten Stelle
 
-Bei Szenenkarten muss zusätzlich explizit festgehalten werden:
+### Pflichtkern jeder Szenenkarte
 
-1. Was weiß der Leser zu Beginn der Szene?
-2. Was glaubt Daniel zu Beginn?
-3. Welche Information kommt neu hinzu?
-4. Welche alternative Lesart ist ebenfalls möglich?
-5. Was soll der Leser am Ende glauben?
-6. Was darf noch nicht verraten werden?
-7. Welche Stil-/Spannungsregeln aus `STILREFERENZ.md` sind für diese Szene besonders relevant?
+1. POV
+2. Ort / Zeitpunkt
+3. Ziel der POV-Figur
+4. Hindernis / Konflikt
+5. konkreter Szenenablauf
+6. neue relevante Information
+7. Entscheidung
+8. Konsequenz
+9. Leserwissen vorher
+10. Leserwissen danach
+11. was noch nicht verraten werden darf
+12. Anschluss / Weiterleseimpuls
+
+Der **konkrete Szenenablauf** beschreibt typischerweise 4–10 Bewegungen innerhalb der Szene. Er gehört zur Szenenkarte und bildet keine zusätzliche sechste Planungsebene.
+
+Zusatzmodule wie alternative Lesart, Doppelboden, Quellenwissen, motiviertes Framing, Beziehungskonflikt, Empathie-Reversal, Reframing oder Grenzverschiebung werden nur dort ausgefüllt, wo sie dramaturgisch relevant sind.
+
+### 90%-Regel
+
+Szenenkarten werden nicht pro forma maximal ausgefüllt. Ziel ist:
+
+> **Genug Detail, dass beim Schreiben keine relevante Storyentscheidung mehr nötig ist – aber keine Dokumentation ohne Funktion.**
 
 Die komplette Stilreferenz muss gelesen werden, wird aber nicht zwingend vollständig in jede einzelne Szenenkarte kopiert.
 
@@ -122,7 +139,34 @@ Bei GitHub-Issues für die Ausformulierung wird der aktuelle Stilkontext direkt 
 
 ---
 
-## 3. Standard-Kontextkopf für Prosa
+## 3. Prosa-Gate
+
+Vor Beginn von Ebene 5 muss für **jede Szene** die Frage mit Ja beantwortet werden können:
+
+> **Könnte ein Autor diese Szene jetzt schreiben, ohne selbst noch eine relevante Storyentscheidung treffen zu müssen?**
+
+Vor Prosa müssen mindestens geklärt sein:
+
+- anwesende Figuren
+- was die POV-Figur will
+- Konflikt / Hindernis
+- konkreter Szenenablauf
+- neue Information
+- Daniels Interpretation
+- gewünschte Leserannahme
+- Entscheidung
+- Konsequenz
+- zurückzuhaltende Information
+- Anschluss zur nächsten Szene
+- unveränderliche Fakten
+
+Bewusst offen bleiben dürfen nur Ausgestaltungsfragen wie Dialogwortlaut, Körpersprache, Mikro-Staging, konkrete Beschreibung, Rhythmus, Atmosphäre und sprachliche Bilder.
+
+Wenn beim Schreiben noch Plot, Motiv, Wendung, Beziehung oder Leserinformation erfunden werden müsste, ist die Szene **nicht schreibbereit**.
+
+---
+
+## 4. Standard-Kontextkopf für Prosa
 
 Jeder konkrete Schreibauftrag soll vor dem eigentlichen Auftrag diesen Kontext liefern:
 
@@ -161,7 +205,7 @@ Erst danach beginnt die eigentliche Ausformulierung.
 
 ---
 
-## 4. Qualitätsdurchläufe
+## 5. Qualitätsdurchläufe
 
 ### Structural Edit (#22)
 Vollständiger Stiltext nicht zwingend, weil primär Struktur geprüft wird. Trotzdem Genre-, Leserwissens- und Doppelbodenlogik berücksichtigen.
@@ -180,7 +224,7 @@ Stiltext nur ergänzend. Primär Plot-, Zeit-, Figuren-, Wissens- und Faktenkons
 
 ---
 
-## 5. Anti-Drift-Regel
+## 6. Anti-Drift-Regel
 
 Eingebetteter Kontext in Issues ist ein **Snapshot**, kein neuer Master.
 
@@ -195,7 +239,30 @@ Keine Prosa auf Basis eines veralteten Stil-Snapshots schreiben.
 
 ---
 
-## 6. Kontext ist kein Selbstzweck
+## 7. Discovery- / Rücksprung-Regel
+
+Die Planung ist verbindlich, aber **nicht dogmatisch**.
+
+Wenn bei Recherche, Szenenkartenarbeit oder Prosa eine nachweislich bessere Storylösung entdeckt wird, darf und soll sie geprüft werden. Sie wird jedoch **nicht spontan in die Prosa eingebaut**.
+
+Verbindliches Vorgehen:
+
+1. Arbeit an der betroffenen Stelle anhalten.
+2. Die richtige Ursprungsebene bestimmen: Szene, Beat, Ereignis, Figur oder globale Plotlogik.
+3. Änderung zuerst auf dieser Ebene einarbeiten.
+4. Auswirkungen auf Leserwissen, Doppelboden, Figurenlogik, Kausalität und Kontinuität prüfen.
+5. Betroffene nachgelagerte Ebenen synchronisieren.
+6. Erst danach Prosa oder Detailarbeit fortsetzen.
+
+Leitregel:
+
+> **Die Planung darf sich verbessern. Die Prosa darf sie nicht heimlich überschreiben.**
+
+Eine bessere Entdeckung ist kein Methodikbruch. Das direkte Improvisieren neuer Storylogik in einer ausformulierten Szene wäre einer.
+
+---
+
+## 8. Kontext ist kein Selbstzweck
 
 Mehr Kontext bedeutet nicht, dass jede Information in die Prosa gehört.
 
