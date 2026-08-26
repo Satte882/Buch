@@ -1124,11 +1124,7 @@ Daniel steckte das Telefon ein.
 
 Mehr kam nicht.
 
-Kein letzter Satz von Heller.
-
-Keine Nachricht.
-
-Keine Erklärung, die Daniel später hätte zitieren können.
+Von Heller kam nichts mehr. Keine Nachricht, keine Erklärung.
 
 Im Besprechungsraum lagen drei Mappen auf dem Tisch.
 
@@ -1278,14 +1274,6 @@ Daniel sah zu Lena.
 
 Sie hatte den Satz ebenfalls gehört.
 
-Nicht: Ob so etwas überhaupt noch einmal passieren darf.
-
-Welche Schwellen.
-
-Welcher Umfang.
-
-Welche Kontrolle.
-
 Berg sagte: „Das ist doch vernünftig.“
 
 „Kann sein“, sagte Lena.
@@ -1294,11 +1282,7 @@ Daniel sah sie an.
 
 Sie erwiderte den Blick.
 
-Kein Alarm.
-
-Keine moralische Pointe.
-
-Nur eine neue Frage, die schon so formuliert war, als wäre die alte erledigt.
+Die neue Frage stand schon im Raum, als wäre die alte erledigt.
 
 Daniel zog die erste Mappe wieder zu sich.
 
