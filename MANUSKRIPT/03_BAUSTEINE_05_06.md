@@ -1516,6 +1516,10 @@ Die Quelle hatte einen echten Punkt geliefert.
 
 Was er bedeutete, war offen.
 
+Daniel zeigte Jonas die Nachricht bis zur Leerzeile.
+
+Janas Satz behielt er noch für sich.
+
 Jonas las den Rest. „‚Zugänge darum herum‘ ist ziemlich bequem. Kann alles heißen.“
 
 „Genau.“
