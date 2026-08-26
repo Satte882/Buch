@@ -294,6 +294,38 @@ Jonas schien von der Zustimmung kurz aus dem Takt gebracht.
 
 „Noch nicht.“
 
+Jonas trommelte einmal mit dem Finger auf den Tisch.
+
+„Ich will ihn nicht zum Verdächtigen machen. Ich will vermeiden, dass wir um siebzehn Uhr feststellen, dass wir seit morgens denselben weißen Wagen suchen könnten.“
+
+Daniel sah ihn an.
+
+Das war der stärkere Satz. Nicht Neugier. Zeit.
+
+„Wenn du recht hast“, sagte Daniel.
+
+„Ja.“
+
+„Und wenn du unrecht hast, hast du die Kontrolle trotzdem ausgelöst.“
+
+„Dann fährt er weiter.“
+
+„Vielleicht. Vielleicht fragt jemand nach dem Grund. Vielleicht wird aus einer Kontrolle eine zweite, weil ein Kollege den Vermerk sieht. Vielleicht passiert gar nichts.“
+
+Jonas nickte langsam.
+
+„Und wenn ich recht habe?“
+
+Daniel lehnte sich zurück.
+
+„Dann will ich nicht, dass wir zwei Stunden verschenken.“
+
+„Genau.“
+
+„Deshalb prüfen wir jetzt schneller. Nicht breiter.“
+
+Jonas sagte nichts darauf.
+
 Daniel zog einen leeren Notizzettel heran.
 
 „Was müssten wir finden, wenn Ahrens vollkommen harmlos ist?“, fragte Daniel.
@@ -602,6 +634,40 @@ Daniel öffnete die Akte noch einmal und setzte den Status zurück. Keine weiter
 
 So etwas blieb sonst gern stehen. Ein Restverdacht ohne Anlass, weil niemand derjenige sein wollte, der endgültig geschlossen hatte.
 
+Die Maske bot ihm an, den Vorgang zur Wiedervorlage zu markieren. Vier Wochen. Kein neuer Eingriff, nur ein erneuter Blick, falls bis dahin weitere Informationen eingingen.
+
+Daniel ließ den Haken leer.
+
+Jonas bemerkte es.
+
+„Warum nicht wenigstens Wiedervorlage?“
+
+„Worauf?“
+
+„Falls noch was kommt.“
+
+„Wenn noch was kommt, kommt noch was.“
+
+„Und wenn nicht?“
+
+„Dann habe ich in vier Wochen denselben erledigten Vorgang wieder auf dem Tisch.“
+
+Jonas sah auf die leere Auswahl.
+
+„Ist doch harmlos.“
+
+„Für wen?“
+
+„Für ihn. Er merkt nichts davon.“
+
+Daniel sah ihn an.
+
+Jonas verzog das Gesicht. „Ja. Schon gut.“
+
+„Nein. Genau da fängt es an. Wenn wir nichts mehr haben, brauchen wir keinen organisatorischen Rest, nur damit sich Schließen weniger endgültig anfühlt.“
+
+Er klickte weiter.
+
 Er klickte auf das Feld für die Abschlussbegründung.
 
 Die Standardmaske bot mehrere neutrale Formulierungen an. **Hinweis nicht erhärtet. Weitere Prüfung derzeit nicht veranlasst.**
@@ -704,6 +770,10 @@ Sieben Minuten danach Firma drei an Seitentür Ost.
 
 Jonas hatte zuerst gefragt, ob die Firmen denselben Auftraggeber hatten. Hatten sie nicht.
 
+Daniel hatte bereits eine Kurznotiz formuliert. Noch nicht versandt. **Möglicherweise koordinierte Nutzung mehrerer externer Zugänge außerhalb der regulären Zeitfenster.**
+
+Der Satz stand im Entwurf und sah sachlicher aus, als die Grundlage war.
+
 „Drei Ausweise“, sagte Daniel. „Nicht drei Türen.“
 
 „Noch schlimmer.“
@@ -800,6 +870,20 @@ Er zeigte Lena die Einträge.
 
 „Gute Antwort.“
 
+Daniel öffnete seinen Entwurf noch einmal.
+
+**Möglicherweise koordinierte Nutzung.**
+
+Er markierte das Wort *koordiniert*.
+
+„Zu früh?“, fragte Jonas, der noch in der Warteschleife hing.
+
+Daniel löschte das Wort nicht.
+
+„Noch ist es eine Hypothese.“
+
+Lena sah auf den Bildschirm. „Dann sorg dafür, dass sie auch wie eine behandelt wird.“
+
 Zehn Minuten später saß ein Techniker per Video in der Runde und erklärte ihnen, dass zwei der drei Leser am Vorabend nach Wartungsarbeiten zeitweise offline gewesen waren. Die Ereignisse waren lokal gespeichert und beim Wiederverbinden übertragen worden.
 
 „Welcher Zeitstempel steht in unserer Standardansicht?“, fragte Daniel.
@@ -825,6 +909,38 @@ Zwei der drei vermeintlich nächtlichen Zutritte waren am Nachmittag erfolgt.
 Daniel ließ sich die beiden Originalereignisse exportieren und verglich die Ausweisnummern. Unterschiedliche Personen. Aber Stunden voneinander entfernt.
 
 Seine Gruppe war verschwunden.
+
+Er sah auf den ungesendeten Entwurf.
+
+Ein Satz. Drei scheinbar saubere Datenpunkte. Und jetzt war das zentrale Verb schon falsch.
+
+Daniel setzte den Cursor hinter **Möglicherweise**.
+
+Dann löschte er die ganze Zeile.
+
+„Nicht retten?“, fragte Lena.
+
+„Was soll ich retten?“
+
+„Man könnte schreiben: mehrere externe Zutritte mit einem ungeklärten Nachtzugang.“
+
+„Kann man.“
+
+„Wäre sogar wahr.“
+
+Daniel sah sie an.
+
+„Und würde so klingen, als wären die anderen beiden für den Nachtzugang noch relevant.“
+
+Lena nickte einmal.
+
+„Gut.“
+
+Daniel öffnete eine neue Notiz und schrieb nur den einen verbliebenen Datensatz hinein.
+
+23.18 Uhr. Lieferzufahrt. Fremdfirmenausweis. Auftrag beendet.
+
+Mehr nicht.
 
 Jonas starrte auf den Bildschirm.
 
@@ -1018,6 +1134,26 @@ Daniel zog die Jacke aus.
 
 Auf dem Esstisch lag ein Ordner, daneben zwei Ausdrucke und ein Kugelschreiber.
 
+Auf der Fensterbank stand noch die kleine Keramikschale ihrer Mutter, in die sie früher Schlüssel gelegt hatte. Jana nahm sie, hielt sie kurz in der Hand und stellte sie in einen offenen Karton auf dem Boden.
+
+Daniel sah hin.
+
+„Die auch?“
+
+„Ja.“
+
+„Die mochtest du doch.“
+
+„Ja.“
+
+„Warum dann weg?“
+
+Jana sah in den Karton. „Weil ich nicht alles behalten muss, was ich mag.“
+
+Daniel sagte nichts.
+
+Sie klappte den Karton zu, als hätte das die Frage erledigt.
+
 Jana setzte sich nicht sofort. Sie ging zum Fenster, zog die halb geschlossene Jalousie hoch und stellte zwei Gläser Wasser auf den Tisch.
 
 „Der Makler will Freitag wissen, ob wir mit dem Preis runtergehen“, sagte Jana.
@@ -1203,6 +1339,52 @@ Jana sah auf.
 „Mutig.“
 
 Er musste fast lächeln. Tat es aber nicht.
+
+Jana zog einen zweiten Zettel aus dem Ordner.
+
+„Noch was.“
+
+Daniel sah ihn an.
+
+Eine Liste mit Dingen aus der Wohnung. Behalten, verkaufen, spenden, entsorgen. Neben mehreren Positionen standen bereits Haken.
+
+„Du hast das schon entschieden?“
+
+„Teilweise.“
+
+„Das Radio?“
+
+„Spende.“
+
+„Das funktioniert noch.“
+
+„Deshalb Spende.“
+
+Daniel fuhr mit dem Finger über die Liste. Der alte Küchentisch. Zwei Lampen. Der Sessel im Schlafzimmer.
+
+„Beim Sessel wollte ich noch schauen.“
+
+„Seit Februar.“
+
+„Vielleicht nimmt ihn jemand aus der Familie.“
+
+„Wen meinst du?“
+
+Daniel sagte nichts.
+
+Jana nahm ihm den Zettel wieder ab.
+
+„Siehst du?“
+
+„Was?“
+
+„Du willst nicht alles behalten. Du willst nur nichts endgültig weggeben.“
+
+Daniel lehnte sich zurück.
+
+„Jetzt analysierst du mich.“
+
+„Nein. Ich plane Samstag den Sperrmüll.“
 
 Sie schob ihm den Ordner hin.
 
@@ -1497,6 +1679,96 @@ Jonas nickte.
 „Ich lerne von dir.“
 
 Jonas ging.
+
+Daniel zog den nächsten Vorgang in die Mitte.
+
+Vierzig Minuten später stand Jonas wieder in der Tür.
+
+„Die langweilige Hälfte.“
+
+Daniel sah auf.
+
+Jonas legte drei Ausdrucke auf den Tisch.
+
+„Website seit Jahren online. Telefonnummer passt zum Register. Rechnungsadresse und Lageranschrift sind unterschiedlich, aber der Vermieter bestätigt, dass die Firma Einheit siebzehn seit gut zwei Jahren nutzt.“
+
+„Bestätigt wie?“
+
+„Ich habe nicht gesagt, warum wir fragen. Nur, ob die Firma dort Mieter ist und Waren annimmt.“
+
+„Und?“
+
+„Ja. Regelmäßig.“
+
+Daniel nahm den ersten Ausdruck.
+
+Auf der Website standen dieselben Produktgruppen wie im Register. Funkzubehör, Kabel, Akkus, kleine technische Komponenten. Keine leere Platzhalterseite. Öffnungszeiten, Telefonnummer, Impressum.
+
+„Geschäftsführer?“
+
+„Derselbe. Keine neuen Treffer in unseren offenen Beständen.“
+
+„Lieferung?“
+
+„Versender sagt Standardversand. Kein Sonderwunsch, keine Barzahlung, nichts Komisches.“
+
+Daniel sah auf die zwölf Akkupakete.
+
+„Also normale Ware an eine reale Firma in einem echten Lagerraum.“
+
+„Ja.“
+
+Jonas tippte auf die alte Fahrzeugspur. „Und sieben Monate vorher stand in derselben Anlage ein Wagen aus einem Betrugsverfahren.“
+
+„Anderes Gebäude.“
+
+„Ja.“
+
+„Andere Firma.“
+
+„Ja.“
+
+„Kein Terrorbezug.“
+
+„Ja.“
+
+Daniel legte den Ausdruck weg.
+
+Jonas wartete.
+
+„Was?“ fragte Daniel.
+
+„Nichts. Ich dachte, du sagst jetzt, wir machen es zu.“
+
+Daniel sah wieder auf die Adresse.
+
+„Den Namen können wir schließen. Die Bestellung auch.“
+
+„Und die Adresse?“
+
+„Bleibt als Markierung im Vorgang. Nicht als Verdacht.“
+
+„Unterschied?“
+
+Daniel drehte den Bildschirm zu ihm.
+
+In der Notiz stand nur: **Lageranlage bereits in anderem, abgeschlossenem Sachverhalt aufgetaucht; anderer Gebäudeteil, kein gemeinsamer Gefahrenbezug. Bei neuen Erkenntnissen Adressbezug mitprüfen.**
+
+„Das hier behauptet nichts über Einheit siebzehn.“
+
+Jonas las.
+
+„Und wenn nie was Neues kommt?“
+
+„Dann bleibt es ein Satz, den niemand braucht.“
+
+„Auch irgendwie traurig.“
+
+Daniel schob die Ausdrucke zurück.
+
+„Gewöhn dich dran.“
+
+Jonas ging wieder.
 
 Daniel blieb noch einen Moment bei der Adresse.
 
@@ -1921,6 +2193,62 @@ Mara nickte.
 „Mehr wollte ich gar nicht.“
 
 „Das glaube ich dir sogar.“
+
+Mara nahm ihr Telefon wieder in die Hand, hielt aber inne.
+
+„Eine Sache noch.“
+
+„Was?“
+
+„Wenn Sonntag etwas reinkommt?“
+
+Daniel sah sie an.
+
+„Was soll reinkommen?“
+
+„Arbeit.“
+
+„Dann kommt Arbeit rein.“
+
+„Das war keine Antwort.“
+
+Daniel legte sein Telefon ebenfalls hin.
+
+„Wenn etwas wirklich akut ist, kann ich dir heute nicht versprechen, dass ich hier sitzen bleibe.“
+
+Mara nickte sofort. „Das verlange ich nicht.“
+
+„Und wenn es nicht akut ist, bleibt der Termin.“
+
+„Auch wenn Berg schreibt?“
+
+„Auch dann.“
+
+„Auch wenn du glaubst, dass du es schneller lösen könntest als jemand anderes?“
+
+Daniel musste kurz nachdenken.
+
+Mara bemerkte es natürlich.
+
+„Das ist genau die Frage“, sagte sie.
+
+„Ich weiß.“
+
+„Also?“
+
+Daniel sah auf den noch leeren Kalendereintrag.
+
+„Sonntag, achtzehn Uhr. Wenn nichts Akutes ist, verschiebe ich es nicht.“
+
+Mara nickte.
+
+„Gut.“
+
+„Du willst das schriftlich?“
+
+„Ich speichere es ab.“
+
+Diesmal war es ein Witz. Fast.
 
 Sie nahm ihren Teller wieder näher.
 
