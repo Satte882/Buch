@@ -510,9 +510,9 @@ Er ließ ihn liegen.
 
 ## 40
 
-Markus Heller lag auf der nassen Betonfläche und hielt die rechte Hand noch um das kleine Funkterminal.
+Markus Heller lag auf der nassen Betonfläche.
 
-Das Display leuchtete.
+Neben ihm leuchtete das Display des kleinen Funkterminals.
 
 Vor weniger als einer Minute hatte Daniel die bisherige Lagebestätigung zurückgezogen.
 
