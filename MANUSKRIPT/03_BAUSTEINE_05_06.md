@@ -356,15 +356,11 @@ Lena schloss kurz die Augen.
 
 „Das wird die Arbeit schlechter machen.“
 
-„Vielleicht.“
+„Kann sein.“
 
 „Und Misstrauen produzieren, das wir später nicht mehr sauber zurückholen.“
 
-„Vielleicht.“
-
-„Das ist jetzt deine Lieblingsantwort?“
-
-„Nein.“
+Daniel schrieb weiter. „Dann müssen wir damit arbeiten.“
 
 Er schrieb drei Prüfstände auf. Operative Lage. Quellenlage. Interne Herkunftsprüfung.
 
@@ -484,7 +480,11 @@ Daniel sah zu ihm.
 
 Heller hob kurz eine Hand. „Der Zugriff hat funktioniert. Er war trotzdem ein schlechter Prozess.“
 
-Lena sagte: „Damit kann ich leben.“
+Sein Bild stockte. Als es wieder lief, sah Heller nicht in die Kamera.
+
+„Ich war einmal in einem Fall, da hatte jede Stelle einen vertretbaren Grund zu warten“, sagte er. „Hinterher konnten wir sehr genau erklären, warum nichts früher gegangen war. Es waren trotzdem Menschen tot.“
+
+Lena sagte nach einem Moment: „Damit kann ich leben.“
 
 Berg schob eine zweite Seite über den Tisch.
 
@@ -1106,6 +1106,8 @@ Daniel saß still.
 
 Jemand hatte die Szene im Hausflur auf die Minute genau erfasst, bevor der Fall überhaupt bei ihm lag.
 
+Daniel schob den Stuhl zurück. Das Rollen über den Boden klang plötzlich zu laut. Er blieb einen Moment stehen, setzte sich wieder.
+
 Das konnte Zufall sein.
 
 Jemand konnte Daniel aus einem anderen Grund beobachtet haben.
@@ -1382,10 +1384,6 @@ Daniel sah auf die Tür.
 
 „Vielleicht.“
 
-Er musste fast lachen.
-
-„Jetzt ist es wirklich deine Lieblingsantwort.“
-
 Lena blieb ernst.
 
 „Du hast gerade herausgefunden, dass jemand dich möglicherweise vor dem Fall ausgewählt hat. Wenn du darauf mit noch mehr persönlicher Kontrolle reagierst, wäre ich vorsichtig damit, das Autonomie zu nennen.“
@@ -1518,25 +1516,9 @@ Die Quelle hatte einen echten Punkt geliefert.
 
 Was er bedeutete, war offen.
 
-„Zweiter Teil?“ fragte Jonas.
+Jonas las den Rest. „‚Zugänge darum herum‘ ist ziemlich bequem. Kann alles heißen.“
 
-„Unbestätigt.“
-
-„Wie groß?“
-
-Daniel zeigte ihm die Nachricht bis zur Leerzeile.
-
-Janas Satz behielt er noch für sich.
-
-Jonas las.
-
-„‚Zugänge darum herum‘ ist ziemlich bequem.“
-
-„Ja.“
-
-„Kann alles heißen.“
-
-„Ja.“
+„Genau.“
 
 Lena kam herein.
 
@@ -2570,15 +2552,11 @@ Daniel schob den Vermerk nicht weg.
 
 Er löschte ihn auch nicht.
 
-„Ich sage nicht, dass die Quelle vertrauenswürdig ist.“
+„Die Quelle ist nicht vertrauenswürdig“, sagte Daniel. „Die Maßnahme war nicht sauber.“
 
-„Weiß ich.“
+Lena wartete.
 
-„Ich sage nicht, dass die Maßnahme sauber war.“
-
-„Weiß ich.“
-
-„Ich sage, dass ich sie nicht abschalte, solange wir einen offenen realen Gefahrenstrang haben, den die breitere Prüfung gerade nachweislich sichtbar gemacht hat.“
+„Und ich schalte sie trotzdem nicht ab, solange wir einen offenen realen Gefahrenstrang haben, den die breitere Prüfung gerade nachweislich sichtbar gemacht hat.“
 
 Lena schloss ihre Mappe.
 
