@@ -1,0 +1,151 @@
+name: Manuskript-Metriken
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'MANUSKRIPT/**'
+      - '.github/workflows/manuskript-metriken.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Wortzahlen je Kapitel und Baustein berechnen
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          files = [
+              Path('MANUSKRIPT/01_BAUSTEINE_01_02.md'),
+              Path('MANUSKRIPT/02_BAUSTEINE_03_04.md'),
+              Path('MANUSKRIPT/03_BAUSTEINE_05_06.md'),
+              Path('MANUSKRIPT/04_BAUSTEIN_07.md'),
+              Path('MANUSKRIPT/05_BAUSTEINE_08_09.md'),
+          ]
+
+          sections = {}
+          heading_re = re.compile(r'^##\s+(Prolog|\d+)\s*$', re.MULTILINE)
+          word_re = re.compile(r"\b[\wÄÖÜäöüß]+(?:[-’'][\wÄÖÜäöüß]+)*\b", re.UNICODE)
+
+          for path in files:
+              text = path.read_text(encoding='utf-8')
+              matches = list(heading_re.finditer(text))
+              for i, match in enumerate(matches):
+                  name = match.group(1)
+                  start = match.end()
+                  end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+                  body = text[start:end]
+                  sections[name] = len(word_re.findall(body))
+
+          expected = ['Prolog'] + [str(i) for i in range(1, 48)]
+          missing = [x for x in expected if x not in sections]
+          extra = [x for x in sections if x not in expected]
+          if missing or extra:
+              raise SystemExit(f'Kapitelstruktur fehlerhaft. Fehlend={missing}, zusätzlich={extra}')
+
+          bausteine = {
+              '01': ['Prolog'],
+              '02': [str(i) for i in range(1, 7)],
+              '03': [str(i) for i in range(7, 14)],
+              '04': [str(i) for i in range(14, 19)],
+              '05': [str(i) for i in range(19, 26)],
+              '06': [str(i) for i in range(26, 34)],
+              '07': [str(i) for i in range(34, 38)],
+              '08': [str(i) for i in range(38, 44)],
+              '09': [str(i) for i in range(44, 48)],
+          }
+          targets = {
+              '01': 1200,
+              '02': 9000,
+              '03': 11000,
+              '04': 8500,
+              '05': 12000,
+              '06': 13000,
+              '07': 7000,
+              '08': 10500,
+              '09': 4800,
+          }
+          names = {
+              '01': 'Cold Open',
+              '02': 'Ausgangswelt Daniel',
+              '03': 'Auslösendes Ereignis',
+              '04': 'Erste Entscheidung',
+              '05': 'Entdeckung & Eskalation',
+              '06': 'Moralischer / psychologischer Kipppunkt',
+              '07': 'Reversal / Umdeutung',
+              '08': 'Finale Entscheidung & Konsequenz',
+              '09': 'Nachhall / Schlussszene',
+          }
+
+          btotals = {b: sum(sections[k] for k in ks) for b, ks in bausteine.items()}
+          total = sum(btotals.values())
+          target_total = sum(targets.values())
+
+          lines = [
+              '# Manuskript-Metriken',
+              '',
+              '> Automatisch aus `MANUSKRIPT/*.md` erzeugt. Diese Datei nicht manuell pflegen.',
+              '',
+              '## Gesamtstand',
+              '',
+              f'- **Ist:** {total:,} Wörter'.replace(',', '.'),
+              f'- **Planungsziel:** {target_total:,} Wörter'.replace(',', '.'),
+              f'- **Lücke zum Planungsziel:** {target_total-total:,} Wörter'.replace(',', '.'),
+              f'- **Zielerreichung:** {total/target_total:.1%}'.replace('.', ','),
+              '',
+              '## Bausteine – Ist gegen Ziel',
+              '',
+              '| Baustein | Funktion | Ist Wörter | Ziel | Lücke | Ziel erreicht |',
+              '|---|---|---:|---:|---:|---:|',
+          ]
+          for b in bausteine:
+              actual = btotals[b]
+              target = targets[b]
+              gap = target - actual
+              pct = actual / target
+              lines.append(
+                  f"| {b} | {names[b]} | {actual:,} | {target:,} | {gap:+,} | {pct:.1%} |"
+                  .replace(',', '.')
+              )
+
+          lines += [
+              '',
+              '## Kapitel – Ist-Wortzahl',
+              '',
+              '| Baustein | Kapitel | Ist Wörter |',
+              '|---|---|---:|',
+          ]
+          for b, ks in bausteine.items():
+              for k in ks:
+                  lines.append(f"| {b} | {k} | {sections[k]:,} |".replace(',', '.'))
+
+          lines += [
+              '',
+              '## Zählregel',
+              '',
+              'Gezählt wird reproduzierbar aus dem Prosatext unter den Überschriften `## Prolog` und `## 1` bis `## 47`. Markdown-Überschriften selbst zählen nicht. Wörter mit Bindestrich oder Apostroph werden als ein Wort behandelt. Die Zahl kann geringfügig von Microsoft Word abweichen; für die Repo-Steuerung ist diese Zählung verbindlich.',
+              '',
+              'Die Zielwerte stammen aus `UMFANG_UND_AUSBAUSTEUERUNG.md`. Kapitel-Zielwerte werden erst in `AUSBAU_MATRIX.md` nach Diagnose festgelegt; die Ist-Werte hier dienen dafür als Basis.',
+          ]
+
+          Path('MANUSKRIPT_METRIKEN.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
+
+      - name: Metriken committen
+        run: |
+          if git diff --quiet -- MANUSKRIPT_METRIKEN.md; then
+            echo "Keine Änderungen"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add MANUSKRIPT_METRIKEN.md
+          git commit -m "Update manuscript metrics"
+          git push
