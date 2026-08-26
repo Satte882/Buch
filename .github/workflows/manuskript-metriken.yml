@@ -140,7 +140,7 @@ jobs:
 
       - name: Metriken committen
         run: |
-          if git diff --quiet -- MANUSKRIPT_METRIKEN.md; then
+          if [ -z "$(git status --porcelain -- MANUSKRIPT_METRIKEN.md)" ]; then
             echo "Keine Änderungen"
             exit 0
           fi
