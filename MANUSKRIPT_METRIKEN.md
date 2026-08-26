@@ -13,12 +13,12 @@
 
 | Baustein | Funktion | Ist Wörter | Ziel | Lücke | Ziel erreicht |
 |---|---|---:|---:|---:|---:|
-| 01 | Cold Open | 198 | 1.200 | +1.002 | 16.5% |
+| 01 | Cold Open | 198 | 800 | +602 | 24.8% |
 | 02 | Ausgangswelt Daniel | 3.306 | 9.000 | +5.694 | 36.7% |
 | 03 | Auslösendes Ereignis | 4.310 | 11.000 | +6.690 | 39.2% |
 | 04 | Erste Entscheidung | 2.456 | 8.500 | +6.044 | 28.9% |
 | 05 | Entdeckung & Eskalation | 3.890 | 12.000 | +8.110 | 32.4% |
-| 06 | Moralischer / psychologischer Kipppunkt | 3.840 | 13.000 | +9.160 | 29.5% |
+| 06 | Moralischer / psychologischer Kipppunkt | 3.840 | 13.400 | +9.560 | 28.7% |
 | 07 | Reversal / Umdeutung | 3.693 | 7.000 | +3.307 | 52.8% |
 | 08 | Finale Entscheidung & Konsequenz | 3.840 | 10.500 | +6.660 | 36.6% |
 | 09 | Nachhall / Schlussszene | 1.837 | 4.800 | +2.963 | 38.3% |
@@ -80,4 +80,4 @@
 
 Gezählt wird reproduzierbar aus dem Prosatext unter den Überschriften `## Prolog` und `## 1` bis `## 47`. Markdown-Überschriften selbst zählen nicht. Wörter mit Bindestrich oder Apostroph werden als ein Wort behandelt. Die Zahl kann geringfügig von Microsoft Word abweichen; für die Repo-Steuerung ist diese Zählung verbindlich.
 
-Die Zielwerte stammen aus `UMFANG_UND_AUSBAUSTEUERUNG.md`. Kapitel-Zielwerte werden erst in `AUSBAU_MATRIX.md` nach Diagnose festgelegt; die Ist-Werte hier dienen dafür als Basis.
+Die Baustein-Ziele stammen aus `UMFANG_UND_AUSBAUSTEUERUNG.md`; die Kapitel-Zielkorridore aus `AUSBAU_MATRIX.md`.
