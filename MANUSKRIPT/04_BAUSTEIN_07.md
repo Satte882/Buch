@@ -108,11 +108,7 @@ Lena sagte: „Dann bleibt es eine starke Lücke. Noch kein Beweis für Absicht.
 
 Daniel nickte.
 
-Die Quelle hatte einen wahren Punkt geliefert.
-
-Sie hatte nicht gelogen.
-
-Sie hatte nur den Satz weggelassen, der den Punkt weniger bedrohlich aussehen ließ.
+Der Punkt war wahr. Nur der Satz darunter fehlte – der, der ihn weniger bedrohlich aussehen ließ.
 
 „Nächster.“
 
@@ -346,11 +342,7 @@ Lena nahm die damalige anonyme Nachricht.
 
 Sie legte sie neben die Tabelle.
 
-Kein Kennzeichen.
-
-Kein Ort.
-
-Kein Hinweis auf das Fahrzeug.
+Das Kennzeichen fehlte. Der Ort auch. Vom Fahrzeug kein Wort.
 
 Nur die größere Richtung.
 
@@ -478,13 +470,7 @@ Lena blieb sitzen.
 
 Daniel blieb stehen.
 
-Das war der Satz.
-
-Nicht größer.
-
-Nicht sauberer.
-
-Nur der Satz.
+Mehr brauchte Lena nicht zu sagen.
 
 Die bequeme Erklärung war weg.
 
@@ -536,11 +522,7 @@ Jonas sah zwischen ihnen hin und her.
 
 Daniel schob das Kennzeichen, die Verarbeitungsspur und die Warnung nebeneinander.
 
-Drei gewöhnliche Dinge.
-
-Keines davon sagte, warum.
-
-Zusammen sagten sie genug, um die Frage nicht mehr wegzulegen.
+Keines der drei Dinge erklärte das Warum. Aber die Frage ließ sich nicht mehr weglegen.
 
 „Wir prüfen, wer alle drei Räume hatte“, sagte Daniel. „Das Fragment. Mich. Und das, was danach aus meinen Entscheidungen geworden ist.“
 
@@ -894,17 +876,13 @@ Er mochte ihn nicht.
 
 Weil er stimmte, ohne ihn zu entlasten.
 
-Heller hatte Daniel nicht gezwungen, das Kennzeichen B-QV 4172 gegen den geschützten Bestand zu prüfen.
+B-QV 4172 hatte Daniel selbst gegen den geschützten Bestand geprüft. Die breitere Projektlogik hatte er angenommen. Lena hatte er aus dem Informationsfluss genommen.
 
-Heller hatte ihn nicht gezwungen, die breitere Projektlogik anzunehmen.
+Niemand hatte ihn dazu gezwungen.
 
-Heller hatte Lena nicht aus dem Informationsfluss genommen.
+Und es hatte funktioniert.
 
-Daniel hatte entschieden.
-
-Und die Entscheidungen hatten funktioniert.
-
-Genau deshalb waren sie brauchbar.
+Genau deshalb waren die Entscheidungen brauchbar.
 
 „Wo ist Heller?“ fragte Daniel.
 
