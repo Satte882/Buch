@@ -12,9 +12,15 @@ Daniel sah ihn an.
 
 Mika saß mit beiden Unterarmen auf dem Tisch. Ende zwanzig, schmale Schultern, dunkler Bart, der an einer Stelle unter dem Kinn dünner wurde. Seit fast zwei Stunden trug er dieselbe graue Kapuzenjacke. Jemand hatte ihm Wasser gebracht. Er hatte es nicht angerührt.
 
+Auf dem Tisch lag nichts außer dem Becher und einem Block vor Daniel. Keine Fotos. Keine Ausdrucke. Daniel wollte zuerst sehen, welche Geschichte Mika ohne Hilfsmittel erzählte.
+
 „Du bist vorläufig festgehalten worden, nachdem du mit gefälschten Zugangsunterlagen in einem Fahrzeug gesessen hast“, sagte Daniel.
 
 „Ich war nicht im Fahrzeug.“
+
+Die Antwort kam sofort.
+
+Daniel ließ einen Moment verstreichen.
 
 „Du warst in der Garage.“
 
@@ -28,7 +34,17 @@ Mika saß mit beiden Unterarmen auf dem Tisch. Ende zwanzig, schmale Schultern, 
 
 Mika hob die Hände. „Für die Garage.“
 
-Lena saß rechts von Daniel und schrieb nichts mit. Das machte Mika nervöser als ein laufendes Protokoll.
+„Nicht für den Bus.“
+
+„Hab ich doch gesagt.“
+
+Lena saß rechts von Daniel und schrieb nichts mit. Das machte Mika nervöser als ein laufendes Protokoll. Er sah immer wieder auf ihren geschlossenen Stift, als müsste irgendwann etwas Wichtiges passieren, sobald sie ihn benutzte.
+
+Daniel hatte Mika vor Beginn erklären lassen, was er beruflich machte. Lagerlogistik bei einem mittelgroßen Elektrogroßhandel. Frühschicht, wenn möglich. Vier Jahre im Betrieb. Seit acht Monaten unbefristet. Er hatte diese Informationen nicht gebraucht, um den Fall zu verstehen.
+
+Jetzt brauchte er sie.
+
+Nicht als Entlastung. Als Maßstab dafür, worüber Mika log.
 
 „Wer hat dir den Schlüssel gegeben?“, fragte Daniel.
 
@@ -50,7 +66,31 @@ Lena saß rechts von Daniel und schrieb nichts mit. Das machte Mika nervöser al
 
 „Dann habt ihr die Nummer.“
 
-Daniel ließ eine Sekunde verstreichen.
+Daniel sah ihn an.
+
+„Seit wann kennst du Samir?“
+
+„Ein paar Monate.“
+
+„Zwei?“
+
+„Mehr.“
+
+„Sechs?“
+
+Mika zog eine Schulter hoch. „Vielleicht vier.“
+
+„Wo kennengelernt?“
+
+„Über Leute.“
+
+„Welche Leute?“
+
+„Leute halt.“
+
+Mika war schlecht, wenn er etwas kleinreden wollte. Seine Antworten wurden kürzer, nicht geschickter.
+
+Daniel wechselte die Richtung.
 
 „Was sollte in der Garage passieren?“
 
@@ -86,21 +126,111 @@ Das war kein guter Satz für Mika. Er merkte es selbst.
 
 Mika blickte zur Tür.
 
-Er hatte schon zu viel bestätigt, um sich noch auf völlige Ahnungslosigkeit zurückziehen zu können. Gleichzeitig passte vieles nicht zu dem Mann, den Daniel gestern noch hinter dem gestoppten Teil der Struktur vermutet hatte.
+„Ich wusste, dass die Ausweise nicht sauber waren“, sagte er schließlich. „Mehr nicht.“
 
-Mika kannte keine Namen oberhalb seiner zwei Kontakte. Er wusste nicht, warum ausgerechnet die Veranstaltung relevant war. Er kannte weder den endgültigen Ort noch einen Zeitpunkt. Bei drei Details, die Daniel bewusst falsch ansetzte, widersprach er sofort. Bei zwei echten wirkte er ehrlich überrascht.
+„Warum hast du sie dann angenommen?“
 
-Das konnte gespielt sein.
+„Geld.“
 
-Aber nicht alles daran fühlte sich gespielt an.
+„Wie viel?“
+
+Mika sah wieder zur Tür.
+
+„Fünfhundert.“
+
+Daniel wartete.
+
+„Insgesamt?“
+
+„Für die Sachen.“
+
+„Wie oft?“
+
+„Zweimal.“
+
+„Also tausend.“
+
+„Nein.“
+
+„Warum nein?“
+
+Mika rieb mit dem Daumen über eine kleine Naht im Ärmel. „Das erste Mal waren zweihundert.“
+
+„Gerade hast du gesagt, fünfhundert.“
+
+„Dieses Mal.“
+
+Daniel schrieb die beiden Beträge auf.
+
+Mika beobachtete den Stift.
+
+„Ich hab Schulden“, sagte er.
+
+Daniel sah nicht hoch. „Das habe ich nicht gefragt.“
+
+„Ja, aber ihr tut so, als hätte ich—“
+
+„Ich tue gerade gar nichts.“
+
+Mika schloss den Mund.
+
+Das war die Kante, die Daniel brauchte. Mika wollte nicht erklären, warum die Sache richtig gewesen war. Er wollte erklären, warum seine eigene Rolle klein genug sein sollte, dass sein normales Leben weiterging.
 
 „Wer hat entschieden, dass ihr den Kleinbus nehmt?“
 
 „Keine Ahnung.“
 
-„Wer hat die Ausweise besorgt?“
+Daniel schob zum ersten Mal ein Blatt über den Tisch. Keine echte Information. Nur eine von ihm vorbereitete falsche Zeitangabe.
 
-„Keine Ahnung.“
+„Donnerstag, 22.40 Uhr. Übergabe am Osttor.“
+
+Mika sah darauf.
+
+„Was?“
+
+„Da warst du.“
+
+„Nein.“
+
+„Sicher?“
+
+„Da hatte ich Spätschicht.“
+
+„Das schließt es nicht aus.“
+
+„Doch, weil ich bis halb elf im Lager war und dann mit Patrick nach Hause bin.“
+
+„Patrick wer?“
+
+Mika nannte einen Nachnamen und sofort danach den Bus, den sie genommen hatten.
+
+Daniel schrieb beides auf.
+
+Mika sah ihn an. „Das könnt ihr prüfen.“
+
+„Tun wir.“
+
+Daniel setzte einen zweiten falschen Anker.
+
+„Samir hat dir am Dienstag gesagt, dass der Lieferbereich am nächsten Morgen offen sein würde.“
+
+Mika runzelte die Stirn.
+
+„Welcher Lieferbereich?“
+
+„Du weißt, welchen ich meine.“
+
+„Nein.“
+
+„Die Veranstaltung.“
+
+Mika sah zu Lena, dann wieder zu Daniel.
+
+„Ich wusste nicht mal, welche Veranstaltung.“
+
+Die Antwort war zu schnell, aber nicht defensiv genug für einen Mann, der gerade eine vorbereitete Lüge abrief. Daniel ließ sie stehen.
+
+Dritter Test.
 
 „Wer wusste, dass der Sicherheitsmann gestern da sein würde?“
 
@@ -124,6 +254,32 @@ Nur ein kleiner Blick zu Daniel.
 
 „Ich wusste davon nichts.“
 
+„Du kennst den Namen?“
+
+„Nein.“
+
+„Was ist am Betriebshof passiert?“
+
+„Das habe ich erst hier gehört.“
+
+„Von wem?“
+
+„Der eine Polizist draußen hat was gesagt. Krankenhaus.“
+
+Daniel machte eine Notiz.
+
+Mika wurde sofort lauter. „Das heißt nicht, dass ich was damit zu tun habe.“
+
+„Das habe ich nicht gesagt.“
+
+„Aber du schreibst es auf.“
+
+„Ich schreibe auf, was du sagst.“
+
+„Super.“
+
+Mika nahm endlich den Wasserbecher und trank. Seine Hand zitterte leicht. Nicht genug, um irgendetwas zu beweisen.
+
 Daniel ging weiter. Andere Uhrzeiten. Andere Übergaben. Ein Name aus einer Randnotiz.
 
 Mika log.
@@ -132,15 +288,37 @@ Mehrfach.
 
 Aber seine Lügen lagen immer dort, wo es um seine eigene Rolle ging. Wen er getroffen hatte. Wie oft. Ob er Geld bekommen hatte. Ob er wusste, dass die Ausweise falsch waren.
 
-Sobald Daniel versuchte, ihn zum Mittelpunkt zu machen, entstanden keine geschickten Lügen mehr.
+Bei einer echten Übergabe behauptete er zunächst, nur einen Umschlag transportiert zu haben. Als Daniel ihm sagte, dass Video auch eine Tasche zeigte, wurde aus der Tasche plötzlich „nicht seine“. Als Daniel nach der Farbe fragte, wusste Mika sie trotzdem.
+
+„Schwarz“, sagte er und merkte im selben Moment, was passiert war.
+
+Daniel sagte nichts.
+
+Mika fluchte leise.
+
+Das war Schuld. Echte, kleine, hässliche Schuld.
+
+Sobald Daniel dagegen versuchte, ihn zum Mittelpunkt zu machen, entstanden keine geschickten Lügen mehr.
 
 Es entstand Leere.
 
+Mika kannte keine Namen oberhalb seiner zwei Kontakte. Er wusste nicht, warum ausgerechnet die Veranstaltung relevant war. Er kannte weder den endgültigen Ort noch einen Zeitpunkt. Bei den bewusst falschen Details widersprach er dort am härtesten, wo er seine eigene Anwesenheit sicher widerlegen konnte. Bei zwei echten Zusammenhängen wirkte er ehrlich überrascht.
+
+Das konnte gespielt sein.
+
+Aber nicht alles daran fühlte sich gespielt an.
+
 Nach einer Stunde kam Jonas herein und legte Daniel einen Zettel hin.
 
-Zwei der von Mika genannten Übergaben waren unabhängig bestätigt. Eine dritte hatte nachweislich an einem anderen Ort stattgefunden, als Daniel angenommen hatte. Mika konnte bei ihr nicht anwesend gewesen sein.
+Zwei der von Mika genannten Übergaben waren unabhängig bestätigt. Eine dritte hatte nachweislich an einem anderen Ort stattgefunden, als Daniel angenommen hatte. Mika konnte bei ihr nicht anwesend gewesen sein. Die Spätschicht vom Donnerstag war ebenfalls bestätigt. Der genannte Kollege hatte mit ihm das Gelände verlassen.
 
 Daniel las den Zettel zweimal.
+
+Eine seiner falschen Behauptungen war nicht nur von Mika bestritten worden. Sie war nachprüfbar falsch.
+
+Das machte Mika nicht glaubwürdig.
+
+Es machte Daniels Modell kleiner.
 
 „Pause“, sagte er.
 
@@ -158,7 +336,33 @@ Daniel blieb an der Tür stehen.
 
 Mika sah ihn nicht an.
 
-„Ich hab da seit vier Jahren gearbeitet“, sagte er. „Der wartet nicht zwei Wochen, bis ihr euch entschieden habt, ob ich der neue Bin Laden bin.“
+„Ich hab da seit vier Jahren gearbeitet“, sagte er. „Er wartet nicht zwei Wochen, bis ihr euch entschieden habt, ob ich der neue Bin Laden bin.“
+
+„Du hast gefälschte Ausweise angenommen.“
+
+Mika sah auf.
+
+„Ja.“
+
+„Für Geld.“
+
+„Ja.“
+
+„Und du hast absichtlich nicht gefragt, wofür.“
+
+Mika presste die Lippen zusammen.
+
+„Ja.“
+
+Der Satz hing einen Moment zwischen ihnen.
+
+Kein Irrtum. Keine unschuldige Verwechslung.
+
+Trotzdem fragte Mika danach: „Kann ich wenigstens meinem Chef sagen, dass ich nicht einfach blau mache?“
+
+Daniel sah ihn an.
+
+Mika klang nicht wie ein Ideologe, der seine Tat erklären wollte. Er klang wie ein Mann, der gleichzeitig begriff, dass er sich bewusst schuldig gemacht hatte und dass sein Schichtplan trotzdem noch in seinem Kopf existierte.
 
 Lena öffnete die Tür.
 
@@ -178,7 +382,9 @@ Lena schloss die Tür hinter sich.
 
 „Das eine macht das andere nicht kleiner.“
 
-Daniel sah durch das schmale Fenster in der Tür. Mika hatte den Kopf in beide Hände gelegt.
+„Nein.“
+
+Daniel sah durch das schmale Fenster in der Tür. Mika hatte den Kopf in beide Hände gelegt. Dann hob er ihn wieder und sah auf den unberührten zweiten Becher Wasser, als müsste er noch eine Weile hier sitzen.
 
 Nicht gebrochen.
 
@@ -186,7 +392,25 @@ Nicht geläutert.
 
 Nur ein Mann, der offenbar erst jetzt begriff, dass sein normaler Montag vielleicht nicht mehr stattfand.
 
-„Wir suchen nicht mehr nach dem, was er steuert“, sagte Daniel.
+Daniel nahm Jonas den Zettel ab.
+
+„Wir prüfen seine beiden Kontakte komplett im zulässigen Rahmen. Aber nicht, weil er sie zum Zentrum macht.“
+
+„Sondern?“
+
+„Weil sie seine Grenze sind.“
+
+Jonas sah auf die bestätigten Übergaben.
+
+„Und alles oberhalb davon?“
+
+„Suchen wir nicht in seinem Kopf.“
+
+Lena nickte leicht.
+
+Daniel steckte den Zettel ein.
+
+„Wir suchen nicht mehr nach dem, was er steuert“, sagte er.
 
 Jonas nickte.
 
@@ -212,7 +436,19 @@ Später hatte die Quelle geschrieben:
 
 **B-QV 4172. Drei Treffer. Sie haben auf das Kennzeichen begrenzt.**
 
-Jonas saß ihm gegenüber und scrollte durch die Zeitstände.
+Jonas saß ihm gegenüber und hatte vier Versionen desselben Vorgangs geöffnet.
+
+„Ich habe die Zeitstände eingefroren“, sagte er. „Nicht nur die aktuelle Fassung.“
+
+Daniel nickte.
+
+Auf dem ersten Bildschirm stand Daniels ursprünglicher Zugriffsvermerk.
+
+Auf dem zweiten die operative Kurzfassung.
+
+Auf dem dritten die Lagezusammenfassung.
+
+Auf dem vierten eine technische Zugriffssicherung, zu der Daniel selbst nur eingeschränkt lesen konnte.
 
 „Öffentlich war das nie.“
 
@@ -221,6 +457,10 @@ Jonas saß ihm gegenüber und scrollte durch die Zeitstände.
 „Im Einsatzkanal?“
 
 „Nur der gewonnene Ansatz. Nicht die Abfragemethode.“
+
+Jonas öffnete das Protokoll.
+
+Keine Trefferzahl. Keine Begrenzung.
 
 „In der operativen Zusammenfassung?“
 
@@ -260,9 +500,35 @@ Jonas sah zwischen ihnen hin und her und entschied sich, auf seinen Bildschirm z
 
 Daniel drehte den Stuhl zu Lena.
 
-„Wer hatte den Detailstand vor 23.18 Uhr?“
+„Ich will keine Verdächtigenliste. Ich will Informationswege.“
 
-Sie nannte Berg. Sich selbst. Zwei technische Rollen aus der Zugriffsdokumentation. Ein kleiner Kreis aus der Lageauswertung. Teile konnten über die behördenübergreifende Koordination weitergelaufen sein.
+Lena sah ihn an.
+
+„Dann sag das.“
+
+„Sage ich gerade.“
+
+Sie löste die Arme.
+
+„Gut. Der ursprüngliche Vermerk: du, Berg, ich. Technische Rollen für die Zugriffssicherung. Später die getrennte interne Bewertung. Die operative Kurzfassung ging an den Lagekreis, aber gekürzt.“
+
+Jonas setzte Häkchen neben die Versionen.
+
+„Trefferzahl?“
+
+„Im ursprünglichen Vermerk.“
+
+„Begrenzung?“
+
+„Dort ebenfalls.“
+
+„In der Lagefassung?“
+
+„Nein.“
+
+„In der behördenübergreifenden Koordination?“
+
+Lena hob leicht die Schultern. „Kommt darauf an, welcher Arbeitsstand weitergegeben wurde.“
 
 „Heller?“
 
@@ -310,6 +576,30 @@ Daniel stand auf.
 
 „Indem ich dir sage, was du für diese Quellenfrage belastbar verwenden kannst und was nicht.“
 
+„Warum kannst du mir nicht sagen, wer?“
+
+Lena atmete einmal durch.
+
+„Weil ein unabhängiger Kontrollweg nur dann unabhängig bleibt, wenn derjenige, dessen Entscheidungen geprüft werden, nicht jeden Arbeitsschritt mitsteuert.“
+
+Daniel blieb stehen.
+
+Da war es.
+
+Nicht die Erklärung. Aber die Form eines Geheimnisses.
+
+„Meine Entscheidungen.“
+
+„Unter anderem.“
+
+„Seit wann?“
+
+„Das ist genau der Teil, den ich hier nicht im Flurverfahren aufmache.“
+
+„Wir sind nicht im Flur.“
+
+„Du weißt, was ich meine.“
+
 Daniel ging zum Fenster.
 
 Draußen lag der Hof grau unter tiefen Wolken. Ein Lieferwagen stand halb auf dem Gehweg.
@@ -321,6 +611,12 @@ Lena antwortete nicht.
 Das reichte nicht als Beweis.
 
 Aber es war neu.
+
+Und es traf exakt die Art von Information, die Daniel gerade suchte: ein geschützter Weg, den sie kannte und er nicht.
+
+Er merkte, wie sein Verdacht Gewicht bekam, bevor ein einziger neuer Fakt dazugekommen war.
+
+Das war der gefährliche Teil.
 
 Jonas räusperte sich.
 
@@ -336,9 +632,59 @@ Jonas hatte die Dokumentstände nebeneinandergelegt.
 
 „Ja.“
 
-Daniel trat an den Bildschirm.
+Er zeigte die beiden Fassungen. In der späteren stand nur **fallübergreifender Fahrzeugansatz**. Kein Wort über drei Treffer. Kein Wort über die Begrenzung auf Kennzeichen.
 
-Damit fiel die bequeme Erklärung weg, dass jemand eine normal weitergereichte Zusammenfassung gesehen hatte.
+Daniel prüfte die Änderungszeit.
+
+22.41 Uhr.
+
+Die Quellenachricht war um 23.18 Uhr gekommen.
+
+„Also konnte jemand die frühe Fassung gelesen haben“, sagte Jonas.
+
+„Oder davon gehört.“
+
+„Oder die technische Sicherung gesehen.“
+
+Lena sagte: „Genau.“
+
+„Oder über eine Bewertungsstelle.“
+
+Lena sah ihn an.
+
+„Ja.“
+
+Daniel registrierte das kurze Zögern vor ihrer Antwort.
+
+Wieder kein Beweis.
+
+Wieder etwas, das bei ihr schwerer wog, weil sie ihm gerade tatsächlich etwas verschwieg.
+
+„Und Berg?“ fragte Jonas.
+
+Daniel sah auf die Zugriffsliste. „Kannte den Vermerk.“
+
+„Heller?“
+
+„Kann über Koordination Detailstände bekommen haben. Nicht belegt.“
+
+„Technik?“
+
+„Sieht Protokolle. Motiv offen.“
+
+Daniel schrieb keine Namen auf. Er schrieb Wege.
+
+**Originalvermerk.**
+
+**Zugriffssicherung.**
+
+**getrennte Bewertung.**
+
+**mündliche Weitergabe.**
+
+**Koordination.**
+
+Damit fiel die bequeme Erklärung weg, dass jemand einfach eine normal weitergereichte Zusammenfassung gesehen hatte.
 
 Die Information war aus einem geschützten Raum gekommen.
 
@@ -348,7 +694,7 @@ Ein Mensch konnte sie gelesen und erzählt haben. Jemand konnte sie in einer Bes
 
 Aber öffentlich war sie nicht.
 
-Daniel nahm einen Notizblock.
+Daniel nahm einen zweiten Notizblock.
 
 „Ab jetzt bekommt nicht mehr jeder denselben Stand.“
 
@@ -358,23 +704,59 @@ Lena schloss kurz die Augen.
 
 „Kann sein.“
 
-„Und Misstrauen produzieren, das wir später nicht mehr sauber zurückholen.“
+„Nein. Wird sie. Zwei Leute werden dieselbe Lage unterschiedlich kennen. Rückfragen dauern länger. Jemand übersieht eine Verbindung, weil er nicht weiß, dass es sie gibt.“
 
-Daniel schrieb weiter. „Dann müssen wir damit arbeiten.“
+Daniel schrieb drei Prüfstände auf.
 
-Er schrieb drei Prüfstände auf. Operative Lage. Quellenlage. Interne Herkunftsprüfung.
+**Operative Lage. Quellenlage. Interne Herkunftsprüfung.**
 
-Nicht jeder sollte alles sehen.
+„Genau deshalb trennen wir nach Funktion.“
 
-Lena trat vom Fenster weg.
+„Und wenn Funktion nicht sauber trennt?“
 
-„Und wer entscheidet, wer welchen Stand bekommt?“
+„Dann entscheiden wir.“
+
+„Wer?“
 
 Daniel sah sie an.
 
 „Im Moment ich.“
 
-Sie nahm ihre Unterlagen.
+Lena lachte nicht. „Natürlich.“
+
+„Hast du einen besseren Vorschlag?“
+
+„Ja. Einen dokumentierten Verteiler mit Gegenkontrolle statt deiner persönlichen Bauchentscheidung.“
+
+Daniel hielt inne.
+
+„Mach einen.“
+
+Die Antwort brachte sie kurz aus dem Takt.
+
+„Was?“
+
+„Du hast recht. Nicht nur mein Verteiler. Du definierst die Gegenkontrolle. Jonas pflegt die operativen Stände. Herkunftsprüfung kleinster Kreis.“
+
+Lena musterte ihn.
+
+„Und du akzeptierst, dass du nicht überall allein entscheidest?“
+
+„Wenn wir dadurch weniger Informationsabfluss produzieren.“
+
+„Das wissen wir noch nicht.“
+
+„Dann messen wir es.“
+
+Sie trat vom Fenster weg.
+
+„Und genau das meine ich. Misstrauen produziert Arbeit.“
+
+„Vertrauen ohne Prüfung auch.“
+
+Der Satz war schneller draußen, als Daniel wollte.
+
+Lena nahm ihre Unterlagen.
 
 „Dann hoffe ich, dass du dir selbst noch vertraust.“
 
@@ -390,13 +772,27 @@ Daniel setzte sich wieder.
 
 „Glaubst du, sie ist es?“
 
-Daniel öffnete den nächsten Zeitstand.
+Daniel sah auf den Weg **getrennte Bewertung**.
+
+Das wäre die einfache Antwort gewesen.
+
+Lena kannte einen geschützten Kanal. Lena verschwieg Details. Lena hatte Zugang zum ursprünglichen Vermerk.
+
+Alles real.
 
 „Ich glaube, dass sie mir gerade etwas nicht sagt.“
 
 „Ist nicht dasselbe.“
 
 „Nein.“
+
+Daniel nahm den Namen Lena nicht in seinen Arbeitsstand auf.
+
+Er markierte nur den Weg, den sie nicht offenlegte.
+
+Das war weniger befriedigend.
+
+Und sauberer.
 
 Noch nicht.
 
@@ -442,13 +838,33 @@ Berg nannte die zuständige Ebene.
 
 Lena schrieb es sich auf.
 
+„Automatisch?“
+
+„Nein.“
+
+„Neue Begründung?“
+
+„Ja.“
+
+„Dokumentiert?“
+
+Berg schob den Stift von sich. „Ja.“
+
 Jonas saß am Rand des Tisches und versuchte, so auszusehen, als wäre er nicht der Jüngste im Raum.
 
 Heller war per Video zugeschaltet. Sein Bild fror alle paar Minuten für eine halbe Sekunde ein.
 
-„Gemeinsame Auswertung heißt nicht gemeinsame Allmacht“, sagte Lena. „Jede Stelle bleibt bei ihren Befugnissen.“
+Berg klickte weiter.
 
-„Ja“, sagte Berg.
+„Praktisch heißt das: definierter Fallkreis, definierte Rollen, vorhandene Informationen schneller zusammenführen. Keine neue Wunderabfrage.“
+
+„Und keine neuen Erhebungsbefugnisse“, sagte Lena.
+
+„Ja.“
+
+„Wenn eine Stelle etwas nicht erheben darf, darf die Projektstruktur es nicht plötzlich für sie erzeugen.“
+
+„Ja.“
 
 „Und das muss im Zugriff sichtbar bleiben.“
 
@@ -466,6 +882,38 @@ Lena lächelte nicht.
 
 Daniel schon fast.
 
+„Was ist mit den Zugriffen?“, fragte er.
+
+Berg wechselte auf eine Rollenübersicht.
+
+Nicht jeder sah alles.
+
+Operative Auswertung.
+
+Fachprüfung.
+
+Koordination.
+
+Dokumentation.
+
+Daniel erkannte darin eine sauberere Version dessen, was er am Abend zuvor selbst improvisiert hatte.
+
+„Wer sieht die Quelleninhalte?“
+
+„Nur der definierte Kreis“, sagte Berg.
+
+„Wer die Herkunftsprüfung?“
+
+Lena antwortete diesmal. „Noch enger.“
+
+Daniel sah sie an.
+
+Sie hielt den Blick.
+
+Ihr Geheimnis war dadurch nicht verschwunden.
+
+Aber die neue Struktur machte sichtbar, dass Geheimhaltung auch eine legitime Funktion haben konnte.
+
 Heller bewegte sich wieder im Video.
 
 „Die Idee ist gerade nicht, Reuters alten Zugriff hübscher zu machen“, sagte er. „Die Idee ist, dass niemand denselben Mist noch einmal improvisieren muss.“
@@ -480,11 +928,53 @@ Daniel sah zu ihm.
 
 Heller hob kurz eine Hand. „Der Zugriff hat funktioniert. Er war trotzdem ein schlechter Prozess.“
 
+„Weil er nicht gedeckt war.“
+
+„Auch. Und weil alles an einer Person hing, die in drei Minuten entscheiden musste, welchen Datenraum sie aufmacht.“
+
+Daniel sagte nichts.
+
+Heller sprach weiter.
+
+„Wenn das System vorher sauber vorbereitet ist, muss der nächste Reuter nicht dieselbe Entscheidung treffen.“
+
+„Der nächste Reuter?“ fragte Jonas.
+
+Heller sah kurz irritiert aus, dann lächelte er. „Der nächste Mensch in derselben Lage.“
+
 Sein Bild stockte. Als es wieder lief, sah Heller nicht in die Kamera.
 
 „Ich war einmal in einem Fall, da hatte jede Stelle einen vertretbaren Grund zu warten“, sagte er. „Hinterher konnten wir sehr genau erklären, warum nichts früher gegangen war. Es waren trotzdem Menschen tot.“
 
-Lena sagte nach einem Moment: „Damit kann ich leben.“
+Der Raum wurde stiller.
+
+Heller sagte nicht mehr.
+
+Keine Geschichte. Keine Namen. Kein moralischer Schluss.
+
+Nur dieser Satz.
+
+Lena sah auf die Rollenübersicht.
+
+„Das ist kein Argument gegen Zweckgrenzen.“
+
+„Soll es nicht sein“, sagte Heller.
+
+„Gut.“
+
+„Es ist ein Argument dafür, die zulässigen Wege nicht unnötig langsam zu bauen.“
+
+Lena nickte nach einem Moment. „Damit kann ich leben.“
+
+Daniel hörte den Unterschied.
+
+Heller wollte Geschwindigkeit.
+
+Lena wollte Begrenzung und Nachprüfbarkeit.
+
+Berg wollte etwas, das funktionierte und nach oben erklärbar war.
+
+Alle drei konnten dieselbe Projektstruktur wollen und aus völlig verschiedenen Gründen.
 
 Berg schob eine zweite Seite über den Tisch.
 
@@ -520,6 +1010,32 @@ Berg legte den Stift hin.
 
 „Klingt gerade so.“
 
+„Du nutzt nicht nur den Ablauf. Du nutzt meinen Regelbruch als Begründung für eine neue Struktur.“
+
+Berg sah ihn direkt an.
+
+„Ich nutze den Umstand, dass der alte Ablauf zu langsam war und dein improvisierter Zugriff Zeit gewonnen hat. Dass mir der Regelbruch nicht gefällt, steht im selben Vorgang.“
+
+„Oben auch?“
+
+„Ja.“
+
+Daniel konnte nicht prüfen, ob das wirklich in jeder Fassung gleich stark stand.
+
+Berg bemerkte den Blick.
+
+„Wenn du glaubst, ich verkaufe dich als Helden, lies den Arbeitsstand.“
+
+Daniel nahm die zweite Seite wieder.
+
+Dort stand tatsächlich: **nicht regelkonforme fallübergreifende Nutzung vorhandener Daten; operativ wirksam; struktureller Handlungsbedarf.**
+
+Kein Held.
+
+Aber ein Argument.
+
+Das war fast unangenehmer.
+
 Daniel dachte an die Quelle.
 
 **Sie haben entschieden, bevor es zu spät war.**
@@ -530,7 +1046,7 @@ Nicht heimlich.
 
 Im Gegenteil.
 
-Er verkaufte sie nach oben.
+Er machte sie institutionell verwertbar.
 
 „Seit wann läuft das?“
 
@@ -548,6 +1064,72 @@ Keine Antwort.
 
 Nur mehr Wege.
 
+Daniel sah zu Heller auf dem Bildschirm. „Und Ihr Interesse?“
+
+Heller hob eine Augenbraue.
+
+„Dass wir beim nächsten belastbaren Zeitfenster nicht wieder zuerst Zuständigkeiten suchen.“
+
+„Nicht mehr?“
+
+„Reicht mir.“
+
+Die Antwort war banal genug, um glaubwürdig zu sein.
+
+Daniel konnte darin trotzdem alles Mögliche lesen.
+
+Er tat es nicht.
+
+Lena tippte auf die erste Seite.
+
+„Laufzeit.“
+
+Berg nannte das Datum.
+
+„Danach?“
+
+„Ende oder neue Begründung.“
+
+„Daten?“
+
+„Rückführung nach den definierten Regeln. Kein stiller Dauerbestand.“
+
+„Protokolle?“
+
+„Bleiben.“
+
+Daniel las die sechs Punkte noch einmal.
+
+Was ihn überzeugte, war nicht mehr Zugriff.
+
+Es war, dass Jonas nicht wieder drei Stellen nacheinander anrufen musste.
+
+Dass eine Fahrzeugzuordnung und eine Berechtigungsfrage parallel geprüft werden konnten.
+
+Dass eine legitime Information nicht erst durch fünf Verteiler musste, bevor sie neben einer anderen lag.
+
+Es fühlte sich nicht an wie mehr Macht.
+
+Es fühlte sich an wie weniger Reibung.
+
+Das war vermutlich der Grund, warum es so attraktiv war.
+
+„Was spart uns das konkret?“, fragte Daniel.
+
+Jonas war der Einzige, der sofort antwortete.
+
+„Beim Ablauf von letzter Woche? Je nach Rückmeldung vierzig Minuten bis vielleicht zwei Stunden.“
+
+Berg sah zu ihm. „Das ist ziemlich viel.“
+
+„Wenn die Information relevant ist“, sagte Lena.
+
+„Natürlich“, sagte Jonas.
+
+Daniel dachte an den Sicherheitsmann.
+
+Dann an Weber, den es noch gar nicht gab und den er deshalb nicht denken konnte. Nur an die abstrakte Gegenseite: mehr Reichweite bedeutete auch mehr irrelevante Menschen im Blick.
+
 „Ich will die Struktur“, sagte Daniel.
 
 Lena sah zu ihm.
@@ -564,25 +1146,43 @@ Berg atmete durch die Nase aus.
 
 „Dann haben wir ja kein Problem.“
 
+„Und unabhängige Prüfung der Sonderentscheidungen“, sagte Lena.
+
+Daniel sah sie an.
+
+„Auch wenn sie den Ablauf verlangsamt?“
+
+„Ja.“
+
+Daniel nickte. „Dann auch das.“
+
 Heller sagte nichts.
 
-Daniel sah auf die sechs Punkte.
+Berg ging zum nächsten Punkt.
 
-Es fühlte sich nicht an wie mehr Macht.
+„Dann starten wir.“
 
-Es fühlte sich an wie weniger Reibung.
+Jonas öffnete seine Aufgabenliste. Der alte improvisierte Pfad stand dort noch als manueller Hinweis.
 
-Das war vermutlich der Grund, warum es so attraktiv war.
+Er löschte ihn nicht. Er markierte ihn als nicht mehr zu verwenden und setzte darunter den neuen Projektweg.
 
-„Machen wir“, sagte er.
+„Schöner?“, fragte er.
 
-Berg nickte und ging zum nächsten Punkt.
+Daniel sah auf die beiden Zeilen.
+
+„Sauberer.“
+
+„Das klingt nicht begeistert.“
+
+„Soll es auch nicht.“
 
 Niemand hielt den Moment fest.
 
 Keine Musik. Kein Satz über Grenzen.
 
-Nur Jonas, der seinen alten Zugriff aus der Aufgabenliste strich und durch einen neuen Projektpfad ersetzte.
+Nur Jonas, der einen alten Zugriff aus der Aufgabenliste strich und durch einen neuen Projektpfad ersetzte.
+
+Und Daniel, der merkte, dass sich dieser neue Pfad sofort vernünftiger anfühlte als alles, was sie in den letzten Tagen improvisiert hatten.
 
 ---
 
