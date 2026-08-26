@@ -24,7 +24,7 @@ Die Mündung blieb auf seiner Brust.
 
 Dann veränderte sich etwas.
 
-Keine große Bewegung. Kein Angriff. Nichts, was später auf einem Standbild eine eindeutige Geschichte erzählt hätte.
+Keine große Bewegung. Kein Angriff. Nichts, was auf einem Standbild eindeutig gewesen wäre.
 
 Der Finger am Abzug spannte sich.
 
@@ -324,9 +324,9 @@ Alle drei Firmen arbeiteten regelmäßig im Gebäude. Keine war für diese Uhrze
 
 Lena zog einen Stuhl heran.
 
-Sie war Juristin, aber sie bewegte sich in solchen Besprechungen nicht wie jemand, der später einen Absatz unter eine Entscheidung setzte. Sie kannte die Arbeit gut genug, um an den unangenehmen Stellen zu fragen, bevor sich alle auf eine Richtung geeinigt hatten.
-
 „Was ist deine Arbeitshypothese?“
+
+Sie war Juristin, aber sie bewegte sich in solchen Besprechungen nicht wie jemand, der später einen Absatz unter eine Entscheidung setzte. An den unangenehmen Stellen fragte sie lieber früh, bevor sich alle auf eine Richtung geeinigt hatten.
 
 Daniel zeigte auf die Zeiten.
 
@@ -600,8 +600,6 @@ Er hatte keine gute Antwort.
 
 Sie nahm den Ordner wieder an sich.
 
-Das Thema war für sie beendet.
-
 Später, als sie die Wohnung verließen, blieb Daniel noch einmal am Briefkasten stehen.
 
 Der Kunststoffstreifen saß schief.
@@ -611,6 +609,18 @@ Er konnte ihn mit einem Daumendruck wieder einrasten lassen.
 Er tat es.
 
 Dann ging er hinter Jana hinaus auf die Straße.
+
+Draußen vibrierte Janas Handy.
+
+Sie sah aufs Display. „Der Makler.“
+
+„Um die Uhrzeit?“
+
+„Anscheinend.“
+
+Sie nahm den Anruf an und ging schon Richtung Auto.
+
+Daniel blieb einen Moment am Bordstein stehen, dann lief er zur U-Bahn.
 
 ---
 
@@ -623,6 +633,10 @@ Daniel nahm das Blatt.
 „Klingt motivierend.“
 
 „Deshalb bist du ja da.“
+
+„Warum bei mir?“
+
+Berg zuckte mit einer Schulter. „Weil du Sachen auch zumachst. Und weil das hier seit zwei Wochen keiner tut.“
 
 Thomas Berg blieb stehen, während Daniel die erste Seite überflog.
 
@@ -776,11 +790,15 @@ Daniel nahm die Pfanne wieder und verteilte das Essen.
 
 Mara setzte sich.
 
-„Mehr Verantwortung.“
+„Ich würde das Team selbst aufbauen. Acht Leute, eigene Kunden. Nicht wieder erst in Projekte einsteigen, wenn sie schon halb festgefahren sind.“
 
-„Das ist die Stellenbeschreibung. Ich meinte Bedingungen.“
+Daniel sah sie an. „Das willst du.“
 
-„Natürlich meintest du Bedingungen.“
+„Ja.“
+
+„Und die Bedingungen?“
+
+„Natürlich willst du die Bedingungen.“
 
 „Was ist daran falsch?“
 
@@ -886,19 +904,21 @@ Daniel schwieg.
 
 „Das kann dir heute keiner seriös sagen.“
 
-„Ich verlange keine Garantie.“
+Mara sah auf ihren Teller. „Ich verlange keine Garantie.“
 
-„Klingt ein bisschen so.“
+Daniel setzte an.
+
+„Aber?“
+
+Er schüttelte den Kopf. „Nichts.“
 
 Mara nahm ihr Glas und trank.
 
-Es war der erste Satz des Abends, bei dem sie sich sichtbar ärgerte.
-
-„Nein“, sagte sie. „Ich kann denen nicht sagen, ich melde mich, wenn dein Kalender irgendwann freundlicher aussieht.“
+„Ich kann denen nicht sagen, ich melde mich, wenn dein Kalender irgendwann freundlicher aussieht.“
 
 „Das verlange ich nicht.“
 
-„Noch nicht.“
+Mara stellte das Glas ab. „Gut.“
 
 Daniel legte die Gabel hin.
 
@@ -952,10 +972,8 @@ Diesmal lächelte sie wirklich.
 
 Das Essen war inzwischen lauwarm.
 
-Sie redeten danach über andere Dinge. Einen kaputten Wasserhahn. Einen Kollegen von Mara, der bei jeder Videokonferenz zu früh in die Kamera kam. Darüber, dass Jana am Freitag allein zum Makler wollte.
+Später räumten sie zusammen ab. Mara erzählte von einem Kollegen, der bei jeder Videokonferenz zehn Minuten zu früh im Bild saß und dann so tat, als wäre es Absicht.
 
-Der Abend wurde wieder normal.
+Daniel kannte den Mann nicht.
 
-Der Termin blieb im Kalender.
-
-Sonntag, achtzehn Uhr.
+Er lachte trotzdem.
