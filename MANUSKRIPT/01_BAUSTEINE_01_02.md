@@ -424,18 +424,6 @@ Daniel sah auf.
 
 Sie ging.
 
-Jonas wartete, bis die Tür zu war.
-
-„Ist das bei euch eigentlich Freundlichkeit?“
-
-Daniel schloss die Datei.
-
-„Fast schon überschwänglich.“
-
-Jonas lachte.
-
-Daniel nicht. Aber er war nah dran.
-
 ---
 
 ## 4
@@ -738,8 +726,6 @@ Daniel blieb noch einen Moment bei der Adresse.
 
 Lagerhaus C, Einheit 17.
 
-Dann wechselte er zum nächsten Vorgang.
-
 ---
 
 ## 6
@@ -969,11 +955,3 @@ Daniel sah die Worte auf dem Display.
 „Absicht.“
 
 Diesmal lächelte sie wirklich.
-
-Das Essen war inzwischen lauwarm.
-
-Später räumten sie zusammen ab. Mara erzählte von einem Kollegen, der bei jeder Videokonferenz zehn Minuten zu früh im Bild saß und dann so tat, als wäre es Absicht.
-
-Daniel kannte den Mann nicht.
-
-Er lachte trotzdem.

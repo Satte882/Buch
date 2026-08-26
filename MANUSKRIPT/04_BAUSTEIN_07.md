@@ -410,67 +410,19 @@ Sie dachte nach.
 
 „Gezielter prüfen. Fahrzeugzuordnung. Mietverhältnis. Verbindung zum Dienstleister. Beobachtung im zulässigen Rahmen, wenn sich der Zusammenhang trägt.“
 
-„Durchsuchen?“
-
-„Nicht automatisch.“
-
-„Stoppen?“
-
-„Nicht automatisch.“
-
 „Den Betriebshof sicher verhindern?“
 
 „Nein.“
 
-Daniel nickte.
-
 „Also wissen wir nicht, ob es etwas geändert hätte.“
 
-„Nein.“
-
-Er wartete.
-
-Lena half ihm nicht weiter.
-
-Das war inzwischen fast ihre unangenehmste Eigenschaft.
-
-„Aber?“ fragte er.
-
-„Du willst das Aber von mir.“
-
-„Ich will wissen, was belastbar ist.“
-
-„Belastbar ist: Mit dem Kennzeichen hätten wir früher einen engeren, sachnäheren Prüfweg gehabt als mit der Warnung allein.“
+„Nein. Nur, dass wir früher einen engeren, sachnäheren Prüfweg gehabt hätten als mit der Warnung allein.“
 
 Daniel sah wieder auf die Tabelle.
 
 „Und vielleicht wäre trotzdem derselbe Mann im Krankenhaus gelandet.“
 
 „Ja.“
-
-„Vielleicht wäre der Wagen längst weitergegeben gewesen.“
-
-„Ja.“
-
-„Vielleicht hätten wir zwei Stunden auf eine falsche Spur gesetzt.“
-
-„Ja.“
-
-Daniel rieb sich über den Mund.
-
-„Du könntest einmal widersprechen.“
-
-„Wozu?“
-
-Er sagte nichts.
-
-Jonas stand auf.
-
-„Ich hole Kaffee.“
-
-„Bleib“, sagte Daniel.
-
-Jonas setzte sich wieder.
 
 Daniel zog die Zugriffskette auf.
 
@@ -522,15 +474,7 @@ Er stand auf.
 
 Lena blieb sitzen.
 
-„Daniel. Niemand hier sagt, dass dieses Kennzeichen den Angriff sicher verhindert hätte.“
-
-„Gut.“
-
-„Niemand sagt, dass die Quelle wusste, dass der Sicherheitsmann verletzt wird.“
-
-„Gut.“
-
-„Aber die bequeme Erklärung, dass vorher einfach niemand etwas engeres hatte, ist weg.“
+„Niemand sagt, dass das Kennzeichen den Angriff sicher verhindert hätte oder die Quelle wusste, dass der Sicherheitsmann verletzt wird. Aber die bequeme Erklärung, dass vorher einfach niemand etwas Engeres hatte, ist weg.“
 
 Daniel blieb stehen.
 

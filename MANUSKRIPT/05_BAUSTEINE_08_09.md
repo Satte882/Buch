@@ -510,48 +510,6 @@ Er ließ ihn liegen.
 
 ## 40
 
-Der Regen lief über den Verschluss der Pistole und sammelte sich am Korn.
-
-Eine Hand hielt die Waffe ruhig.
-
-Nicht vollkommen ruhig. Aber ruhig genug.
-
-Drei, vielleicht vier Meter entfernt stand ein Mann im Regen. Mehr war von ihm kaum zu erkennen. Dunkle Kleidung. Die Schultern leicht nach vorn gezogen. Hinter ihm ein heller Streifen aus Glas und Beton, verschwommen im Wasser, das über die Scheiben lief.
-
-Er bewegte sich.
-
-Nur wenig.
-
-Die Pistole folgte ihm.
-
-Für einen Moment passierte nichts.
-
-Der Mann hob die rechte Hand. Ob er etwas sagte, ging im Regen unter. Vielleicht sagte er auch nichts.
-
-Die Mündung blieb auf seiner Brust.
-
-Dann veränderte sich etwas.
-
-Keine große Bewegung. Kein Angriff. Nichts, was auf einem Standbild eindeutig gewesen wäre.
-
-Der Finger am Abzug spannte sich.
-
-Der Knall war kurz und trocken.
-
-Der Verschluss riss zurück. Wasser spritzte vom Metall. Die leere Hülse verschwand irgendwo im Dunkel.
-
-Der Mann zuckte. Ein Schritt nach hinten, als hätte jemand ihn an der Jacke gerissen.
-
-Dann fiel er.
-
-Die Waffe blieb oben.
-
-Erst jetzt trat der Schütze einen halben Schritt aus dem Schatten des Vordachs.
-
-Daniel Reuter sah auf den Mann am Boden.
-
-Er senkte die Pistole nicht.
-
 Markus Heller lag auf der nassen Betonfläche und hielt die rechte Hand noch um das kleine Funkterminal.
 
 Das Display leuchtete.
@@ -1210,19 +1168,13 @@ Nur ein Aktenzeichen.
 
 Sie legten die Kette vor.
 
-Die frühe fachliche Bewertung Daniels.
+Die frühe fachliche Bewertung und die missbräuchliche Vorprüfung Daniels.
 
-Die missbräuchliche Vorprüfung.
-
-Die 20.11-Uhr-Spur.
-
-Die anonymen Nachrichten.
+Die 20.11-Uhr-Spur und die anonymen Nachrichten.
 
 Das Kennzeichen, das vor dem ersten realen Schaden in Hellers Arbeitsumfeld verarbeitet worden war und später in der Warnung fehlte.
 
 Die Projektstände, in denen Daniels Erfolge institutionell verwertet wurden.
-
-Die Zugänge, über die Heller interne Details kennen konnte.
 
 Nichts davon war allein vollständig.
 
@@ -1304,27 +1256,9 @@ Berg öffnete sie.
 
 „Die Struktur hat im Finale den entscheidenden Zeitgewinn gebracht.“
 
-Lena sagte: „Unter anderem.“
-
-„Nicht unter anderem. Ohne die parallele Verknüpfung hätten wir den zweiten Fahrzeugstrang wahrscheinlich nicht rechtzeitig gehabt.“
-
-„Wahrscheinlich.“
-
-Berg sah sie an.
-
-„Du weißt, dass das stimmt.“
-
-„Ja.“
-
-Er wirkte kurz überrascht.
-
-Lena fuhr fort.
-
-„Und wir hatten Nils Weber. Mich. Mehrere falsch gewichtete Korrelationen. Das gehört in dieselbe Bilanz.“
+Lena sah ihn an. „Und wir hatten Nils Weber. Mich. Mehrere falsch gewichtete Korrelationen. Das gehört in dieselbe Bilanz.“
 
 „Bestreite ich nicht.“
-
-„Gut.“
 
 Die Leiterin blätterte durch die Unterlagen.
 
