@@ -130,6 +130,73 @@ Stattdessen gilt:
 
 Früh erkennt und korrigiert er dieses Framing noch selbst. Später wird genau diese Selbstkorrektur schwächer. Dadurch bleibt seine Entwicklung psychologisch nachvollziehbar und der Leser kann denselben Informationsstand anders bewerten als Daniel.
 
+## Doppelboden-Matrix – Bausteine 03 bis 07
+
+Der Reversal funktioniert nur, wenn frühere Ereignisse beim zweiten Lesen eine andere Bedeutung erhalten. Für jedes Ereignis von Baustein 03 bis 07 gilt deshalb verbindlich:
+
+> **Erste Lesart beim ersten Lesen → spätere Lesart nach dem Reversal.**
+
+Die spätere Lesart darf die erste nicht einfach als falsch entwerten. Idealerweise bleiben beide teilweise wahr.
+
+### Baustein 03 – Auslösendes Ereignis
+
+| Ereignis | Erste Lesart | Spätere Lesart |
+|---|---|---|
+| 03.01 Kleiner Vorfall + anonyme Warnung | Die Quelle erkennt einen realen Vorfall früh und hilft Daniel, ihn einzuordnen. | Die Quelle wählt bewusst genau den Ausschnitt, der Daniels Aufmerksamkeit und Vertrauen in die gewünschte Richtung lenkt. |
+| 03.02 Erste Bestätigung | Präzise Vorhersage beweist, dass die Quelle verlässlich informiert ist. | Die bestätigte Information war ein gezielt gewählter Vertrauensbaustein; was nicht mitgeteilt wurde, ist ebenso wichtig wie das Wahre. |
+| 03.03 Legaler Weg reicht nicht | Das System ist für eine reale Gefahr zu langsam; Daniels Frustration ist sachlich begründet. | Die Quelle könnte die Information gerade so unvollständig geliefert haben, dass legale Verwertbarkeit erschwert und Ausnahmehandeln wahrscheinlicher wird. |
+| 03.04 Warnung war im Kern richtig | Daniel hätte schneller handeln müssen; Zurückhaltung hatte reale Kosten. | Die reale Gefahr bleibt wahr, aber die Quelle wusste möglicherweise mehr und ließ Daniel genau die Folgen erleben, die seinen Risikomaßstab verschieben. |
+| 03.05 Zweite Warnung wird persönlich | Die Quelle erhöht den Druck, weil die Lage dringlicher wird. | Die persönliche Zuspitzung ist zugleich ein gezielter Test, wie Daniel entscheidet, wenn professionelle Distanz verloren geht. |
+
+### Baustein 04 – Erste Entscheidung
+
+| Ereignis | Erste Lesart | Spätere Lesart |
+|---|---|---|
+| 04.01 Daniel entscheidet gegen den sauberen Weg | Daniel reagiert erstmals pragmatisch auf ein System, das die Gefahr nicht schnell genug abbilden kann. | Genau diese Entscheidung war das erwartete Ergebnis einer bewusst zugespitzten Informationslage. |
+| 04.02 Grenzüberschreitung funktioniert | Daniels Regelbruch war riskant, rettet aber tatsächlich Menschen. | Der Erfolg ist real – und deshalb besonders wertvoll für jemanden, der erfolgreiche Ausnahmen als Beweis für Systemänderung benötigt. |
+| 04.03 Erfolg schützt Daniel | Institutionen reagieren verständlich auf einen außergewöhnlichen Erfolg und sanktionieren ihn nicht hart. | Daniels Schutz ist bereits Teil der eigentlichen Grenzverschiebung: Erfolg beginnt, die normative Grenze zu verändern. |
+| 04.04 Quelle wusste, wie Daniel handeln würde | Die Quelle kennt Daniels Arbeitsweise ungewöhnlich gut. | Daniel wurde möglicherweise gerade wegen seiner vorhersehbaren moralischen Entscheidungslogik ausgewählt. |
+
+### Baustein 05 – Entdeckung & Eskalation
+
+| Ereignis | Erste Lesart | Spätere Lesart |
+|---|---|---|
+| 05.01 Gestoppter Täter ist nicht das Zentrum | Der Fall ist größer als gedacht. | Daniel erhält erneut nur die Ebene, die ihn zur nächsten Eskalation führt; das Gesamtbild wird absichtlich fragmentiert gehalten. |
+| 05.02 Quelle berührt geschützten Bereich | Die Quelle sitzt näher am Sicherheitsapparat als angenommen. | Institutionelle Nähe erklärt, warum Informationsflüsse und Prioritäten gezielt beeinflusst werden können. |
+| 05.03 Daniels Ausnahme wird zum Modell | Andere übernehmen eine erfolgreiche pragmatische Lösung. | Der eigentliche Erfolg liegt nicht nur im verhinderten Schaden, sondern darin, dass Sonderlogik reproduzierbar wird. |
+| 05.04 Zweiter Erfolg hat einen Preis | Härteres Vorgehen funktioniert, trifft aber auch Unbeteiligte. | Der Schaden kann der Quelle bekannt oder als akzeptables Risiko erschienen sein; ihre moralische Verschiebung ist weiter fortgeschritten als Daniels. |
+| 05.05 Daniel war schon vor dem Fall ausgewählt | Daniel ist persönliches Ziel oder Werkzeug der Quelle. | Seine ursprüngliche Regelorientierung war selbst der entscheidende Wert: Wenn gerade er erfolgreiche Ausnahmen legitimiert, wirkt die Grenzverschiebung glaubwürdig. |
+
+### Baustein 06 – Moralischer / psychologischer Kipppunkt
+
+| Ereignis | Erste Lesart | Spätere Lesart |
+|---|---|---|
+| 06.01 Glaubwürdiger Widerspruch setzt Grenze | Eine vernünftige Gegenposition zwingt Daniel zur Selbstprüfung. | Eine rechtsstaatlich plausible Alternative existiert weiterhin; Daniel kann später nicht behaupten, es habe gar keine Wahl gegeben. |
+| 06.02 Neue Warnung unter Unsicherheit | Daniel muss zwischen möglicher Manipulation und realer Gefahr entscheiden. | Der Informationsstand ist erneut so gestaltet, dass beide Risiken real sind; genau diese Unauflösbarkeit ist der Hebel. |
+| 06.03 Qualitativ neue Grenzüberschreitung | Daniel geht weiter, weil die Lage größer und persönlicher geworden ist. | Die Eskalation zeigt, wie persönliche Betroffenheit seine Gewichtung derselben Unsicherheiten verschiebt. |
+| 06.04 Größere Grenzüberschreitung funktioniert | Daniel wird erneut durch Erfolg bestätigt. | Jeder reale Erfolg macht die Sicherheitslogik der Quelle politisch schwerer zurückzudrehen. |
+| 06.05 Daniel will nicht zurück | Daniel zieht aus wiederholten Erfolgen eine pragmatische Lehre. | Die Quelle braucht ihn kaum noch aktiv zu steuern: Daniel hat begonnen, ihre Grundlogik selbst zu internalisieren. |
+
+### Baustein 07 – Reversal / Umdeutung
+
+| Ereignis | Erste Lesart unmittelbar davor | Neue Lesart |
+|---|---|---|
+| 07.01 Muster der Auslassungen | Einzelne Lücken und Fehler der Quelle waren normale Unsicherheit. | Die Auslassungen bilden ein Muster; Informationsmangel war teilweise Methode. |
+| 07.02 Erster Vorfall hätte früher gestoppt werden können | Der erste reale Schaden war tragische Folge begrenzter Informationen und langsamer Verfahren. | Die Quelle verfügte wahrscheinlich über ein zusätzliches Fragment und akzeptierte höheren Druck beziehungsweise Schaden als Preis ihrer Strategie. |
+| 07.03 Daniel war das Versuchsfeld | Daniel wurde wegen seiner fachlichen Position ausgewählt. | Seine ursprüngliche Regelorientierung war selbst der entscheidende Wert: Wenn gerade er erfolgreiche Ausnahmen legitimiert, wirkt die Grenzverschiebung glaubwürdig. |
+| 07.04 Letzte Warnung ist trotzdem echt | Nach der Manipulationsenthüllung ist die Quelle nicht mehr vertrauenswürdig. | Manipulation und Wahrheit schließen sich nicht aus; Daniel muss nun ohne bequeme moralische Auflösung entscheiden. |
+
+### Leitregel für die Beat-Ebene
+
+Bei jedem Schlüsselbeat in 03–07 ist zu prüfen:
+1. Welche Information sieht Daniel tatsächlich?
+2. Welche Interpretation gibt er ihr **jetzt**?
+3. Welche alternative Interpretation wäre ebenfalls plausibel?
+4. Welche Information kennt die Quelle tatsächlich – und welche nicht?
+5. Was liest der Leser beim ersten Mal anders als nach dem Reversal?
+
+Der Doppelboden darf nicht über erklärende Hinweise sichtbar werden. Er soll aus **Auswahl, Timing, Auslassung und Gewichtung realer Informationen** entstehen.
+
 ## Bereits gesetzte Anker
 
 ### Anfang
@@ -205,3 +272,4 @@ Aktuelles Gate: **Beat-Ebene für Bausteine 04–09 (#7 und #8), danach Gesamtpr
 8. Keine neue Figur ohne dramaturgische Funktion.
 9. Das fünfteilige Beat-Schema ist ein Planungsraster, kein später sichtbarer Szenenrhythmus.
 10. Daniel wird nicht beliebig unzuverlässig; sein blinder Fleck entsteht durch motiviertes Framing unter Druck.
+11. Jeder Schlüsselhinweis in Baustein 03–07 braucht eine plausible Erstlesart und eine spätere Zweitlesart.
