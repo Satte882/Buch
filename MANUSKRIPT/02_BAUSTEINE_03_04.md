@@ -518,6 +518,12 @@ Die Frage war nur, ob das Detail real genug war, dass er es getrennt sichern mus
 
 War es.
 
+Er legte das Telefon neben den Zettel und zwang sich, für jede der vier Möglichkeiten einen banalen Informationsweg mitzudenken. Ein zufälliger Beobachter im Haus. Ein Mitarbeiter des Vermieters, der mit jemandem gesprochen hatte. Ein technischer Zugriff, der noch nichts über Motiv oder Person sagte. Keine Variante erklärte alles. Aber keine war unmöglich.
+
+Das half nicht gegen den Druck.
+
+Es verhinderte nur, dass aus dem Druck schon Gewissheit wurde.
+
 Daniel sah auf das private Telefon.
 
 Die Nachricht verband diese drei Ebenen so, als gehörten sie selbstverständlich zusammen.
@@ -921,6 +927,16 @@ Daniel sah ihn an.
 „Noch nicht ist kein Befund.“
 
 Jonas hob die Hände. „Schon verstanden.“
+
+Lena ließ sich von Jonas die Auftragsdaten noch einmal zeigen und ging die möglichen Informationswege durch. Vermieterportal. Kurierdisposition. Einheit 16. Einheit 17. Jede Station hatte mehrere Menschen, die den Auftrag sehen konnten.
+
+„Das ist wichtig“, sagte sie.
+
+„Weil?“ fragte Jonas.
+
+„Weil Insider nicht dasselbe heißt wie eine Person im Sicherheitsapparat. Wir haben nur einen engen Informationsraum. Noch keinen engen Personenkreis.“
+
+Daniel schrieb den Satz nicht auf. Er brauchte ihn trotzdem.
 
 Lena sah Daniel an.
 
@@ -1380,6 +1396,24 @@ Heller bemerkte es.
 
 „Zeit ist ein Risiko“, sagte er. „Eine dünne Grundlage auch. Sie dürfen nicht so tun, als ließe sich eines davon wegdiskutieren.“
 
+Daniel fragte: „Und wenn wir den Koffer einfach weiter beobachten?“
+
+Heller nickte. „Dann gewinnen Sie vielleicht eine Verbindung. Oder verlieren ihn. Beides gehört zur Entscheidung.“
+
+„Also empfehlen Sie?“
+
+„Ich empfehle Ihnen nicht, aus meiner Funktion eine Freigabe zu machen.“
+
+Daniel hielt seinen Blick.
+
+Heller sprach ruhig weiter.
+
+„Ich würde alles, was sich unabhängig aus der realen Route ergibt, parallel ziehen. Den Koffer nicht zum Beweis erklären. Und wenn ein zweiter belastbarer Anker kommt, neu bewerten.“
+
+Das war fast exakt die Antwort, die Daniel selbst einem Jüngeren gegeben hätte.
+
+Er mochte sie trotzdem nicht mehr so wie vor einer Woche.
+
 Daniel formulierte die Gegenlesart noch einmal, diesmal knapper.
 
 „Ein Händler bestellt normale Ware. Ein Kurierauftrag wird falsch zugeordnet. Eine Außentür wird aus Bequemlichkeit offen gehalten. Ein Dienstleister nimmt einen Koffer an, weil das sein Geschäft ist.“
@@ -1470,6 +1504,26 @@ Keine Person, die plötzlich verschwunden war.
 
 Es sah fast so aus, als hätte Hellers harmlose Version gewinnen wollen.
 
+Daniel telefonierte noch einmal mit der Stelle, die den Veranstaltungszugang verwaltete. Eine Mitarbeiterin suchte den Dienstleister im System und fand ihn sofort.
+
+„Regulär hinterlegt“, sagte sie. „Mehrere Fahrzeuge, mehrere Personen. Nichts Gesperrtes.“
+
+„Änderungen heute?“
+
+„Müsste ich prüfen.“
+
+„Wie lange?“
+
+„Ich melde mich.“
+
+„Noch heute?“
+
+Kurze Pause.
+
+„Ja.“
+
+Daniel bedankte sich. Er wusste, dass er sie nicht schneller machen würde, indem er ihr seine Ungeduld erklärte.
+
 Um 19.12 Uhr rief Jonas an.
 
 „Wir haben ein Problem.“
@@ -1518,6 +1572,20 @@ Wenn der Betriebshof trotzdem zum Dienstleisterumfeld gehörte, war die Warnung 
 
 Im Lagebereich standen fünf Menschen vor zwei Monitoren. Eine Kollegin telefonierte mit dem Betriebshof. Jemand anderes zog Fahrzeugdaten. Auf einem Lautsprecher lief eine abgehackte Rückfrage zur Erstmeldung.
 
+Ein Kollege las eine erste Notiz vor: Schranke beschädigt, Sicherheitsmitarbeiter verletzt, Fahrzeug verlassen, Fahrer flüchtig.
+
+Daniel ließ sich den Ursprung zeigen.
+
+„Betriebshof selbst?“
+
+„Ja. Erstmeldung vom Schichtleiter. Streife ist da.“
+
+„Keine Quelle?“
+
+„Keine Quelle.“
+
+Er brauchte den Satz nicht wirklich. Trotzdem war es wichtig, dass der neue Anker außerhalb der anonymen Nachricht entstanden war.
+
 Jonas schob Daniel sofort einen Ausdruck hin.
 
 „Der Wagen ist heute um 16.41 Uhr erstmals am Dienstleister aufgetaucht. Nach allem, was wir bisher haben, war er nie am Lagerhaus C.“
@@ -1565,6 +1633,20 @@ Nur genug, dass Daniel ein Bild bekam, das er nicht brauchte.
 „Absicht?“
 
 „Unklar. Fahrer ist weg.“
+
+„Name?“
+
+Lena nannte ihn.
+
+Daniel schrieb ihn nicht auf. Er stand bereits im Vorgang.
+
+„Familie informiert?“
+
+„Nach meinem Stand ja.“
+
+Mehr fragte er nicht.
+
+Der Mann war nicht dazu da, Daniels Entscheidung moralisch zu illustrieren. Er war verletzt. Das reichte.
 
 Berg folgte ihr.
 
@@ -1635,6 +1717,16 @@ Blau vom Betriebshof.
 Er hatte das graue Fahrzeug größer gemacht, weil es als Erstes sichtbar gewesen war.
 
 Die Quelle hatte nie behauptet, dass es das entscheidende Fahrzeug sei.
+
+Die Rückmeldung aus der Veranstaltungskoordination kam auf Daniels Bildschirm.
+
+**Keine auffällige Änderung der regulären Dienstleisterberechtigungen.**
+
+Vor zehn Minuten hätte ihn der Satz beruhigt.
+
+Jetzt wusste er, dass zwei Ausweise aus genau diesem Umfeld in einem verlassenen Fahrzeug lagen.
+
+Auch saubere Daten konnten in einem falschen Zusammenhang beruhigend wirken.
 
 Berg sah zu Daniel.
 
@@ -1739,6 +1831,14 @@ Die Entscheidung aus dem Gespräch mit Heller war deshalb nicht plötzlich falsc
 Mit dem damaligen Stand hätte Daniel sie noch einmal vertreten können.
 
 Das half dem Sicherheitsmann nicht.
+
+Er stellte sich einen Moment vor, wie der Mann am Nachmittag zur Arbeit gekommen war, ohne Teil irgendeiner Lage zu sein. Nicht länger. Nur lange genug, um zu verstehen, was das Wort Konsequenz hier bedeutete.
+
+Dann schob Daniel das Bild weg.
+
+Er brauchte keine Schuld, die größer war als die Fakten.
+
+Er brauchte einen besseren Ablauf.
 
 Daniel schloss die Zeitlinie wieder.
 
@@ -1878,6 +1978,44 @@ Nicht Daniel allein.
 
 Das war ihm wichtig.
 
+Dann nahm er den gestrigen Ablauf und spielte ihn mit der neuen Reihenfolge einmal durch.
+
+Abholung bestätigt.
+
+Parallel: Dienstleister offen prüfen.
+
+Parallel: Veranstaltungskoordination anfragen.
+
+Parallel: bekannte Fahrzeuge aus dem realen Dienstleisterbezug abgleichen.
+
+„Wie viel gewinnen wir?“ fragte Jonas.
+
+Daniel verschob die Zeitpunkte.
+
+„Wenn alle reagieren wie gestern? Vielleicht vierzig Minuten.“
+
+„Nicht fünf Stunden.“
+
+„Nein.“
+
+„Vierzig Minuten hätten den Sicherheitsmann vielleicht auch nicht geschützt.“
+
+„Richtig.“
+
+Daniel löschte die Simulation nicht.
+
+„Dann ist das Ergebnis trotzdem vierzig Minuten.“
+
+Jonas sah ihn an.
+
+„Du suchst gerade keine Schuld.“
+
+„Nein.“
+
+„Was dann?“
+
+„Zeit, die wir nicht wieder verschenken müssen.“
+
 „Und beim nächsten Hinweis?“
 
 „Was ist damit?“
@@ -1941,6 +2079,26 @@ Widerlegt.
 Jonas sah auf die Zeile mit dem grauen Kastenwagen.
 
 „Stimmt.“
+
+Daniel legte daneben ein viertes Feld an.
+
+**Welche Prüfung ist möglich, ohne die Behauptung schon zu glauben?**
+
+Jonas las es.
+
+„Das wird lang.“
+
+„Soll es nicht. Ein Satz.“
+
+„Und wer füllt es aus?“
+
+„Derjenige, der den Hinweis übernimmt.“
+
+„Also meistens ich.“
+
+„Dann schreib leserlich.“
+
+Jonas schüttelte den Kopf, aber er lächelte.
 
 Lena stand plötzlich hinter ihm.
 
@@ -2326,6 +2484,26 @@ Die Quelle hatte eine Adresse gewählt, die passen konnte.
 
 Noch immer ohne Beweis, warum.
 
+Daniel rief die Mietwagenfirma über ihre Zentrale an. Der Vertrag existierte, die Zahlung war unauffällig, die Abholung war am Vortag erfolgt. Mehr durfte ihm die Mitarbeiterin ohne weitere Grundlage nicht sagen.
+
+„Gab es eine Rückgabezeit?“
+
+„Morgen Vormittag.“
+
+„Geplante Kilometer?“
+
+„Nein.“
+
+„Zusatzfahrer?“
+
+„Das kann ich Ihnen so nicht geben.“
+
+Daniel bedankte sich.
+
+Wieder ein sauberer Weg bis zu seiner Grenze.
+
+Wieder keine Antwort auf die Frage, die die Quelle ihm hingelegt hatte.
+
 Um 19.03 Uhr schickte Lena ihm die Rückmeldung zur letzten sauberen Möglichkeit.
 
 **Für eine fallübergreifende Verwendung der Altbestände reicht der aktuelle Stand so nicht. Dringlichkeit ist gesehen. Wir bekommen heute keine belastbare Freigabe mehr.**
@@ -2429,6 +2607,28 @@ Keine Anweisung, die Wohnung zu verlassen.
 Keine Behauptung, sie sei Ziel.
 
 Nur die Wahrheit, die er tragen konnte.
+
+19.10 Uhr.
+
+Daniel öffnete noch einmal die Liste der regulären Prüfwege.
+
+Kennzeichen: ausgeschöpft.
+
+Kurierfirma: ausgeschöpft.
+
+Veranstaltungsbezug: ausgeschöpft.
+
+Freigabe Altbestand: abgelehnt für den aktuellen Stand.
+
+Heller: reguläre Abfrage läuft.
+
+Berg: nicht erreichbar.
+
+Es gab noch Dinge, die er tun konnte. Er konnte warten. Er konnte erneut telefonieren. Er konnte hoffen, dass eine der offenen Stellen vor 20.20 Uhr zurückkam.
+
+Das waren echte Alternativen.
+
+Nur keine, deren Ergebnis er kontrollieren konnte.
 
 Dann legte er das private Telefon mit dem Display nach unten.
 
