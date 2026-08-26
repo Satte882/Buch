@@ -88,14 +88,15 @@ Die konkrete Identität bleibt offen. Für die Plotlogik gilt jedoch:
 
 Die Quelle beziehungsweise die dahinterstehende funktionale Rolle glaubt selbst, dass die Bedrohungen real und die bestehenden Verfahren unzureichend sind. Damit entsteht kein einfacher „böser Verschwörer“, sondern eine radikalisierte Version derselben Logik, in die Daniel später selbst gerät.
 
-Bei der späteren Figurenkonkretisierung muss dieses Systemmotiv in ein **persönliches Motiv** übersetzt werden: reales früheres Versagen, Kontrollverlust, Kränkung oder Pflichtverständnis. Kein abstrakter Verfassungsmonolog.
+Bei der späteren Figurenkonkretisierung muss dieses Systemmotiv in ein **persönliches Motiv** übersetzt werden: reales früheres Versagen, Kontrollverlust, Kränkung oder Pflichtverständnis. Der innere Selbstbetrug der Quelle lautet nicht „Ich will Macht“, sondern sinngemäß: **„Ich verhindere das nächste Behördenversagen.“**
 
 Offen bis zur Figurenkonkretisierung:
 
 - Einzelperson oder kleiner interner Kreis,
 - institutionelle Position,
 - persönliche Verbindung zu Daniel,
-- welches frühere Erlebnis das Motiv emotional trägt.
+- welches frühere Erlebnis das Motiv emotional trägt,
+- welche Grenze die Quelle selbst noch nicht überschreiten will.
 
 ## Persönliche Bedrohung – Arbeitsfestlegung
 
