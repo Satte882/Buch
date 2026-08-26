@@ -746,7 +746,7 @@ Daniel ging mit ihm hinein.
 
 ## 23
 
-Der Mann hieß Nils Weber und war auf dem ersten Blick nur deshalb interessant, weil sein Name zu oft auftauchte.
+Der Mann hieß Nils Weber und war auf den ersten Blick nur deshalb interessant, weil sein Name zu oft auftauchte.
 
 Dreimal in Zugriffslisten.
 
@@ -924,7 +924,7 @@ Beide Male an andere Mitarbeiter.
 
 Jonas wischte weiter.
 
-Der Zugangsausweis war personalisiert. Der Leser an der Seitentür hatte jedoch in dieser Nacht im Notbetrieb gearbeitet. Der Sicherheitsdienst hatte mehrere Schichtausweise gesammelt ausgegeben. Video bestätigte: Weber war nicht dort.
+Der Zugangsausweis war personalisiert. Der Kartenleser an der Seitentür hatte jedoch in dieser Nacht im Notbetrieb gearbeitet. Der Sicherheitsdienst hatte mehrere Schichtausweise gesammelt ausgegeben. Video bestätigte: Weber war nicht dort.
 
 Daniel sah auf die beiden Bilder.
 
@@ -1048,7 +1048,7 @@ Daniel legte das Telefon hin.
 
 Diesmal lächelte sie fast.
 
-Daniel zog die Zeitlinie aus Kapitel— aus den letzten Tagen noch einmal auf.
+Daniel zog die Zeitlinie der letzten Tage noch einmal auf.
 
 Weber war nicht entscheidend für den Fund gewesen.
 
@@ -1104,7 +1104,7 @@ Danach.
 
 Daniel saß still.
 
-Die Quelle hatte also gewusst, dass er im Hausflur seiner Mutter stand, bevor der Fall überhaupt bei ihm lag.
+Jemand hatte die Szene im Hausflur auf die Minute genau erfasst, bevor der Fall überhaupt bei ihm lag.
 
 Das konnte Zufall sein.
 
@@ -1112,7 +1112,7 @@ Jemand konnte Daniel aus einem anderen Grund beobachtet haben.
 
 Jemand konnte viele Menschen beobachten und später die passende Information hervorgeholt haben.
 
-Die Quelle konnte das Detail nachträglich von jemandem erfahren haben.
+Die Quelle konnte das Detail später von diesem Beobachter erhalten haben.
 
 Daniel ging die Möglichkeiten durch.
 
@@ -1140,7 +1140,7 @@ Stille.
 
 „Du hast danach noch eine Mail bekommen.“
 
-„Natürlich habe ich danach eine Mail bekommen. Der Mann verschickt mehr Mails als ein Newsletter.“
+„Natürlich habe ich danach noch eine Mail bekommen. Der Mann verschickt mehr Mails als ein Newsletter.“
 
 „Kannst du nachsehen?“
 
@@ -1184,7 +1184,7 @@ Nach dem Gespräch öffnete Daniel den internen Zeitstempel der Fallzuweisung.
 
 Berg hatte den Vorgang am folgenden Vormittag zugeordnet.
 
-Die Quelle hatte Daniel vorher im Blick gehabt.
+Jemand, dessen Beobachtung später bei der Quelle gelandet war, hatte Daniel vorher im Blick gehabt.
 
 Nicht möglicherweise nach seiner ersten Grenzüberschreitung.
 
@@ -1268,7 +1268,7 @@ Er drehte den Monitor nicht zu ihr.
 
 Lena sagte nichts.
 
-„Und jetzt haben wir einen Hinweisgeber, der später geschützte interne Details kennt“, sagte Daniel. „Wenn das zusammengehört, hat er mich nicht erst im Fall gefunden.“
+„Und jetzt haben wir einen Hinweisgeber, der später geschützte interne Details kennt“, sagte Daniel. „Wenn das zusammengehört, begann das vor dem Fall.“
 
 „Wenn es zusammengehört.“
 
@@ -1310,7 +1310,7 @@ Sie nahm ihr Tablet heraus und legte es auf den Tisch.
 
 Daniel las.
 
-Sein Fall tauchte in einer Übersicht zu beschleunigter fallübergreifender Zusammenarbeit auf. Nicht mit seinem Namen in der Überschrift. Aber seine Entscheidung aus Kapitel 14 war als Beispiel beschrieben, der spätere Erfolg ebenfalls.
+Sein Fall tauchte in einer Übersicht zu beschleunigter fallübergreifender Zusammenarbeit auf. Nicht mit seinem Namen in der Überschrift. Aber sein problematischer Datenabgleich war als Beispiel beschrieben, der spätere Erfolg ebenfalls.
 
 „Woher hast du das?“
 
@@ -2428,7 +2428,7 @@ Lena stand auf der anderen Seite des Tisches.
 
 Berg saß zwischen ihnen, ohne dass es dadurch nach Vermittlung aussah.
 
-Daniel hatte die Nachricht der Quelle aus Kapitel 27 geöffnet.
+Daniel hatte die Nachricht der Quelle vom Nachmittag geöffnet.
 
 **Prüfen Sie nicht nur den Namen. Prüfen Sie die Zugänge darum herum.**
 
@@ -2436,7 +2436,7 @@ Darunter die Kennung der neuen Lieferfreigabe.
 
 Lena legte einen internen Zeitstand daneben.
 
-„Die Quelle kannte die Freigabe nachweislich aus einem Stand, in dem bereits vermerkt war, dass der neue Lieferdienst formal geprüft und regulär ergänzt worden war.“
+„Die Kennung in genau dieser Form taucht intern erst in dem Projektstand auf, in dem bereits vermerkt war, dass der neue Lieferdienst formal geprüft und regulär ergänzt worden war.“
 
 Daniel las die beiden Zeitstempel.
 
@@ -2444,13 +2444,9 @@ Daniel las die beiden Zeitstempel.
 
 „Ja.“
 
-„Vielleicht hat sie nur die erste Zeile gesehen.“
+„Vielleicht kam die Kennung über einen anderen Weg.“
 
-„Der interne Stand, aus dem die Kennung stammt, enthält beides.“
-
-„Heißt nicht, dass derselbe Mensch beides gelesen hat.“
-
-„Nein.“
+„Möglich. Aber wir finden keinen internen Stand, der nur die Kennung hatte und nicht den Status.“
 
 Lena wartete.
 
@@ -2466,7 +2462,7 @@ Daniel sah sie an.
 
 Berg nahm die beiden Blätter.
 
-„Also hat die Quelle einen wahren Punkt genommen, den entlastenden Kontext weggelassen und gleichzeitig gesagt, wir sollen breiter schauen.“
+„Also hat die Quelle wahrscheinlich einen wahren Punkt genommen, den entlastenden Kontext weggelassen und gleichzeitig gesagt, wir sollen breiter schauen.“
 
 „So sieht es aus“, sagte Lena.
 
@@ -2582,7 +2578,7 @@ Er löschte ihn auch nicht.
 
 „Weiß ich.“
 
-„Ich sage, dass ich sie nicht abschalte, solange wir einen offenen realen Gefahrenstrang haben, den sie gerade nachweislich sichtbar gemacht hat.“
+„Ich sage, dass ich sie nicht abschalte, solange wir einen offenen realen Gefahrenstrang haben, den die breitere Prüfung gerade nachweislich sichtbar gemacht hat.“
 
 Lena schloss ihre Mappe.
 
