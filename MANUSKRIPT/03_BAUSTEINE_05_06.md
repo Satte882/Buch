@@ -756,6 +756,52 @@ Sie trat vom Fenster weg.
 
 Der Satz war schneller draußen, als Daniel wollte.
 
+Noch bevor Lena ging, kam die erste Rückfrage aus der Lage.
+
+Jonas las sie vor. „Dienstleisterbezug aus Mikas Übergaben. Die wollen wissen, ob die Quelle dazu schon etwas genannt hat.“
+
+Daniel sah auf seine drei Prüfstände.
+
+Im operativen Stand stand nichts dazu.
+
+Im Quellenstand gab es einen alten, unscharfen Verweis, der vielleicht helfen konnte.
+
+„Wer fragt?“
+
+Jonas nannte die Stelle.
+
+„Die haben keinen Quellenstand“, sagte Daniel.
+
+„Eben.“
+
+Daniel zögerte.
+
+Die Trennung funktionierte. Und machte die Antwort langsamer.
+
+Er öffnete den Quellenstand selbst, prüfte den alten Hinweis, stellte fest, dass er für die konkrete Frage nichts belastbar beitrug und gab nur das Ergebnis zurück.
+
+Fast vier Minuten.
+
+Vorher hätte Jonas den gemeinsamen Stand in Sekunden durchsucht.
+
+Lena sah auf die Uhr.
+
+„Das meine ich.“
+
+„Vier Minuten.“
+
+„Heute vier.“
+
+„Und wenn es verhindert, dass wir der Quelle zeigen, was jeder weiß?“
+
+„Dann kann es sinnvoll sein. Aber tu nicht so, als hätte Vorsicht keinen Preis.“
+
+Daniel nickte.
+
+Er schrieb neben die drei Prüfstände einen vierten Punkt:
+
+**Verzögerungen dokumentieren.**
+
 Lena nahm ihre Unterlagen.
 
 „Dann hoffe ich, dass du dir selbst noch vertraust.“
@@ -1126,9 +1172,37 @@ Berg sah zu ihm. „Das ist ziemlich viel.“
 
 „Natürlich“, sagte Jonas.
 
-Daniel dachte an den Sicherheitsmann.
+Berg ließ Jonas auf dem Bildschirm einen einfachen Vergleich öffnen: alter Ablauf links, Projektweg rechts.
 
-Dann an Weber, den es noch gar nicht gab und den er deshalb nicht denken konnte. Nur an die abstrakte Gegenseite: mehr Reichweite bedeutete auch mehr irrelevante Menschen im Blick.
+Eine Fahrzeugfrage, eine Berechtigungsfrage, eine Firmenverbindung.
+
+Links drei getrennte Anfragen mit Rückläufen nacheinander.
+
+Rechts dieselben Fragen parallel, mit dokumentierten Rollen.
+
+„Keine neue Information“, sagte Jonas. „Nur früher nebeneinander.“
+
+Daniel sah auf die Uhrzeiten aus dem alten Ablauf.
+
+Genau das war es, was er seit dem verletzten Sicherheitsmann gesucht hatte.
+
+Nicht weniger Regeln.
+
+Weniger tote Zeit zwischen ihnen.
+
+„Und wenn eine der drei Fragen gar nicht fallrelevant ist?“, fragte Lena.
+
+Jonas zuckte mit den Schultern. „Dann haben wir sie schneller als irrelevant erkannt.“
+
+„Und trotzdem Daten verarbeitet.“
+
+„Ja.“
+
+Daniel hörte den Preis mit.
+
+Die Struktur machte nicht nur richtige Verbindungen schneller sichtbar.
+
+Sie machte auch mehr irrelevante Verbindungen gleichzeitig sichtbar.
 
 „Ich will die Struktur“, sagte Daniel.
 
@@ -1194,7 +1268,9 @@ Mara sagte nichts.
 
 Er stand im Flur vor einem Besprechungsraum und hielt das Telefon zwischen Schulter und Ohr. Hinter der Tür begann in vier Minuten die erste gemeinsame Auswertung in der neuen Projektstruktur.
 
-„Dienstag was?“, fragte sie schließlich.
+Auf dem kleinen Tisch neben der Tür lag ein Ausdruck mit der neuen Rollenverteilung. Daniels Name stand an drei Stellen.
+
+„Dienstag was?“, fragte Mara schließlich.
 
 „Unser Gespräch.“
 
@@ -1205,6 +1281,18 @@ Er stand im Flur vor einem Besprechungsraum und hielt das Telefon zwischen Schul
 „Und gestern?“
 
 Daniel schloss kurz die Augen.
+
+Sonntag, achtzehn Uhr.
+
+**Hamburg. Nicht irgendwann.**
+
+Der Termin stand noch in seinem Kalender. Nicht verschoben. Nicht gelöscht. Einfach überlaufen von einer Lagebesprechung, die um 17.20 Uhr begonnen hatte und um 21.40 Uhr noch nicht vorbei gewesen war.
+
+Mara hatte um 18.07 Uhr geschrieben.
+
+**Ich nehme an, heute wird nichts.**
+
+Daniel hatte die Nachricht erst nach neun gesehen.
 
 „Gestern ging nicht.“
 
@@ -1266,6 +1354,10 @@ Er richtete sich auf.
 
 „Gestern.“
 
+„Gestern wann?“
+
+„Vormittags.“
+
 „Und?“
 
 „Zwei Tage mehr. Nicht drei Wochen.“
@@ -1282,15 +1374,97 @@ Er hatte keine Antwort, die nicht dumm klang.
 
 Mara half ihm nicht.
 
-„Ich kläre jetzt Wohnung, Start und Übergabe“, sagte sie. „Nicht weil ich beschlossen habe zu gehen. Weil ich wissen muss, wie die Entscheidung aussieht, wenn ich sie treffe.“
+„Ich habe außerdem mit HR über den Start gesprochen“, sagte sie.
+
+„Warum?“
+
+„Weil sie wissen müssen, wann ich kündigen kann.“
+
+„Das heißt nicht, dass du zusagst.“
+
+„Nein.“
+
+„Und Wohnung?“
+
+Kurze Pause.
+
+„Zwei Besichtigungen angefragt.“
+
+Daniel sagte nichts.
+
+„Nicht unterschrieben“, fügte Mara hinzu. „Nur angefragt.“
 
 „Das klingt ziemlich weit.“
 
 „Ja.“
 
+„Du planst also schon den Umzug.“
+
+„Ich prüfe, wie mein Leben aussieht, wenn ich die Stelle nehme.“
+
+„Ohne mich.“
+
+Mara schwieg kurz.
+
+„Nein“, sagte sie dann. „Ohne deine Entscheidung. Das ist nicht dasselbe.“
+
+Daniel stützte die freie Hand auf den kleinen Tisch.
+
+Der Ausdruck unter seinen Fingern verrutschte.
+
+„Ich wollte das gemeinsam machen.“
+
+„Ich auch.“
+
+„Dann gib mir noch ein bisschen Zeit.“
+
+„Die Zeit ist nicht meine.“
+
+„Du hast doch zwei Tage bekommen.“
+
+„Ja. Und ich benutze sie.“
+
+Daniel sah durch die Glastür in den Besprechungsraum. Berg stand schon am Bildschirm. Lena blätterte in Unterlagen. Jonas zog gerade ein Kabel aus der Tasche.
+
+Dort drinnen wartete eine Lage tatsächlich auf ihn.
+
+Am Telefon wartete Mara nicht mehr.
+
+Beides war vernünftig.
+
+„Was hast du noch geprüft?“ fragte Daniel.
+
+Mara antwortete, als hätte sie die Liste im Kopf.
+
+Übergabe im jetzigen Büro. Kündigungsfrist. Zwei mögliche Wohnungen für die ersten Monate. Pendelzeit. Ob sie die ersten Wochen teilweise aus Berlin arbeiten könnte. Welche Kundentermine im November bereits feststanden.
+
+„Du hast das alles seit gestern gemacht?“
+
+„Nicht alles seit gestern.“
+
+Daniel brauchte eine Sekunde.
+
+„Seit wann dann?“
+
+„Seit ich wusste, dass das Angebot ernst ist.“
+
+„Warum hast du mir das nicht erzählt?“
+
+Mara lachte nicht. „Habe ich. Nicht jede Tabellenzeile.“
+
+Er erinnerte sich an das Abendessen. Team. Berichtslinie. Start. Hamburg.
+
+Er hatte nach Gehalt und Homeoffice gefragt.
+
+Mara hatte längst über ihr Leben gesprochen.
+
+Daniel hatte einen Plan daraus gemacht.
+
 Die Tür zum Besprechungsraum öffnete sich. Jonas steckte den Kopf heraus.
 
 Daniel hob einen Finger.
+
+„Zwei Minuten“, sagte Jonas leise.
 
 Mara hörte vermutlich die Bewegung.
 
@@ -1308,15 +1482,61 @@ Er wollte sagen, dass er das nicht so wollte.
 
 Das stimmte und half niemandem.
 
+„Ich will nicht, dass du glaubst, mir wäre das egal.“
+
+„Glaube ich nicht.“
+
+„Dann warum klingt es so?“
+
+„Weil das nicht das Problem ist.“
+
+Daniel wartete.
+
+„Du findest gerade nur keinen Platz dafür“, sagte sie. „Das ist etwas anderes als egal.“
+
+Der Satz war weniger anklagend, als Daniel erwartet hatte.
+
+Deshalb traf er genauer.
+
+„Ich könnte heute Nacht—“
+
+„Nein.“
+
+„Wieso?“
+
+„Weil du heute Nacht müde bist und ich nicht um halb eins anfangen will, über drei Jahre zu reden, damit wir formal sagen können, wir hätten geredet.“
+
+Daniel schwieg.
+
+Mara sagte: „Ich will eine echte Antwort von dir, wenn du eine hast. Bis dahin treffe ich die Entscheidungen, die nur mir gehören.“
+
+„Und die Zusage?“
+
+„Gehört nicht nur mir. Aber die Frist schon.“
+
+Hinter der Tür begann jemand mit der Besprechung, obwohl Daniel noch draußen stand. Gedämpfte Stimmen. Ein Bildschirmton.
+
 „Ich melde mich, sobald ich etwas Belastbares sagen kann.“
 
-Sie atmete leise aus.
+Mara atmete leise aus.
 
 „Gut.“
 
 „Das klingt nicht gut.“
 
 „Es ist einfach nur die Antwort.“
+
+„Und wenn ich morgen nichts Belastbares habe?“
+
+„Dann entscheide ich mit dem, was ich habe.“
+
+Keine Drohung.
+
+Kein *Dann war’s das.*
+
+Nur dieselbe Logik, mit der Daniel seit Tagen arbeitete.
+
+Unvollständige Information hob eine Frist nicht auf.
 
 Eine Stimme rief Jonas aus dem Raum zurück.
 
@@ -1328,19 +1548,45 @@ Daniel verzog das Gesicht.
 
 „Dann sag mir, wenn es anders ist.“
 
+„Mache ich.“
+
+„Gut.“
+
 Sie legten auf, ohne sich zu verabschieden.
 
-Jonas stand noch in der Tür.
+Daniel blieb noch einen Moment im Flur.
+
+Auf seinem Display stand die Gesprächsdauer. Sieben Minuten.
+
+Der Termin vom Sonntag hatte zwei Stunden bekommen sollen.
+
+Er steckte das Telefon ein.
+
+Jonas stand wieder in der Tür.
 
 „Alles okay?“
 
-Daniel steckte das Telefon ein.
+Daniel sah ihn an.
 
 „Nein.“
 
 Jonas nickte, als wäre das eine ausreichend präzise dienstliche Antwort.
 
 Daniel ging mit ihm hinein.
+
+Berg zeigte gerade auf die neue Projektstruktur.
+
+„Wir fangen mit den offenen Zugängen an.“
+
+Daniel setzte sich.
+
+Sein Telefon blieb in der Tasche.
+
+Mara brauchte ihn für ihre nächsten Schritte nicht mehr.
+
+Das war nicht das Ende ihrer Beziehung.
+
+Nur das Ende der Annahme, dass ihre Entscheidung warten würde, bis Daniel Zeit dafür hatte.
 
 ---
 
@@ -1359,6 +1605,22 @@ Keiner der Punkte war für sich stark.
 Zusammen sahen sie besser aus.
 
 Zu gut, dachte Daniel.
+
+Jonas hatte auf dem großen Bildschirm nicht nur Weber geöffnet, sondern den definierten Kreis um dieselben Zugänge.
+
+Achtzehn Personen.
+
+Nicht Verdächtige.
+
+Personen, deren dienstliche Rollen, Zugänge oder Kommunikationswege innerhalb der vereinbarten Kriterien lagen.
+
+Daniel ließ die Überschrift ändern.
+
+Aus **relevante Personen** wurde **Prüfkreis**.
+
+„Besser?“, fragte Jonas.
+
+„Weniger falsch.“
 
 „Diensthandy“, sagte Lena.
 
@@ -1384,17 +1646,75 @@ Daniel sah auf die Zeitlinie.
 
 „Dann bleibt die Frage, warum.“
 
+Weber bekam eine eigene Zeile im Arbeitsstand.
+
+Nicht rot. Nicht markiert. Nur oben, weil er die meisten Überschneidungen hatte.
+
+Jonas öffnete die erste Verbindung.
+
+Ein Anruf von Webers Diensthandy an eine Nummer, die über Mika in den Fall geraten war.
+
+Dauer: siebenundvierzig Sekunden.
+
+„Wer hatte Bereitschaft?“, fragte Daniel.
+
+„Noch offen.“
+
+„Also offen lassen.“
+
+Zweite Verbindung.
+
+Ein Zugang in der Nacht.
+
+Weber war als Schichtverantwortlicher hinterlegt.
+
+„War er eingeteilt?“
+
+„Nein.“
+
+„Urlaub?“
+
+„Frei.“
+
+Lena sah Daniel an.
+
+„Das ist besser als der Anruf.“
+
+„Ja.“
+
+„Nicht gut.“
+
+„Nein.“
+
 Auf dem zweiten Bildschirm liefen die übrigen Treffer aus der neuen Projektstruktur ein.
 
 Viel Müll.
 
-Ein Fahrer, dessen Name in zwei Systemen unterschiedlich geschrieben war.
+Ein Fahrer, dessen Name in zwei Systemen unterschiedlich geschrieben war. Jonas brauchte zwölf Minuten, um festzustellen, dass beide Schreibweisen dieselbe Person meinten und beide Aufträge regulär waren.
 
-Eine Mitarbeiterin, die fünfmal dieselbe Telefonnummer angerufen hatte, weil die Mailbox nicht funktionierte.
+Eine Mitarbeiterin hatte fünfmal dieselbe Telefonnummer angerufen, weil die Mailbox eines Lieferanten nicht funktionierte.
 
-Ein Zugang, der scheinbar nachts erfolgt war und sich als verspätete Synchronisierung erwies.
+Ein Zugang, der scheinbar nachts erfolgt war, erwies sich als verspätete Synchronisierung eines Lesegeräts.
+
+Ein Mitarbeiter tauchte an zwei relevanten Orten auf, weil er als Springer für genau beide Standorte eingeplant war.
+
+Eine Telefonnummer führte nicht zu einem Kontakt, sondern zu einem gemeinsam genutzten Bereitschaftsgerät.
+
+Ein Fahrzeug war dreimal in einem kritischen Zeitfenster erfasst worden. Es gehörte einem Reinigungsunternehmen, das dort täglich arbeitete.
 
 Jonas strich Dinge weg.
+
+Die Liste wurde länger, bevor sie kürzer wurde.
+
+„Magisch ist anders“, sagte er.
+
+Daniel sah auf die offenen Treffer. „Gut.“
+
+„Du bist der erste Mensch, der sich über schlechte Daten freut.“
+
+„Ich freue mich über erklärbare Daten.“
+
+„Fast dasselbe.“
 
 Daniel blieb bei Weber.
 
@@ -1434,21 +1754,51 @@ Daniel sah wieder auf Weber.
 
 „Wir entscheiden nichts über Schuld. Wir suchen Zusammenhänge.“
 
-Lena sagte nichts.
+„Und jede Suche erzeugt einen Vorgang über Menschen“, sagte Lena.
+
+„Protokolliert und begrenzt.“
+
+„Das macht sie nicht unsichtbar.“
+
+Daniel antwortete nicht.
 
 Es war kein Sieg.
 
 Nur eine Entscheidung.
 
+Er autorisierte den definierten Prüfkreis.
+
 Die nächsten zwei Stunden brachten fast nichts.
+
+Zwanzig Treffer wurden erklärt oder als nicht relevant markiert.
+
+Drei blieben wegen fehlender Rückmeldungen offen.
+
+Weber blieb oben.
 
 Dann fand Jonas einen Resttreffer, den er zuerst weggelegt hatte.
 
+„Ich hatte den als schwach markiert.“
+
+Daniel trat hinter ihn.
+
 Ein Aushilfsfahrer eines anderen Dienstleisters war innerhalb von neun Tagen an zwei Orten registriert worden, die in Mikas Übergaben auftauchten. Beim ersten Mal über einen normalen Auftrag. Beim zweiten gab es keinen passenden Auftrag.
 
-„Kann Zufall sein“, sagte Jonas.
+„Warum weggelegt?“
+
+„Weil Aushilfsfahrer, Dienstleister, zwei Orte. Das ist fast die Definition von herumfahren.“
+
+„Richtig.“
+
+„Der zweite Aufenthalt ist aber nach Ende seiner Schicht.“
 
 Daniel las die Zeiten.
+
+21.38 bis 22.06 Uhr.
+
+Kein Auftrag.
+
+„Kann Zufall sein“, sagte Jonas.
 
 „Prüfen.“
 
@@ -1456,13 +1806,61 @@ Nicht Weber.
 
 Nicht einmal derselbe Subunternehmer.
 
-Eine Stunde später kam eine zweite, unabhängig gewonnene Information hinzu. Das Fahrzeug des Aushilfsfahrers war am Morgen in der Nähe eines angemieteten Lagerraums kontrolliert worden. Bei der Kontrolle war nichts Besonderes aufgefallen. Der Lagerraum gehörte jedoch einer Gesellschaft, die über zwei weitere Ecken an einen bereits bekannten Unterstützerkontakt führte.
+Die erste Rückmeldung war banal.
+
+Der Fahrer behauptete, einen Kollegen abgeholt zu haben.
+
+Der Kollege bestätigte es.
+
+Daniel wollte den Treffer schließen.
+
+Dann fragte Lena: „Welches Fahrzeug?“
+
+Jonas zog die Zuordnung.
+
+Nicht das private Auto des Fahrers.
+
+Ein Transporter des Dienstleisters.
+
+„Warum mit Firmenwagen einen Kollegen privat abholen?“, fragte Daniel.
+
+„Kann immer noch sein.“
+
+„Ja.“
+
+Sie prüften den Einsatzplan.
+
+Der Transporter hätte zu diesem Zeitpunkt bereits auf dem Betriebshof stehen müssen. Rückgabe erst am nächsten Morgen.
+
+Klein.
+
+Aber real.
+
+Daniel ließ den Strang offen.
+
+Eine Stunde später kam eine zweite, unabhängig gewonnene Information hinzu. Das Fahrzeug des Aushilfsfahrers war am Morgen in der Nähe eines angemieteten Lagerraums kontrolliert worden. Routinekontrolle. Keine Festnahme. Keine Auffälligkeit am Fahrzeug.
+
+Der Lagerraum gehörte jedoch einer Gesellschaft, die über zwei weitere Ecken an einen bereits bekannten Unterstützerkontakt führte.
+
+Daniel zog die Verbindung auf den Bildschirm.
+
+Nicht aus dem neuen Projektbestand allein. Registerdaten und die aktuelle Kontrolle bestätigten sie getrennt.
 
 „Jetzt?“ fragte Jonas.
 
 Daniel sah zu Lena.
 
-Sie nickte einmal.
+„Was ist die Gegenlesart?“
+
+„Gesellschaft vermietet Räume. Fahrer hat legitimen Auftrag oder privaten Grund. Alte Unterstützerverbindung ist historisch und ohne aktuellen Bezug.“
+
+„Und der zweite Anker?“
+
+„Aktuelles Fahrzeug am aktuellen Lagerraum außerhalb seines Dienstplans.“
+
+Daniel nickte.
+
+Lena ebenfalls, einmal.
 
 „Jetzt.“
 
@@ -1470,7 +1868,41 @@ Die folgenden Maßnahmen liefen gezielt.
 
 Kein großer Zugriff auf einen ganzen Personenkreis. Kein Bildschirm, der rot blinkte.
 
+Zuerst wurde der tatsächliche Nutzer des Lagerraums bestätigt.
+
+Dann die aktuelle Fahrzeugbewegung.
+
+Dann eine zweite Person, die in den letzten Tagen mehrfach dort gewesen war und bereits in einem anderen aktuellen Prüfstrang auftauchte.
+
+Erst danach trug die Maßnahme.
+
+Weber spielte dabei keine Rolle.
+
+Daniel merkte es und schob den Gedanken weg. Noch war Weber nicht entlastet. Er war nur nicht der Grund für diesen Strang.
+
 Ein Lagerraum wurde überprüft. Zwei Personen wurden angetroffen. Unterlagen und Material darin passten zu einem Vorbereitungsschritt, der für die Veranstaltung relevant war. Spezialisten übernahmen die Bewertung.
+
+Die erste Meldung war vorsichtig.
+
+**Zugangsunterlagen vorhanden. Herkunft ungeklärt.**
+
+Zehn Minuten später:
+
+**Materialbezug zur Veranstaltungslogistik wahrscheinlich. Fachprüfung läuft.**
+
+Jonas stand hinter seinem Stuhl.
+
+„Das sieht gut aus.“
+
+Daniel sah ihn an.
+
+„Für wen?“
+
+Jonas setzte sich wieder.
+
+„Du weißt, was ich meine.“
+
+Daniel wusste es.
 
 Um 18.42 Uhr kam die Rückmeldung:
 
@@ -1479,6 +1911,44 @@ Um 18.42 Uhr kam die Rückmeldung:
 Jonas las den Satz zweimal.
 
 „Das hätten wir ohne den breiten Kreis nicht gesehen.“
+
+Daniel sagte nicht sofort etwas.
+
+Er zog den Weg zurück.
+
+Prüfkreis.
+
+Aushilfsfahrer.
+
+zweiter Aufenthalt.
+
+Firmenfahrzeug.
+
+aktuelle Kontrolle.
+
+Lagerraum.
+
+unabhängige Gesellschaftsverbindung.
+
+Maßnahme.
+
+Kein einzelner magischer Treffer.
+
+Eine Reihe kleiner Dinge, die erst nebeneinander Bedeutung bekamen.
+
+„Wahrscheinlich nicht rechtzeitig“, sagte Daniel.
+
+Lena sah auf die Kette.
+
+„Das ist der Punkt, der für die breite Prüfung spricht.“
+
+Jonas hob den Kopf. „Du sagst das?“
+
+„Ja.“
+
+„Soll ich es aufnehmen?“
+
+„Genieß den Moment.“
 
 Daniel sah auf die Trefferliste.
 
@@ -1490,9 +1960,21 @@ Aber er hatte sie auch nicht hierher geführt.
 
 Nicht direkt.
 
-Daniel dachte trotzdem zuerst an das Lager und an das, was dort nicht mehr passieren würde.
+Trotzdem fühlte sich der Erfolg wie eine Bestätigung der Entscheidung an, den Kreis breiter zu prüfen.
+
+Daniel ließ dieses Gefühl für einen Moment zu.
+
+Draußen waren Menschen nicht in einen Lieferbereich gelangt, für den sie Material vorbereitet hatten.
+
+Ein weiterer Schritt war gestoppt.
+
+Der neue Projektweg hatte etwas sichtbar gemacht, was die engere Prüfung wahrscheinlich verpasst hätte.
 
 Für einen Moment reichte das.
+
+Er dachte nicht an Weber.
+
+Noch nicht.
 
 ---
 
@@ -1518,15 +2000,61 @@ Das Telefon war auf Nils Weber registriert, aber im Nachtdienst als Bereitschaft
 
 Beide Male an andere Mitarbeiter.
 
-„Zugang um 01.14?“ fragte Daniel.
+Daniel nahm das Tablet.
+
+„Unterschriften echt?“
+
+„Personalstelle bestätigt die Schichten. Zwei Mitarbeiter ebenfalls.“
+
+„Kann nachgetragen sein.“
+
+„Kann. Deshalb habe ich die Gerätemeldungen gezogen, soweit der Arbeitgeber sie für die interne Zuordnung hat.“
+
+Jonas öffnete den nächsten Stand.
+
+Das Gerät war zu Schichtbeginn jeweils mit dem Benutzerkonto des Bereitschaftsmitarbeiters angemeldet worden. Kein Beweis über jede Minute. Aber konsistent mit der Übergabeliste.
+
+„Wer hatte es beim Anruf zu Mikas Nummer?“
+
+Jonas nannte einen Namen.
+
+Nicht Weber.
+
+„Warum hat der angerufen?“
+
+„Noch offen.“
+
+Daniel wollte den Punkt nicht sofort schließen.
+
+„Zugang um 01.14?“
 
 „Auch nicht Weber.“
 
 Jonas wischte weiter.
 
-Der Zugangsausweis war personalisiert. Der Kartenleser an der Seitentür hatte jedoch in dieser Nacht im Notbetrieb gearbeitet. Der Sicherheitsdienst hatte mehrere Schichtausweise gesammelt ausgegeben. Video bestätigte: Weber war nicht dort.
+Der Zugangsausweis war personalisiert. Der Kartenleser an der Seitentür hatte jedoch in dieser Nacht im Notbetrieb gearbeitet. Der Sicherheitsdienst hatte mehrere Schichtausweise gesammelt ausgegeben.
 
-Daniel sah auf die beiden Bilder.
+„Wer hat Webers Karte bekommen?“
+
+„Noch wissen wir nur: nicht Weber.“
+
+„Video?“
+
+Jonas öffnete den Ausschnitt.
+
+Die Kamera zeigte die Seitentür schräg. Ein Mann mit Mütze hielt den Ausweis an den Leser. Gesicht nur teilweise sichtbar.
+
+Nicht Weber.
+
+Daniel kannte Weber inzwischen aus dem Personalbild.
+
+Größe, Körperbau, Gang passten nicht.
+
+„Sicherheitsdienst?“
+
+„Hat die Sammelausgabe bestätigt. Protokoll ist schlecht. Drei Karten wurden in derselben Stunde vertauscht.“
+
+Daniel sah auf die zwei Bilder.
 
 Ein Mann mit Mütze.
 
@@ -1534,17 +2062,45 @@ Nicht Weber.
 
 „Warum stand es auf ihm?“
 
-„Weil sein Zugang als Schichtverantwortlicher hinterlegt war.“
+„Weil sein Zugang als Schichtverantwortlicher hinterlegt war und die Karte auf seinen Namen lief.“
 
-„Und die Verbindung zu Mikas Nummer?“
+„Und die zweite Telefonverbindung?“
 
-„Bereitschaftshandy.“
+„Dasselbe Bereitschaftshandy, anderer Schichtmitarbeiter.“
 
 Daniel lehnte sich zurück.
+
+Die drei stärksten Punkte gegen Weber zerfielen nicht auf einmal.
+
+Sie wurden einzeln banal.
+
+Diensthandy: geteilt.
+
+Nachtzugang: falscher Nutzer.
+
+Telefonkontakte: Bereitschaftsdienst.
 
 Die harmlose Erklärung hatte nicht nur existiert.
 
 Sie war richtig gewesen.
+
+Daniel öffnete Webers Schichtplan selbst.
+
+An einem der Abende war Weber nachweislich in einer anderen Niederlassung gewesen. Zugang dort um 20.04 Uhr, Besprechungsprotokoll bis 22.15 Uhr. Die Fahrt zum auffälligen Standort hätte danach zeitlich kaum gepasst.
+
+„Warum hatten wir das gestern nicht?“
+
+Jonas sah ihn an. „Weil wir zuerst die Treffer hatten.“
+
+„Das ist keine Antwort.“
+
+„Weil die andere Niederlassung nicht in unserem ersten Projektkreis lag. Die Personalrückmeldung kam erst heute.“
+
+Daniel nickte.
+
+Der neue Weg war schneller gewesen.
+
+Nicht vollständig.
 
 „Wo ist Weber?“
 
@@ -1562,15 +2118,29 @@ Daniel sah ihn an.
 
 „Sicherheitsprüfung. Unser Vorgang war Teil davon.“
 
+„Nur aus dem Projekt?“
+
+„Vorläufig auch keine Nachtschichten. Arbeitgeberentscheidung.“
+
+„Bezahlt?“
+
+„Weiß ich nicht.“
+
 Lena stand in der Tür.
 
 Sie hatte offenbar genug gehört.
 
-„Der Erfolg bleibt“, sagte Daniel.
+Daniel sah auf die erfolgreiche Maßnahme vom Vorabend, die noch auf seinem zweiten Bildschirm offen war.
+
+„Der Erfolg bleibt“, sagte er.
 
 „Ja.“
 
 „Der andere Treffer war real.“
+
+„Ja.“
+
+„Der breite Prüfkreis hat uns zum Lager gebracht.“
 
 „Ja.“
 
@@ -1594,9 +2164,7 @@ Daniel sah sie an.
 
 „Was soll das heißen?“
 
-„Nichts.“
-
-Es bedeutete natürlich etwas.
+„Dass er nicht ruhig, vernünftig und dankbar reagieren muss, nur damit du den Schaden leichter einsortieren kannst.“
 
 Weber kam nicht ins Amt. Er telefonierte.
 
@@ -1612,7 +2180,15 @@ Seine Stimme war höher, als Daniel erwartet hatte.
 
 „Noch schöner.“
 
-Daniel ließ ihn reden.
+„Sie ist bereits raus.“
+
+„Dann kann ich ja morgen einfach wieder hin, oder?“
+
+Daniel wusste die Antwort nicht.
+
+„Das entscheidet Ihr Arbeitgeber.“
+
+„Natürlich.“
 
 Weber war wütend. Nicht kontrolliert wütend. Er sprang zwischen Vorwürfen, Geld und seinem Dienstplan hin und her.
 
@@ -1624,15 +2200,55 @@ Weber war wütend. Nicht kontrolliert wütend. Er sprang zwischen Vorwürfen, Ge
 
 Daniel sagte nichts.
 
+„Wissen Sie, was mein Chef gesagt hat? Bis das intern geklärt ist, will er mich nicht auf dem Gelände. Geklärt ist es jetzt bei Ihnen. Bei ihm nicht.“
+
+„Die Korrektur enthält, dass sich die Verdachtsmomente gegen Sie nicht bestätigt haben.“
+
+„Verdachtsmomente.“ Weber lachte kurz. „Super Wort.“
+
+Daniel ließ ihn reden.
+
 „Meine Frau denkt jetzt, ich hätte irgendeinen Scheiß gemacht, weil mein Chef mir nicht sagen darf, was los ist. Ich darf ihr also erklären, dass alles okay ist, während ich zu Hause sitze.“
 
 „Herr Weber—“
 
 „Lassen Sie das.“
 
-Die Verbindung brach ab.
+„Ich wollte nur—“
+
+„Was? Sich entschuldigen?“
+
+Daniel schwieg.
+
+Weber wartete.
+
+„Ich kann Ihnen sagen, dass die konkrete Zuordnung falsch war“, sagte Daniel. „Und dass wir die Korrektur weitergegeben haben.“
+
+„Das weiß ich jetzt auch.“
+
+„Mehr kann ich Ihnen im Moment nicht versprechen.“
+
+„Genau das ist ja das Problem.“
+
+Die Verbindung brach nicht sofort ab.
+
+Weber atmete hörbar.
+
+Dann sagte er: „Mein Sohn hat gestern gefragt, warum ich nicht arbeiten darf. Ich hab gesagt, weil Erwachsene manchmal Fehler machen. Er dachte, ich meine mich.“
+
+Daniel schloss kurz die Augen.
+
+Weber fügte sofort hinzu: „Und nein, Sie müssen sich jetzt nicht schlecht fühlen. Davon krieg ich meine Schichten auch nicht zurück.“
+
+Dann legte er auf.
 
 Daniel hielt das Telefon noch am Ohr.
+
+Keine Versöhnung.
+
+Keine Entlastung.
+
+Nur eine Korrektur, die langsamer wirkte als der Verdacht.
 
 Lena setzte sich ihm gegenüber.
 
@@ -1656,15 +2272,55 @@ Der breite Zugriff war entscheidend gewesen.
 
 Beides konnte gleichzeitig stimmen.
 
-Das Problem lag nicht darin, dass die Methode nichts gefunden hatte.
+Er markierte die Punkte, an denen Weber besonders plausibel gewirkt hatte.
 
-Das Problem war, wie leicht Daniel aus dem Erfolg eine Bestätigung für die falsche Person gemacht hatte.
+Diensthandy.
+
+Nachtzugang.
+
+Schichtübersicht.
+
+Bei jedem hatte es eine harmlose Gegenlesart gegeben.
+
+Daniel hatte sie gesehen.
+
+Er hatte sie nicht ignoriert.
+
+Er hatte sie nur schwächer gewichtet, weil die Gefahr des Nicht-Handelns inzwischen schwerer wog.
+
+Das war unangenehmer als ein übersehener Fakt.
+
+Der Fehler lag nicht darin, dass er keine Gegenhypothese gehabt hatte.
+
+Der Fehler lag darin, was sie in seiner Rechnung wert gewesen war.
+
+„Das Problem ist nicht, dass die Methode nichts gefunden hat“, sagte Daniel.
+
+Lena wartete.
+
+„Sie hat etwas gefunden.“
+
+„Ja.“
+
+„Und genau deshalb war es leichter, Weber im Nachhinein als Teil des richtigen Bildes zu behandeln.“
+
+„Ja.“
+
+Daniel sah sie an. „Du könntest irgendwann auch ein anderes Wort sagen.“
+
+„Wenn du etwas Falsches sagst.“
 
 Er öffnete die Quellenhinweise.
 
 Nicht um zu sehen, was dort gestanden hatte.
 
 Sondern was nicht.
+
+Welche Informationen hatten seine Gewichtung vorbereitet, ohne selbst falsch zu sein?
+
+Zum ersten Mal suchte Daniel nicht nur nach dem Leck.
+
+Er suchte nach der Form seiner eigenen Fehlentscheidung.
 
 ---
 
@@ -1682,13 +2338,37 @@ Damals war sie vor allem persönlich gewesen.
 
 Jetzt störte ihn etwas anderes.
 
-Daniel öffnete den alten Vorgang zur Wohnung seiner Mutter nicht. Es gab keinen.
+Er war wegen Weber noch einmal an den Anfang zurückgegangen.
+
+Nicht systematisch.
+
+Keine große Zeitleiste auf dem Wandmonitor.
+
+Einfach die alten Nachrichten, seine Notizen und die Stellen, an denen er im Nachhinein eine Bedeutung gesehen hatte, die damals noch nicht da gewesen war.
+
+Die erste Warnung.
+
+Der gelbe Streifen.
+
+Die Abholung.
+
+Der Briefkasten.
+
+Daniel blieb bei der Uhrzeit hängen.
+
+20.11 Uhr.
 
 Er öffnete seinen Kalender.
 
-Dann die Nachricht von Jana aus jener Woche.
+Der Termin mit Jana stand dort als privater Block. Keine Adresse.
 
-Dann die Zuweisung des späteren Lagerkomplex-Vorgangs.
+Er öffnete die Nachricht von Jana aus jener Woche.
+
+**Bin schon oben. Makler kommt später noch mal durch.**
+
+Dann die Unterlagen zum Lagerkomplex.
+
+Dann die interne Zuweisung des Vorgangs.
 
 Die Reihenfolge lag seit Tagen vor ihm.
 
@@ -1704,9 +2384,41 @@ Danach.
 
 Daniel saß still.
 
-Jemand hatte die Szene im Hausflur auf die Minute genau erfasst, bevor der Fall überhaupt bei ihm lag.
+Er prüfte die Uhrzeiten noch einmal, weil die erste Reaktion zu schnell war.
 
-Daniel schob den Stuhl zurück. Das Rollen über den Boden klang plötzlich zu laut. Er blieb einen Moment stehen, setzte sich wieder.
+Vielleicht hatte der Vorgang schon irgendwo in seinem Arbeitsbereich gelegen.
+
+Nein.
+
+Eingang am nächsten Morgen.
+
+Vielleicht hatte Berg ihm vorher mündlich davon erzählt.
+
+Daniel öffnete seine Termindokumentation und die Nachrichten mit Berg.
+
+Nichts.
+
+Vielleicht war er durch eine andere Aufgabe schon mit der Lageradresse verbunden gewesen.
+
+Er suchte nach Lagerhaus C in seinen älteren Vorgängen.
+
+Kein Treffer.
+
+Einheit 17 ebenfalls nicht.
+
+Die einzige ältere Berührung mit derselben Anlage war der abgeschlossene Betrugsvorgang, den er erst später über die Adresssuche gefunden hatte.
+
+Nicht genug, um ihn als zuständigen Bearbeiter des neuen Falls vorherzusehen.
+
+Daniel schob den Stuhl zurück. Das Rollen über den Boden klang plötzlich zu laut.
+
+Er blieb einen Moment stehen.
+
+Seine rechte Hand lag auf der Tischkante. Die Finger waren kalt.
+
+Er setzte sich wieder.
+
+Jemand hatte die Szene im Hausflur auf die Minute genau erfasst, bevor der Fall überhaupt bei ihm lag.
 
 Das konnte Zufall sein.
 
@@ -1716,11 +2428,25 @@ Jemand konnte viele Menschen beobachten und später die passende Information her
 
 Die Quelle konnte das Detail später von diesem Beobachter erhalten haben.
 
-Daniel ging die Möglichkeiten durch.
+Daniel schrieb die drei Möglichkeiten auf.
 
-Keine war unmöglich.
+Dann eine vierte.
 
-Aber keine erklärte gut, warum genau dieselbe Quelle später internen Zugriff auf seinen problematischen Datenabgleich kannte und ihm Informationen zu genau dem Fall lieferte, den er erst nach dieser Beobachtung bekommen hatte.
+**Zeitangabe später rekonstruiert.**
+
+Das war möglich. Jana hatte einen Makleranruf bekommen. Mails besaßen Zeitstempel. Jemand hätte das 20.11 später aus anderen Daten zusammensetzen können.
+
+Daniel öffnete die erste Quellenachricht im Original.
+
+Sie war eingegangen, bevor er den Zusammenhang zu Lagerhaus C breit geteilt hatte.
+
+Der Privatbezug war schon dort gewesen.
+
+Die spätere Rekonstruktion musste also vor der Nachricht erfolgt sein.
+
+Noch immer möglich.
+
+Nur aufwendiger.
 
 Er rief Jana an.
 
@@ -1762,29 +2488,119 @@ Daniel sah auf die anonyme Nachricht.
 
 20.11 Uhr.
 
-„Ja.“
+„Warst du da schon draußen?“
 
-„Und?“
+„Ich stand vor dem Haus. Du warst Richtung U-Bahn.“
 
-„Nichts.“
+„Sicher?“
 
-„Daniel.“
+„Weil ich beim Telefonieren fast in diesen kaputten Blumenkübel gelaufen bin. Ja.“
 
-„Ich melde mich später.“
+Daniel erinnerte sich an den Kübel. Grauer Beton, abgesplitterte Ecke neben der Haustür.
 
-„Du meldest dich seit drei Wochen später.“
+„Und das Namensschild?“
 
-Der Satz traf anders als sonst.
+„Was ist damit?“
 
-Er legte nicht sofort auf.
+„Wann habe ich es festgedrückt?“
+
+„Bevor wir raus sind.“
+
+„Ungefähr?“
+
+„Zwei Minuten vorher? Drei? Warum?“
+
+Damit passte die Uhrzeit nicht nur zu einer nachträglich sichtbaren Mail.
+
+Sie passte zu einem kurzen Vorgang im Hausflur, den der Makler nicht gesehen hatte und der in keiner Nachricht beschrieben war.
+
+„Hat der Makler damals mitbekommen, dass ich am Briefkasten war?“
+
+„Nein. Der war da schon weg.“
+
+Daniel sagte nichts.
+
+„Was ist los?“ fragte Jana.
+
+„Noch nichts, was ich dir sauber erklären kann.“
+
+„Das ist eine deiner schlechtesten Antworten.“
 
 „Ich weiß.“
 
-Jana sagte nichts mehr dazu.
+„Dann versuch eine bessere.“
 
-Nach dem Gespräch öffnete Daniel den internen Zeitstempel der Fallzuweisung.
+Daniel sah auf die vier Erklärungen auf seinem Zettel.
 
-Berg hatte den Vorgang am folgenden Vormittag zugeordnet.
+„Jemand wusste etwas über den Abend, bevor ich einen Fall bekommen habe, bei dem dieselbe Person später wieder aufgetaucht ist.“
+
+Jana schwieg.
+
+„Person?“
+
+„Quelle.“
+
+„Und du glaubst, jemand hat dich schon vorher beobachtet.“
+
+Daniel antwortete nicht sofort.
+
+„Ich prüfe genau das.“
+
+„Das heißt bei dir ja.“
+
+„Nein. Das heißt, die Reihenfolge stimmt nicht zu meiner bisherigen Erklärung.“
+
+Jana seufzte.
+
+„Gut. Mehr weiß ich nicht. Der Anruf war 20.11, die Mail 20.13, und du hast dieses blöde Schild kurz vorher festgedrückt.“
+
+„Danke.“
+
+„Und?“
+
+„Das reicht.“
+
+„Daniel.“
+
+Er wollte wieder sagen, er melde sich später.
+
+Der Satz lag schon bereit.
+
+Er sagte ihn nicht.
+
+„Ich weiß noch nicht, was es bedeutet.“
+
+„Okay.“
+
+„Aber es ist wichtig.“
+
+„Auch okay.“
+
+„Ich rufe dich an, wenn ich mehr habe.“
+
+„Dann sag diesmal nicht später.“
+
+Daniel musste trotz allem kurz lächeln.
+
+„Mache ich nicht.“
+
+Nach dem Gespräch legte er die Zeitpunkte nebeneinander.
+
+Abend bei Jana.
+
+20.11 Uhr Briefkasten/Makleranruf.
+
+Folgender Vormittag: Berg weist ihm den Lagerkomplex zu.
+
+Später: kleiner Vorfall.
+
+Danach: erste anonyme Nachricht mit dem Privatdetail.
+
+Später: Quelle kennt seinen problematischen Datenabgleich.
+
+Er markierte keine Verbindung als bewiesen, die nicht bewiesen war.
+
+Aber die alte Erklärung – Quelle beobachtet Daniel, weil er während des Falls wichtig wird – passte nicht mehr.
 
 Jemand, dessen Beobachtung später bei der Quelle gelandet war, hatte Daniel vorher im Blick gehabt.
 
@@ -1802,13 +2618,53 @@ Nichts sah nach einem Plan aus.
 
 Das machte es schlimmer.
 
+Er stand wieder auf.
+
+Diesmal ging er bis zur Tür.
+
+Draußen saß Jonas zwei Räume weiter und tippte. Lena war nicht zu sehen. Bergs Tür war geschlossen.
+
+Daniel blieb im Türrahmen stehen.
+
+Wenn die Quelle bereits vor dem Fall an ihm interessiert gewesen war, veränderte das den Kreis der Fragen.
+
+Nicht automatisch den Kreis der Verdächtigen.
+
+Er ging zurück zum Tisch.
+
+Die erste Frage, die er bisher verfolgt hatte, lautete:
+
+**Wer konnte diese Fallinformation kennen?**
+
+Darunter schrieb er eine zweite:
+
+**Wer konnte mich vorher beruflich einschätzen?**
+
+Dann eine dritte:
+
+**Wer konnte vor der Fallzuweisung wissen oder beeinflussen, dass ich relevant werden würde?**
+
+Beim dritten Satz hielt er inne.
+
+*Beeinflussen* war zu viel.
+
+Er strich das Wort durch.
+
+**Wer konnte vor der Fallzuweisung erwarten, dass ich relevant werden würde?**
+
+Besser.
+
+Noch immer groß.
+
+Aber jetzt war es die richtige Größe des Problems.
+
 Er öffnete einen neuen Vermerk zur Quellenprüfung und schrieb zuerst:
 
 **Beobachtung vor Fallbefassung.**
 
 Dann löschte er den Satz wieder.
 
-Zu früh.
+Zu endgültig.
 
 Er wusste noch nicht, ob die Beobachtung gezielt für diesen Fall erfolgt war.
 
@@ -1820,11 +2676,33 @@ Er speicherte den Vermerk nicht im breiten Quellenordner.
 
 Nur in seinem engsten Arbeitsstand.
 
+Der Cursor blieb danach im leeren Feld stehen.
+
+Daniel legte beide Hände auf den Tisch.
+
+Seine Atmung war flach. Er merkte es erst, als er bewusst ausatmete.
+
+Das war kein Beweis dafür, dass jemand jede seiner Entscheidungen geplant hatte.
+
+Kein Beweis für Heller.
+
+Kein Beweis für Berg.
+
+Kein Beweis für Lena.
+
+Nur dafür, dass Daniels bisherige Chronologie falsch gewesen war.
+
+Die Quelle war nicht erst zu ihm gekommen, nachdem er im Fall eine Grenze überschritten hatte.
+
+Irgendetwas an Daniel war vorher schon relevant gewesen.
+
 Dann stellte er eine andere Frage als bisher.
 
 Nicht: Wer kannte den Fall?
 
 Wer kannte ihn?
+
+Und warum war das schon wichtig, bevor Daniel selbst wusste, dass es einen Fall gab?
 
 ---
 
