@@ -28,23 +28,71 @@ Die Tür fiel zu.
 
 Diesmal rastete sie ein.
 
-Jonas sah den Verwalter an.
+Daniel zog am Griff.
 
-„Und jetzt?“
+Zu.
 
-„Jetzt schließt sie wieder.“
+Er drückte die Klinke, ließ die Tür noch einmal ins Schloss fallen und sah auf die Falle. Keine sichtbare Beschädigung. Kein verbogenes Metall. Der Streifen hatte nur verhindert, dass sie vollständig einrastete.
 
-„Das war nicht die Frage.“
+„Wie lange kann der da drin gewesen sein?“ fragte Jonas.
 
-Der Mann steckte die Hände in die Taschen seiner Arbeitsjacke. „Hier sind dreiundzwanzig Einheiten. Handwerker, Onlinehändler, Veranstaltungssachen. Wenn einer ständig raus und rein muss, klemmt er sich halt was in die Tür.“
+Der Verwalter hob die Schultern. „Eine Stunde. Einen Tag. Keine Ahnung.“
 
-„Ist das erlaubt?“
+„Wann waren Sie zuletzt hier hinten?“
+
+„Heute früh. Aber ich gehe nicht jede Tür einzeln ab.“
+
+Daniel sah auf den schmalen Spalt zwischen Tür und Rahmen. Von außen konnte man den Kunststoff kaum erkennen, solange die Tür offen stand.
+
+„Wer benutzt die Tür?“
+
+„Alle, die hinten raus müssen. Müll, Anlieferung, Raucher. Nordtür nennen wir die intern.“
+
+„Schlüssel?“
+
+„Von außen Chip. Von innen normal raus.“
+
+„Und wenn sie so blockiert ist?“
+
+„Dann kommt jeder rein, der zieht.“
+
+Jonas sah Daniel an.
+
+Das war der Satz, der sofort größer klang als der gelbe Streifen selbst.
+
+Daniel blieb bei der Tür.
+
+„Hat jemand heute einen offenen Zugang gemeldet?“
 
 „Nein.“
 
-„Passiert es?“
+„Gestern?“
 
-„Ja.“
+„Nein.“
+
+„Fehlermeldung vom Schloss?“
+
+„Nicht dass ich wüsste.“
+
+Der Verwalter wirkte inzwischen weniger gelangweilt. Noch nicht beunruhigt. Eher so, als hätte die Tür begonnen, ihm persönlich unangenehm zu werden.
+
+Jonas deutete auf den Kunststoff.
+
+„Ist das von hier?“
+
+Der Verwalter beugte sich herunter. „Kann von Umreifungsband sein. Bei den Paletten liegt sowas dauernd rum.“
+
+Daniel sah zu den Müllcontainern. Daneben lagen zwei zusammengepresste Kartons und ein Stück gelbes Band, breiter als der Streifen in seiner Hand.
+
+„Also lokale Erklärung“, sagte er.
+
+Jonas antwortete nicht sofort.
+
+„Möglich.“
+
+„Mehr nicht.“
+
+„Im Moment.“
 
 Daniel fotografierte den Streifen auf dem Boden und dann das Schloss.
 
@@ -56,6 +104,12 @@ Zwölf Akkupakete für gewerbliche Funkgeräte. Eine Lieferadresse, die vor sieb
 
 Bis vor zehn Minuten hatte Daniel nichts gesehen, was den Weg an den Stadtrand rechtfertigte außer dem Wunsch, einen dünnen Vorgang irgendwann schließen zu können.
 
+Jetzt gab es eine offene Tür.
+
+Das war mehr als vorher.
+
+Aber noch keine Geschichte.
+
 Einheit 17 lag zwanzig Meter weiter.
 
 Das Rolltor war geschlossen. Neben der Tür klebte ein sauberes Firmenschild, schwarz auf weiß. Kein improvisierter Name, kein überklebter Briefkasten, keine Kabel, die irgendwohin führten, wo sie nicht hingehörten.
@@ -63,6 +117,10 @@ Das Rolltor war geschlossen. Neben der Tür klebte ein sauberes Firmenschild, sc
 Der Verwalter schloss auf.
 
 Drinnen standen Metallregale, Kartons, zwei leere Paletten und ein Schreibtisch, auf dem eine Kaffeetasse mit eingetrocknetem Rand stand. Es roch nach Pappe und kaltem Beton.
+
+Daniel blieb im Eingang stehen.
+
+Ein Regal war fast leer. Im nächsten lagen Kabelrollen, mehrere kleinere Kartons und zwei offene Verpackungen mit Ladegeräten. Nichts davon musste zu den bestellten Akkus gehören. Nichts davon sah improvisiert aus.
 
 Jonas sah sich um.
 
@@ -80,6 +138,8 @@ Daniel wusste es.
 
 Der Verwalter zeigte ihnen die Unterlagen zur Einheit. Mietvertrag seit fast zwei Jahren. Keine Zahlungsrückstände. Zwei eingetragene Ansprechpartner. Lieferungen unregelmäßig, meistens tagsüber.
 
+Daniel blätterte nicht nur die aktuelle Seite durch. Die letzten Wochen sahen ähnlich aus. Kartons rein, Kartons raus. Keine auffälligen Nachtzeiten. Keine plötzlich vervielfachte Nutzung.
+
 „Gestern irgendwas Besonderes?“ fragte Daniel.
 
 „Nicht dass ich wüsste.“
@@ -88,9 +148,21 @@ Der Verwalter zeigte ihnen die Unterlagen zur Einheit. Mietvertrag seit fast zwe
 
 „Hier fahren den ganzen Tag Fahrzeuge.“
 
+„Abends?“
+
+„Auch. Manche Mieter arbeiten bis spät.“
+
 Jonas deutete zur Rückseite. „Und die Tür?“
 
 Der Verwalter schüttelte den Kopf. „Hab ich heute zum ersten Mal gesehen.“
+
+„Hat jemand Grund, die offen zu halten?“
+
+„Bequemlichkeit.“
+
+„Sonst?“
+
+„Was soll sonst sein?“
 
 Daniel sah auf die Regale.
 
@@ -106,7 +178,37 @@ Es gab auch keinen Grund, ihm nicht zu glauben.
 
 „Vorne. Hinten nur der Hof bis zur Rampe.“
 
-Daniel nickte.
+„Zeigt die Kamera die Nordtür?“
+
+„Nicht direkt. Den Bereich davor teilweise.“
+
+Jonas sah zu Daniel. „Dann ziehen wir das.“
+
+„Wir sichern es“, sagte Daniel.
+
+Der Unterschied war klein. Trotzdem wollte er ihn hören.
+
+„Und die Chips?“ fragte Jonas.
+
+Daniel sah zum Verwalter.
+
+„Können Sie uns sagen, welche regulären Zutritte es seit gestern Mittag an der Nordtür gab?“
+
+„Ja.“
+
+„Dann bitte nur den Zeitraum. Erst mal keine Ausweitung.“
+
+Jonas steckte die Hände in die Jackentaschen.
+
+„Wenn jemand ohne Chip durch die offene Tür kommt, sehen wir den natürlich nicht.“
+
+„Richtig.“
+
+„Was die Liste ziemlich nutzlos macht.“
+
+„Nein. Sie sagt uns, wer regulär drin war. Mehr nicht.“
+
+Daniel nickte dem Verwalter zu.
 
 „Sichern Sie bitte den Zeitraum ab gestern Mittag. Und die Tür lassen Sie prüfen.“
 
@@ -120,6 +222,8 @@ Der Verwalter wurde vorsichtig. „Ist etwas passiert?“
 
 Auf dem Weg zurück zum Wagen blieb Jonas noch einmal an der Metalltür stehen.
 
+Er zog am Griff. Die Tür blieb zu.
+
 „Wenn einer die absichtlich offen hält, ist das schon mehr als zwölf Akkus.“
 
 „Ja.“
@@ -127,6 +231,14 @@ Auf dem Weg zurück zum Wagen blieb Jonas noch einmal an der Metalltür stehen.
 „Aber nicht viel mehr.“
 
 „Richtig.“
+
+„Und wenn das Band einfach von einer Palette stammt?“
+
+„Dann hat jemand gegen die Hausregeln verstoßen und wir haben eine offene Tür gesehen.“
+
+„Langweilig.“
+
+„Wäre mir recht.“
 
 Jonas sah auf den gelben Streifen, den Daniel in einem kleinen Beutel verstaut hatte.
 
@@ -146,17 +258,29 @@ Außentür Rückseite Lagerhaus C schloss aufgrund eines eingelegten Kunststoffs
 
 Er las den letzten Satz noch einmal.
 
+*Keine weiteren Auffälligkeiten.*
+
+Die Formulierung war korrekt. Sie bedeutete nicht, dass nichts passiert war. Nur, dass sie nichts Weiteres festgestellt hatten.
+
+Daniel ergänzte die gesicherte Video- und Zutrittsauswertung als offenen Prüfpunkt.
+
 Dann speicherte er.
 
 „Keine Eskalation?“ fragte Jonas.
 
 „Weswegen?“
 
+„Offene Außentür an einem Lager, das sowieso in einem dünnen Vorgang hängt.“
+
+„Dünn plus dünn wird nicht automatisch dick.“
+
 Jonas startete den Motor.
 
 „Wollte nur hören, ob du heute noch derselbe bist.“
 
 Daniel sah aus dem Seitenfenster auf Lagerhaus C.
+
+Der gelbe Streifen lag jetzt in seiner Tasche. Die Nordtür war wieder zu. Hinter den grauen Wänden liefen die normalen Dinge weiter, die in solchen Anlagen immer liefen.
 
 „Fahr.“
 
@@ -194,13 +318,37 @@ Daniel drückte auf die Zwei.
 
 Die Türen schlossen sich wieder.
 
-Der gelbe Kunststoffstreifen.
+Er las nur die erste Zeile.
 
-Der Verwalter hatte ihn gesehen. Jonas. Daniel selbst. Vielleicht jemand aus einem Büro mit Zugriff auf den gerade angelegten Vorgang, falls der Eintrag schon weitergelaufen war.
+Nordtür.
 
-Aber die Nachricht war eingegangen, bevor Daniel den Vorgang im System vollständig abgelegt hatte.
+Der Verwalter hatte den Begriff benutzt. Jonas hatte ihn gehört. Daniel auch. Im System stand zu diesem Zeitpunkt nur *Außentür Rückseite Lagerhaus C*.
 
-Er prüfte die Uhrzeit.
+Der gelbe Kunststoffstreifen war fotografiert und eingetütet. Noch nicht ausgewertet. Kein Pressebericht. Kein Einsatzfunk, der in irgendeiner größeren Runde gelaufen war.
+
+Daniel öffnete die Zeitangabe seines eigenen Vermerks.
+
+Die Nachricht war früher eingegangen, als der vollständige Eintrag gespeichert worden war.
+
+Das schloss einen internen Weg nicht aus. Jonas hatte telefoniert. Der Verwalter ebenfalls. Jemand konnte die Situation gesehen haben. Ein Foto konnte schneller weitergegeben werden als ein Vorgang.
+
+Aber die einfache Erklärung wurde schlechter.
+
+Daniel las die zweite Zeile.
+
+Morgen. 14.00 bis 14.30 Uhr. Abholung. Nicht auf Einheit 17 gebucht.
+
+Prüfbar.
+
+Die dritte Zeile war etwas anderes.
+
+Öffentliche Veranstaltung in Berlin.
+
+Groß genug, um bedrohlich zu klingen. Unscharf genug, um fast überallhin zu passen.
+
+Daniel markierte sie im Kopf nicht als Information.
+
+Behauptung.
 
 Dann den Briefkasten.
 
@@ -211,6 +359,36 @@ Er hatte nicht auf die Uhr gesehen, als Jana den Anruf des Maklers angenommen ha
 Das bedeutete nichts.
 
 Eine Uhrzeit konnte geraten sein. Ein Hausflur konnte beobachtet werden. Das Namensschild war von außen sichtbar, wenn man im Gebäude stand.
+
+Aber niemand aus Lagerhaus C hatte mit seinem Briefkasten zu tun.
+
+Daniel merkte, dass er den Atem angehalten hatte.
+
+Er ließ die Luft langsam aus.
+
+Der Aufzug öffnete sich wieder im zweiten Stock.
+
+Diesmal stieg er aus.
+
+Im Flur blieb er kurz vor einer Glastür stehen und öffnete Janas Kontakt.
+
+Er tippte nichts.
+
+Wenn er jetzt fragte, ob sie jemandem von seinem Besuch erzählt hatte, erzeugte er aus einem ungeklärten Satz sofort eine private Lage. Vielleicht zu Recht. Vielleicht wegen einer Nachricht, deren Absender genau diese Reaktion wollte.
+
+Er schloss den Kontakt wieder.
+
+Der gelbe Kunststoffstreifen.
+
+Der Verwalter hatte ihn gesehen. Jonas. Daniel selbst. Vielleicht jemand aus einem Büro mit Zugriff auf den gerade angelegten Vorgang, falls der Eintrag schon weitergelaufen war.
+
+Aber die Nachricht war eingegangen, bevor Daniel den Vorgang im System vollständig abgelegt hatte.
+
+Er prüfte die Uhrzeit noch einmal.
+
+Dann den Briefkasten.
+
+20.11 Uhr.
 
 Daniel ging zurück in den zweiten Stock.
 
@@ -246,7 +424,31 @@ Daniel sagte nichts weiter.
 
 Daniel ging in sein Büro und schloss die Tür.
 
-Er nahm Papier und schrieb drei Fragen auf.
+Er legte das private Telefon nicht auf den Tisch. Er hielt es in der Hand, während er den Rechner entsperrte.
+
+Zuerst suchte er nicht nach der Abholung.
+
+Er suchte nach Möglichkeiten, wie jemand die erste Zeile ohne unmittelbare Nähe zum Vorfall hätte rekonstruieren können.
+
+War die Nordtür öffentlich bezeichnet? Auf der Website des Vermieters nicht. In einem Lageplan, der offen im Eingangsbereich hing, vielleicht. Hatte jemand ein Foto davon online gestellt? Keine schnelle Spur.
+
+Der gelbe Streifen war noch schlechter. Sichtbar nur für Menschen, die an der Tür gewesen waren oder ein Bild davon gesehen hatten.
+
+Daniel notierte keine Schlussfolgerung.
+
+Nur Wege.
+
+**Vor Ort gesehen.**
+
+**Von Beteiligtem erfahren.**
+
+**Interner Informationsweg.**
+
+**Gezielte Beobachtung.**
+
+Vier Möglichkeiten. Keine davon war angenehm.
+
+Dann nahm er Papier und schrieb drei Fragen auf.
 
 **1. Ist die Information zum Lager echt?**
 
@@ -268,6 +470,20 @@ Auch das war nicht besser.
 
 Jana. Mara. Der Makler möglicherweise. Jeder, der ihm gefolgt war.
 
+Daniel sah auf das private Telefon.
+
+Die Nachricht verband diese drei Ebenen so, als gehörten sie selbstverständlich zusammen.
+
+Genau das durfte er nicht übernehmen.
+
+Der Vorfall konnte echt sein und die Deutung falsch.
+
+Die Abholung konnte stimmen und nichts mit einer Gefahr zu tun haben.
+
+Der Briefkasten konnte Beobachtung sein, ohne dass Jana bedroht war.
+
+Drei Wahrheitsfragen. Nicht eine Geschichte.
+
 Daniel legte den Stift hin.
 
 Die naheliegende Reaktion wäre gewesen, die Nachricht sofort breit zu teilen. Quelle, IT, Sicherheitsbereich, komplette Runde.
@@ -279,6 +495,20 @@ Wenn jemand aus dem eigenen System Informationen abgriff, würde er damit nur ze
 Wenn die Nachricht ein Hoax war, gab es keinen Grund, aus vier Zeilen eine Lage zu machen.
 
 Wenn sie echt war, hatte er bis morgen Nachmittag Zeit, einen Teil davon zu prüfen.
+
+Er kopierte die ersten drei Zeilen in einen separaten Arbeitsstand.
+
+Die letzte nicht.
+
+Sein Finger blieb einen Moment über der Tastatur.
+
+Das war bereits eine Entscheidung.
+
+Nicht, die Information zu verheimlichen. Nur, sie noch nicht in denselben Kreis zu geben wie die überprüfbare Behauptung.
+
+Er schrieb daneben:
+
+**Privatbezug separat. Herkunft ungeklärt.**
 
 Es klopfte.
 
@@ -304,6 +534,18 @@ Daniel sah sie ohne Ton.
 
 Lieferwagen. Kleintransporter. Ein schwarzer Kombi. Ein Mann mit Kapuze, der eine Palette zog. Nichts, was eine Geschichte erzählte, solange man keine daraus machte.
 
+Sie sprangen zwischen Zeitfenstern. Vormittag. Nachmittag. Früher Abend.
+
+Jonas hatte die bekannten Mieterfahrzeuge markiert, aber Daniel ließ die Markierungen ausblenden.
+
+„Warum?“
+
+„Weil ich erst sehen will, was wirklich auffällt.“
+
+„Und?“
+
+„Noch nichts.“
+
 Um 18.07 Uhr hielt ein grauer Kastenwagen für vier Minuten im Rand des Bildes.
 
 Jonas stoppte.
@@ -317,6 +559,20 @@ Jonas stoppte.
 Daniel lehnte sich näher zum Bildschirm.
 
 Die Rückseite des Fahrzeugs war unscharf. Das Kennzeichen nicht lesbar.
+
+Der Fahrer war nicht zu sehen. Nur einmal ging die hintere Tür auf und wieder zu, teilweise außerhalb des Kamerawinkels.
+
+„Zeitbezug zur offenen Nordtür?“ fragte Daniel.
+
+„Können wir nicht sauber herstellen. Kamera sieht die Tür nicht.“
+
+„Dann nicht verbinden.“
+
+Jonas sah ihn an.
+
+Daniel wusste, wie der Satz klang. Fast übervorsichtig.
+
+„Noch nicht.“
 
 „Nicht hochrechnen“, sagte er.
 
@@ -354,6 +610,8 @@ Beides wusste jemand.
 
 Nur eines davon gehörte zu einem Fall.
 
+Und selbst dort wusste Daniel noch nicht, was es bedeutete.
+
 ---
 
 ## 9
@@ -389,6 +647,40 @@ Lena hob den Blick.
 „Dann können wir das im Moment nicht prüfen.“
 
 Daniel nickte.
+
+Lena nahm einen Stift und zog auf einem leeren Blatt drei Spalten.
+
+**Behauptung. Prüfmöglichkeit. Ergebnis.**
+
+„Die Quelle bekommt keine eigene Spalte“, sagte sie.
+
+„Warum?“
+
+„Weil sie kein Ergebnis ist.“
+
+Daniel sah auf die erste Zeile der Nachricht.
+
+„Nordtür und gelber Streifen?“
+
+„Bestätigt als Beobachtung. Nicht bestätigt ist die Behauptung, dass es kein Zufall war.“
+
+Daniel schrieb es auf.
+
+„Abholung?“
+
+„Offen.“
+
+„Öffentliche Veranstaltung?“
+
+„Zu unscharf.“
+
+Lena schob das Blatt zu ihm.
+
+„So. Jetzt haben wir weniger Thriller und mehr Arbeit.“
+
+„Enttäuschend.“
+
+„Du verkraftest es.“
 
 Die Tür ging auf.
 
@@ -452,6 +744,24 @@ Lena sah zu ihm.
 
 Es wurde still.
 
+Daniel zog den Laptop näher.
+
+„Woher hast du das?“
+
+„Noch nicht nur aus dem Portal. Ich habe beim Kurierdienst zurückgerufen.“
+
+„Über welche Nummer?“
+
+„Öffentliche Zentrale. Nicht die im Buchungseintrag.“
+
+„Wer hat dir die Auskunft gegeben?“
+
+„Disposition. Ich habe die Auftragsnummer genannt, keine Quelle, keine Bedrohung.“
+
+Daniel nickte.
+
+Das war besser.
+
 „Warum läuft die Abholung dann über 16?“ fragte Daniel.
 
 „Im Auftrag steht: Zugang Rampe Nord, Kunde Einheit 16. Rechnungsempfänger ist aber die Handelsfirma aus 17.“
@@ -464,6 +774,30 @@ Es wurde still.
 
 „Kann auch sein.“
 
+„Was sagt der Kurier?“
+
+„Kunde hat die Rampe so angegeben. Für die ist das nur Abholort plus Rechnungsempfänger.“
+
+„Wer hat gebucht?“
+
+Jonas drehte den Bildschirm zurück. „Telefonisch ergänzt, nachdem der Auftrag online angelegt war. Name passt zu einem Ansprechpartner aus Einheit 17.“
+
+Lena hob den Stift.
+
+„Passt oder ist bestätigt?“
+
+Jonas hielt kurz inne.
+
+„Passt. Noch nicht unabhängig bestätigt.“
+
+„Dann schreib genau das.“
+
+Daniel sah zu Lena.
+
+Sie sah nicht zurück.
+
+Jonas tippte.
+
 Daniel nahm das Blatt mit der Nachricht.
 
 **Morgen zwischen 14.00 und 14.30 Uhr wird dort eine Abholung stattfinden, die nicht auf Einheit 17 gebucht ist.**
@@ -475,6 +809,38 @@ Nicht irgendwann am Nachmittag.
 14.20 Uhr.
 
 Falsche Einheit. Richtiger Rechnungsempfänger.
+
+„Noch eine Ebene“, sagte Daniel.
+
+Jonas wusste, was er meinte.
+
+Er rief den Verwalter erneut an und ließ sich bestätigen, dass Einheit 16 die Rampe tatsächlich für externe Abholungen mitnutzen durfte. Keine geheime Zufahrt. Kein außergewöhnlicher Zugang. Eine organisatorische Vereinfachung, die mehrere Mieter nutzten.
+
+Das machte die Buchung harmloser.
+
+Und die Vorhersage nicht weniger präzise.
+
+„Kann die Firma aus 17 regelmäßig über 16 buchen?“ fragte Daniel.
+
+Jonas prüfte die letzten drei Monate.
+
+„Einmal vorher. Vor sechs Wochen. Ähnliche Konstellation.“
+
+Lena sah zu Daniel.
+
+„Das spricht gegen die besondere Bedeutung der falschen Einheit.“
+
+„Ja.“
+
+„Und für die Information der Quelle.“
+
+„Auch.“
+
+Das war das Problem.
+
+Mit jedem harmlosen Detail wurde die konkrete Abholung weniger verdächtig.
+
+Mit jedem bestätigten Detail wurde der Absender schwerer zu ignorieren.
 
 Lena sah ihn an.
 
@@ -510,6 +876,22 @@ Jonas sah zwischen beiden hin und her.
 
 „Weil es öfter stimmt“, sagte Lena.
 
+Daniel nahm Lenas Dreispaltenblatt.
+
+Bei der Abholung schrieb er unter **Ergebnis**:
+
+**Zeitfenster bestätigt. Buchung nicht auf 17. Rechnungsempfänger 17. Bedeutung offen.**
+
+Daneben, unter die Quellenfrage:
+
+**Zugang zu nicht öffentlichen Buchungsdetails sehr wahrscheinlich. Herkunft ungeklärt.**
+
+Er las beide Sätze nacheinander.
+
+Der erste betraf den Fall.
+
+Der zweite ein neues Problem.
+
 Daniel öffnete die bisherigen Vorgangsnotizen.
 
 „Wir stufen den Sachverhalt hoch. Regulär. Abholung morgen absichern und danach sauber prüfen, wohin der Weg führt.“
@@ -518,7 +900,17 @@ Daniel öffnete die bisherigen Vorgangsnotizen.
 
 „Nur das, was mit dem jetzigen Stand trägt.“
 
-Jonas nickte.
+„Was heißt das für morgen?“
+
+„Kurier und Abholpunkt im zulässigen Rahmen im Blick. Keine Durchsuchung, nur weil die Quelle behauptet, dass mehr dahintersteckt.“
+
+„Und wenn der Koffer danach weg ist?“
+
+Daniel sah ihn an.
+
+„Dann ist ein Koffer weg, solange wir nicht mehr haben.“
+
+Jonas gefiel die Antwort nicht. Er nickte trotzdem.
 
 Lena blieb sitzen, als er den Raum verließ.
 
@@ -550,6 +942,30 @@ Daniel dachte an den Briefkasten.
 
 „Nein.“
 
+Lena sagte eine Weile nichts.
+
+„Gehört der private Teil zur Behauptung über morgen?“
+
+„Nicht beweisbar.“
+
+„Dann behandel ihn auch nicht so.“
+
+„Tue ich nicht.“
+
+„Du hast ihn aber vor mir entfernt.“
+
+Daniel sah auf den abgeschnittenen Rand.
+
+„Weil ich nicht weiß, wie weit der Informationsweg reicht.“
+
+„Das kann ein guter Grund sein.“
+
+„Klingt nicht so.“
+
+„Ist auch kein Freibrief.“
+
+Daniel lehnte sich zurück.
+
 Lena ließ sich mit der Antwort zufrieden geben. Vorerst.
 
 „Dann trenn das sauber“, sagte sie. „Fall und Quelle.“
@@ -562,7 +978,17 @@ Beim zweiten schrieb er nur:
 
 **Quelle unbekannt. Zugriffsnähe ungeklärt. Eigenes Risiko.**
 
-Er speicherte beide getrennt.
+Er fügte die private Zeile dort nicht wörtlich ein. Nur den Hinweis, dass ein personenbezogener Privatbezug vorlag und gesondert gesichert war.
+
+Dann speicherte er beide getrennt.
+
+Auf dem Tisch blieb Lenas Dreispaltenblatt liegen.
+
+Behauptung. Prüfmöglichkeit. Ergebnis.
+
+Bei der Quelle selbst stand noch immer nichts, das Vertrauen rechtfertigte.
+
+Nur Wahrheit.
 
 ---
 
