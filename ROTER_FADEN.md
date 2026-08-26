@@ -121,6 +121,8 @@ Noch nicht festlegen:
 
 Die konkrete Rollenentscheidung erfolgt erst bei der Figurenkonkretisierung. Auf Ereignis- und Beat-Ebene muss aber bereits berücksichtigt werden, dass Daniel spätestens ab der Romanmitte **nicht mehr nur beruflich und abstrakt betroffen** ist.
 
+Die Bezugsperson braucht später **eigene Agency**: Sie soll selbst wahrnehmen, entscheiden, verschweigen, widersprechen oder handeln können. Sie darf jedoch **nicht künstlich als heimliche Mitverschwörerin oder bequemer Informationskanal der Quelle** konstruiert werden, nur um einen zusätzlichen Twist zu erzeugen.
+
 ## Daniels Wahrnehmung unter Druck
 
 Der Psychothriller braucht keine beliebige „unzuverlässige Wahrnehmung“ und keine Halluzinationsmechanik.
@@ -130,6 +132,48 @@ Stattdessen gilt:
 > **Motiviertes Framing:** Daniel sieht reale Fakten, gewichtet mehrdeutige Informationen unter wachsendem Druck aber zunehmend zugunsten der bedrohlicheren beziehungsweise handlungsorientierten Lesart.
 
 Früh erkennt und korrigiert er dieses Framing noch selbst. Später wird genau diese Selbstkorrektur schwächer. Dadurch bleibt seine Entwicklung psychologisch nachvollziehbar und der Leser kann denselben Informationsstand anders bewerten als Daniel.
+
+## Wendungsarchitektur
+
+Der Roman soll **keine Twist-Maschine** werden. Statt mehrerer gleich großer Überraschungen gibt es drei unterschiedlich starke Brüche:
+
+1. **Früher Bruch:** Die Quelle weiß Dinge, die sie nicht wissen dürfte, und ihre Warnungen treffen real zu.
+2. **Midpoint – Baustein 05:** Daniel erkennt, dass er bereits **vor dem Fall ausgewählt** wurde. Die Leitfrage kippt von „Was weiß die Quelle?“ zu „Warum wurde ausgerechnet ich ausgewählt – und welche meiner Entscheidungen wurden erwartet?“
+3. **Großer Reversal – Baustein 07:** Daniel erkennt, dass die Quelle wahrscheinlich mindestens einmal eine reale Chance auf frühere Schadensbegrenzung **bewusst nicht genutzt** hat. Die Bedrohung war real, aber der moralische Druck wurde möglicherweise absichtlich maximiert.
+
+Danach folgt kein weiterer beliebiger Twist, sondern die härteste Konsequenz der Konstruktion:
+
+> **Die finale Bedrohung ist trotzdem real.**
+
+Daniel bekommt nach dem Reversal keinen sauberen moralischen Ausstieg.
+
+### Midpoint-Leitregel
+
+05.04 und 05.05 bilden zusammen den Gear-Change:
+- 05.04 trennt erstmals **operativen Erfolg** von **richtiger Begründung**: Daniel hilft real, obwohl eine entscheidende Annahme falsch oder überzogen war.
+- 05.05 zeigt, dass Daniels Rolle im Fall möglicherweise schon vor der ersten Warnung vorbereitet wurde.
+
+Der Midpoint enthüllt **noch nicht**, wofür Daniel ausgewählt wurde.
+
+### Reversal-Leitregel
+
+Der Reversal darf nicht nur lauten: „Daniel wurde manipuliert.“ Diese Möglichkeit ist vorher bereits sichtbar.
+
+Der eigentliche emotionale Schlag lautet:
+
+> **Jemand wusste möglicherweise genug, um früher Schaden zu begrenzen – und entschied sich dagegen, weil der spätere Druck strategisch nützlicher war.**
+
+Die Quelle bleibt begrenzt und fehlbar. Es braucht keine Garantie, dass sie jeden Schaden sicher hätte verhindern können; es braucht eine belastbare, bewusst nicht genutzte Chance auf frühere Schadensbegrenzung.
+
+## Misdirection / Quellen-Hypothesen
+
+Bei der späteren Figurenkonkretisierung sollen **2–3 plausible Quellen-Hypothesen** entstehen, ohne künstliche Red Herrings:
+
+- mindestens eine Person verbirgt tatsächlich etwas, aber aus einem anderen Grund,
+- mindestens eine Person teilt Teile der Sicherheitslogik der Quelle, ist aber nicht zwingend die Quelle,
+- die tatsächliche Quelle muss rückblickend ebenso plausibel gewesen sein.
+
+Ziel ist nicht, den Leser mit beliebigen Verdächtigen zu täuschen, sondern ihm **konkrete falsche beziehungsweise unvollständige Erklärungen** anzubieten, die aus echten Motiven entstehen.
 
 ## Doppelboden-Matrix – Bausteine 03 bis 07
 
@@ -165,8 +209,8 @@ Die spätere Lesart darf die erste nicht einfach als falsch entwerten. Idealerwe
 | 05.01 Gestoppter Täter ist nicht das Zentrum | Der Fall ist größer als gedacht. | Daniel erhält erneut nur die Ebene, die ihn zur nächsten Eskalation führt; das Gesamtbild wird absichtlich fragmentiert gehalten. |
 | 05.02 Quelle berührt geschützten Bereich | Die Quelle sitzt näher am Sicherheitsapparat als angenommen. | Institutionelle Nähe erklärt, warum Informationsflüsse und Prioritäten gezielt beeinflusst werden können. |
 | 05.03 Daniels Ausnahme wird zum Modell | Andere übernehmen eine erfolgreiche pragmatische Lösung. | Der eigentliche Erfolg liegt nicht nur im verhinderten Schaden, sondern darin, dass Sonderlogik reproduzierbar wird. |
-| 05.04 Zweiter Erfolg hat einen Preis | Härteres Vorgehen funktioniert, trifft aber auch Unbeteiligte. | Der Schaden kann der Quelle bekannt oder als akzeptables Risiko erschienen sein; ihre moralische Verschiebung ist weiter fortgeschritten als Daniels. |
-| 05.05 Daniel war schon vor dem Fall ausgewählt | Daniel ist persönliches Ziel oder Werkzeug der Quelle. | Seine ursprüngliche Regelorientierung war selbst der entscheidende Wert: Wenn gerade er erfolgreiche Ausnahmen legitimiert, wirkt die Grenzverschiebung glaubwürdig. |
+| 05.04 Zweiter Erfolg bekommt einen Riss | Härteres Vorgehen funktioniert erneut, aber eine zentrale Annahme dahinter erweist sich als falsch oder überzogen und trifft einen Unbeteiligten. | Der reale Erfolg kann die fehlerhafte Informationsgewichtung verdecken; genau diese Entkopplung von Wirkung und Begründung macht Steuerung schwer erkennbar. |
+| 05.05 Daniel war schon vor dem Fall ausgewählt | Daniel erkennt: Seine Beobachtung begann nicht erst mit seinen Ermittlungen. | Seine ursprüngliche Regelorientierung war selbst der entscheidende Wert: Wenn gerade er erfolgreiche Ausnahmen legitimiert, wirkt die Grenzverschiebung glaubwürdig. |
 
 ### Baustein 06 – Moralischer / psychologischer Kipppunkt
 
@@ -183,7 +227,7 @@ Die spätere Lesart darf die erste nicht einfach als falsch entwerten. Idealerwe
 | Ereignis | Erste Lesart unmittelbar davor | Neue Lesart |
 |---|---|---|
 | 07.01 Muster der Auslassungen | Einzelne Lücken und Fehler der Quelle waren normale Unsicherheit. | Die Auslassungen bilden ein Muster; Informationsmangel war teilweise Methode. |
-| 07.02 Erster Vorfall hätte früher gestoppt werden können | Der erste reale Schaden war tragische Folge begrenzter Informationen und langsamer Verfahren. | Die Quelle verfügte wahrscheinlich über ein zusätzliches Fragment und akzeptierte höheren Druck beziehungsweise Schaden als Preis ihrer Strategie. |
+| 07.02 Erster Schaden hätte früher begrenzt werden können | Der frühe reale Schaden war tragische Folge knapper Informationen und langsamer Verfahren. | Die Quelle verfügte wahrscheinlich über ein zusätzliches Fragment und akzeptierte eine reale Chance auf vermeidbaren Schaden als Preis ihrer Strategie. |
 | 07.03 Daniel war das Versuchsfeld | Daniel wurde wegen seiner fachlichen Position ausgewählt. | Seine ursprüngliche Regelorientierung war selbst der entscheidende Wert: Wenn gerade er erfolgreiche Ausnahmen legitimiert, wirkt die Grenzverschiebung glaubwürdig. |
 | 07.04 Letzte Warnung ist trotzdem echt | Nach der Manipulationsenthüllung ist die Quelle nicht mehr vertrauenswürdig. | Manipulation und Wahrheit schließen sich nicht aus; Daniel muss nun ohne bequeme moralische Auflösung entscheiden. |
 
@@ -216,6 +260,8 @@ Die Szene ist ein Vorgriff auf Baustein 08. Ihre Bedeutung wird erst deutlich sp
 
 Die Warnungen waren im Kern wahr. Daniel erkennt jedoch, dass entscheidende Informationen wiederholt so selektiv weitergegeben wurden, dass seine erfolgreichen Ausnahmeentscheidungen wahrscheinlich bewusst provoziert und legitimierend genutzt wurden.
 
+Der emotionale Kern liegt zusätzlich darin, dass die Quelle wahrscheinlich mindestens einmal **eine reale Chance auf frühere Schadensbegrenzung nicht genutzt** hat. Nicht die Gefahr war erfunden; der Druck wurde möglicherweise bewusst größer werden gelassen.
+
 ### Finale
 
 Die finale Bedrohung ist trotzdem real und wird unabhängig bestätigt. Daniel muss deshalb nach der Enthüllung erneut entscheiden, ob er die inzwischen geschaffenen Möglichkeiten nutzt. Der Cold Open wird im finalen Zugriff eingeholt.
@@ -231,13 +277,13 @@ Daniels konkrete Reaktion bleibt offen. Die Szene erklärt keine Moral.
 ## Entwicklungsachsen
 
 ### Daniel
-`rechtsstaatlich überzeugt → Zweifel → erste Grenzüberschreitung → Erfolg → institutionelle Bestätigung → bewusste Normalisierung → Manipulation erkannt → erneute Entscheidung trotz Erkenntnis → Nachhall`
+`rechtsstaatlich überzeugt → Zweifel → erste Grenzüberschreitung → Erfolg → institutionelle Bestätigung → Midpoint: als gezielt Ausgewählter erkannt → bewusste Normalisierung → Manipulation und akzeptierter Schaden erkannt → erneute Entscheidung trotz Erkenntnis → Nachhall`
 
 ### Bedrohung
 `unklar → teilweise bestätigt → realer Vorfall → größeres Muster → weitere reale Gefahr → finale Bedrohung unabhängig bestätigt → akute Krise beendet`
 
 ### Wahrheit / Leserwissen
-`Schuss ohne Kontext → scheinbar gewöhnlicher Fall → Quelle wirkt hilfreich → Quelle wirkt verdächtig → Daniel als Ziel erkannt → Erfolge werden umgedeutet → finale Gefahr bleibt real → moralische Unsicherheit bleibt`
+`Schuss ohne Kontext → scheinbar gewöhnlicher Fall → Quelle wirkt hilfreich → Quelle wirkt verdächtig → Daniel wurde schon vor dem Fall ausgewählt → Erfolge und Begründungen beginnen auseinanderzufallen → akzeptierter vermeidbarer Schaden wird sichtbar → finale Gefahr bleibt real → moralische Unsicherheit bleibt`
 
 ### Persönliche Bedrohung
 `keine → private Bezugsperson und leichte Reibung etabliert → Daniel wird beobachtet → Daniel gezielt ausgewählt → private Nähe wird gefährdet → neutrale Distanz unmöglich → Identität/Selbstbild und persönlicher Verlust stehen gleichzeitig auf dem Spiel`
@@ -273,4 +319,6 @@ Aktuelles Gate: **Beat-Ebene für Bausteine 04–09 (#7 und #8), danach Gesamtpr
 8. Keine neue Figur ohne dramaturgische Funktion.
 9. Das fünfteilige Beat-Schema ist ein Planungsraster, kein später sichtbarer Szenenrhythmus.
 10. Daniel wird nicht beliebig unzuverlässig; sein blinder Fleck entsteht durch motiviertes Framing unter Druck.
-11. Jeder Schlüsselhinweis in Baustein 03–07 braucht eine plausible Erstlesart und eine spätere Zweitlesart.
+11. Der Midpoint und der große Reversal müssen **unterschiedliche Fragen beantworten**: Auswahl Daniels vs. moralischer Preis der Quellenstrategie.
+12. Zusätzliche Wendungen dürfen die Story nicht zur Twist-Maschine machen; falsche Fährten brauchen echte Motive.
+13. Die private Bezugsperson braucht Agency, wird aber nicht künstlich zur Mitverschwörerin gemacht.
