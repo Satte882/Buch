@@ -122,16 +122,62 @@ Zusätzlich wird geprüft:
 - Wie verändert sich Daniels persönliche Betroffenheit?
 - Steigt die Bedrohung nur sachlich oder auch emotional?
 
+## Erweiterte Psychothriller-Leitprinzipien
+
+### Erwartungsmanagement statt bloßer Twist-Sammlung
+
+Der Leser soll über weite Strecken eine plausible Theorie darüber haben, was geschieht. Diese Theorie darf bestätigt werden, muss aber regelmäßig Risse bekommen, bevor das Rätsel nur noch abgearbeitet wird.
+
+> **Erwartung → Bestätigung → Irritation → neue Erwartung → scheinbare Gewissheit → Umdeutung**
+
+Nicht jede Szene braucht einen Twist. Aber der Roman als Ganzes darf keine längere Strecke besitzen, in der Bedeutung und Erwartung nur noch linear bestätigt werden.
+
+### Psychologie vor Spektakel
+
+Äußere Bedrohung, Action und Gewalt sind Mittel, nicht Selbstzweck. Entscheidend ist, was sie mit Daniels Entscheidungen, Beziehungen, Schuld, Selbstbild und Kontrollgefühl machen.
+
+> **Die nächste Eskalationsstufe muss nicht nur gefährlicher, sondern für Daniel schwerer rückgängig zu machen sein.**
+
+### Kontrollierte Eskalation bis ins Tabulose
+
+Der Roman darf deutlich härter und unangenehmer werden. „Immer extremer“ bedeutet hier nicht automatisch mehr grafische Gewalt, sondern das Überschreiten bisheriger persönlicher, psychologischer, moralischer und institutioneller Grenzen.
+
+Prüffrage:
+
+> **Was ist jetzt möglich oder akzeptabel, was hundert Seiten zuvor noch undenkbar gewesen wäre?**
+
+Wenn diese Antwort über längere Strecken gleich bleibt, eskaliert die Geschichte zu wenig.
+
+### Das Undenkbare muss rückblickend plausibel wirken
+
+Anfang und Ende des Romans dürfen so weit auseinanderliegen, dass der Endzustand zu Beginn nahezu absurd wirken würde.
+
+Das ist ausdrücklich erwünscht, wenn jeder einzelne Schritt dorthin nachvollziehbar bleibt.
+
+Große Verschiebungen müssen aus realen Gefahren, echten Erfolgen, Zeitdruck, persönlicher Betroffenheit, institutionellen Anreizen oder plausiblen Selbstrechtfertigungen entstehen.
+
+Zielwirkung beim Leser:
+
+> **„Wenn man mir nur Anfang und Ende erzählt hätte, hätte ich es nicht geglaubt. Aber ich kann keinen einzelnen Punkt benennen, an dem die Entwicklung plötzlich unglaubwürdig geworden ist.“**
+
+Leitregel:
+
+> **Das Ergebnis darf ungeheuerlich sein. Der Weg dorthin darf niemals unglaubwürdig wirken.**
+
 ## Qualitätsziel
 
-Der Roman soll gleichzeitig zwei Wirkungen erzeugen:
+Der Roman soll gleichzeitig drei Wirkungen erzeugen:
 
 ### Während des Lesens
 
 > **Ich muss wissen, was wirklich passiert ist und was Daniel als Nächstes tut.**
 
+### Beim Blick auf die Eskalation
+
+> **Wie konnte das hier plötzlich zur vernünftigen Option werden?**
+
 ### Nach dem Lesen
 
-> **Ich weiß immer noch nicht sicher, ob Daniel das Richtige getan hat.**
+> **Ich weiß immer noch nicht sicher, ob Daniel das Richtige getan hat – aber ich verstehe, warum fast jeder einzelne Schritt dorthin in seinem Moment plausibel war.**
 
 Die politische Dimension ist damit nicht der primäre Kaufgrund, sondern der inhaltliche Unterbau eines hochgetakteten Psychothrillers.
