@@ -28,7 +28,7 @@ Keine große Bewegung. Kein Angriff. Nichts, was später auf einem Standbild ein
 
 Der Finger am Abzug spannte sich.
 
-Der Schuss war härter als der Regen.
+Der Knall war kurz und trocken.
 
 Der Verschluss riss zurück. Wasser spritzte vom Metall. Die leere Hülse verschwand irgendwo im Dunkel.
 
@@ -152,10 +152,6 @@ Daniel ließ den Satz stehen.
 
 Auf dem Flur ging jemand vorbei und lachte zu laut. Eine Tür fiel ins Schloss. Auf Daniels Schreibtisch vibrierte das Diensttelefon, nur eine Terminerinnerung.
 
-Normaler Dienstag.
-
-Normaler Verdacht.
-
 Er klickte die Option für die reguläre Abfrage an und gab Jonas zwei Prüfaufträge. Auftraggeber der Firma. Einsatzplanung für den Transporter.
 
 „Keine Verkehrskontrolle“, sagte er.
@@ -184,11 +180,11 @@ Daniel blieb mit dem Foto allein.
 
 Ahrens hatte es aus einem Winkel aufgenommen, der tatsächlich die Zufahrt und nicht das Gebäude zeigte.
 
-Das konnte etwas bedeuten.
+Daniel hatte schon schlechtere Gründe gesehen, nervös zu werden.
 
-Es konnte auch genau das bedeuten, was es zeigte.
+Trotzdem reichte es nicht.
 
-Daniel schloss die Datei nicht. Er schob sie nur aus der Mitte des Bildschirms.
+Er schloss die Datei nicht. Er schob sie nur aus der Mitte des Bildschirms.
 
 ---
 
@@ -240,15 +236,9 @@ Jonas tippte auf eine zweite Datei.
 
 Die Fahrzeugdisposition der Firma zeigte Ahrens am Abend auf einem anderen Aufbau, knapp zwei Straßen weiter. Fahrzeit zwischen den Orten: vier Minuten.
 
-Daniel sah auf die beiden Dokumente.
+Mit jedem Dokument wurde die Sache langweiliger.
 
-Der Verdacht löste sich nicht spektakulär auf. Kein Moment, in dem aus schwarz plötzlich weiß wurde. Die einzelnen Punkte verloren nur nacheinander ihre Richtung.
-
-Das Foto war ein Foto.
-
-Die Frage war eine Arbeitsfrage.
-
-Der Transporter war dort, weil er dort sein sollte.
+Daniel mochte langweilige Erklärungen.
 
 „Also zu“, sagte Jonas.
 
@@ -304,9 +294,7 @@ Mehr sagte er nicht.
 
 Daniel ging zum nächsten Termin.
 
-Als er später an Ahrens' Akte vorbeikam, war sie bereits aus seiner offenen Liste verschwunden.
-
-Das war der Sinn der Sache.
+Als er später noch einmal in seine offene Liste sah, war Ahrens' Name verschwunden.
 
 ---
 
@@ -366,9 +354,7 @@ Daniel sah wieder auf die Zeitleiste.
 
 Drei Zeitstempel. Elf Minuten. Drei Türen.
 
-Dann fiel es ihm auf.
-
-Nicht der Zusammenhang. Das Gegenteil.
+Dann blieb er an den Zeitstempeln hängen.
 
 „Wenn die Zeiten nicht die tatsächlichen Öffnungszeiten sind.“
 
@@ -908,33 +894,15 @@ Mara nahm ihr Glas und trank.
 
 Es war der erste Satz des Abends, bei dem sie sich sichtbar ärgerte.
 
-„Nein“, sagte sie. „Ich verlange, dass du irgendwann nicht nur erklärst, warum eine Entscheidung gerade schlecht passt.“
+„Nein“, sagte sie. „Ich kann denen nicht sagen, ich melde mich, wenn dein Kalender irgendwann freundlicher aussieht.“
+
+„Das verlange ich nicht.“
+
+„Noch nicht.“
 
 Daniel legte die Gabel hin.
 
-„Das ist unfair.“
-
-„Kann sein.“
-
-Die Antwort kam sofort.
-
-Das nahm ihm einen Teil seines Gegenarguments.
-
-Mara sah auf ihren Teller.
-
-„Dein Job ist nicht flexibel. Weiß ich. Menschen warten nicht, bis du einen freien Abend hast. Weiß ich auch.“
-
-„Dann verstehst du doch mein Problem.“
-
-„Ja. Aber mein Leben wird nicht unwirklich, nur weil gerade niemand daran stirbt.“
-
-Der Satz blieb zwischen ihnen.
-
-Daniel mochte ihn nicht.
-
-Vielleicht weil er gut war. Vielleicht weil er zu groß für die konkrete Frage war.
-
-„Wir reden darüber“, sagte er.
+„Wir reden darüber.“
 
 Mara schnaubte leise.
 
