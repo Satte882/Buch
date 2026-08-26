@@ -8,9 +8,9 @@ Grundregel:
 
 > **So wenige Figuren wie möglich, so viele wie dramaturgisch notwendig.**
 
-Eine Figur bleibt nur dann eigenständig, wenn durch ihre Zusammenlegung mit einer anderen Rolle ein notwendiger Konflikt, eine glaubwürdige falsche Fährte, eine Beziehung oder eine spätere Wirkung verloren ginge.
+Die sechs Kernfiguren bleiben bestehen. Zusätzlich gibt es mit Mara König **eine bewusst sekundäre Privatfigur**, weil sie eine Funktion trägt, die keine der sechs Kernfiguren sinnvoll übernehmen kann: eine freiwillig gewählte erwachsene Beziehung mit eigener, vom Thriller unabhängiger Uhr.
 
-Die genaue behördliche Amtsbezeichnung einzelner Rollen bleibt bis zur Plausibilitätsrecherche #16 eine Arbeitsannahme. Die **dramaturgische Funktion, Beziehung und Motivation** sind dagegen verbindlich.
+Die genaue behördliche Amtsbezeichnung einzelner Rollen bleibt bis #16 Arbeitsannahme. Dramaturgische Funktion, Beziehung, Motivation und gesetzte Konflikte sind verbindlich.
 
 ---
 
@@ -23,6 +23,26 @@ Die genaue behördliche Amtsbezeichnung einzelner Rollen bleibt bis zur Plausibi
 - Ausgangshaltung: rechtsstaatlich überzeugt, analytisch, fachlich stark, nicht naiv.
 - Zentrale Stärke: Muster erkennen **und** die eigene erste Interpretation aktiv gegenprüfen.
 - Zentrale Verwundbarkeit: Unter wachsendem Zeitdruck verschiebt sich seine Gewichtung realer, mehrdeutiger Informationen zugunsten der bedrohlicheren beziehungsweise handlungsorientierten Lesart.
+
+## Kontroverse persönliche Grundhaltung
+
+Daniel glaubt nicht primär an „Work-Life-Balance“, sondern an **Verantwortung als Rangordnung**:
+
+> **Wenn andere real auf dich angewiesen sind, hat übernommene Verantwortung Vorrang vor persönlichem Wunsch.**
+
+Diese Haltung ist weder nur Tugend noch nur Fehler.
+
+Sie macht ihn:
+- zuverlässig, wenn andere ausweichen,
+- belastbar unter Druck,
+- schwer korrumpierbar durch Bequemlichkeit,
+- aber auch anfällig dafür, unfreiwillige beziehungsweise institutionelle Pflichten moralisch höher zu bewerten als freiwillig gewählte Beziehungen.
+
+Sein blinder Fleck lautet:
+
+> Weil die Folgen seines beruflichen Nicht-Handelns sichtbar und groß sein können, behandelt er private Verpflichtungen leicht als verschiebbar – obwohl auch sie reale Verantwortung sind.
+
+Daniel muss diese Haltung nicht ständig aussprechen. Sie soll aus Priorisierungen und Entscheidungen sichtbar werden.
 
 ## Funktion im Plot
 
@@ -64,6 +84,8 @@ Der Roman lebt davon, dass beide Ziele einzeln plausibel sind und irgendwann mit
 17. Erfolg und moralischer Preis bleiben gleichzeitig wahr.
 18. Im Nachhall erkennt er seine frühere Ausnahme als neue Startlinie des Systems.
 
+Parallel dazu läuft privat keine identische Moralparabel, sondern eine einfachere Konsequenz: Eine Entscheidung, die Daniel für verschiebbar hält, wird von einem anderen Menschen irgendwann **ohne ihn** getroffen.
+
 ## Figurenstimme / Verhalten
 
 Früh:
@@ -88,16 +110,16 @@ Kein dauernder innerer Moralmonolog. Entwicklung soll vor allem an Entscheidunge
 
 ---
 
-# 2. Jana Reuter – private Bezugsperson
+# 2. Jana Reuter – private Bezugsperson / familiäre Achse
 
 ## Kern
 
 - Alter: ca. 40 Jahre
 - Beziehung: Daniels jüngere Schwester.
 - Beruf: Physiotherapeutin, Mitinhaberin einer kleinen Praxis; vollständig außerhalb des Sicherheitsapparats.
-- Funktion: zeigt Daniels private Seite, seinen Kontrollmodus und seine Schwierigkeit, berufliche Unsicherheit im Privaten loszulassen.
+- Funktion: zeigt gemeinsame Vergangenheit, Daniels Kontrollmodus und seine Schwierigkeit, berufliche Unsicherheit im Privaten loszulassen.
 
-Die Schwester-Lösung wird bewusst gegenüber einer romantischen Standard-Geisel gewählt: Die Beziehung besitzt gemeinsame Geschichte, Nähe, Konflikt und Verpflichtung, ohne dass der Roman zusätzlich eine Liebesgeschichte tragen muss.
+Jana bleibt bewusst **nicht** die romantische Beziehung und nicht die Trägerin der privaten Deadline. Ihre Funktion ist eine andere: Familie kann Daniel nicht einfach beenden oder neu wählen. Die Beziehung besitzt Geschichte, Reibung und Verpflichtung unabhängig vom Hauptfall.
 
 ## Eigenes Ziel vor dem Hauptplot
 
@@ -107,8 +129,8 @@ Für Jana ist das kein Plotvehikel, sondern eine reale Belastung. Daniel schiebt
 
 ## Frühere Szene 02.03
 
-- Jana und Daniel treffen sich in vertrauter privater Routine im Zusammenhang mit der Wohnung beziehungsweise den letzten Unterlagen.
-- Jana braucht an diesem Abend eine konkrete Entscheidung oder Zusage von Daniel.
+- Jana und Daniel treffen sich im Zusammenhang mit der Wohnung beziehungsweise den letzten Unterlagen.
+- Jana braucht eine konkrete Entscheidung oder Zusage.
 - Daniel bemerkt eine kleine Anomalie und kippt sofort in Ermittlermodus.
 - Jana nimmt dieselbe Abweichung gelassener wahr und spiegelt ihm seinen Kontrollzwang.
 - Daniel prüft die Anomalie, findet nichts Belastbares und lässt sie bewusst fallen.
@@ -118,15 +140,13 @@ Damit hat die Beziehung auch dann narrativen Wert, wenn Jana später niemals gef
 
 ## Eigene Agency
 
-Jana ist keine passive Schutzperson.
-
 Wenn sie ab Baustein 06 in die Reichweite des Falls gerät:
 - akzeptiert sie nicht automatisch Daniels Anweisungen,
 - verlangt ausreichende Wahrheit, bevor sie ihr eigenes Leben umstellt,
 - kann eine Schutzmaßnahme ablehnen oder verändern,
 - trifft mindestens eine eigenständige Entscheidung, die Daniel nicht kontrollieren kann.
 
-Ihre Agency darf Daniels Lage erschweren, aber sie darf **keinen zufälligen Schlüsselhinweis produzieren**, nur weil der Plot ihn braucht.
+Ihre Agency darf Daniels Lage erschweren, aber sie produziert keinen zufälligen Schlüsselhinweis nur für den Plot.
 
 ## Beziehungskonflikt
 
@@ -134,21 +154,102 @@ Jana wirft Daniel nicht vor, dass er seinen Beruf ernst nimmt. Ihr Konflikt laut
 
 > Daniel behandelt auch Menschen, die er liebt, schnell wie Risiken, Variablen oder offene Vorgänge, sobald er Kontrolle verliert.
 
-Daniel hält Jana im Gegenzug manchmal für zu sorglos, obwohl ihre Gelassenheit nicht Naivität sein muss.
+Daniel hält Jana manchmal für zu sorglos, obwohl ihre Gelassenheit nicht Naivität sein muss.
 
 ## Persönliche Bedrohung ab 06
 
-Die Quelle beziehungsweise die Warnung kann Wissen über Janas Routine, Aufenthaltsort oder Verbindung zu Daniel nutzen, um zu beweisen, wie tief Daniels privater Raum bereits erfasst ist. Die äußere Bedrohung bleibt real; Jana wird **nicht künstlich zur geheimen Mitwisserin oder zum Ziel einer konstruierten Entführung** gemacht.
-
-Ob ihre konkrete Gefährdung aus räumlicher Nähe zur realen Bedrohung, Beobachtung durch die Quelle oder einer daraus folgenden Sicherheitsmaßnahme entsteht, wird auf Szenenkartenebene festgelegt.
+Die Quelle beziehungsweise die Warnung kann Wissen über Janas Routine, Aufenthaltsort oder Verbindung zu Daniel nutzen, um zu beweisen, wie tief Daniels privater Raum bereits erfasst ist. Die äußere Bedrohung bleibt real; Jana wird nicht künstlich zur geheimen Mitwisserin oder zum Ziel einer konstruierten Entführung gemacht.
 
 ## Empathie-Reversal
 
-Jana ist **nicht die primäre Wahl** für das Empathie-Reversal. Ihre Gefährdung dient bereits der persönlichen Fallhöhe. Würde zusätzlich die zentrale moralische Versuchsanordnung auf sie gelegt, droht Überladung.
+Jana ist **nicht** die Primärfigur. Ihre Gefährdung trägt bereits die persönliche Fallhöhe; zusätzliche moralische Versuchsanordnung würde sie überladen.
 
 ## Notwendige Bausteine
 
-02, später erneut 05/06 und mindestens ein Nachhall-/Beziehungsbeat nach der akuten Gefährdung.
+02, später erneut 05/06 und mindestens ein glaubwürdiger Nachhall nach der akuten Gefährdung.
+
+---
+
+# Sekundäre Privatfigur – Mara König, Daniels Partnerin
+
+## Status und Funktion
+
+Mara ist **keine siebte Kernfigur** und kein eigener fünfter Hauptplot. Sie verdichtet den bestehenden vierten Handlungsstrang `Privatleben`.
+
+Sie trägt etwas, das Jana nicht tragen soll:
+- eine freiwillig gewählte erwachsene Beziehung,
+- eine konkrete gemeinsame Zukunftsfrage,
+- eine **eigene Uhr**, die unabhängig von Anschlag, Quelle und Institution weiterläuft.
+
+Mara braucht ungefähr 4–6 präzise Einsätze im Roman, keinen eigenen Nebenplot außerhalb ihres Lebens mit Daniel.
+
+## Kern
+
+- Alter: ca. 41 Jahre.
+- Beziehung zu Daniel: seit mehreren Jahren zusammen; funktionierende Beziehung, aber keine vollständig geklärte gemeinsame Lebensplanung.
+- Berufliche Arbeitsannahme: qualifizierte Fach-/Führungstätigkeit außerhalb von Polizei, Justiz und Sicherheitsapparat. Exakter Beruf ist für die Dramaturgie zweitrangig und kann später konkretisiert werden.
+- Eigenständigkeit: Sie ist weder Daniels moralischer Therapeut noch „die verständnisvolle Partnerin zu Hause“.
+
+## Die private Uhr
+
+Mara erhält ein konkretes berufliches Angebot in einer anderen deutschen Stadt, das für sie ein echter nächster Schritt ist. Sie muss **innerhalb weniger Wochen verbindlich entscheiden**; ein möglicher Wechsel beziehungsweise Umzug folgt kurze Zeit später.
+
+Wichtig:
+- Sie hat das Angebot nicht gesucht, um Daniel unter Druck zu setzen.
+- Sie fordert nicht: `Kündige deinen Job oder ich gehe.`
+- Sie braucht eine belastbare Antwort darauf, ob Daniel eine gemeinsame Zukunft **praktisch** mitplant: bewusste Fernbeziehung, mittelfristiger gemeinsamer Ortswechsel oder eine andere konkrete Lösung.
+- Wenn Daniel keine Entscheidung trifft, wartet die Außenwelt nicht. Mara entscheidet über ihr eigenes Leben.
+
+Die Uhr wird nicht künstlich an den Terrorplot gekoppelt.
+
+## Konflikt mit Daniel
+
+Mara ist nicht primär über Arbeitsstunden oder Gehalt unzufrieden. Sie stört Daniels **Hierarchie von Verantwortung**.
+
+Daniel denkt sinngemäß:
+> Wenn Menschen im Beruf akut auf mich angewiesen sind, kann eine private Entscheidung warten.
+
+Mara erlebt darin einen blinden Fleck:
+> Was Daniel nicht als akut und unvermeidbar empfindet, behandelt er leicht als weniger real – auch wenn er es selbst gewählt und versprochen hat.
+
+Sie verlangt keine perfekte Balance. Sie verlangt, dass Daniel eine freiwillige Beziehung nicht dauerhaft als diejenige Verantwortung behandelt, die verschoben werden kann, weil sie gerade nicht brennt.
+
+## Eigene Agency
+
+Mara:
+- trifft die berufliche Entscheidung nach ihrer eigenen Frist,
+- kann Daniel informieren, ohne um Erlaubnis zu bitten,
+- darf auch dann gehen beziehungsweise den Wechsel vollziehen, wenn die Beziehung formal weiterbesteht,
+- ist nicht automatisch „weg“, nur damit Daniel am Ende einen privaten Preis bezahlt.
+
+## Verbindliche Anti-Klischee-Regeln
+
+Nicht schreiben als:
+- „Du arbeitest immer zu viel.“
+- künstliches Ultimatum,
+- Partnerin, die Daniels Geheimdienst-/Polizeiarbeit nicht versteht und deshalb irrational Druck macht,
+- moralische Quittung `Held rettet Menschen und verliert dafür die Frau`,
+- perfekte thematische Gegenrede zur Staatslogik.
+
+Stärker ist:
+- Mara hat teilweise recht und teilweise eigene blinde Flecken.
+- Daniel hat gute Gründe, nicht einfach seinen Beruf um sein Privatleben herumzuplanen.
+- Die Beziehung kann beschädigt, verändert, räumlich getrennt oder beendet werden; der Ausgang bleibt bis Szenenkarten 07–09 bewusst offen.
+- Entscheidend ist **Konsequenz ohne moralische Abrechnung**.
+
+## Geplante private Bewegung
+
+### Baustein 02 – Uhr beginnt
+Mara teilt Daniel das konkrete Angebot und die reale Entscheidungsfrist mit. Sie verlangt noch keine sofortige Lebensentscheidung, aber einen vereinbarten Zeitpunkt, an dem beide konkret über ihre Zukunft sprechen.
+
+### Baustein 05 – Uhr läuft
+Daniels Fall und seine institutionell wachsende Rolle beanspruchen ihn stärker. Ein vereinbarter privater Termin wird verschoben oder verkürzt. Mara macht daraus keine Szene um der Szene willen; sie beginnt ihre Entscheidung praktisch **auch ohne Daniel** vorzubereiten.
+
+### Baustein 06 – Uhr entscheidet
+Während Daniels berufliche Linie ihren größten Erfolg bis dahin produziert, läuft Maras Frist tatsächlich ab. Daniel kann nicht teilnehmen beziehungsweise liefert weiterhin keine belastbare gemeinsame Entscheidung. Mara entscheidet über das Angebot selbst.
+
+### Bausteine 07–09 – Konsequenz, keine Quittung
+Die äußere Krise darf Maras Entscheidung nicht rückwirkend einfrieren. Im Nachhall muss sichtbar sein, dass ihr Leben weitergegangen ist. Ob die Beziehung fortbesteht, verändert wird oder endet, wird in #14 so entschieden, dass es **nicht wie eine saubere Bestrafung Daniels** wirkt.
 
 ---
 
@@ -166,16 +267,13 @@ Jana ist **nicht die primäre Wahl** für das Empathie-Reversal. Ihre Gefährdun
 Lena ist keine bürokratische Bremse. Sie muss Daniels Erfolge ausdrücklich anerkennen können.
 
 Ihre Kernposition lautet:
-
 > **Gerade wenn eine Ausnahme funktioniert, braucht sie eine Grenze – weil Erfolg die stärkste Form der Normalisierung ist.**
-
-Damit kann Daniel sie nicht bequem als weltfremd abtun.
 
 ## Eigenes Ziel
 
 Lena will verhindern, dass zeitlich begrenzte Krisenentscheidungen zu nicht mehr überprüfbaren Standards werden. Gleichzeitig will sie die reale Bedrohung erfolgreich bekämpfen.
 
-Sie verteidigt also nicht „Regeln statt Sicherheit“, sondern **revidierbare Macht statt selbstverstärkender Ausnahme**.
+Sie verteidigt nicht `Regeln statt Sicherheit`, sondern **revidierbare Macht statt selbstverstärkender Ausnahme**.
 
 ## Konflikt mit Daniel
 
@@ -196,37 +294,23 @@ Motiv:
 - spätere unabhängige Bewertung ermöglichen,
 - verhindern, dass Erfolgsdruck die Aktenlage nachträglich glättet.
 
-Dadurch kann sie später verdächtig wirken:
-- Sie kennt Informationen, die nicht jeder kennt.
-- Sie hält Kommunikationswege zurück.
-- Sie reagiert ausweichend, wenn Daniel nach Informationsabflüssen sucht.
-
-Aber ihr Geheimnis ist echt und **nicht** die Quellenmanipulation.
+Dadurch kann sie später verdächtig wirken, ohne Quelle zu sein.
 
 ## Empathie-Reversal – gesetzte Primärfigur
 
-Lena ist die stärkste vorhandene Figur für das Empathie-Reversal.
-
-Warum:
-- Der Leser kennt sie als glaubwürdige, nicht naive Person.
-- Sie besitzt wegen ihrer vertraulichen Dokumentation tatsächlich einen Grund, bestimmte Kontakte oder Informationen nicht offenzulegen.
-- Eine breitere Sicherheitslogik kann ihre Kommunikation deshalb **regelkonform innerhalb der neuen Ausnahmelogik** als auffällig markieren.
+Lena ist die stärkste vorhandene Figur für das Empathie-Reversal:
+- glaubwürdig und nicht naiv,
+- reales Geheimnis ohne Schuld,
+- organischer Grund, durch die neue Ausnahmelogik auffällig zu werden,
 - Daniel hat dieselbe Logik zuvor gegenüber emotional fernen Personen akzeptiert.
-
-Der Perspektivbruch lautet:
 
 > **Die Regel ändert sich nicht. Nur jetzt trifft sie Lena.**
 
-Wichtig:
-- Lena wird dadurch nicht heimlich schuldig.
-- Daniel darf sie nicht einfach aus persönlicher Nähe von der Regel ausnehmen, sonst verpufft der Effekt.
-- Die Szene soll den Leser merken lassen, dass sich seine Reaktion verändert, ohne dies didaktisch auszusprechen.
-
-Der konkrete Zeitpunkt liegt wahrscheinlich im Umfeld 06.03–06.05 und wird in #13 endgültig szenisch gesetzt.
+Lena wird dadurch nicht heimlich schuldig. Daniel darf sie nicht einfach aus persönlicher Nähe von der Regel ausnehmen. Der Effekt ist in #13 konkret szenisch gesetzt.
 
 ## Notwendige Bausteine
 
-Früh mindestens einmal vor 04 als fachlich glaubwürdige Kollegin etablieren; relevant ab 04/05, zentral in 06–08, möglicher Nachhall in 09.
+Früh vor 04 etablieren; relevant ab 04/05, zentral in 06–08, möglicher Nachhall in 09.
 
 ---
 
@@ -251,8 +335,6 @@ Er ist weder Karrierist als Standardmotiv noch geheimer Autoritärer. Sein Probl
 - schützt ihn in 04.03 persönlich vor einer klaren Sanktion,
 - treibt in 05.03 die organisatorische Reproduktion des Erfolgs mit voran.
 
-Berg wird damit zu einem wichtigen Beschleuniger, ohne die eigentliche Quelle sein zu müssen.
-
 ## Geteilte Logik mit der Quelle
 
 Berg glaubt ebenfalls:
@@ -266,8 +348,6 @@ Der Unterschied zur tatsächlichen Quelle:
 ## Reales Geheimnis / zweite faire falsche Fährte
 
 Berg weiß früher als Daniel, dass auf höherer Ebene bereits grundsätzlich über schnellere präventive Möglichkeiten diskutiert wurde. Nach Daniels Erfolgen liefert er dessen Ergebnisse aktiv als Argument nach oben und verschweigt Daniel zunächst, **wie stark dessen Fall bereits als Referenz benutzt wird**.
-
-Das ist moralisch fragwürdig genug, um Verdacht zu tragen, aber nicht identisch mit der Quellenstrategie.
 
 ## Notwendige Bausteine
 
@@ -288,24 +368,15 @@ Das ist moralisch fragwürdig genug, um Verdacht zu tragen, aber nicht identisch
 
 Heller war Jahre zuvor in einen realen Sicherheitsfall eingebunden, bei dem Warnfragmente auf mehrere Stellen verteilt waren. Zuständigkeiten, Beweisschwellen und rechtlich saubere Abgrenzungen verhinderten aus seiner Sicht eine rechtzeitige gemeinsame Reaktion. Ein späterer Angriff forderte reale Opfer.
 
-Heller trägt daraus professionelle Schuld:
-
-> Er glaubt, damals zu viel Respekt vor einem System gehabt zu haben, das in der konkreten Lage nicht schnell genug lernen konnte.
-
-Er hat daraus nicht die Lehre gezogen „Regeln sind falsch“, sondern die radikalere und gefährlichere Lehre:
+Er trägt daraus professionelle Schuld und zieht die gefährliche Lehre:
 
 > **Ein System ändert seine Grenzen erst, wenn der Preis des alten Systems und der Nutzen des neuen praktisch sichtbar werden.**
 
 ## Selbstbetrug
 
-Sein innerer Satz lautet:
-
 > **„Ich verhindere das nächste Behördenversagen.“**
 
-Nicht:
-> „Ich will Macht.“
-
-Er hält sich selbst nicht für jemanden, der Gefahren erzeugt. Er glaubt, reale Gefahren nur so sichtbar zu machen, dass das System endlich die richtige Konsequenz daraus zieht.
+Er hält sich nicht für jemanden, der Gefahren erzeugt. Er glaubt, reale Gefahren nur so sichtbar zu machen, dass das System die aus seiner Sicht richtige Konsequenz zieht.
 
 ## Tatsächliche Grenze der Quelle
 
@@ -328,51 +399,35 @@ Heller ist nicht allwissend:
 - kennt nur Fragmente,
 - kann die extremistische Struktur nicht kontrollieren,
 - weiß nicht sicher, wann ein Plan umgesetzt wird,
-- kann die Bedeutung einzelner Hinweise falsch einschätzen,
-- kann Daniels konkrete Entscheidung nur probabilistisch erwarten,
-- kann den Ausgang eines Einsatzes nicht garantieren.
-
-Er nimmt deshalb reale Risiken auch für seine eigene Strategie in Kauf.
+- kann einzelne Hinweise falsch einschätzen,
+- kann Daniels Entscheidung nur probabilistisch erwarten,
+- kann Einsatzausgänge nicht garantieren.
 
 ## Warum Daniel?
 
 Daniel eignet sich gerade **nicht**, weil er leicht manipulierbar wäre.
 
-Heller kennt Daniel als:
-- kompetent,
-- glaubwürdig,
-- rechtsstaatlich orientiert,
-- institutionell ernst genommen,
-- fähig zur Selbstkorrektur.
+Heller kennt ihn als kompetent, glaubwürdig, rechtsstaatlich orientiert und institutionell ernst genommen. Wenn ein offensichtlicher Hardliner weitergehende Maßnahmen fordert, beweist das wenig. Wenn Daniel nach realen Erfolgen zu demselben Schluss kommt, wird die Ausnahme für andere vernünftig.
 
-Wenn ein offensichtlicher Hardliner weitergehende Maßnahmen fordert, beweist das wenig. Wenn Daniel nach realen Erfolgen zu demselben Schluss kommt, wird die Ausnahme für andere **vernünftig**.
-
-Daniel ist deshalb kein Versuchskaninchen im simplen Sinn, sondern ein geplanter **Legitimationsbeweis**.
+Daniel ist deshalb ein geplanter **Legitimationsbeweis**.
 
 ## Verhältnis zu Daniel
 
-Heller muss vor dem Reversal als reale institutionelle Figur bekannt sein, aber nicht dominant auftreten. Er darf kompetent helfen, begrenzen, Informationen einordnen und damit sowohl als möglicher Verbündeter als auch als möglicher Verdächtiger funktionieren.
-
-Seine Anonymität als Quelle und der genaue technische Informationsweg werden in #16/#14 plausibilisiert. Entscheidend ist, dass er aufgrund seiner Funktion **Zugang zu Fragmenten und zu Daniels beruflichem Profil** besitzen kann.
+Heller ist vor dem Reversal als reale institutionelle Figur bekannt, aber nicht dominant. Er darf kompetent helfen, begrenzen und Informationen einordnen. Seine Anonymität als Quelle und der technische Informationsweg werden in #16/#14 plausibilisiert.
 
 ## Cold Open / Finale
 
-**Arbeitsfestlegung nach Prüfung der Quellenvarianten:** Markus Heller ist die Person, auf die Daniel im Cold Open beziehungsweise in 08.03 schießt.
+Markus Heller ist die Person, auf die Daniel im Cold Open beziehungsweise in 08.03 schießt.
 
-Warum diese Lösung stärker ist als eine zusätzliche Figur:
-- äußerer Terrorist wäre moralisch zu bequem,
-- eine beliebige interne Hilfsperson wäre emotional zu schwach,
-- Heller verbindet die Quellenenthüllung, Daniels Instrumentalisierung und die finale akute Entscheidung in einer Person.
-
-Der konkrete unmittelbare Anlass des Schusses bleibt bis Szenenkartenebene offen. Fest steht:
-- Heller befindet sich in einer Situation, in der Daniel eine unmittelbare Gefahr für den finalen Zugriff, Beweise oder Menschen wahrnimmt,
-- es existiert eine denkbare Alternative zum Schuss,
+Fest steht:
+- reale Sekundengefahr,
+- denkbare Alternative zum Schuss,
 - Daniel hält deren Risiko in diesem Moment für zu hoch,
 - der Schuss bleibt nachvollziehbar, aber nicht moralisch bequem.
 
 ## Notwendige Bausteine
 
-Frühe funktionale Präsenz spätestens ab 03/04, zunehmende institutionelle Relevanz 05–07, Enthüllung/Finale 07–08.
+Frühe Präsenz spätestens ab 03/04, zunehmende Relevanz 05–07, Enthüllung/Finale 07–08.
 
 ---
 
@@ -386,45 +441,35 @@ Frühe funktionale Präsenz spätestens ab 03/04, zunehmende institutionelle Rel
 
 ## Eigenes Ziel
 
-Jonas will beweisen, dass er nicht nur zuarbeitet, sondern unter Druck selbst Verantwortung übernehmen kann. Er will Menschen schützen und empfindet langwierige Unsicherheit stärker als Daniel zu Beginn.
-
-Er ist kein radikaler Hardliner.
+Jonas will beweisen, dass er nicht nur zuarbeitet, sondern unter Druck selbst Verantwortung übernehmen kann. Er will Menschen schützen und empfindet langwierige Unsicherheit stärker als Daniel zu Beginn. Er ist kein radikaler Hardliner.
 
 ## Beziehung zu Daniel
 
 Jonas respektiert Daniel gerade wegen seiner Ruhe und fachlichen Disziplin.
 
-Früh kann er in 02.01 die naheliegende Frage stellen, warum man einen schnelleren informellen Weg nicht zumindest nutzt. Daniel zeigt ihm, warum Verdacht und Eingriff getrennt bleiben müssen.
-
-Später beobachtet Jonas:
+Früh erlebt er, warum Daniel einen schnelleren informellen Weg nicht nutzt. Später beobachtet er:
 - dass Daniels Regelbruch Menschen rettet,
 - dass Daniel nicht sanktioniert wird,
 - dass die Organisation seine Methode übernimmt,
 - dass größere Eingriffe erneut funktionieren.
 
-Damit lernt Jonas nicht aus einer Ideologie, sondern aus **Daniels gelebtem Beispiel**.
+Damit lernt Jonas aus **Daniels gelebtem Beispiel**.
 
 ## Schlussbild 09.03
 
 Jonas ist der jüngere Mann, der ungefähr zwei Schritte weitergeht.
 
-Seine Argumentation darf nicht fanatisch klingen. Sie soll für den Leser unangenehm vertraut sein:
-
-> Er benutzt dieselbe Grundlogik, mit der Daniel zuvor reale Menschen gerettet hat – nur ohne Daniels ursprüngliche Hemmung und mit Daniels Ausnahme bereits als normaler Ausgangslage.
-
-Das Ende gewinnt dadurch zusätzliche Härte:
+Seine Argumentation darf nicht fanatisch klingen. Sie benutzt dieselbe Grundlogik, mit der Daniel zuvor reale Menschen gerettet hat – nur ohne Daniels ursprüngliche Hemmung und mit Daniels Ausnahme bereits als normaler Ausgangslage.
 
 > Daniel sieht nicht nur seine Argumentation wieder. Er sieht, was jemand von ihm gelernt hat.
 
 ## Eigene Agency
 
-Jonas darf nicht nur Daniels Echo sein. Er soll mindestens einmal eine eigene fachliche Einschätzung vertreten, die Daniel korrigiert oder später ernst nehmen muss.
-
-Seine Entwicklung bleibt subtil; er braucht keinen separaten Nebenplot.
+Jonas vertritt mindestens einmal eine eigene fachliche Einschätzung, die Daniel korrigiert oder später ernst nehmen muss. Kein separater Nebenplot.
 
 ## Notwendige Bausteine
 
-02 früh etablieren, punktuelle Präsenz in 03–06, später institutionell mitwachsend, Schlussbild 09.03.
+02 früh etablieren, punktuell 03–06, später institutionell mitwachsend, Schlussbild 09.03.
 
 ---
 
@@ -432,49 +477,19 @@ Seine Entwicklung bleibt subtil; er braucht keinen separaten Nebenplot.
 
 ## Hypothese A – Dr. Lena Vogt
 
-### Warum sie plausibel verdächtig wirkt
-- Zugang zu sensiblen internen Entscheidungen.
-- vertrauliche Dokumentation.
-- zurückgehaltene Kommunikation mit Kontrollinstanzen.
-- kann Informationen kennen, die Daniel nicht breit geteilt hat.
-
-### Tatsächliches Geheimnis
-Sie dokumentiert Sonderentscheidungen und hält einen vertraulichen Kontrollkanal offen.
-
-### Warum sie nicht die Quelle ist
-Ihr Ziel ist spätere Nachprüfbarkeit und Begrenzung der Ausnahme. Sie würde nicht bewusst realen Schaden als strategischen Beweispreis akzeptieren.
-
----
+Plausibel durch sensiblen Zugang, vertrauliche Dokumentation und zurückgehaltene Kommunikation. Tatsächlich dokumentiert sie Sonderentscheidungen und hält einen Kontrollkanal offen. Nicht Quelle.
 
 ## Hypothese B – Thomas Berg
 
-### Warum er plausibel verdächtig wirkt
-- schützt Daniel nach dem Regelbruch.
-- treibt den Sonderweg organisatorisch voran.
-- besitzt Zugang und Einfluss.
-- teilt Teile der Sicherheitslogik der Quelle.
-
-### Tatsächliches Geheimnis
-Er weiß, dass Daniels Erfolge politisch/institutionell als Referenz genutzt werden, und fördert diese Nutzung stärker, als er Daniel zunächst sagt.
-
-### Warum er nicht die Quelle ist
-Berg reagiert auf reale Erfolge und will den Apparat schneller machen. Er konstruiert nicht bewusst Daniels Informationsknappheit und akzeptiert keinen vermeidbaren Schaden als Beweismittel.
-
----
+Plausibel durch Schutz Daniels, organisatorische Sonderwege, Zugang und geteilte Sicherheitslogik. Tatsächlich fördert er die institutionelle Nutzung von Daniels Erfolgen stärker, als er Daniel zunächst sagt. Nicht Quelle.
 
 ## Hypothese C – Markus Heller
 
-### Warum er plausibel ist
-- behördenübergreifender Informationszugang,
-- Kenntnis von Daniels beruflichem Profil,
-- persönliche Vorgeschichte mit einem als zu langsam erlebten Sicherheitsapparat,
-- Nähe zu genau den Stellen, an denen Information fragmentiert und Sonderwege diskutiert werden.
-
-### Tatsächliches Geheimnis
-Er ist die Quelle beziehungsweise der zentrale Urheber der selektiven Informationssteuerung.
+Plausibel durch behördenübergreifenden Zugang, Kenntnis von Daniels Profil, persönliche Vorgeschichte und Nähe zu fragmentierten Informationswegen. Tatsächlich Quelle.
 
 ### Fairness-Regel
-Heller darf vor dem Reversal **nicht nur verdächtig** geschrieben werden. Er muss mehrfach real hilfreich, fachlich plausibel und in Teilen sogar moralisch nachvollziehbar sein. Der Leser soll rückblickend erkennen, dass seine Position und seine Informationsnähe immer sichtbar waren, ohne dass die Lösung deshalb offensichtlich war.
+
+Heller darf vor dem Reversal nicht nur verdächtig geschrieben werden. Er muss real hilfreich und fachlich plausibel sein. Verdacht auf Lena, Berg und Heller wird asymmetrisch geführt; keine sichtbare Staffelung nach Schema.
 
 ---
 
@@ -482,43 +497,47 @@ Heller darf vor dem Reversal **nicht nur verdächtig** geschrieben werden. Er mu
 
 Primärfigur: **Dr. Lena Vogt**.
 
-Begründung:
-- bereits notwendige Gegenfigur,
-- eigener narrativer Wert,
-- reales Geheimnis ohne Schuld,
-- organischer Grund, durch breitere Sicherheitslogik auffällig zu werden,
-- emotional näher als die frühen abstrakten Zielpersonen,
-- keine Überladung der privaten Bezugsperson Jana.
+> **Eine Regel, die gegenüber einem unbekannten Verdächtigen beziehungsweise abstrakten Risikokreis vertretbar wirkte, erfasst später Lena aufgrund realer, aber harmloser Geheimhaltung.**
 
-Leitmechanismus:
+Der Leser erhält keine neue Regel. Er erhält einen anderen Menschen unter derselben Regel. Der Effekt ist in #13 konkret gesetzt.
 
-> **Eine Regel, die gegenüber einem unbekannten Verdächtigen beziehungsweise einem abstrakten Risikokreis noch vertretbar wirkte, erfasst später Lena aufgrund realer, aber harmloser Geheimhaltung.**
+---
 
-Der Leser erhält keine neue moralische Regel. Er erhält nur einen anderen Menschen unter derselben Regel.
+# Privater Handlungsstrang – verbindliche Abgrenzung
 
-Der Effekt wird spätestens in den Szenenkarten 05–06 konkret gesetzt.
+Der Roman besitzt weiterhin vier große Handlungsstränge:
+
+1. reale äußere Bedrohung,
+2. Quelle / Manipulation,
+3. institutionelle Grenzverschiebung,
+4. Daniels Privatleben.
+
+Der vierte Strang besteht jetzt aus **zwei unterschiedlichen Beziehungen**, nicht aus zwei separaten Nebenplots:
+
+- **Jana:** Familie, Vergangenheit, Kontrollkonflikt, spätere persönliche Gefährdung.
+- **Mara:** gewählte Beziehung, Zukunftsentscheidung, unabhängige private Uhr.
+
+Die beiden dürfen nicht dieselbe Funktion spielen. Jana wird nicht zur Beziehungstherapeutin; Mara wird nicht zusätzlich von der Täterstruktur bedroht, nur damit auch sie Thriller-Fallhöhe erhält.
 
 ---
 
 # Rollen, die bewusst NICHT als eigene Hauptfiguren angelegt werden
 
-Folgende Funktionen können bei Bedarf als kleine Nebenrollen auftreten, erhalten aber zunächst **kein eigenes Figurenprofil**:
-
-- einzelne politische Entscheidungsträger,
+Bei Bedarf kleine Nebenrollen, zunächst ohne eigenes Kernprofil:
+- politische Entscheidungsträger,
 - technische Analysten,
 - Einsatzkräfte,
-- Juristen außerhalb Lenas Funktion,
-- Vertreter von Kontrollinstanzen,
-- einzelne Tatverdächtige / Mitglieder der extremistischen Struktur,
+- weitere Juristen/Kontrollrollen,
+- Tatverdächtige / Mitglieder der extremistischen Struktur,
 - Medienrollen.
 
-Erst wenn eine spätere Szenenkarte beweist, dass eine dieser Funktionen wiederholt eigene Agency und Konflikt trägt, wird sie als eigenständige Figur ergänzt.
+Ein konkreter Randakteur der Bedrohungsseite kann auf Szenenkartenebene ein menschliches Gesicht erhalten, ohne zum Kerncast aufzusteigen.
 
 ---
 
 # Figuren-Gesamtlogik
 
-Die sechs Kernfiguren bilden sechs verschiedene Kräfte:
+Die sechs Kernfiguren bilden sechs Kräfte:
 
 - **Daniel:** vernünftige Ausnahme unter realem Druck.
 - **Jana:** privater Mensch, der sich Daniels Kontrolllogik nicht unterordnet.
@@ -527,8 +546,14 @@ Die sechs Kernfiguren bilden sechs verschiedene Kräfte:
 - **Heller:** radikalisierte Konsequenz derselben Sicherheitslogik.
 - **Jonas:** nächste Generation übernimmt Daniels neue Ausgangslage.
 
+Mara ergänzt **keine siebte politische Kraft**. Sie sorgt dafür, dass Daniel auch außerhalb des Thrillermechanismus Entscheidungen verliert, wenn er sie dauerhaft als verschiebbar behandelt.
+
 Damit wird die politische Dimension über Figuren und Entscheidungen erlebt, nicht über Essays oder künstliche Positionsreden.
 
 ## Verbindliche Leitregel
 
 > **Keine Figur besitzt nur eine Meinung. Jede Figur muss etwas wollen, etwas riskieren und durch ihre Entscheidungen die Handlung verändern.**
+
+Für den Privatstrang zusätzlich:
+
+> **Nicht jede wichtige Konsequenz muss aus der Bedrohung entstehen. Manche Dinge gehen weiter, gerade weil der Thriller sie nicht anhält.**
