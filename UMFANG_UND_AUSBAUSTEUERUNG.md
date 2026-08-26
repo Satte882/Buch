@@ -13,6 +13,18 @@ Diese Datei ist die verbindliche Umfangssteuerung für die Ausarbeitung des best
 
 Die Seitenzahl ist ein Zielbild, die Wortzahl ist die operative Steuerungsgröße. Satzspiegel, Schrift, Kapitelanfänge und Dialoganteil verändern die spätere reale Seitenzahl.
 
+## Verbindliche Git-Arbeitsregel für diesen Ausbau
+
+Die weitere Manuskript-, Analyse- und Ausbauarbeit in diesem Repo erfolgt **direkt auf `main`**.
+
+- keine Feature-Branches für die Kapitel-/Baustein-Ausarbeitung
+- keine Pull-Request-Kette als Voraussetzung für diese Bucharbeit
+- Änderungen werden in kleinen, nachvollziehbaren Commits direkt auf `main` vorgenommen
+- vor jedem Manuskript-Commit wird der aktuelle `main`-Stand berücksichtigt
+- temporäre Arbeitsbranches sind für diesen Ausbau nicht Teil des vorgesehenen Workflows
+
+Diese Regel gilt für die aktuelle Ausbauphase bis zur finalen Manuskriptfassung, sofern sie nicht ausdrücklich später geändert wird.
+
 ## Baseline nach #25 – Ist gegen Ziel
 
 Die Baseline wurde am 26.08.2026 direkt aus den fünf Dateien unter `MANUSKRIPT/` ermittelt. Die vollständigen und automatisch aktualisierten Kapitelwerte stehen in `MANUSKRIPT_METRIKEN.md`.
@@ -79,24 +91,14 @@ Für jede Storyeinheit werden verbindlich dokumentiert:
 2. Zielkorridor `min / Ziel / max`
 3. Differenz `Ist → Ziel`
 4. Szenenfunktion laut `ROMAN_MAP.md`
-5. qualitative Diagnose: Was ist bereits voll ausgespielt, was nur komprimiert?
-6. konkrete Ausbauhebel
-7. 2–4 konkrete Ausbauaufträge
-8. geschützte Informationen / Grenzen, die nicht verschoben werden dürfen
-9. Ergebnis-Wortzahl nach Umsetzung
+5. qualitative Diagnose: voll ausgespielt / moderat komprimiert / stark komprimiert
+6. konkret fehlende oder zu knapp abgehandelte Romanarbeit
+7. konkrete Ausbauhebel
+8. konkrete Ausbauaufträge
+9. geschützte Informationen / Grenzen, die nicht verschoben werden dürfen
+10. Ergebnis-Wortzahl nach Umsetzung
 
 Die Summe der Kapitel-Zielwerte eines Bausteins muss dessen Steuerwert plausibel abbilden. Nicht jedes Kapitel wird gleich lang. Schlüssel-, Reversal- und Entscheidungsszenen dürfen deutlich mehr Raum erhalten als Übergangs- oder Nachhallkapitel.
-
-### Diagnose-Reihenfolge
-
-Die Kapitelanalyse beginnt nicht bei Kapitel 1 und verteilt Wörter mechanisch, sondern priorisiert zunächst:
-
-1. **besonders kurze Kapitel mit hoher dramaturgischer Last**
-2. **Bausteine mit besonders großer relativer oder absoluter Lücke**
-3. **Schlüsselstellen der psychologischen Entwicklung**
-4. danach die übrigen Kapitel zur rhythmischen Gesamtverteilung
-
-Die automatische Baseline markiert hierfür bereits Kandidaten; die Entscheidung über den Ausbau fällt erst nach Lesen der jeweiligen Szene gegen Szenenkarte, Figuren, Leserwissen und Folgekapitel.
 
 ## Zulässige Ausbauhebel
 
@@ -126,11 +128,10 @@ Erst wenn diese Aufträge feststehen, wird Prosa ergänzt.
 ## Arbeitsablauf
 
 ### Phase A – Vermessen und planen
-- [x] exakte Wortzahl je Kapitel und Baustein ermitteln (`MANUSKRIPT_METRIKEN.md`)
-- [ ] jedes Kapitel qualitativ gegen seine Szenenfunktion diagnostizieren
-- [ ] Ausbau-Matrix für Prolog + 47 Kapitel erstellen
-- [ ] Zielkorridore so verteilen, dass der Roman auf ca. 77.000 Wörter geplant ist
-- [ ] pro Kapitel 2–4 konkrete Ausbauaufträge festlegen
+- exakte Wortzahl je Kapitel ermitteln
+- Ausbau-Matrix für Prolog + 47 Kapitel erstellen
+- Zielkorridore so verteilen, dass der Roman auf ca. 77.000 Wörter geplant ist
+- pro Kapitel 2–4 konkrete Ausbauaufträge festlegen
 
 ### Phase B – Bausteine ausbauen
 Umsetzung in der bestehenden Reihenfolge 01 → 09. Nach jedem Arbeitsblock:
