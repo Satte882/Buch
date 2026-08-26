@@ -616,7 +616,7 @@ Heller hob das Terminal.
 
 Daniel sah die vorbereitete Meldung auf dem Display.
 
-**Lagebestätigung unverändert. Zugriffspunkt frei.**
+**Zielzuordnung aus Ermittlungsstrang bestätigt. Taktischer Ablauf unverändert.**
 
 Nicht als Befehl.
 
@@ -842,7 +842,7 @@ Zugang gesichert.
 
 Fahrzeug geöffnet.
 
-Spezialkräfte übernehmen Materialbewertung.
+Fachkräfte übernehmen Materialbewertung.
 
 Der Veranstaltungsbetrieb an der betroffenen Serviceachse wird gestoppt.
 
