@@ -2836,6 +2836,48 @@ Das war fast beruhigend.
 
 Fast.
 
+Er nahm noch einmal das Diensttelefon.
+
+Keine neue Nachricht von Berg.
+
+Keine von Lena.
+
+Hellers letzte Rückmeldung war vier Minuten alt. Daniel öffnete sie, als könnte sich der Text verändert haben.
+
+**Zwei Stellen offen.**
+
+Er hätte Heller noch einmal anrufen können. Die Antwort wäre dieselbe gewesen: Prüfung läuft. Er hätte Jonas bitten können, den Halter noch einmal von vorne zu prüfen. Die sauberen Wege waren nicht verschwunden; sie waren nur ausgeschöpft oder offen.
+
+Daniel schrieb auf einen Zettel drei Uhrzeiten:
+
+**19.24 – jetzt**
+
+**20.20 – Beginn Warnfenster**
+
+**21.00 – Ende Warnfenster**
+
+Dann schrieb er darunter:
+
+**Keine Gewissheit, dass das Fenster stimmt.**
+
+Das war wichtig. Er handelte nicht gegen eine sicher laufende Uhr. Er handelte gegen eine von einer manipulativen Quelle gesetzte Frist, deren letzte Warnung im Kern richtig gewesen war.
+
+Genau darin lag die Falle.
+
+Wenn er wartete und nichts geschah, wäre Warten im Nachhinein leicht zu verteidigen.
+
+Wenn er wartete und etwas geschah, würde jede Minute plötzlich aussehen wie eine Entscheidung.
+
+Wenn er suchte und nichts fand, blieb der Regelbruch trotzdem bestehen.
+
+Wenn er suchte und etwas fand, würde der Erfolg ihn nicht rückwirkend freigeben.
+
+Daniel drehte den Zettel um.
+
+Die Rechnung wurde nicht sauberer, je länger er sie ansah.
+
+Er konnte nur entscheiden, welches Risiko er jetzt trug.
+
 Er klickte in das Feld für den Fallbezug.
 
 Der Cursor blinkte.
@@ -3338,6 +3380,16 @@ Ohne die anonyme Quelle.
 
 Ohne Daniels Altbestand als alleinige Grundlage.
 
+Daniel ließ sich die Zuordnung ein zweites Mal aus einem getrennten aktuellen System bestätigen. Halterdaten, Firmenanschrift, Auftragnehmerbezug. Derselbe Subunternehmer. Kein alter Datenrest, kein Echo seines eigenen Zugriffs.
+
+„Jetzt erst“, sagte er.
+
+Jonas verstand. „Jetzt ist die Garage nicht mehr nur von dir.“
+
+Daniel mochte die Formulierung nicht, aber sie traf es.
+
+Die problematische Spur hatte einen Ort geliefert. Der aktuelle Kleinbus gab diesem Ort erstmals eine unabhängig belastbare Bedeutung.
+
 Lena stand auf.
 
 „Damit können wir weiter.“
@@ -3755,6 +3807,56 @@ Es war kein Triumph.
 Es war Erleichterung.
 
 Das machte es gefährlicher, nicht weniger.
+
+Noch war nicht klar, was die Gefahrenrelevanz konkret bedeutete. Genau das zwang Daniel, die Erleichterung wieder klein zu machen.
+
+„Was ist bestätigt?“, fragte er in den Kanal.
+
+Die Antwort kam gestückelt. Zugangsdokumente: mindestens eines missbräuchlich beschafft. Dienstleisterkleidung: echt, aber nicht den kontrollierten Personen zugeordnet. Technisches Material: Bewertung läuft. Keine abschließende Aussage zum Endzweck.
+
+Daniel schrieb jedes Teil einzeln auf.
+
+„Also kein fertiger Anschlagsplan im Wagen“, sagte Jonas.
+
+„Hat niemand gesagt.“
+
+„Gefahrenrelevanz klingt größer.“
+
+„Deshalb fragen wir nach.“
+
+Ein weiterer Zwischenstand folgte. Auf einem der Dokumente befanden sich Markierungen, die zu einem Lieferbereich der Veranstaltung passten. Noch kein Beweis, dass die beiden Männer dort tatsächlich hinein wollten. Aber die Kombination aus falschen Ausweisen, Fahrzeugbezug und markiertem Zugang war kein neutraler Zufall mehr.
+
+Berg beugte sich über Daniels Notizen.
+
+„Reicht dir das?“
+
+Daniel sah ihn an.
+
+„Wofür?“
+
+„Um zu sagen, dass dein Abgleich richtig war.“
+
+Daniel brauchte keine Sekunde.
+
+„Nein.“
+
+Berg hob leicht die Augenbrauen.
+
+„Er war nützlich. Das ist nicht dasselbe.“
+
+Lena sah kurz zu Daniel, sagte aber nichts.
+
+21.14 Uhr.
+
+Die zweite Person wurde identifiziert. Ebenfalls kein Name aus dem Altbestand. Ein aktueller Kontakt zum Dienstleister ließ sich über eine reguläre Beschäftigungsspur herstellen, die erst seit wenigen Wochen bestand.
+
+Wieder ein Punkt, der mit Daniels altem Treffer nichts zu tun hatte.
+
+Das Bild wurde breiter und zugleich stabiler.
+
+Der Altbestand hatte sie zur Garage gebracht.
+
+Was sie jetzt fanden, gehörte der Gegenwart.
 
 Die zweite Person aus dem Fahrzeug war nicht der Mann, den sie aus dem alten Vorgang kannten. Auch der Fahrer des Mietwagens fehlte.
 
@@ -4191,6 +4293,48 @@ Lena sagte: „Soweit die Zeit es zulässt ist eine ziemlich große Tür.“
 „Dann bleibt die Formulierung unangenehm.“
 
 Lena antwortete nicht.
+
+Berg zog Daniels Vermerk wieder zu sich und schrieb oben rechts eine kurze Notiz. Nicht für Daniel, sondern für die Akte.
+
+„Fortführung in der Lage aus Gründen operativer Kontinuität“, las Lena.
+
+Berg setzte den Stift ab.
+
+„Und darunter: separate Bewertung der Datenverwendung.“
+
+„Gut“, sagte Lena.
+
+Daniel starrte auf die beiden Sätze.
+
+So nüchtern konnte ein Moment aussehen, der für ihn seit einer Stunde die Frage gewesen war, ob er morgen noch Teil des Falls war.
+
+„Wer bewertet?“, fragte er.
+
+Berg sah zu Lena, dann zurück zu Daniel.
+
+„Nicht du. Nicht ich allein. Das reicht dir fürs Erste.“
+
+„Zeitpunkt?“
+
+„Sobald die Lage es zulässt.“
+
+Daniel merkte, wie er fast lachte. Derselbe Satz wie bei der Meldepflicht. Alles hing inzwischen an Zeit.
+
+„Und bis dahin?“
+
+„Bis dahin arbeitest du weiter. Aber du bekommst keinen stillen Freibrief aus dem heutigen Erfolg.“
+
+„Den will ich nicht.“
+
+Lena sah ihn an.
+
+„Das Problem ist nicht, ob du ihn willst. Das Problem ist, ob du anfängst, ihn vorauszusetzen.“
+
+Daniel antwortete nicht.
+
+Der Satz saß dort, wo eine Sanktion gesessen hätte.
+
+Vielleicht war das die unangenehmere Konsequenz.
 
 Berg lehnte sich vor.
 
@@ -4663,6 +4807,28 @@ Jonas atmete aus.
 „Und fehleranfällig.“
 
 „Auch.“
+
+Daniel öffnete während des Gesprächs die bisherige Verteilerliste. Vier Personen bekamen derzeit denselben vollständigen Quellenstand. Er setzte keinen Namen einfach heraus. Stattdessen trennte er zwei Verteiler: operative Behauptungen an die Lage; Quellenwissen nur an den kleinen Prüfkreis, soweit für die jeweilige Prüfung nötig.
+
+„Und wenn du dadurch jemandem genau die Information vorenthältst, die später wichtig wird?“, fragte Jonas.
+
+„Dann ist das der Preis.“
+
+„Schlechter Preis.“
+
+„Ja.“
+
+„Und wenn die Quelle merkt, dass wir anders reagieren?“
+
+Daniel hielt kurz inne.
+
+„Dann haben wir wenigstens gelernt, dass sie unsere Reaktion tatsächlich beobachtet.“
+
+Jonas sagte nichts.
+
+Das war das erste Mal, dass Daniels Quellenprüfung selbst beginnen konnte, das Verhalten der Gegenseite zu testen.
+
+Kein Trick. Nur weniger Gleichverteilung.
 
 Jonas schwieg.
 
