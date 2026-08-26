@@ -1,0 +1,226 @@
+# STILREFERENZ.md – Sprach- und Spannungsarchitektur unseres Romans
+
+## Grundsatz
+
+**Ein primärer kommerzieller Referenzautor. Seine Mechanik gründlich zerlegen. Daraus eigene Regeln ableiten. Keine Stil-Collage.**
+
+Primäre Referenz: **Sebastian Fitzek** – nicht zur Imitation seiner konkreten Wortwahl oder Sätze, sondern als Referenz für maximale Zugänglichkeit, hohen Lesesog und kommerzielle Wirksamkeit im deutschsprachigen Psychothriller.
+
+Wir übernehmen keine Formulierungen, Figuren oder Wendungen. Wir analysieren wiederkehrende handwerkliche Prinzipien und übersetzen sie in eine eigene, verbindliche Sprach- und Spannungsarchitektur für diesen Roman.
+
+---
+
+## 1. Kapitelmechanik
+
+### Ziel
+Hohe Taktfrequenz, schnelle Orientierung und ein klarer Weiterleseimpuls.
+
+### Regeln
+- Kapitel tendenziell kurz halten; häufig wenige Seiten statt langer Blöcke.
+- Szenen möglichst spät beginnen: nahe an Konflikt, Irritation oder Zuspitzung statt bei vorbereitender Routine.
+- Kapitel enden nicht neutral, wenn sich ein wirksamer Weiterleseimpuls erzeugen lässt.
+- Ein Kapitelende sollte vorzugsweise mindestens eine dieser Wirkungen erzeugen:
+  - neue Frage,
+  - neue Erkenntnis,
+  - neue Gefahr,
+  - Entscheidung,
+  - Widerspruch,
+  - Umdeutung.
+- Klassische Cliffhanger gezielt einsetzen, nicht mechanisch in jedem Kapitel.
+
+### Leitregel
+> Jedes Kapitel soll einen Grund liefern, unmittelbar weiterzulesen, ohne dass der Leser das zugrunde liegende Muster bemerkt.
+
+---
+
+## 2. Informationsdosierung
+
+Der Leser soll das Gesamtbild nicht zu früh erhalten.
+
+### Regeln
+- Jede Szene verändert den Informationsstand.
+- Eine Szene darf mehrere Informationen enthalten, aber nie mehr erklären, als für den aktuellen Spannungszustand nötig ist.
+- Informationen werden als Puzzlestücke verteilt.
+- Auslassung, Timing und Auswahl von Informationen sind aktive Spannungsinstrumente.
+- Erklärungen werden nicht vollständig geliefert, nur weil die Figur oder der Autor sie bereits kennt.
+- Der Doppelboden aus `ROTER_FADEN.md` ist verbindlich zu berücksichtigen.
+
+### Leitregel
+> Was der Leser noch nicht weiß, kann genauso wichtig sein wie das, was er gerade erfährt.
+
+---
+
+## 3. Perspektive
+
+### Primärregel
+Der Roman bleibt primär nah an Daniel.
+
+Fremdperspektiven sind eine **Option**, keine Pflicht.
+
+Sie dürfen nur eingesetzt werden, wenn sie einen klaren Spannungsgewinn erzeugen, etwa:
+- der Leser weiß kurzfristig mehr als Daniel,
+- der Leser weiß bewusst weniger,
+- eine Information erhält außerhalb von Daniels Deutung eine andere Bedeutung.
+
+Keine Fremdperspektive nur für Abwechslung oder Exposition.
+
+### Leitregel
+> Perspektivwechsel müssen die Informationsarchitektur verbessern, nicht nur die Oberfläche variieren.
+
+---
+
+## 4. Daniels Wahrnehmung und motiviertes Framing
+
+Daniel ist kein beliebig unzuverlässiger Erzähler und braucht keine Halluzinations- oder Paranoiamechanik als Standard.
+
+Seine Wahrnehmung realer Fakten bleibt grundsätzlich zuverlässig.
+
+Die Unsicherheit entsteht dadurch, **wie er mehrdeutige Informationen unter wachsendem Druck gewichtet und interpretiert**.
+
+### Entwicklung
+- Früh erkennt Daniel alternative Lesarten und korrigiert sich selbst.
+- Mit wachsendem Druck bevorzugt er zunehmend die handlungsorientierte beziehungsweise gefährlichere Interpretation.
+- Persönliche Betroffenheit schwächt seine Selbstkorrektur weiter.
+- Leser und Daniel dürfen denselben Informationsstand unterschiedlich bewerten.
+
+### Leitregel
+> Nicht die Realität wird beliebig – Daniels Gewichtung derselben Realität verändert sich.
+
+---
+
+## 5. Sprache
+
+### Ziel
+Zugänglich, unmittelbar, schnell lesbar und nicht literarisch überladen.
+
+### Regeln
+- Verständlichkeit vor sprachlicher Eleganz.
+- Konkrete Wahrnehmung und Handlung vor abstrakter Erklärung.
+- Keine langen Schachtelsätze, wenn ein klarerer Satz dieselbe Wirkung erzielt.
+- Bildsprache nur dort, wo sie wirklich trägt.
+- Spannung darf Satzlänge und Rhythmus verändern, aber kurze Sätze sind kein Selbstzweck.
+- Reflexion darf länger und ruhiger werden, solange der innere Druck bestehen bleibt.
+- Keine feste Wortzahl für Aktions- oder Reflexionssätze.
+
+### Leitregel
+> Die Sprache darf einfach sein. Sie darf nicht beliebig sein.
+
+---
+
+## 6. Die zentrale Was-wäre-wenn-Prämisse
+
+Der Gesamtroman besitzt eine starke Was-wäre-wenn-Prämisse:
+
+> Was wäre, wenn ein Ermittler das Gesetz bricht, dadurch tatsächlich Menschen rettet – und genau dieser Erfolg beginnt, das System dauerhaft zu verändern?
+
+Einzelne Bausteine müssen daraus Spannung erzeugen, brauchen aber **keine künstlich eigene Was-wäre-wenn-Frage**.
+
+Ihre Funktion ist, die zentrale Prämisse jeweils unter neuem Druck weiterzutreiben.
+
+---
+
+## 7. Dialoge
+
+### Regeln
+- Figuren sagen nicht automatisch exakt, was sie denken oder fühlen.
+- Subtext ist wichtiger als vollständige Erklärung.
+- Konflikte dürfen über Ausweichen, Verkürzen, Schweigen, falsche Sachlichkeit oder Themenwechsel sichtbar werden.
+- Stimmen sollen sich durch Haltung, Wortwahl und Reaktionsmuster unterscheiden, nicht durch künstliche sprachliche Marotten.
+- Politische und moralische Positionen dürfen nicht als fertige Essays in Figurenrede ausgelagert werden.
+
+### Leitregel
+> Dialog ist Handlung zwischen Figuren, kein Transportmittel für Autorenerklärungen.
+
+---
+
+## 8. Daniels innere Sprache
+
+Daniel denkt zu Beginn kontrolliert, analytisch und vergleichsweise knapp.
+
+Im Verlauf darf sich seine innere Sprache verändern:
+- weniger Gegenhypothesen,
+- schnellere Bewertungen,
+- stärkere Rechtfertigungen,
+- mehr gedankliche Verkürzungen unter Zeitdruck,
+- größere Schwierigkeiten, berufliche und persönliche Motive sauber zu trennen.
+
+Kein dauernder emotionaler Selbstkommentar.
+
+Der Leser soll Daniels Veränderung teilweise **an der Form seines Denkens** bemerken, nicht nur an erklärenden Aussagen über seinen Zustand.
+
+---
+
+## 9. Anti-KI-Regeln
+
+Diese Regeln sollen verhindern, dass technisch saubere, aber charakterlose LLM-Prosa entsteht.
+
+### Ausdrücklich vermeiden als Standardmuster
+
+- perfekte rhetorische Dreierlisten,
+- dauernde Synonymvariation nur zur Vermeidung natürlicher Wiederholung,
+- abstrakte Gefühlsformulierungen ohne körperlichen oder handlungsbezogenen Träger,
+- erklärende Nachsätze nach bereits verständlichen Handlungen,
+- permanente bedeutungsschwere Ein-Satz-Absätze,
+- gleichmäßig kunstvolle Metaphern in jeder Szene,
+- Figuren, die jederzeit exakt ausdrücken können, was sie denken oder fühlen,
+- künstlich rhythmisierte Kurzsätze in jeder Spannungsszene,
+- symmetrisch aufgebaute Absätze, in denen jeder Gedanke vollständig ausbalanciert wird,
+- moralisierende Erzählerstimme,
+- Wiederholung derselben Aussage in leicht anderen Worten, nur um sie abzusichern.
+
+### Ausdrücklich erlaubt und gewollt
+
+- Text darf gelegentlich hart, banal, unvollständig oder unangenehm direkt sein.
+- Natürliche Wiederholungen dürfen stehen bleiben.
+- Figuren dürfen widersprüchlich sprechen und handeln.
+- Gefühle dürfen unklar bleiben.
+- Nicht jede Szene braucht eine Metapher oder ein starkes Bild.
+- Nicht jeder Gedanke muss abgeschlossen oder elegant formuliert sein.
+- Unterschiedliche Szenen dürfen unterschiedliche rhythmische Dichte besitzen.
+- Ecken und Kanten sind Teil des Stils, nicht automatisch ein Fehler.
+
+### Prüffrage
+> Klingt dieser Absatz zu glatt, zu ausgewogen oder zu vollständig, um aus einer konkreten Situation und einer konkreten Figur zu stammen?
+
+Wenn ja: **konkretisieren, kürzen, brechen oder etwas unausgesprochen lassen – nicht künstlich verschönern.**
+
+---
+
+## 10. Spannung vor Erklärung
+
+Politische, juristische und institutionelle Komplexität ist wichtig, aber sie darf nicht den unmittelbaren Leseantrieb ersetzen.
+
+### Regeln
+- Ein Sachverhalt wird bevorzugt durch Konsequenzen verständlich gemacht.
+- Wenn eine Information nur als Erklärung existiert, prüfen, ob sie als Konflikt, Entscheidung oder Handlung sichtbar werden kann.
+- Fachsprache nur dort einsetzen, wo Figuren sie tatsächlich verwenden würden und der Kontext sie trägt.
+- Keine Dialoge, deren einzige Funktion darin besteht, dem Leser das politische Dilemma zu erklären.
+
+### Prüffrage
+> Würde diese Passage auch dann funktionieren, wenn der Leser sich nicht für Sicherheitspolitik interessiert?
+
+Wenn nein, muss die Szene stärker über Figur, Risiko oder Entscheidung funktionieren.
+
+---
+
+## 11. Was diese Datei nicht ist
+
+Diese Datei ist:
+- keine Aufforderung, Sebastian Fitzeks konkrete Sprache zu imitieren,
+- keine Sammlung mehrerer Autorenstile,
+- kein starres Satzlängen- oder Cliffhanger-Schema,
+- kein Ersatz für Figurenlogik, Szenenkarten oder dramaturgische Planung.
+
+Sie beschreibt die **verbindlichen sprachlichen und spannungsbezogenen Leitplanken unseres eigenen Romans**.
+
+---
+
+## 12. Spätere Kalibrierung
+
+Kein längerer Textausschnitt aus einem veröffentlichten Fitzek-Roman wird als Stilbenchmark in diesem Repository hinterlegt.
+
+Stattdessen soll später nach den ersten ausformulierten Szenen ein **eigener Kalibrierungstext aus diesem Roman** bestimmt werden:
+
+> So soll sich unser Roman lesen.
+
+Dieser Text dient anschließend als interne Referenz für Rhythmus, Direktheit, Informationsdichte und Daniels Stimme.
