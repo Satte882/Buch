@@ -660,7 +660,7 @@ Nichts sicher.
 
 Heller bewegte den Daumen.
 
-Daniel zog die Waffe.
+Daniel zog die Waffe. Sein Unterarm war hart bis in die Finger. Er merkte es erst, als Heller schon fiel.
 
 Jetzt lag Heller vor ihm.
 
@@ -998,19 +998,17 @@ Daniel antwortete diesmal sofort.
 
 „Das können wir nicht belegen.“
 
-„War die Beobachtung echt?“
+Jana wartete.
 
-„Ja.“
+„Und die Beobachtung?“
 
-„Von denen?“
+„Die war echt. Sie kam wahrscheinlich nicht von der Täterstruktur.“
 
-„Wahrscheinlich nicht von der Täterstruktur.“
+„Sag das noch einmal und hör selbst, wie das klingt.“
 
-Jana sah ihn an.
+Daniel sah auf die schmutzige Tasse.
 
-„Das klingt nicht besser.“
-
-„Ist es auch nicht.“
+„Ich weiß.“
 
 Er erklärte ihr so viel, wie er konnte.
 
