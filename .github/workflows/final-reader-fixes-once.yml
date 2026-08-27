@@ -1,0 +1,100 @@
+name: Final reader-pass fixes
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/final-reader-fixes-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    if: github.event.head_commit.message == 'Apply final reader-pass fixes'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply only verified A/B reader findings
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          f2 = Path('MANUSKRIPT/02_BAUSTEINE_03_04.md')
+          f3 = Path('MANUSKRIPT/03_BAUSTEINE_05_06.md')
+          f5 = Path('MANUSKRIPT/05_BAUSTEINE_08_09.md')
+          t2 = f2.read_text(encoding='utf-8')
+          t3 = f3.read_text(encoding='utf-8')
+          t5 = f5.read_text(encoding='utf-8')
+
+          replacements = [
+              (t2, 'Daniel öffnete die Zeitlinie von Kapitel zwölf nicht. Er brauchte sie nicht mehr.', 'Daniel öffnete die Zeitlinie vom Betriebshof nicht. Er brauchte sie nicht mehr.', 'ch14 meta reference'),
+              (None, 'Das war die eigentliche Entscheidung der Szene.', 'Genau dort lag die eigentliche Entscheidung.', 'ch18 scene meta reference'),
+              (None, 'Daniel legte das Telefon noch einmal hin, bevor er Jonas anrief.', 'Daniel legte das Telefon noch einmal hin. Erst sollten die Informationswege getrennt sein, bevor er Jonas wieder in die operative Arbeit zog.', 'ch18 call forecast'),
+              (None, 'Er nahm das Telefon wieder.\n\nErst jetzt rief er Jonas an.\n\nDaniel nahm sein Diensttelefon und rief Jonas an.', 'Er nahm sein Diensttelefon wieder und rief Jonas an.', 'ch18 duplicate call'),
+          ]
+          # Apply file 2 replacements with exact one-count protection.
+          for _dummy, old, new, label in replacements:
+              count = t2.count(old)
+              if count != 1:
+                  raise SystemExit(f'{label}: expected 1, found {count}')
+              t2 = t2.replace(old, new, 1)
+
+          reps3 = [
+              ('Daniel ging noch einmal zurück in den Arbeitsstand von Kapitel 23.', 'Daniel ging noch einmal zurück in den Arbeitsstand vom Vortag.', 'ch24'),
+              ('Daniel hatte den Vermerk aus Kapitel 25 noch offen.', 'Daniel hatte den Vermerk zur Vor-Fall-Chronologie noch offen.', 'ch26a'),
+              ('Seit der Erkenntnis aus Kapitel 25 hatte er den Impuls, jeden Informationsweg enger zu ziehen, jeden Zugriff zu kontrollieren, jeden möglichen Beobachter zu identifizieren.', 'Seit der Erkenntnis über seine mögliche Vorauswahl hatte er den Impuls, jeden Informationsweg enger zu ziehen, jeden Zugriff zu kontrollieren, jeden möglichen Beobachter zu identifizieren.', 'ch26b'),
+              ('Keine bekannte Verbindung zum Lagerraum aus Kapitel 23.', 'Keine bekannte Verbindung zum zuletzt gefundenen Lagerraum.', 'ch27'),
+              ('Daniel dachte an die vier Absätze aus Kapitel 26.', 'Daniel dachte an die vier Absätze seiner selbst gesetzten Rückkehrgrenze.', 'ch29'),
+              ('Er zog den Projektvermerk aus Kapitel 26 auf.', 'Er zog den Projektvermerk mit seiner Rückkehrgrenze auf.', 'ch29b'),
+              ('Daniels eigenen Vermerk aus Kapitel 26.', 'Daniels eigenen Vermerk mit der Rückkehrgrenze.', 'ch33a'),
+              ('Er erinnerte sich an die drei Modelle aus Kapitel 27.', 'Er erinnerte sich an die drei Modelle, die er nach der Nachricht notiert hatte.', 'ch33b'),
+              ('Er öffnete den Entscheidungsvermerk aus Kapitel 29.', 'Er öffnete den Entscheidungsvermerk zur breiteren Prüfung.', 'ch33c'),
+              ('In Kapitel 1 hätte ihm das gereicht.', 'Zu Beginn hätte ihm das gereicht.', 'ch33d'),
+              ('Oben stand seine alte Selbstbindung aus Kapitel 26.', 'Oben stand seine alte selbst gesetzte Rückkehrgrenze.', 'ch33e'),
+          ]
+          for old, new, label in reps3:
+              count = t3.count(old)
+              if count != 1:
+                  raise SystemExit(f'{label}: expected 1, found {count}')
+              t3 = t3.replace(old, new, 1)
+
+          reps5 = [
+              ('Mehr brauchte die Szene nicht.', 'Mehr musste Daniel daraus nicht machen.', 'ch45 meta scene'),
+              ('Kein künstlicher Zufall.\n\nNur ein offener Zugriff, der dadurch schwerer zu erklären war.', 'Kein Hinweis auf Manipulation.\n\nNur ein offener Zugriff, der dadurch schwerer zu erklären war.', 'ch47 authorial aside'),
+          ]
+          for old, new, label in reps5:
+              count = t5.count(old)
+              if count != 1:
+                  raise SystemExit(f'{label}: expected 1, found {count}')
+              t5 = t5.replace(old, new, 1)
+
+          # Production-meta terms that must no longer occur in prose.
+          forbidden_phrases = [
+              'von Kapitel zwölf', 'Entscheidung der Szene', 'Arbeitsstand von Kapitel',
+              'Vermerk aus Kapitel', 'aus Kapitel 23', 'aus Kapitel 25', 'aus Kapitel 26',
+              'aus Kapitel 27', 'aus Kapitel 29', 'In Kapitel 1', 'Mehr brauchte die Szene nicht',
+              'Kein künstlicher Zufall'
+          ]
+          combined = '\n'.join([t2,t3,t5])
+          for phrase in forbidden_phrases:
+              if phrase in combined:
+                  raise SystemExit(f'production meta phrase remained: {phrase!r}')
+
+          f2.write_text(t2, encoding='utf-8')
+          f3.write_text(t3, encoding='utf-8')
+          f5.write_text(t5, encoding='utf-8')
+          print('PASS final reader A/B findings fixed')
+          PY
+      - name: Self-remove and commit
+        shell: bash
+        run: |
+          git rm .github/workflows/final-reader-fixes-once.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MANUSKRIPT/02_BAUSTEINE_03_04.md MANUSKRIPT/03_BAUSTEINE_05_06.md MANUSKRIPT/05_BAUSTEINE_08_09.md
+          git commit -m 'Fix final reader-pass production artifacts'
+          git push
