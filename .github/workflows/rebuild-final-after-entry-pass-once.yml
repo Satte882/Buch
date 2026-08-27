@@ -1,0 +1,123 @@
+name: Rebuild final after entry reader-pass
+on:
+  push:
+    paths:
+      - '.github/workflows/rebuild-final-after-entry-pass-once.yml'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate and rebuild consolidated manuscript
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          paths = [
+              Path('MANUSKRIPT/01_BAUSTEINE_01_02.md'),
+              Path('MANUSKRIPT/02_BAUSTEINE_03_04.md'),
+              Path('MANUSKRIPT/03_BAUSTEINE_05_06.md'),
+              Path('MANUSKRIPT/04_BAUSTEIN_07.md'),
+              Path('MANUSKRIPT/05_BAUSTEINE_08_09.md'),
+          ]
+          expected_by_file = [
+              ['Prolog'] + [str(i) for i in range(1,7)],
+              [str(i) for i in range(7,19)],
+              [str(i) for i in range(19,34)],
+              [str(i) for i in range(34,38)],
+              [str(i) for i in range(38,48)],
+          ]
+          heading_re = re.compile(r'^##\s+(Prolog|\d+)\s*$', re.M)
+          word_re = re.compile(r"\b[\wÄÖÜäöüß]+(?:[-’'][\wÄÖÜäöüß]+)*\b", re.UNICODE)
+
+          sections = {}
+          for path, exp in zip(paths, expected_by_file):
+              text = path.read_text(encoding='utf-8')
+              heads = [m.group(1) for m in heading_re.finditer(text)]
+              if heads != exp:
+                  raise SystemExit(f'{path}: invalid chapter structure {heads}')
+              ms = list(heading_re.finditer(text))
+              for i,m in enumerate(ms):
+                  end = ms[i+1].start() if i+1 < len(ms) else len(text)
+                  body = re.sub(r'\n\s*---\s*$', '', text[m.end():end].strip()).strip()
+                  if not body:
+                      raise SystemExit(f'empty chapter {m.group(1)}')
+                  sections[m.group(1)] = body
+
+          expected = ['Prolog'] + [str(i) for i in range(1,48)]
+          if list(sections.keys()) != expected:
+              raise SystemExit('global chapter order changed')
+
+          all_prose = '\n'.join(sections[x] for x in expected)
+          forbidden = [
+              'temporary metrics trigger', 'CLEANUP_TMP_BRANCHES', 'TODO:', 'FIXME', 'PLACEHOLDER',
+              'Entscheidung der Szene', 'Mehr brauchte die Szene nicht', 'Kein künstlicher Zufall',
+              'Arbeitsstand von Kapitel', 'Vermerk aus Kapitel', 'aus Kapitel 23', 'aus Kapitel 25',
+              'aus Kapitel 26', 'aus Kapitel 27', 'aus Kapitel 29', 'In Kapitel 1', 'von Kapitel zwölf'
+          ]
+          for token in forbidden:
+              if token in all_prose:
+                  raise SystemExit(f'production artifact remained: {token!r}')
+          if re.search(r'\bKapitel\s+\d+\b', all_prose, re.I):
+              raise SystemExit('numeric chapter meta-reference remained')
+
+          must = {
+              '5': ['Lagerhaus C, Einheit 17.'],
+              '6': ['**Hamburg. Nicht irgendwann.**'],
+              '8': ['20.11 Uhr. Hausflur Ihrer Mutter.'],
+              '9': ['unten drei Zentimeter mehr Rand sind als oben'],
+              '25': ['Wer kannte ihn?', 'bevor Daniel selbst wusste, dass es einen Fall gab'],
+              '33': ['Ich baue die breiten Möglichkeiten jetzt nicht vollständig zurück'],
+              '38': ['Ab jetzt nur noch unser Stand', 'Vorgezogene Freigabe'],
+              '39': ['Wir bleiben bei der Projektstruktur', 'engeren Weg'],
+              '40': ['Markus Heller lag auf der nassen Betonfläche.', 'Terminal in der linken Hand', 'Nicht gesendet.'],
+              '43': ['Heller starb am nächsten Morgen um 5.18 Uhr.', 'drei Mappen'],
+              '44': ['Verbundprüfung'], '45': ['Hamburg'], '46': ['Verbundprüfung'],
+              '47': ['hundertzwanzig', 'stärkste Gegenhypothese'],
+          }
+          for ch, needles in must.items():
+              for needle in needles:
+                  if needle not in sections[ch]:
+                      raise SystemExit(f'chapter {ch}: missing invariant {needle!r}')
+
+          if 'Die Hand war leer' not in sections['Prolog']:
+              raise SystemExit('Prolog empty-hand fact missing')
+          if 'Heller starb' in sections['40']:
+              raise SystemExit('Heller dies too early')
+          if not sections['47'].rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“'):
+              raise SystemExit('final line changed')
+
+          for ch in expected:
+              paras = [re.sub(r'\s+', ' ', p).strip() for p in re.split(r'\n\s*\n', sections[ch])]
+              paras = [p for p in paras if p and p != '---']
+              for span in (1,2,3):
+                  for i in range(len(paras)-2*span+1):
+                      if paras[i:i+span] == paras[i+span:i+2*span] and len(' '.join(paras[i:i+span])) >= 15:
+                          raise SystemExit(f'chapter {ch}: adjacent repeat span={span}')
+
+          total = sum(len(word_re.findall(sections[ch])) for ch in expected)
+          if not 70000 <= total <= 80000:
+              raise SystemExit(f'post-reader-pass size implausible: {total}')
+
+          chunks = ['# Ausnahmezustand']
+          for ch in expected:
+              chunks.append(f'## {ch}\n\n{sections[ch]}')
+          final = '\n\n---\n\n'.join(chunks) + '\n'
+          Path('AUSNAHMEZUSTAND_FINAL.md').write_text(final, encoding='utf-8')
+          print(f'PASS post-entry final: chapters=48 words={total}')
+          print('PASS protected opening and global invariants')
+          print('PASS no production/direct-repeat artifacts')
+          PY
+      - name: Self-remove and commit rebuilt final
+        shell: bash
+        run: |
+          git rm .github/workflows/rebuild-final-after-entry-pass-once.yml
+          git add AUSNAHMEZUSTAND_FINAL.md
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Rebuild final manuscript after entry reader-pass'
+          git push
