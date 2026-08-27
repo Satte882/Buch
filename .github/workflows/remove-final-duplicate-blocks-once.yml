@@ -18,7 +18,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Remove eight verified duplicate blocks
+      - name: Remove eight verified repetition blocks
         shell: bash
         run: |
           python - <<'PY'
@@ -27,9 +27,8 @@ jobs:
           path = Path('MANUSKRIPT/03_BAUSTEINE_05_06.md')
           text = path.read_text(encoding='utf-8')
 
-          blocks = [
+          exact_blocks = [
               '„Dann entscheide ich mit dem, was ich habe.“',
-              'Die Tatsache, dass jemand wusste, welchen Ausgang Jana benutzt hatte, bewies genau eine Sache: Jemand wusste es.',
               'Das war der Kompromiss.\n\nNicht seiner.\n\nIhrer.',
               'Das war schlimmer als ein eindeutiger Fehlschlag.',
               'Lena war nicht das Leck.',
@@ -38,20 +37,31 @@ jobs:
               'In Kapitel 1 hätte ihm das gereicht.',
           ]
 
-          for block in blocks:
+          for block in exact_blocks:
               doubled = block + '\n\n' + block
               count = text.count(doubled)
               if count != 1:
                   raise SystemExit(f'duplicate block count={count}: {block[:80]!r}')
               text = text.replace(doubled, block, 1)
 
-          # Protect chapter structure and ensure the duplicates are gone.
-          for block in blocks:
+          # Chapter 27 repeats the same fact twice with only the pronoun/name changed.
+          redundant = (
+              'Die Tatsache, dass jemand wusste, welchen Ausgang sie benutzt hatte, bewies genau eine Sache: Jemand wusste es.\n\n'
+              'Die Tatsache, dass jemand wusste, welchen Ausgang Jana benutzt hatte, bewies genau eine Sache: Jemand wusste es.'
+          )
+          replacement = 'Die Tatsache, dass jemand wusste, welchen Ausgang Jana benutzt hatte, bewies genau eine Sache: Jemand wusste es.'
+          if text.count(redundant) != 1:
+              raise SystemExit(f'chapter 27 redundant pair count={text.count(redundant)}')
+          text = text.replace(redundant, replacement, 1)
+
+          for block in exact_blocks:
               if block + '\n\n' + block in text:
                   raise SystemExit(f'duplicate remained: {block[:80]!r}')
+          if redundant in text:
+              raise SystemExit('chapter 27 redundant pair remained')
 
           path.write_text(text, encoding='utf-8')
-          print('PASS removed 8 verified duplicate blocks')
+          print('PASS removed 7 exact duplicates + 1 immediate redundant pair')
           PY
 
       - name: Self-remove and commit
