@@ -452,8 +452,6 @@ Weil sie für die nächste Entscheidung nicht mehr reichen musste.
 
 „Ab jetzt nur noch unser Stand“, sagte er.
 
-„Ab jetzt nur noch unser Stand“, sagte er.
-
 Daniel ließ Jonas die anonyme Nachricht aus dem Hauptfenster nehmen.
 
 Nicht löschen.
@@ -1342,10 +1340,6 @@ Daniel machte den zweiten Schritt.
 
 Jetzt hätte er springen können.
 
-Daniel machte den zweiten Schritt.
-
-Jetzt hätte er springen können.
-
 Der Regen machte den Beton glatt. Nicht so glatt, dass ein Sprung unmöglich gewesen wäre. Nur so, dass Daniel den ersten Schritt nicht als sichere Distanzverkürzung rechnen konnte.
 
 Heller stand nicht in einer Kampfhaltung.
@@ -1964,10 +1958,6 @@ Sie durfte schneller sehen.
 
 Sie durfte nicht schneller urteilen.
 
-Sie durfte schneller sehen.
-
-Sie durfte nicht schneller urteilen.
-
 Daniel ließ Jonas deshalb bei jeder neuen Meldung den Ursprung voranstellen.
 
 „Servicezufahrt?“
@@ -2375,8 +2365,6 @@ Jana nahm das Telefon nicht.
 „Damit kann ich was anfangen.“
 
 Daniel steckte das Telefon wieder ein.
-
-„Was brauchst du von mir?“ fragte er.
 
 „Was brauchst du von mir?“ fragte er.
 
@@ -2845,8 +2833,6 @@ Berg bewegte sich.
 Lena nicht.
 
 Die Leiterin fragte: „Welche?“
-
-„Distanz schließen. Ihn körperlich stoppen. Darauf vertrauen, dass die Einsatzführung meinen Widerruf rechtzeitig gegen seine Meldung hält.“
 
 „Distanz schließen. Ihn körperlich stoppen. Darauf vertrauen, dass die Einsatzführung meinen Widerruf rechtzeitig gegen seine Meldung hält.“
 
