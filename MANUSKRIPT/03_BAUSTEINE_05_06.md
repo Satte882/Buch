@@ -3476,18 +3476,6 @@ Damit war der Druck nicht weg.
 
 Er hatte nur einen Zeugen dafür, dass Daniel ihn nicht heimlich in Evidenz verwandeln durfte.
 
-Nicht, dass die behauptete größere Gefahr stimmte.
-
-Nicht, dass Jana Ziel war.
-
-Nicht, dass beides zusammenhing.
-
-Daniel sagte sich das einmal.
-
-Dann noch einmal, weil sein Körper die Information offenbar nicht gelesen hatte.
-
-Sein Nacken war hart. Er stand noch immer.
-
 „Freigabe existiert“, sagte Jonas.
 
 Daniel trat an seinen Bildschirm.
@@ -3553,26 +3541,6 @@ Jonas las.
 „Noch nicht.“
 
 Jonas markierte die Kennung im Arbeitsstand als **bestätigt**, die Bedeutung als **offen**.
-
-Daniel sah auf die zwei Wörter.
-
-So hatte er nach dem Betriebshof begonnen zu arbeiten.
-
-Bestätigt.
-
-Offen.
-
-Widerlegt.
-
-Der Jana-Satz passte in keine der drei Kategorien, weil er eine andere Frage beantwortete.
-
-Daniel schrieb selbst daneben:
-
-**Privatwissen bestätigt keine Gefahrenannahme.**
-
-Jonas sah zu ihm.
-
-„Was?“
 
 Daniel zeigte ihm jetzt auch die letzte Zeile.
 
@@ -4498,33 +4466,9 @@ Daniel sah auf die 27.
 
 Das war schlimmer als ein eindeutiger Fehlschlag.
 
-Daniel zog ein Blatt quer vor sich und schrieb zwei Überschriften.
+Daniel schrieb Weber und den Lagerraum nebeneinander. Beim einen: Fehlzuordnung, Arbeitgeberreaktion, Nachlauf. Beim anderen: realer Gefahrenstrang, wahrscheinlich früher sichtbar durch den breiten Kreis.
 
-**Was die breite Prüfung bereits gekostet hat.**
-
-**Was die breite Prüfung bereits gebracht hat.**
-
-Unter die erste schrieb er Weber. Fehlzuordnung. Arbeitgeberreaktion. Nachlauf trotz Korrektur.
-
-Unter die zweite den Aushilfsfahrer, den Lagerraum, den gestoppten Vorbereitungsschritt.
-
-Dann ließ er beide Spalten offen.
-
-„Was soll das werden?“, fragte Berg.
-
-„Die Begründung, bevor wir wissen, ob der nächste Treffer gut oder schlecht ist.“
-
-Lena sah auf das Blatt.
-
-„Dann schreib bei der ersten auch Erklärungsarbeit für Unbeteiligte.“
-
-Daniel tat es.
-
-Jonas sagte: „Und bei der zweiten, dass wir den Lagerraum wahrscheinlich später oder gar nicht gesehen hätten.“
-
-Daniel schrieb **Zeitgewinn wahrscheinlich**, nicht **verhindert**.
-
-Die Formulierung ärgerte Berg nicht. Das war gut.
+Kein Erfolgs- oder Fehlschlagslabel.
 
 „Jetzt die Entscheidung“, sagte Lena.
 
@@ -5586,31 +5530,7 @@ Die Lieferadresse lag zwei Straßen weiter.
 
 „Das reicht auch nicht“, sagte Daniel.
 
-Daniel ließ auch die Standortangabe noch einmal gegenprüfen.
-
-Jonas sah ihn an.
-
-„Die Kontrolle ist dokumentiert.“
-
-„Ich weiß.“
-
-„Foto passt. Uhrzeit passt.“
-
-„Ich weiß.“
-
-„Was genau soll ich noch prüfen?“
-
-„Ob der Standort aus der Kontrolle stammt oder später aus einem übernommenen Datensatz.“
-
-Jonas atmete hörbar aus, machte es aber.
-
-Die Antwort kam wenige Minuten später: ursprünglicher Kontrollvorgang, Zeit und Ort direkt dort erfasst. Keine spätere Zuordnung aus Daniels Projekt.
-
-„Unabhängig genug?“ fragte Jonas.
-
-„Für diesen Punkt ja.“
-
-Daniel markierte ihn entsprechend.
+Jonas bestätigte aus dem ursprünglichen Kontrollvorgang, dass Zeit und Ort nicht später aus Daniels Projekt übernommen worden waren. Daniel ließ den Punkt stehen.
 
 Das war langsamere Arbeit als eine schöne Verbindung auf dem Bildschirm einfach zu glauben.
 

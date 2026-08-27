@@ -1374,23 +1374,11 @@ Heller sah kurz auf das Display.
 
 Daniel hörte seinen eigenen Atem lauter als den Funk.
 
-Keine der Alternativen verschwand.
+Hellers Daumen bewegte sich.
 
-Sie liefen nur gleichzeitig aus derselben Sekunde heraus.
+Daniel zog die Waffe.
 
-Dann bewegte Heller den Daumen.
-
-Vielleicht hätte es gereicht.
-
-Vielleicht hätte Heller nur den Daumen bewegen müssen.
-
-Daniel wusste nicht, welche Möglichkeit wahrscheinlicher war.
-
-Er wusste nur, dass beide real waren.
-
-Heller bewegte den Daumen.
-
-Daniel zog die Waffe. Sein Unterarm war hart bis in die Finger. Er merkte es erst, als Heller schon fiel.
+Der Knall.
 
 Jetzt lag Heller vor ihm.
 
@@ -3223,6 +3211,8 @@ Mit Änderungen.
 **Nachprüfung:** Stichprobe plus Pflichtprüfung bei belastenden Folgen.
 
 Daniel las die Zeilen zweimal.
+
+Er merkte erst beim Umblättern, wie fest er den Stift hielt. Er lockerte die Finger und las weiter.
 
 „Wer ist die zweite Freigabe?“
 
