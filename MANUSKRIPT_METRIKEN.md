@@ -4,10 +4,10 @@
 
 ## Gesamtstand
 
-- **Ist:** 75.005 Wörter
+- **Ist:** 74.924 Wörter
 - **Planungsziel:** 77.000 Wörter
-- **Lücke zum Planungsziel:** 1.995 Wörter
-- **Zielerreichung:** 97,4%
+- **Lücke zum Planungsziel:** 2.076 Wörter
+- **Zielerreichung:** 97,3%
 
 ## Bausteine – Ist gegen Ziel
 
@@ -17,8 +17,8 @@
 | 02 | Ausgangswelt Daniel | 8.979 | 9.000 | +21 | 99.8% |
 | 03 | Auslösendes Ereignis | 11.195 | 11.000 | -195 | 101.8% |
 | 04 | Erste Entscheidung | 8.472 | 8.500 | +28 | 99.7% |
-| 05 | Entdeckung & Eskalation | 11.867 | 12.000 | +133 | 98.9% |
-| 06 | Moralischer / psychologischer Kipppunkt | 13.399 | 13.400 | +1 | 100.0% |
+| 05 | Entdeckung & Eskalation | 11.859 | 12.000 | +141 | 98.8% |
+| 06 | Moralischer / psychologischer Kipppunkt | 13.326 | 13.400 | +74 | 99.4% |
 | 07 | Reversal / Umdeutung | 6.172 | 7.000 | +828 | 88.2% |
 | 08 | Finale Entscheidung & Konsequenz | 10.481 | 10.500 | +19 | 99.8% |
 | 09 | Nachhall / Schlussszene | 3.823 | 4.800 | +977 | 79.6% |
@@ -49,18 +49,18 @@
 | 05 | 19 | 1.769 |
 | 05 | 20 | 1.549 |
 | 05 | 21 | 1.734 |
-| 05 | 22 | 1.483 |
+| 05 | 22 | 1.475 |
 | 05 | 23 | 1.700 |
 | 05 | 24 | 1.827 |
 | 05 | 25 | 1.805 |
 | 06 | 26 | 1.469 |
-| 06 | 27 | 1.618 |
-| 06 | 28 | 1.445 |
-| 06 | 29 | 1.865 |
-| 06 | 30 | 1.612 |
-| 06 | 31 | 1.964 |
-| 06 | 32 | 1.637 |
-| 06 | 33 | 1.789 |
+| 06 | 27 | 1.601 |
+| 06 | 28 | 1.438 |
+| 06 | 29 | 1.858 |
+| 06 | 30 | 1.607 |
+| 06 | 31 | 1.944 |
+| 06 | 32 | 1.627 |
+| 06 | 33 | 1.782 |
 | 07 | 34 | 1.466 |
 | 07 | 35 | 1.632 |
 | 07 | 36 | 1.771 |
