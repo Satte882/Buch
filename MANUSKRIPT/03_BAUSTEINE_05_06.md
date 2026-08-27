@@ -1832,8 +1832,6 @@ Mara atmete leise aus.
 
 „Dann entscheide ich mit dem, was ich habe.“
 
-„Dann entscheide ich mit dem, was ich habe.“
-
 Daniel sah auf den Ausdruck der Projektstruktur unter seiner Hand.
 
 Genau dort standen dieselben Wörter in anderer Form. Unvollständige Lage. verfügbare Informationen. Entscheidung trotz offener Punkte.
@@ -4002,8 +4000,6 @@ Er rief nicht an.
 
 Noch nicht.
 
-Die Tatsache, dass jemand wusste, welchen Ausgang sie benutzt hatte, bewies genau eine Sache: Jemand wusste es.
-
 Die Tatsache, dass jemand wusste, welchen Ausgang Jana benutzt hatte, bewies genau eine Sache: Jemand wusste es.
 
 Daniel schrieb den Satz auf Papier.
@@ -4826,12 +4822,6 @@ Nicht seiner.
 
 Ihrer.
 
-Das war der Kompromiss.
-
-Nicht seiner.
-
-Ihrer.
-
 Daniel blieb mit dem Telefon in der Hand stehen und ging die Fakten durch, als wäre Jana ein Vorgang, obwohl genau das falsch war.
 
 Sie war nicht allein.
@@ -5077,8 +5067,6 @@ Daniel mochte ihn in diesem Moment fast dafür.
 „Richtig.“
 
 Daniel sah auf die 27.
-
-Das war schlimmer als ein eindeutiger Fehlschlag.
 
 Das war schlimmer als ein eindeutiger Fehlschlag.
 
@@ -5718,8 +5706,6 @@ Nur eine alte Hypothese weniger.
 
 Lena war nicht das Leck.
 
-Lena war nicht das Leck.
-
 Daniel setzte den Satz nicht in den normalen Quellenstand. Er korrigierte dort nur das, was dorthin gehörte: Der auffällige Kontaktweg war formal erklärt und lieferte keinen Hinweis auf einen Abfluss.
 
 Dann öffnete er den Sicherheitsvermerk, der ihre vorläufige Einschränkung ausgelöst hatte.
@@ -6051,8 +6037,6 @@ Daniel sah auf die Adresse.
 Vor zwei Tagen hätte er sie vielleicht offen gelassen und parallel weitergezogen.
 
 Nach Lena wollte er mehr.
-
-„Dann schließen wir sie nicht als harmlos“, sagte er. „Aber wir machen auch nichts daraus, bis ein zweiter Anker kommt.“
 
 „Dann schließen wir sie nicht als harmlos“, sagte er. „Aber wir machen auch nichts daraus, bis ein zweiter Anker kommt.“
 
@@ -6774,10 +6758,6 @@ Nicht alles daran betraf ihn.
 
 Das war vermutlich der Punkt.
 
-Nicht alles daran betraf ihn.
-
-Das war vermutlich der Punkt.
-
 Daniel fragte Mara nicht nach Quadratmetern oder Mietdauer.
 
 „Was ist das Erste, worauf du dich in Hamburg wirklich freust?“
@@ -7349,8 +7329,6 @@ Jonas antwortete.
 Jonas hob die Hände. „Mehr weiß ich nicht.“
 
 Daniel nickte.
-
-In Kapitel 1 hätte ihm das gereicht.
 
 In Kapitel 1 hätte ihm das gereicht.
 
