@@ -1,0 +1,29 @@
+name: Anti-tick scan once
+
+on:
+  push:
+    paths:
+      - scripts/anti_tick_scan.py
+      - .github/workflows/anti-tick-scan-once.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Scan full manuscript
+        run: python scripts/anti_tick_scan.py
+      - name: Commit temporary scan report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ANTI_TICK_SCAN_TEMP.md
+          git commit -m "Generate temporary anti-tick scan report"
+          git push
