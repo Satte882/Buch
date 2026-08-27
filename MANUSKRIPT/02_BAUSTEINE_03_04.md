@@ -434,7 +434,7 @@ Im Flur blieb er kurz vor einer Glastür stehen und öffnete Janas Kontakt.
 
 Er tippte nichts.
 
-Wenn er jetzt fragte, ob sie jemandem von seinem Besuch erzählt hatte, erzeugte er aus einem ungeklärten Satz sofort eine private Lage. Vielleicht zu Recht. Vielleicht wegen einer Nachricht, deren Absender genau diese Reaktion wollte.
+Wenn er jetzt fragte, ob sie jemandem von seinem Besuch erzählt hatte, erzeugte er aus einem ungeklärten Satz sofort eine private Lage. Sie konnte real sein. Oder genau die Reaktion, die der Absender provozieren wollte.
 
 Er schloss den Kontakt wieder.
 
@@ -524,7 +524,7 @@ Er schrieb darunter:
 
 Auch das war nicht besser.
 
-Jana. Mara. Der Makler möglicherweise. Jeder, der ihm gefolgt war.
+Jana. Mara. Der Makler. Jeder, der ihm gefolgt war.
 
 Daniel öffnete seinen Kalender.
 
@@ -3132,13 +3132,7 @@ Er hätte weiter warten können.
 
 Das war keine theoretische Option. Er musste sie sich nicht schönreden.
 
-Vielleicht kam um 19.40 Uhr die reguläre Bestätigung.
-
-Vielleicht um 20.05 Uhr.
-
-Vielleicht morgen.
-
-Vielleicht war das Kennzeichen nichts.
+Die reguläre Bestätigung konnte um 19.40 Uhr kommen, um 20.05 Uhr oder erst morgen. Das Kennzeichen konnte sich am Ende als nichts erweisen.
 
 Ein Mietwagen einer Kurierfirma war in Berlin ungefähr so außergewöhnlich wie Regen.
 
@@ -3228,17 +3222,7 @@ Er las ihn.
 
 Nicht Wort für Wort. Dafür kannte er solche Hinweise zu gut. Der Bestand gehörte zu einem anderen Verfahren. Zugriff und Verwendung waren protokolliert. Die Tatsache, dass Daniel technisch hineinsehen konnte, war keine Erlaubnis, jeden Treffer in einem neuen Fall zu nutzen.
 
-Er hätte sich eine Begründung bauen können.
-
-Akute Lage.
-
-Gefahr für eine Großveranstaltung.
-
-Zweimal präzise Quelleninformation.
-
-Verletzter Sicherheitsmann.
-
-Alles wahr.
+Er hätte sich aus lauter wahren Punkten eine Begründung bauen können: akute Lage, Gefahr für eine Großveranstaltung, zweimal präzise Quelleninformation, ein verletzter Sicherheitsmann.
 
 Keiner dieser Sätze änderte, dass die konkrete fallübergreifende Nutzung gerade nicht sauber freigegeben war.
 
@@ -3246,17 +3230,7 @@ Daniel öffnete seinen aktuellen Vorgang und sah auf das Feld für den Fallbezug
 
 Wenn er die Suche ausführte, würde dort stehen, weshalb er im Altbestand gewesen war.
 
-Kein unsichtbarer Schritt.
-
-Kein Hack.
-
-Kein Zugang, den jemand anderer für ihn geöffnet hatte.
-
-Sein Name. Seine Kennung. Seine Uhrzeit.
-
-Das war fast beruhigend.
-
-Fast.
+Es war kein unsichtbarer Schritt und kein Hack. Der Zugriff lief unter seinem Namen, seiner Kennung, seiner Uhrzeit. Gerade diese Sichtbarkeit hatte etwas beinahe Beruhigendes.
 
 Er nahm noch einmal das Diensttelefon.
 
@@ -3340,13 +3314,7 @@ Der Satz war hässlich. Genau deshalb ließ Daniel ihn stehen.
 
 Wenn er später erklären musste, warum er gesucht hatte, sollte niemand glauben können, er habe den fehlenden Fallbezug erst nachträglich entdeckt.
 
-Er klickte zurück in die Suchmaske.
-
-Person blieb leer.
-
-Anschrift blieb leer.
-
-Telefon blieb leer.
+Er klickte zurück in die Suchmaske. Die Felder für Person, Anschrift und Telefon blieben leer.
 
 Die private Beobachtung Janas blieb in einem anderen Vermerk und in seinem Kopf.
 
@@ -3372,15 +3340,7 @@ Nicht jetzt.
 
 Er wollte wissen, ob dieses eine Kennzeichen bereits in einem relevanten Zusammenhang aufgetaucht war.
 
-Keine Fahrer.
-
-Keine Kontakte.
-
-Keine Haushalte.
-
-Keine Bewegungsübersicht.
-
-Keine Suche nach Janas Namen, obwohl der Gedanke für einen kurzen Moment da war.
+Er zog weder Fahrer noch Kontakte, Haushalte oder Bewegungsübersichten hinzu. Nach Janas Namen suchte er ebenfalls nicht, obwohl ihm der Gedanke kurz kam.
 
 Er schob ihn weg, bevor er Form annahm.
 
@@ -3456,19 +3416,7 @@ Nur zwei Fahrzeuge zur selben Zeit am selben Ort.
 
 Er klickte nicht auf die Person hinter dem weißen Lieferwagen.
 
-Das Feld wäre da gewesen.
-
-Er ließ es zu.
-
-Daniel öffnete den dritten Treffer.
-
-Zwei Tage später.
-
-Andere Straße.
-
-Wieder beide Fahrzeuge innerhalb desselben Zeitfensters.
-
-Diesmal neun Minuten auseinander.
+Das Feld wäre da gewesen; er ließ es zu. Daniel öffnete den dritten Treffer. Zwei Tage später, andere Straße: wieder beide Fahrzeuge innerhalb desselben Zeitfensters, diesmal neun Minuten auseinander.
 
 Er lehnte sich zurück.
 
@@ -3480,15 +3428,7 @@ Daniel sah auf die Uhr.
 
 19.26 Uhr.
 
-Er hätte jetzt erweitern können.
-
-Fahrer.
-
-Kontakte.
-
-Weitere Fahrzeuge der Kurierfirma.
-
-Personen aus dem alten Verfahren.
+Er hätte jetzt auf Fahrer, Kontakte, weitere Fahrzeuge der Kurierfirma und Personen aus dem alten Verfahren erweitern können.
 
 Das wäre die logische nächste Suche gewesen, wenn er seine erste Entscheidung bereits als Freigabe für die zweite behandelt hätte.
 
@@ -3510,11 +3450,7 @@ Natürlich war er das.
 
 Daniel sah auf seine Notiz.
 
-Drei Treffer.
-
-Einer wertlos.
-
-Zwei möglicherweise relevant.
+Drei Treffer: einer wertlos, zwei offen.
 
 Er hatte die Grenze nicht überschritten, um Gewissheit zu bekommen.
 
@@ -5384,11 +5320,7 @@ Dann blieb er an der zweiten Zeile hängen.
 
 **Sie haben entschieden, bevor es zu spät war.**
 
-Nicht *Sie hatten recht*.
-
-Nicht *Sie haben Menschen gerettet*.
-
-Nicht einmal *der Zugriff hat funktioniert*.
+Die Nachricht sagte weder *Sie hatten recht* noch *Sie haben Menschen gerettet*. Nicht einmal *der Zugriff hat funktioniert*.
 
 Entschieden.
 
@@ -5444,7 +5376,7 @@ Er hätte warten können.
 
 Die Quelle musste nicht gewusst haben, dass er Enter drücken würde.
 
-Vielleicht hatte sie nur darauf gesetzt, dass er es wahrscheinlich tat.
+Vielleicht hatte sie nur darauf gesetzt, dass er es tat.
 
 Das war unangenehmer.
 

@@ -404,11 +404,7 @@ Lena schloss die Tür hinter sich.
 
 Daniel sah durch das schmale Fenster in der Tür. Mika hatte den Kopf in beide Hände gelegt. Dann hob er ihn wieder und sah auf den unberührten zweiten Becher Wasser, als müsste er noch eine Weile hier sitzen.
 
-Nicht gebrochen.
-
-Nicht geläutert.
-
-Nur ein Mann, der offenbar erst jetzt begriff, dass sein normaler Montag vielleicht nicht mehr stattfand.
+Nicht gebrochen oder geläutert. Nur ein Mann, dem gerade klar wurde, dass sein normaler Montag nicht mehr stattfand.
 
 Daniel nahm Jonas den Zettel ab.
 
@@ -2531,12 +2527,6 @@ Weber fügte sofort hinzu: „Und nein, Sie müssen sich jetzt nicht schlecht f�
 Dann legte er auf.
 
 Daniel hielt das Telefon noch am Ohr.
-
-Keine Versöhnung.
-
-Keine Entlastung.
-
-Nur eine Korrektur, die langsamer wirkte als der Verdacht.
 
 Nach dem Telefonat öffnete Daniel die Weitergabekette der Korrektur.
 
@@ -5782,8 +5772,6 @@ Lena antwortete nicht sofort.
 
 Daniel sah zu ihr.
 
-Sie hasste den Satz vermutlich.
-
 „Wahrscheinlich nicht rechtzeitig“, sagte sie schließlich.
 
 Berg nickte.
@@ -6100,13 +6088,9 @@ Daniel grinste trotz allem.
 
 Mara erzählte von der zweiten Wohnung. Kleiner Balkon. Längere Fahrt ins Büro. Dafür ein Raum, in dem sie tatsächlich einen Schreibtisch unterbringen konnte. Sie hatte noch nichts entschieden.
 
-Daniel hörte zu.
+Daniel hörte zu. Nicht alles daran betraf ihn.
 
-Nicht alles daran betraf ihn.
-
-Das war vermutlich der Punkt.
-
-Daniel fragte Mara nicht nach Quadratmetern oder Mietdauer.
+Er fragte Mara nicht nach Quadratmetern oder Mietdauer.
 
 „Was ist das Erste, worauf du dich in Hamburg wirklich freust?“
 
@@ -6310,11 +6294,7 @@ Daniel auch nicht.
 
 Daniel sah auf seine Hände.
 
-Das hatte sie ihm schon beim ersten Gespräch gesagt.
-
-Vielleicht nicht in denselben Worten.
-
-Er hatte damals nach Homeoffice gefragt.
+Das hatte sie ihm schon beim ersten Gespräch gesagt, nur anders. Damals hatte er nach Homeoffice gefragt.
 
 „Wann sagst du deinem jetzigen Team Bescheid?“
 
@@ -6839,8 +6819,6 @@ Freigabe.
 Er hatte die Worte geschrieben, damit ein späterer Daniel nicht einfach weiterlief.
 
 Jetzt saß er hier.
-
-Nicht später genug offenbar.
 
 „Ich baue die breiten Möglichkeiten jetzt nicht vollständig zurück“, sagte er.
 

@@ -4,6 +4,18 @@
 
 Diese Datei ist die verbindliche Umfangssteuerung für die Ausarbeitung des bestehenden Romans. Die Storyarchitektur aus `ROMAN_MAP.md` bleibt bestehen; gesteuert wird die Tiefe und Ausspielung der bereits vorhandenen Szenen.
 
+## Aktuelle Steuerungsregel ab #39 – Qualität vor Wortziel
+
+Die nachfolgenden Wortziele dokumentieren die **historische Ausbauplanung**. Für die abgenommene Vollfassung und alle weiteren Lektorats-/Testleser-Pässe sind sie **kein Abnahmekriterium mehr**.
+
+- **Umfang folgt Funktion.**
+- Wortzahl wird weiter automatisch gemessen, aber nicht mechanisch optimiert.
+- Es wird weder aufgefüllt noch gekürzt, nur um einen Korridor zu treffen.
+- Eine Kürzung ist richtig, wenn sie Leserwirkung verbessert; eine Erweiterung ist richtig, wenn eine vorhandene Szene dadurch glaubwürdiger, konkreter oder emotional vollständiger wird.
+- Plot-, Figuren- und Romanfunktion haben Vorrang vor Soll/Ist-Werten.
+
+Diese Regel überschreibt für die aktuelle Manuskriptphase alle später in dieser Datei genannten Formulierungen, nach denen 75.000–80.000 Wörter oder 77.000 Wörter zwingend erreicht werden müssten. Die Werte bleiben ausschließlich als historische Planungs- und Vergleichsdaten erhalten.
+
 ## Überziel
 
 - Zielprodukt: vollständiger deutschsprachiger Psychothriller im geplanten Romanumfang

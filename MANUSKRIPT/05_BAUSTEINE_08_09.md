@@ -1264,8 +1264,6 @@ Er sah auch den Weg zu ihm.
 
 Drei Meter auf nassem Beton.
 
-Vielleicht weniger.
-
 Ein Schritt unter das Vordach, zwei hinaus.
 
 Wenn Heller stehen blieb, war die Entfernung lächerlich klein.
@@ -1474,9 +1472,7 @@ Drei Meter.
 
 Vielleicht weniger.
 
-Die Entfernung war nach dem Schuss nicht größer geworden.
-
-Sie wirkte nur plötzlich messbar.
+Die Entfernung war nach dem Schuss nicht größer geworden. Sie war nur plötzlich messbar.
 
 Daniel wusste, dass er später genau darüber sprechen würde.
 
@@ -1800,11 +1796,7 @@ Als schließlich feststand, dass der geplante nächste Schritt nicht mehr stattf
 
 Er ließ sich die offenen Punkte nennen.
 
-Nicht jede Person war geklärt.
-
-Nicht jede Verbindung erklärt.
-
-Nicht jeder Teil von Hellers Warnung bestätigt.
+Personen blieben ungeklärt, Verbindungen offen, Teile von Hellers Warnung unbestätigt.
 
 Der Kern genügte trotzdem.
 
@@ -2008,11 +2000,7 @@ Daniel merkte, wie wenig Erleichterung das brachte.
 
 Es war fast schlimmer, dass die Wirklichkeit wieder nicht sauber genug war, um irgendeine Seite moralisch zu retten.
 
-Daniel merkte erst da, dass seine linke Hand zitterte.
-
-Nicht stark.
-
-Genug.
+Daniel merkte erst da, dass seine linke Hand leicht zitterte.
 
 Berg kam in den Kanal.
 
@@ -3056,11 +3044,7 @@ Daniel sah auf den Aktenstapel.
 
 Das war die unbequemste Form des Endes.
 
-Keine letzte Aussage.
-
-Keine saubere Motivformel.
-
-Keine Möglichkeit, Heller im Nachhinein alles zuzuschreiben, was Daniel selbst entschieden hatte.
+Es gab keine letzte Aussage, keine saubere Motivformel und keine Möglichkeit, Heller im Nachhinein alles zuzuschreiben, was Daniel selbst entschieden hatte.
 
 Er stand auf.
 
@@ -3414,17 +3398,7 @@ Die Referentin sagte: „Weil Sie beide Seiten des Instruments kennen.“
 
 „Dann wird Ihre Funktion neu bewertet. Die Verfahren laufen getrennt.“
 
-Wieder dieser Satz.
-
-Getrennt.
-
-Hellers Manipulation.
-
-Daniels Schuss.
-
-Operativer Nutzen.
-
-Keines hob das andere auf.
+Wieder dieselbe Trennung: Hellers Manipulation, Daniels Schuss, operativer Nutzen. Keines hob das andere auf.
 
 Als die Runde fast vorbei war, kam die Referentin noch einmal auf die Begleitgruppe zurück.
 
@@ -3628,8 +3602,6 @@ Rückfrage zur Verbundprüfung. Kein Einsatz. Kein akuter Fall.
 
 Früher hätte er geantwortet, weil es zwei Minuten dauerte.
 
-Vielleicht auch heute.
-
 Mara stellte ihm den Kaffee hin.
 
 „Musst du?“
@@ -3740,7 +3712,7 @@ Sie sah auf das Display.
 
 Daniel nickte.
 
-Mara ging zwei Schritte zur Seite und sprach fünf Minuten über eine Präsentation, einen verschobenen Termin und jemanden, der offenbar seit dem Morgen auf eine Entscheidung wartete.
+Mara ging zwei Schritte zur Seite und sprach fünf Minuten über eine Präsentation, einen verschobenen Termin und jemanden, der seit dem Morgen auf eine Entscheidung wartete.
 
 Daniel verstand genug, um zu merken, dass sie nicht nur neu in Hamburg war.
 
@@ -3924,7 +3896,7 @@ Jonas nannte sie.
 
 Lena nickte.
 
-Das Gespräch dauerte vielleicht zwanzig Sekunden.
+Das Gespräch dauerte kaum zwanzig Sekunden.
 
 Daniel erinnerte sich daran, wie viel Reibung schon der Gedanke an seinen ersten Zugriff ausgelöst hatte.
 
@@ -3984,9 +3956,7 @@ Ein Wartungsauftrag war um 00.31 Uhr telefonisch vorgezogen worden. Der Mitarbei
 
 „Dann ist der Zugriff nicht verdächtig, nur die Dokumentation schlecht.“
 
-Jonas zog die Markierung zurück.
-
-Niemand wirkte enttäuscht.
+Jonas zog die Markierung zurück. Niemand protestierte.
 
 Das gefiel Daniel.
 
@@ -4076,17 +4046,11 @@ Jonas nickte.
 
 Die Verbundprüfung hatte in dreißig Minuten mehr sichtbar gemacht.
 
-Sie hatte den Fall nicht automatisch größer gemacht.
-
-Zumindest diesmal nicht.
+Sie hatte den Fall nicht automatisch größer gemacht. Diesmal nicht.
 
 Berg sagte: „Dann klären wir den Zugriff und schließen, wenn nichts Neues kommt.“
 
-Daniel bemerkte, dass niemand enttäuscht wirkte.
-
 Das Instrument musste nicht jedes Mal etwas finden, um als normal zu gelten.
-
-Vielleicht war genau das die stärkste Form von Normalisierung.
 
 „Ich würde parallel noch einen Vorschlag vorbereiten.“
 

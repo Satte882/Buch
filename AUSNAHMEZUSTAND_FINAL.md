@@ -1,106 +1,72 @@
-# Manuskript – Prolog bis Kapitel 6
+# Ausnahmezustand
+
+---
 
 ## Prolog
 
 Der Regen lief über den Verschluss der Pistole und sammelte sich am Korn.
 
-Eine Hand hielt die Waffe ruhig.
+Eine Hand hielt die Waffe ruhig genug.
 
-Nicht vollkommen ruhig. Aber ruhig genug.
+Ein paar Meter entfernt stand ein Mann im Regen. Dunkle Kleidung, die Schultern leicht nach vorn gezogen. Hinter ihm verschwamm ein heller Streifen aus Glas und Beton im Wasser auf den Scheiben.
 
-Drei, vielleicht vier Meter entfernt stand ein Mann im Regen. Mehr war von ihm kaum zu erkennen. Dunkle Kleidung. Die Schultern leicht nach vorn gezogen. Hinter ihm ein heller Streifen aus Glas und Beton, verschwommen im Wasser, das über die Scheiben lief.
+Unter dem Vordach war es kaum trockener. Der Wind drückte den Regen bis an die Wand. Wasser lief über den Boden und zog an den Schuhen des Schützen vorbei ins Dunkel.
 
-Unter dem Vordach war es kaum trockener. Der Wind drückte den Regen schräg bis an die Wand. Wasser lief über den Boden, sammelte sich in flachen Rinnen und zog an den Schuhen des Schützen vorbei ins Dunkel.
+Der Mann stand außerhalb des schmalen Schutzes. Seine Jacke war dunkel vor Nässe. Eine Hand hing an seiner Seite, die andere war nicht zu sehen.
 
-Der Mann gegenüber stand außerhalb des schmalen Schutzes. Das Wasser hatte seine Jacke dunkel gemacht. Eine Hand hing an seiner Seite, die andere war nicht zu sehen.
+Er bewegte sich nur wenig, und die Pistole folgte ihm gerade weit genug, dass der Lauf auf der Mitte seiner Brust blieb.
 
-Er bewegte sich.
+Dann hielt er wieder still.
 
-Nur wenig.
+Hinter der Glasfront ging irgendwo Licht an und gleich wieder aus. Vom Gelände kam ein dumpfer Schlag, Metall auf Metall, im Regen ohne erkennbare Richtung.
 
-Die Pistole folgte ihm.
+Der Mann hob die rechte Hand. Ob er etwas sagte, ging im Regen unter.
 
-Nicht hektisch. Der Lauf wanderte nur so weit mit, dass die Mitte der Brust dahinter blieb.
+Die Hand war leer.
 
-Der Mann hielt wieder still.
+Die Finger waren gespreizt, nicht hoch genug für eine eindeutige Geste und nicht tief genug, um bedeutungslos zu sein.
 
-Für einen Moment passierte nichts.
+Der Schütze machte keinen Schritt. Wasser lief über seine Fingerknöchel und tropfte vom Magazinboden.
 
-Hinter der Glasfront ging irgendwo Licht an und gleich wieder aus. Eine Bewegung, weit genug entfernt, um keine Rolle zu spielen. Vom Gelände drang ein dumpfes Geräusch herüber, Metall auf Metall vielleicht. Im Regen verlor es sofort jede Richtung.
+Der Mann hatte den Kopf leicht zur Seite gedreht. Dann sah er wieder nach vorn.
 
-Der Mann hob die rechte Hand. Ob er etwas sagte, ging im Regen unter. Vielleicht sagte er auch nichts.
-
-Die Mündung blieb auf seiner Brust.
-
-Die Hand war leer, soweit man es aus der Entfernung erkennen konnte. Finger gespreizt. Nicht hoch genug für eine eindeutige Geste. Nicht tief genug, um bedeutungslos zu sein.
-
-Der Schütze machte keinen Schritt.
-
-Sein linker Arm blieb dicht am Körper. Die rechte Hand lag fest um den Griff. Wasser lief über die Fingerknöchel und tropfte vom Magazinboden.
-
-Der Mann sah nicht zur Waffe. Zumindest schien es so. Sein Kopf war leicht gedreht, als gelte seine Aufmerksamkeit für einen Moment etwas außerhalb des Bildes.
-
-Dann sah er wieder nach vorn.
-
-Die Entfernung zwischen ihnen änderte sich nicht.
+Die Entfernung blieb gleich.
 
 Drei Meter. Vielleicht vier.
 
-Nah genug, um loszulaufen.
-
-Weit genug, dass der erste Schritt nicht der letzte gewesen wäre.
+Nah genug, um loszulaufen. Weit genug, dass der erste Schritt nicht der letzte gewesen wäre.
 
 Dann veränderte sich etwas.
 
-Keine große Bewegung. Kein Angriff. Nichts, was auf einem Standbild eindeutig gewesen wäre.
+Der rechte Arm des Mannes sank ein Stück. Sein Gewicht verlagerte sich seitlich. Kein Schritt auf den Schützen zu.
 
-Der rechte Arm des Mannes sank ein Stück. Sein Gewicht verlagerte sich. Nicht nach vorn. Nicht klar nach hinten. Die Bewegung hätte bedeuten können, dass er stehen blieb. Oder dass er etwas anderes tat.
-
-Die Pistole folgte nicht mehr.
-
-Sie war bereits dort.
+Die Pistole musste der Bewegung nicht folgen. Sie war bereits dort.
 
 Der Finger am Abzug spannte sich.
 
-Noch immer schrie niemand.
-
-Der Mann machte keine Bewegung auf den Schützen zu.
+Der Mann griff den Schützen nicht an.
 
 Der Knall war kurz und trocken.
 
-Der Verschluss riss zurück. Wasser spritzte vom Metall. Die leere Hülse verschwand irgendwo im Dunkel.
+Der Verschluss riss zurück. Wasser spritzte vom Metall, die leere Hülse verschwand im Dunkel.
 
 Für einen Augenblick war der Regen wieder das lauteste Geräusch.
 
-Der Mann zuckte. Ein Schritt nach hinten, als hätte jemand ihn an der Jacke gerissen.
-
-Dann fiel er.
-
-Er fing den Sturz nicht mit den Händen ab. Ein Knie schlug zuerst auf den Beton, dann die Schulter. Der Körper drehte sich halb zur Seite und blieb liegen.
+Der Mann zuckte und machte einen Schritt nach hinten, als hätte jemand ihn an der Jacke gerissen. Dann fiel er. Ein Knie schlug zuerst auf den Beton, danach die Schulter. Der Körper drehte sich halb zur Seite und blieb liegen.
 
 Die Waffe blieb oben.
 
-Der Schütze atmete durch den Mund. Einmal. Mehr war von ihm nicht zu hören.
+Der Schütze atmete einmal durch den Mund.
 
-Der Lauf blieb auf dem Mann gerichtet.
+Am Boden hob der Mann den Kopf kaum merklich. Eine Hand lag offen auf dem Beton, die andere war unter seinem Körper verschwunden.
 
-Der Mann am Boden bewegte den Kopf. Oder der Regen ließ es nur so aussehen. Eine Hand lag jetzt offen auf dem Beton. Die andere war unter seinem Körper verschwunden.
+Der Schütze setzte den rechten Fuß einen halben Schritt vor und blieb stehen.
 
-Der Schütze setzte den rechten Fuß einen halben Schritt vor.
+Es fiel kein zweiter Schuss.
 
-Er blieb wieder stehen.
+Erst jetzt trat er aus dem Schatten des Vordachs.
 
-Keine zweite Kugel.
-
-Keine Aufforderung.
-
-Keine Erklärung.
-
-Erst jetzt trat der Schütze einen halben Schritt aus dem Schatten des Vordachs.
-
-Daniel Reuter sah auf den Mann am Boden.
-
-Wasser lief ihm über die Stirn und in den Kragen. Er blinzelte nicht.
+Daniel Reuter sah auf den Mann am Boden. Wasser lief ihm über die Stirn und in den Kragen.
 
 Er senkte die Pistole nicht.
 
@@ -278,7 +244,7 @@ Daniel nickte.
 
 „Ja.“
 
-Jonas schien von der Zustimmung kurz aus dem Takt gebracht.
+Die Zustimmung brachte Jonas kurz aus dem Takt.
 
 „Und das reicht dir nicht?“
 
@@ -304,7 +270,7 @@ Das war der stärkere Satz. Nicht Neugier. Zeit.
 
 „Dann fährt er weiter.“
 
-„Vielleicht. Vielleicht fragt jemand nach dem Grund. Vielleicht wird aus einer Kontrolle eine zweite, weil ein Kollege den Vermerk sieht. Vielleicht passiert gar nichts.“
+„Vielleicht fragt jemand nach dem Grund. Vielleicht wird aus einer Kontrolle eine zweite, weil ein Kollege den Vermerk sieht. Oder es passiert gar nichts.“
 
 Jonas nickte langsam.
 
@@ -484,7 +450,7 @@ Er schloss die Datei nicht. Er schob sie nur aus der Mitte des Bildschirms.
 
 ## 2
 
-Die erste Entlastung kam um 14.37 Uhr.
+Die erste Entlastung kam um 14.37 Uhr. Zwei Rückrufe beim Sicherheitsdienst waren bis dahin ins Leere gegangen; die Fahrzeugdisposition stand noch aus.
 
 Daniel war gerade auf dem Weg zu einem anderen Termin, als Jonas ihn im Flur abfing.
 
@@ -512,7 +478,7 @@ Jonas grinste jetzt offen.
 
 Sie bogen in einen kleinen Besprechungsraum ab. Daniel nahm ihm das Tablet aus der Hand.
 
-Arbeitsauftrag. Datum. Ansprechpartner. Leistungsbeschreibung. Nichts daran wirkte nachträglich zusammengebaut. Trotzdem las Daniel die Seite zweimal.
+Arbeitsauftrag. Datum. Ansprechpartner. Leistungsbeschreibung. Nichts daran deutete auf eine nachträgliche Konstruktion. Trotzdem las Daniel die Seite zweimal.
 
 Der Auftrag war zwölf Tage alt. Nicht von heute. Die interne Projektnummer tauchte in zwei älteren Mails der Firma auf, die Jonas ebenfalls angefordert hatte. Ahrens war darin als technischer Ansprechpartner genannt.
 
@@ -610,11 +576,7 @@ Daniel sah auf das Kennzeichen.
 
 Jonas schob die digitale Fahrtenliste heran. Schlüsselübernahme, Rückgabe, Projektadresse. Dazu eine Tankquittung aus derselben Gegend um 19.26 Uhr.
 
-Daniel legte das Tablet flach auf den Tisch.
-
-Mit jedem Dokument wurde die Sache langweiliger.
-
-Daniel mochte langweilige Erklärungen.
+Daniel legte das Tablet flach auf den Tisch. Mit jedem Dokument wurde die Sache langweiliger, und Daniel mochte langweilige Erklärungen.
 
 „Also zu“, sagte Jonas.
 
@@ -622,7 +584,7 @@ Daniel mochte langweilige Erklärungen.
 
 Jonas hob beide Hände. „Natürlich nicht.“
 
-Daniel rief selbst bei dem Ansprechpartner des Gebäudes an. Zwei Minuten später hatte er die letzte Bestätigung: Ahrens sollte am kommenden Montag die Zufahrt mit einem größeren Fahrzeug testen. Die Bilder waren Teil seiner Vorbereitung.
+Daniel rief selbst bei dem Ansprechpartner des Gebäudes an. Beim ersten Versuch ging niemand ran. Zehn Minuten später rief der Mann zurück. Ahrens sollte am kommenden Montag die Zufahrt mit einem größeren Fahrzeug testen. Die Bilder waren Teil seiner Vorbereitung.
 
 Der Ansprechpartner erinnerte sich sogar daran, dass Ahrens sich über den versenkbaren Poller beschwert hatte.
 
@@ -724,15 +686,7 @@ Daniel öffnete noch einmal seinen eigenen ersten Vermerk vom Vortag.
 
 Drei Zeilen, die zusammen immer noch beunruhigend wirkten, wenn man die Erklärungen daneben nicht kannte.
 
-Er ergänzte keine vierte Zeile.
-
-Er setzte unter jede die bestätigte Erklärung.
-
-Arbeitsauftrag.
-
-Anlieferfenster.
-
-Anderer Aufbau in derselben Gegend.
+Er ergänzte keine vierte Zeile. Unter jede setzte er die bestätigte Erklärung: Arbeitsauftrag, Anlieferfenster, anderer Aufbau in derselben Gegend.
 
 Jonas sah zu.
 
@@ -1166,7 +1120,7 @@ Im zweiten Stock wartete Jana mit dem Schlüssel in der Hand.
 
 Er kam.
 
-Die Wohnung roch noch immer nach seiner Mutter, obwohl fast alles, was diesen Geruch hätte erklären können, längst in Kisten steckte. Vielleicht bildete er es sich ein. Jana behauptete, es sei das Holz der alten Schränke.
+Für Daniel roch die Wohnung noch immer nach seiner Mutter, obwohl fast alles, was diesen Geruch hätte erklären können, längst in Kisten steckte. Jana behauptete, es sei das Holz der alten Schränke.
 
 Im Flur fehlte das kleine Regal, auf dem früher die Post gelegen hatte. An der helleren Stelle der Tapete sah man noch seine Umrisse.
 
@@ -1484,7 +1438,7 @@ Jana lehnte sich zurück.
 
 Daniel sah zur hellen Stelle, an der das Regal gestanden hatte.
 
-Das war vermutlich der erste Satz an diesem Abend, gegen den er nichts prüfen konnte.
+Das war der erste Satz an diesem Abend, gegen den er nichts prüfen konnte.
 
 Er hatte keine gute Antwort.
 
@@ -2211,6 +2165,8 @@ Daniel sah die Worte auf dem Display.
 
 Diesmal lächelte sie wirklich.
 
+---
+
 ## 7
 
 Der gelbe Kunststoffstreifen steckte so tief im Schloss, dass Daniel ihn erst sah, als die Tür zum dritten Mal nicht zufiel.
@@ -2645,7 +2601,7 @@ Im Flur blieb er kurz vor einer Glastür stehen und öffnete Janas Kontakt.
 
 Er tippte nichts.
 
-Wenn er jetzt fragte, ob sie jemandem von seinem Besuch erzählt hatte, erzeugte er aus einem ungeklärten Satz sofort eine private Lage. Vielleicht zu Recht. Vielleicht wegen einer Nachricht, deren Absender genau diese Reaktion wollte.
+Wenn er jetzt fragte, ob sie jemandem von seinem Besuch erzählt hatte, erzeugte er aus einem ungeklärten Satz sofort eine private Lage. Sie konnte real sein. Oder genau die Reaktion, die der Absender provozieren wollte.
 
 Er schloss den Kontakt wieder.
 
@@ -2735,7 +2691,7 @@ Er schrieb darunter:
 
 Auch das war nicht besser.
 
-Jana. Mara. Der Makler möglicherweise. Jeder, der ihm gefolgt war.
+Jana. Mara. Der Makler. Jeder, der ihm gefolgt war.
 
 Daniel öffnete seinen Kalender.
 
@@ -5343,13 +5299,7 @@ Er hätte weiter warten können.
 
 Das war keine theoretische Option. Er musste sie sich nicht schönreden.
 
-Vielleicht kam um 19.40 Uhr die reguläre Bestätigung.
-
-Vielleicht um 20.05 Uhr.
-
-Vielleicht morgen.
-
-Vielleicht war das Kennzeichen nichts.
+Die reguläre Bestätigung konnte um 19.40 Uhr kommen, um 20.05 Uhr oder erst morgen. Das Kennzeichen konnte sich am Ende als nichts erweisen.
 
 Ein Mietwagen einer Kurierfirma war in Berlin ungefähr so außergewöhnlich wie Regen.
 
@@ -5439,17 +5389,7 @@ Er las ihn.
 
 Nicht Wort für Wort. Dafür kannte er solche Hinweise zu gut. Der Bestand gehörte zu einem anderen Verfahren. Zugriff und Verwendung waren protokolliert. Die Tatsache, dass Daniel technisch hineinsehen konnte, war keine Erlaubnis, jeden Treffer in einem neuen Fall zu nutzen.
 
-Er hätte sich eine Begründung bauen können.
-
-Akute Lage.
-
-Gefahr für eine Großveranstaltung.
-
-Zweimal präzise Quelleninformation.
-
-Verletzter Sicherheitsmann.
-
-Alles wahr.
+Er hätte sich aus lauter wahren Punkten eine Begründung bauen können: akute Lage, Gefahr für eine Großveranstaltung, zweimal präzise Quelleninformation, ein verletzter Sicherheitsmann.
 
 Keiner dieser Sätze änderte, dass die konkrete fallübergreifende Nutzung gerade nicht sauber freigegeben war.
 
@@ -5457,17 +5397,7 @@ Daniel öffnete seinen aktuellen Vorgang und sah auf das Feld für den Fallbezug
 
 Wenn er die Suche ausführte, würde dort stehen, weshalb er im Altbestand gewesen war.
 
-Kein unsichtbarer Schritt.
-
-Kein Hack.
-
-Kein Zugang, den jemand anderer für ihn geöffnet hatte.
-
-Sein Name. Seine Kennung. Seine Uhrzeit.
-
-Das war fast beruhigend.
-
-Fast.
+Es war kein unsichtbarer Schritt und kein Hack. Der Zugriff lief unter seinem Namen, seiner Kennung, seiner Uhrzeit. Gerade diese Sichtbarkeit hatte etwas beinahe Beruhigendes.
 
 Er nahm noch einmal das Diensttelefon.
 
@@ -5551,13 +5481,7 @@ Der Satz war hässlich. Genau deshalb ließ Daniel ihn stehen.
 
 Wenn er später erklären musste, warum er gesucht hatte, sollte niemand glauben können, er habe den fehlenden Fallbezug erst nachträglich entdeckt.
 
-Er klickte zurück in die Suchmaske.
-
-Person blieb leer.
-
-Anschrift blieb leer.
-
-Telefon blieb leer.
+Er klickte zurück in die Suchmaske. Die Felder für Person, Anschrift und Telefon blieben leer.
 
 Die private Beobachtung Janas blieb in einem anderen Vermerk und in seinem Kopf.
 
@@ -5583,15 +5507,7 @@ Nicht jetzt.
 
 Er wollte wissen, ob dieses eine Kennzeichen bereits in einem relevanten Zusammenhang aufgetaucht war.
 
-Keine Fahrer.
-
-Keine Kontakte.
-
-Keine Haushalte.
-
-Keine Bewegungsübersicht.
-
-Keine Suche nach Janas Namen, obwohl der Gedanke für einen kurzen Moment da war.
+Er zog weder Fahrer noch Kontakte, Haushalte oder Bewegungsübersichten hinzu. Nach Janas Namen suchte er ebenfalls nicht, obwohl ihm der Gedanke kurz kam.
 
 Er schob ihn weg, bevor er Form annahm.
 
@@ -5667,19 +5583,7 @@ Nur zwei Fahrzeuge zur selben Zeit am selben Ort.
 
 Er klickte nicht auf die Person hinter dem weißen Lieferwagen.
 
-Das Feld wäre da gewesen.
-
-Er ließ es zu.
-
-Daniel öffnete den dritten Treffer.
-
-Zwei Tage später.
-
-Andere Straße.
-
-Wieder beide Fahrzeuge innerhalb desselben Zeitfensters.
-
-Diesmal neun Minuten auseinander.
+Das Feld wäre da gewesen; er ließ es zu. Daniel öffnete den dritten Treffer. Zwei Tage später, andere Straße: wieder beide Fahrzeuge innerhalb desselben Zeitfensters, diesmal neun Minuten auseinander.
 
 Er lehnte sich zurück.
 
@@ -5691,15 +5595,7 @@ Daniel sah auf die Uhr.
 
 19.26 Uhr.
 
-Er hätte jetzt erweitern können.
-
-Fahrer.
-
-Kontakte.
-
-Weitere Fahrzeuge der Kurierfirma.
-
-Personen aus dem alten Verfahren.
+Er hätte jetzt auf Fahrer, Kontakte, weitere Fahrzeuge der Kurierfirma und Personen aus dem alten Verfahren erweitern können.
 
 Das wäre die logische nächste Suche gewesen, wenn er seine erste Entscheidung bereits als Freigabe für die zweite behandelt hätte.
 
@@ -5721,11 +5617,7 @@ Natürlich war er das.
 
 Daniel sah auf seine Notiz.
 
-Drei Treffer.
-
-Einer wertlos.
-
-Zwei möglicherweise relevant.
+Drei Treffer: einer wertlos, zwei offen.
 
 Er hatte die Grenze nicht überschritten, um Gewissheit zu bekommen.
 
@@ -7595,11 +7487,7 @@ Dann blieb er an der zweiten Zeile hängen.
 
 **Sie haben entschieden, bevor es zu spät war.**
 
-Nicht *Sie hatten recht*.
-
-Nicht *Sie haben Menschen gerettet*.
-
-Nicht einmal *der Zugriff hat funktioniert*.
+Die Nachricht sagte weder *Sie hatten recht* noch *Sie haben Menschen gerettet*. Nicht einmal *der Zugriff hat funktioniert*.
 
 Entschieden.
 
@@ -7655,7 +7543,7 @@ Er hätte warten können.
 
 Die Quelle musste nicht gewusst haben, dass er Enter drücken würde.
 
-Vielleicht hatte sie nur darauf gesetzt, dass er es wahrscheinlich tat.
+Vielleicht hatte sie nur darauf gesetzt, dass er es tat.
 
 Das war unangenehmer.
 
@@ -7902,6 +7790,8 @@ Zum ersten Mal an diesem Abend war das keine Erleichterung.
 Die Frage war nicht mehr nur, woher die Quelle etwas wusste.
 
 Sondern was sie wollte, dass Daniel mit diesem Wissen tat.
+
+---
 
 ## 19
 
@@ -8307,11 +8197,7 @@ Lena schloss die Tür hinter sich.
 
 Daniel sah durch das schmale Fenster in der Tür. Mika hatte den Kopf in beide Hände gelegt. Dann hob er ihn wieder und sah auf den unberührten zweiten Becher Wasser, als müsste er noch eine Weile hier sitzen.
 
-Nicht gebrochen.
-
-Nicht geläutert.
-
-Nur ein Mann, der offenbar erst jetzt begriff, dass sein normaler Montag vielleicht nicht mehr stattfand.
+Nicht gebrochen oder geläutert. Nur ein Mann, dem gerade klar wurde, dass sein normaler Montag nicht mehr stattfand.
 
 Daniel nahm Jonas den Zettel ab.
 
@@ -8835,8 +8721,6 @@ Das war weniger befriedigend.
 
 Und sauberer.
 
-
-
 ---
 
 ## 21
@@ -9242,8 +9126,6 @@ Keine Musik. Kein Satz über Grenzen.
 Nur Jonas, der einen alten Zugriff aus der Aufgabenliste strich und durch einen neuen Projektpfad ersetzte.
 
 Und Daniel, der merkte, dass sich dieser neue Pfad sofort vernünftiger anfühlte als alles, was sie in den letzten Tagen improvisiert hatten.
-
-
 
 ---
 
@@ -9694,8 +9576,6 @@ Berg zeigte gerade auf die neue Projektstruktur.
 Daniel setzte sich.
 
 Sein Telefon blieb in der Tasche.
-
-
 
 ---
 
@@ -10434,12 +10314,6 @@ Weber fügte sofort hinzu: „Und nein, Sie müssen sich jetzt nicht schlecht f�
 Dann legte er auf.
 
 Daniel hielt das Telefon noch am Ohr.
-
-Keine Versöhnung.
-
-Keine Entlastung.
-
-Nur eine Korrektur, die langsamer wirkte als der Verdacht.
 
 Nach dem Telefonat öffnete Daniel die Weitergabekette der Korrektur.
 
@@ -13685,8 +13559,6 @@ Lena antwortete nicht sofort.
 
 Daniel sah zu ihr.
 
-Sie hasste den Satz vermutlich.
-
 „Wahrscheinlich nicht rechtzeitig“, sagte sie schließlich.
 
 Berg nickte.
@@ -14003,13 +13875,9 @@ Daniel grinste trotz allem.
 
 Mara erzählte von der zweiten Wohnung. Kleiner Balkon. Längere Fahrt ins Büro. Dafür ein Raum, in dem sie tatsächlich einen Schreibtisch unterbringen konnte. Sie hatte noch nichts entschieden.
 
-Daniel hörte zu.
+Daniel hörte zu. Nicht alles daran betraf ihn.
 
-Nicht alles daran betraf ihn.
-
-Das war vermutlich der Punkt.
-
-Daniel fragte Mara nicht nach Quadratmetern oder Mietdauer.
+Er fragte Mara nicht nach Quadratmetern oder Mietdauer.
 
 „Was ist das Erste, worauf du dich in Hamburg wirklich freust?“
 
@@ -14213,11 +14081,7 @@ Daniel auch nicht.
 
 Daniel sah auf seine Hände.
 
-Das hatte sie ihm schon beim ersten Gespräch gesagt.
-
-Vielleicht nicht in denselben Worten.
-
-Er hatte damals nach Homeoffice gefragt.
+Das hatte sie ihm schon beim ersten Gespräch gesagt, nur anders. Damals hatte er nach Homeoffice gefragt.
 
 „Wann sagst du deinem jetzigen Team Bescheid?“
 
@@ -14743,8 +14607,6 @@ Er hatte die Worte geschrieben, damit ein späterer Daniel nicht einfach weiterl
 
 Jetzt saß er hier.
 
-Nicht später genug offenbar.
-
 „Ich baue die breiten Möglichkeiten jetzt nicht vollständig zurück“, sagte er.
 
 Berg bewegte sich nicht.
@@ -14968,6 +14830,8 @@ Die alte Grenze war noch da.
 Er hatte sie nicht vergessen.
 
 Er hatte gegen sie entschieden.
+
+---
 
 ## 34
 
@@ -15259,13 +15123,7 @@ Die Kennung war echt. Der beruhigende Status stand im selben Arbeitszusammenhang
 
 Daniel nahm beide Zeilen und deckte abwechselnd eine davon mit der Hand ab.
 
-Mit nur der Kennung wirkte die Lage enger.
-
-Mit beiden Zeilen wirkte sie prüfbedürftig.
-
-Nicht harmlos.
-
-Nur anders.
+Mit nur der Kennung wurde die Lage enger; mit beiden blieb sie prüfbedürftig. Nicht harmlos, aber anders.
 
 „Das ist der Unterschied“, sagte er.
 
@@ -15403,9 +15261,7 @@ Lena nahm den nächsten Ausdruck vom Stapel und schob alle anderen zur Seite.
 
 Auf dem Blatt stand nur der alte Vorfall.
 
-Diesmal wirkte die Lücke nicht leer.
-
-Diesmal konnte man sie prüfen.
+Diesmal war die Lücke prüfbar.
 
 Daniel hielt den Betriebshof-Ausdruck noch einen Moment fest.
 
@@ -16991,6 +16847,8 @@ Diesmal nicht, weil Heller sie ihm gezeigt hatte.
 
 Weil sie trotzdem lief.
 
+---
+
 ## 38
 
 „Streich die letzte Zeile.“
@@ -18255,8 +18113,6 @@ Er sah auch den Weg zu ihm.
 
 Drei Meter auf nassem Beton.
 
-Vielleicht weniger.
-
 Ein Schritt unter das Vordach, zwei hinaus.
 
 Wenn Heller stehen blieb, war die Entfernung lächerlich klein.
@@ -18465,9 +18321,7 @@ Drei Meter.
 
 Vielleicht weniger.
 
-Die Entfernung war nach dem Schuss nicht größer geworden.
-
-Sie wirkte nur plötzlich messbar.
+Die Entfernung war nach dem Schuss nicht größer geworden. Sie war nur plötzlich messbar.
 
 Daniel wusste, dass er später genau darüber sprechen würde.
 
@@ -18791,11 +18645,7 @@ Als schließlich feststand, dass der geplante nächste Schritt nicht mehr stattf
 
 Er ließ sich die offenen Punkte nennen.
 
-Nicht jede Person war geklärt.
-
-Nicht jede Verbindung erklärt.
-
-Nicht jeder Teil von Hellers Warnung bestätigt.
+Personen blieben ungeklärt, Verbindungen offen, Teile von Hellers Warnung unbestätigt.
 
 Der Kern genügte trotzdem.
 
@@ -18999,11 +18849,7 @@ Daniel merkte, wie wenig Erleichterung das brachte.
 
 Es war fast schlimmer, dass die Wirklichkeit wieder nicht sauber genug war, um irgendeine Seite moralisch zu retten.
 
-Daniel merkte erst da, dass seine linke Hand zitterte.
-
-Nicht stark.
-
-Genug.
+Daniel merkte erst da, dass seine linke Hand leicht zitterte.
 
 Berg kam in den Kanal.
 
@@ -20047,11 +19893,7 @@ Daniel sah auf den Aktenstapel.
 
 Das war die unbequemste Form des Endes.
 
-Keine letzte Aussage.
-
-Keine saubere Motivformel.
-
-Keine Möglichkeit, Heller im Nachhinein alles zuzuschreiben, was Daniel selbst entschieden hatte.
+Es gab keine letzte Aussage, keine saubere Motivformel und keine Möglichkeit, Heller im Nachhinein alles zuzuschreiben, was Daniel selbst entschieden hatte.
 
 Er stand auf.
 
@@ -20405,17 +20247,7 @@ Die Referentin sagte: „Weil Sie beide Seiten des Instruments kennen.“
 
 „Dann wird Ihre Funktion neu bewertet. Die Verfahren laufen getrennt.“
 
-Wieder dieser Satz.
-
-Getrennt.
-
-Hellers Manipulation.
-
-Daniels Schuss.
-
-Operativer Nutzen.
-
-Keines hob das andere auf.
+Wieder dieselbe Trennung: Hellers Manipulation, Daniels Schuss, operativer Nutzen. Keines hob das andere auf.
 
 Als die Runde fast vorbei war, kam die Referentin noch einmal auf die Begleitgruppe zurück.
 
@@ -20619,8 +20451,6 @@ Rückfrage zur Verbundprüfung. Kein Einsatz. Kein akuter Fall.
 
 Früher hätte er geantwortet, weil es zwei Minuten dauerte.
 
-Vielleicht auch heute.
-
 Mara stellte ihm den Kaffee hin.
 
 „Musst du?“
@@ -20731,7 +20561,7 @@ Sie sah auf das Display.
 
 Daniel nickte.
 
-Mara ging zwei Schritte zur Seite und sprach fünf Minuten über eine Präsentation, einen verschobenen Termin und jemanden, der offenbar seit dem Morgen auf eine Entscheidung wartete.
+Mara ging zwei Schritte zur Seite und sprach fünf Minuten über eine Präsentation, einen verschobenen Termin und jemanden, der seit dem Morgen auf eine Entscheidung wartete.
 
 Daniel verstand genug, um zu merken, dass sie nicht nur neu in Hamburg war.
 
@@ -20915,7 +20745,7 @@ Jonas nannte sie.
 
 Lena nickte.
 
-Das Gespräch dauerte vielleicht zwanzig Sekunden.
+Das Gespräch dauerte kaum zwanzig Sekunden.
 
 Daniel erinnerte sich daran, wie viel Reibung schon der Gedanke an seinen ersten Zugriff ausgelöst hatte.
 
@@ -20975,9 +20805,7 @@ Ein Wartungsauftrag war um 00.31 Uhr telefonisch vorgezogen worden. Der Mitarbei
 
 „Dann ist der Zugriff nicht verdächtig, nur die Dokumentation schlecht.“
 
-Jonas zog die Markierung zurück.
-
-Niemand wirkte enttäuscht.
+Jonas zog die Markierung zurück. Niemand protestierte.
 
 Das gefiel Daniel.
 
@@ -21067,17 +20895,11 @@ Jonas nickte.
 
 Die Verbundprüfung hatte in dreißig Minuten mehr sichtbar gemacht.
 
-Sie hatte den Fall nicht automatisch größer gemacht.
-
-Zumindest diesmal nicht.
+Sie hatte den Fall nicht automatisch größer gemacht. Diesmal nicht.
 
 Berg sagte: „Dann klären wir den Zugriff und schließen, wenn nichts Neues kommt.“
 
-Daniel bemerkte, dass niemand enttäuscht wirkte.
-
 Das Instrument musste nicht jedes Mal etwas finden, um als normal zu gelten.
-
-Vielleicht war genau das die stärkste Form von Normalisierung.
 
 „Ich würde parallel noch einen Vorschlag vorbereiten.“
 

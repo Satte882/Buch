@@ -290,13 +290,7 @@ Die Kennung war echt. Der beruhigende Status stand im selben Arbeitszusammenhang
 
 Daniel nahm beide Zeilen und deckte abwechselnd eine davon mit der Hand ab.
 
-Mit nur der Kennung wirkte die Lage enger.
-
-Mit beiden Zeilen wirkte sie prüfbedürftig.
-
-Nicht harmlos.
-
-Nur anders.
+Mit nur der Kennung wurde die Lage enger; mit beiden blieb sie prüfbedürftig. Nicht harmlos, aber anders.
 
 „Das ist der Unterschied“, sagte er.
 
@@ -434,9 +428,7 @@ Lena nahm den nächsten Ausdruck vom Stapel und schob alle anderen zur Seite.
 
 Auf dem Blatt stand nur der alte Vorfall.
 
-Diesmal wirkte die Lücke nicht leer.
-
-Diesmal konnte man sie prüfen.
+Diesmal war die Lücke prüfbar.
 
 Daniel hielt den Betriebshof-Ausdruck noch einen Moment fest.
 

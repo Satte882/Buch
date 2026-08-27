@@ -5,24 +5,17 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 ## Weichmacher – jeder betroffene Absatz
 
 ### KProlog
-- `vielleicht` — Drei, vielleicht vier Meter entfernt stand ein Mann im Regen. Mehr war von ihm kaum zu erkennen. Dunkle Kleidung. Die Schultern leicht nach vorn gezogen. Hinter ihm ein heller Streifen aus Glas und Beton, verschwommen im Wasser, das über die Scheiben lief.
-- `vielleicht` — Hinter der Glasfront ging irgendwo Licht an und gleich wieder aus. Eine Bewegung, weit genug entfernt, um keine Rolle zu spielen. Vom Gelände drang ein dumpfes Geräusch herüber, Metall auf Metall vielleicht. Im Regen verlor es sofort jede Richtung.
-- `Vielleicht` — Der Mann hob die rechte Hand. Ob er etwas sagte, ging im Regen unter. Vielleicht sagte er auch nichts.
-- `soweit` — Die Hand war leer, soweit man es aus der Entfernung erkennen konnte. Finger gespreizt. Nicht hoch genug für eine eindeutige Geste. Nicht tief genug, um bedeutungslos zu sein.
-- `Zumindest, schien` — Der Mann sah nicht zur Waffe. Zumindest schien es so. Sein Kopf war leicht gedreht, als gelte seine Aufmerksamkeit für einen Moment etwas außerhalb des Bildes.
 - `Vielleicht` — Drei Meter. Vielleicht vier.
 
 ### K1
 - `Vielleicht` — Jonas zuckte mit den Schultern. „Vielleicht ist er schlecht darin.“
 - `könnten` — „Die Kollegen könnten ihn auf dem Heimweg rausziehen“, sagte Jonas. „Verkehrskontrolle. Wenn sich dabei ein Grund ergibt, schauen sie in den Wagen. Wenn nicht, fährt er weiter.“
-- `schien` — Jonas schien von der Zustimmung kurz aus dem Takt gebracht.
 - `könnten` — „Ich will ihn nicht zum Verdächtigen machen. Ich will vermeiden, dass wir um siebzehn Uhr feststellen, dass wir seit morgens denselben weißen Wagen suchen könnten.“
-- `Vielleicht, Vielleicht, Vielleicht, Vielleicht` — „Vielleicht. Vielleicht fragt jemand nach dem Grund. Vielleicht wird aus einer Kontrolle eine zweite, weil ein Kollege den Vermerk sieht. Vielleicht passiert gar nichts.“
+- `Vielleicht, Vielleicht` — „Vielleicht fragt jemand nach dem Grund. Vielleicht wird aus einer Kontrolle eine zweite, weil ein Kollege den Vermerk sieht. Oder es passiert gar nichts.“
 - `Vielleicht` — „Vielleicht ist der Wagen nicht seiner.“
 - `Vielleicht` — „Vielleicht.“
 
 ### K2
-- `wirkte` — Arbeitsauftrag. Datum. Ansprechpartner. Leistungsbeschreibung. Nichts daran wirkte nachträglich zusammengebaut. Trotzdem las Daniel die Seite zweimal.
 - `Vielleicht` — „Vielleicht.“
 - `wirkten` — Drei Zeilen, die zusammen immer noch beunruhigend wirkten, wenn man die Erklärungen daneben nicht kannte.
 - `vielleicht` — „Der Mann hätte heute vielleicht eine Verkehrskontrolle gehabt“, sagte Jonas.
@@ -38,12 +31,10 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 ### K4
 - `Vielleicht` — Vielleicht zwei.
 - `Nicht ganz` — Die Haustür hinter ihm fiel ins Schloss. Nicht ganz. Der Dämpfer hielt sie für einen Augenblick offen, dann zog sie zu.
-- `Vielleicht` — Die Wohnung roch noch immer nach seiner Mutter, obwohl fast alles, was diesen Geruch hätte erklären können, längst in Kisten steckte. Vielleicht bildete er es sich ein. Jana behauptete, es sei das Holz der alten Schränke.
 - `Vielleicht` — „Vielleicht hat es niemand aufgemacht.“
 - `Vielleicht` — „Vielleicht.“
 - `vielleicht` — Daniel merkte, wie sehr ihn das Wort *vielleicht* störte.
 - `Vielleicht` — „Vielleicht nimmt ihn jemand aus der Familie.“
-- `vermutlich` — Das war vermutlich der erste Satz an diesem Abend, gegen den er nichts prüfen konnte.
 - `wirkte` — Es war keine große Entscheidung. Gerade deshalb fiel Daniel auf, wie ungewohnt endgültig das Geräusch des Stifts auf dem Papier wirkte.
 - `vielleicht` — Daniel dachte noch einmal an den Briefkasten unten. Er hätte sie weiter fragen können, ob der Makler vielleicht am Schild gewesen war. Ob der Hausmeister Zugriff auf die Kästen hatte. Ob jemand in den vergangenen Tagen länger im Flur gestanden hatte.
 
@@ -60,10 +51,8 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - `wirkte` — Der Verwalter wirkte inzwischen weniger gelangweilt. Noch nicht beunruhigt. Eher so, als hätte die Tür begonnen, ihm persönlich unangenehm zu werden.
 
 ### K8
-- `Vielleicht, Vielleicht` — Wenn er jetzt fragte, ob sie jemandem von seinem Besuch erzählt hatte, erzeugte er aus einem ungeklärten Satz sofort eine private Lage. Vielleicht zu Recht. Vielleicht wegen einer Nachricht, deren Absender genau diese Reaktion wollte.
 - `Vielleicht` — Der Verwalter hatte ihn gesehen. Jonas. Daniel selbst. Vielleicht jemand aus einem Büro mit Zugriff auf den gerade angelegten Vorgang, falls der Eintrag schon weitergelaufen war.
 - `vielleicht` — War die Nordtür öffentlich bezeichnet? Auf der Website des Vermieters nicht. In einem Lageplan, der offen im Eingangsbereich hing, vielleicht. Hatte jemand ein Foto davon online gestellt? Keine schnelle Spur.
-- `möglicherweise` — Jana. Mara. Der Makler möglicherweise. Jeder, der ihm gefolgt war.
 - `offenbar` — „Die Tür nicht. Dafür vierzehn Fahrzeuge, zwei Hunde und einen Mann, der offenbar glaubt, dass ein Einkaufswagen ein zulässiges Transportmittel auf einer Rampe ist.“
 
 ### K10
@@ -87,13 +76,8 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - `Vielleicht` — „Nicht vor acht. Vielleicht später.“
 
 ### K14
-- `Vielleicht` — Vielleicht kam um 19.40 Uhr die reguläre Bestätigung.
-- `Vielleicht` — Vielleicht um 20.05 Uhr.
-- `Vielleicht` — Vielleicht morgen.
-- `Vielleicht` — Vielleicht war das Kennzeichen nichts.
 - `vielleicht` — Eine saubere Prüfung, die vor Ablauf vielleicht nicht fertig wurde.
 - `könnte` — Hellers letzte Rückmeldung war vier Minuten alt. Daniel öffnete sie, als könnte sich der Text verändert haben.
-- `möglicherweise` — Zwei möglicherweise relevant.
 
 ### K15
 - `Vielleicht` — „Wenn ich aus einem Vielleicht plötzlich ein Deshalb mache.“
@@ -115,7 +99,7 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 ### K18
 - `Vielleicht` — Vielleicht mehr.
 - `Nicht eindeutig` — Nicht eindeutig.
-- `Vielleicht` — Vielleicht hatte sie nur darauf gesetzt, dass er es wahrscheinlich tat.
+- `Vielleicht` — Vielleicht hatte sie nur darauf gesetzt, dass er es tat.
 - `soweit` — Daniel öffnete während des Gesprächs die bisherige Verteilerliste. Vier Personen bekamen derzeit denselben vollständigen Quellenstand. Er setzte keinen Namen einfach heraus. Stattdessen trennte er zwei Verteiler: operative Behauptungen an die Lage; Quellenwissen nur an den kleinen Prüfkreis, soweit…
 - `Vielleicht` — „Vielleicht lobt sie dich nur“, sagte Jonas.
 - `Vielleicht` — „Vielleicht.“
@@ -127,7 +111,6 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - `Vielleicht` — Mika zog eine Schulter hoch. „Vielleicht vier.“
 - `wirkte` — Mika kannte keine Namen oberhalb seiner zwei Kontakte. Er wusste nicht, warum ausgerechnet die Veranstaltung relevant war. Er kannte weder den endgültigen Ort noch einen Zeitpunkt. Bei den bewusst falschen Details widersprach er dort am härtesten, wo er seine eigene Anwesenheit sicher widerlegen ko…
 - `vielleicht` — „Für dich vielleicht.“
-- `offenbar, vielleicht` — Nur ein Mann, der offenbar erst jetzt begriff, dass sein normaler Montag vielleicht nicht mehr stattfand.
 
 ### K20
 - `Vielleicht` — „Vielleicht.“
@@ -148,7 +131,6 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - `soweit` — „Kann. Deshalb habe ich die Gerätemeldungen gezogen, soweit der Arbeitgeber sie für die interne Zuordnung hat.“
 - `offenbar` — Sie hatte offenbar genug gehört.
 - `wirkte` — Es reichte, dass eine richtige Korrektur in einer Organisation langsamer wirkte als ein vorheriger Sicherheitsvorbehalt.
-- `wirkte` — Nur eine Korrektur, die langsamer wirkte als der Verdacht.
 - `soweit` — Daniel rief die Schichtübersicht des Arbeitgebers auf, soweit sie ihm im Vorgang vorlag.
 
 ### K25
@@ -187,17 +169,14 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 
 ### K31
 - `vielleicht` — Vor zwei Tagen hätte er sie vielleicht offen gelassen und parallel weitergezogen.
-- `vermutlich` — Sie hasste den Satz vermutlich.
 - `Vielleicht` — Vielleicht war der Unterschied gerade nicht wichtig.
 - `wirken` — Der Nachbericht sollte nicht effizienter wirken als der Vorgang gewesen war.
 
 ### K32
 - `vielleicht` — „Für eine Spedition vielleicht.“
-- `vermutlich` — Das war vermutlich der Punkt.
 - `könnte` — „Ich könnte nächstes Wochenende mit nach Hamburg kommen“, sagte er.
 - `nicht ganz` — „Ist doch nicht ganz falsch.“
 - `Vielleicht` — „Vielleicht brauchen wir die gerade mehr als gute erfundene.“
-- `Vielleicht` — Vielleicht nicht in denselben Worten.
 - `Vielleicht` — „Vielleicht hätte ich etwas sagen können.“
 - `Vielleicht` — „Vielleicht hätten wir besser gewusst, was es für uns bedeutet.“
 
@@ -205,15 +184,11 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - `Vielleicht` — „Vielleicht kam die Kennung über einen anderen Weg.“
 - `möglicherweise` — „Für die zwei Personen nicht. Für unbekannte Querbezüge möglicherweise.“
 - `Möglicherweise` — „Möglicherweise“, wiederholte Lena.
-- `offenbar` — Nicht später genug offenbar.
 - `wirkte` — Er hätte die erste Fassung ändern können, damit der Widerspruch kleiner wirkte.
 
 ### K34
 - `vielleicht` — „Dann ist es beim dritten Mal vielleicht wahr.“
-- `wirkte` — Mit nur der Kennung wirkte die Lage enger.
-- `wirkte` — Mit beiden Zeilen wirkte sie prüfbedürftig.
 - `vielleicht` — Und vielleicht etwas, das Daniel damals nie gesehen hatte.
-- `wirkte` — Diesmal wirkte die Lücke nicht leer.
 
 ### K35
 - `Vielleicht` — „Vielleicht war die Zuordnung zu schwach.“
@@ -239,11 +214,9 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 
 ### K40
 - `vielleicht` — Weil zehn zu wenig waren und dreißig vielleicht schon zu viel.
-- `Vielleicht` — Vielleicht weniger.
 - `möglicherweise` — „Acht möglicherweise Unbeteiligte gegen eine bestätigte Vorbereitung.“
 - `Vielleicht` — Vielleicht weniger.
 - `Vielleicht` — Vielleicht weniger.
-- `wirkte` — Sie wirkte nur plötzlich messbar.
 
 ### K41
 - `Vielleicht` — Vielleicht sogar die richtige.
@@ -266,17 +239,8 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - `könnte` — Es klang, als könnte man damit eine Reisekostenabrechnung kontrollieren.
 
 ### K45
-- `Vielleicht` — Vielleicht auch heute.
-- `offenbar` — Mara ging zwei Schritte zur Seite und sprach fünf Minuten über eine Präsentation, einen verschobenen Termin und jemanden, der offenbar seit dem Morgen auf eine Entscheidung wartete.
 - `vielleicht` — „Später vielleicht.“
 - `vielleicht` — Daniel wartete auf die alte Bewegung in sich: Plan ändern, Zeit neu sortieren, aus einem vielleicht eine feste Aufgabe machen.
-
-### K46
-- `vielleicht` — Das Gespräch dauerte vielleicht zwanzig Sekunden.
-- `wirkte` — Niemand wirkte enttäuscht.
-- `Zumindest` — Zumindest diesmal nicht.
-- `wirkte` — Daniel bemerkte, dass niemand enttäuscht wirkte.
-- `Vielleicht` — Vielleicht war genau das die stärkste Form von Normalisierung.
 
 ### K47
 - `könnte` — Im Raum sagte ein Mitarbeiter aus der technischen Koordination: „Wie schnell könnte man den Kreis ziehen?“
@@ -285,13 +249,8 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 
 ## Reine Prosa-Stakkato-Ketten
 
-- **KProlog · 3 Absätze:** Er bewegte sich. / Nur wenig. / Die Pistole folgte ihm.
-- **KProlog · 4 Absätze:** Dann sah er wieder nach vorn. / Die Entfernung zwischen ihnen änderte sich nicht. / Drei Meter. Vielleicht vier. / Nah genug, um loszulaufen.
-- **KProlog · 6 Absätze:** Die Pistole folgte nicht mehr. / Sie war bereits dort. / Der Finger am Abzug spannte sich. / Noch immer schrie niemand. / Der Mann machte keine Bewegung auf den Schützen zu. / Der Knall war kurz und trocken.
-- **KProlog · 4 Absätze:** Er blieb wieder stehen. / Keine zweite Kugel. / Keine Aufforderung. / Keine Erklärung.
-- **K2 · 3 Absätze:** Daniel legte das Tablet flach auf den Tisch. / Mit jedem Dokument wurde die Sache langweiliger. / Daniel mochte langweilige Erklärungen.
+- **KProlog · 3 Absätze:** Der Finger am Abzug spannte sich. / Der Mann griff den Schützen nicht an. / Der Knall war kurz und trocken.
 - **K2 · 3 Absätze:** Daniel fragte noch nach dem Abendaufbau. / Auch der stimmte. / Daniel beendete das Gespräch.
-- **K2 · 6 Absätze:** Er ergänzte keine vierte Zeile. / Er setzte unter jede die bestätigte Erklärung. / Arbeitsauftrag. / Anlieferfenster. / Anderer Aufbau in derselben Gegend. / Jonas sah zu.
 - **K3 · 3 Absätze:** Firma eins rein über Seitentür West. / Vier Minuten später Firma zwei an der Lieferzufahrt. / Sieben Minuten danach Firma drei an Seitentür Ost.
 - **K3 · 3 Absätze:** 23.18 Uhr. Lieferzufahrt. Fremdfirmenausweis. Auftrag beendet. / Mehr nicht. / Jonas starrte auf den Bildschirm.
 - **K3 · 3 Absätze:** Kein Ausspähen. Keine Gruppe. Keine vorbereitete Lage. / Aber ein realer Verstoß gegen die Zutrittsregeln. / Daniel passte den Vorgang an.
@@ -313,6 +272,7 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K8 · 3 Absätze:** Prüfbar. / Die dritte Zeile war etwas anderes. / Öffentliche Veranstaltung in Berlin.
 - **K8 · 4 Absätze:** Daniel markierte sie im Kopf nicht als Information. / Behauptung. / Dann den Briefkasten. / 20.11 Uhr.
 - **K8 · 4 Absätze:** Daniel merkte, dass er den Atem angehalten hatte. / Er ließ die Luft langsam aus. / Der Aufzug öffnete sich wieder im zweiten Stock. / Diesmal stieg er aus.
+- **K8 · 3 Absätze:** Auch das war nicht besser. / Jana. Mara. Der Makler. Jeder, der ihm gefolgt war. / Daniel öffnete seinen Kalender.
 - **K8 · 4 Absätze:** Genau das war zu früh. / Daniel schloss die Nachrichten wieder. / Die Frage war nicht, wer es gewesen sein konnte. / Noch nicht.
 - **K8 · 3 Absätze:** Die letzte nicht. / Sein Finger blieb einen Moment über der Tastatur. / Das war bereits eine Entscheidung.
 - **K8 · 4 Absätze:** Die Abholung konnte er prüfen. / Den Briefkasten vorerst nicht. / Es klopfte. / Jonas steckte den Kopf herein.
@@ -369,26 +329,22 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K13 · 3 Absätze:** Auf dem Diensttelefon stand 19.11 Uhr. / Er tippte das Kennzeichen nicht ein. / Noch nicht.
 - **K14 · 3 Absätze:** Daniel las sie auf dem Diensttelefon. / Das Suchfeld auf seinem Monitor war immer noch leer. / Seit dreizehn Minuten.
 - **K14 · 10 Absätze:** 19.12 Uhr. / 19.17 Uhr. / 19.21 Uhr. / Berg hatte nicht zurückgerufen. / Lena hatte keine neue Freigabe geschickt. / Von Heller jetzt dieser Satz. / Zwei Stellen offen. / Offen war nicht dasselbe wie negativ. Das wusste Daniel. / Es war nur im Moment genauso wenig brauchbar. / Er hätte weiter warten können.
-- **K14 · 4 Absätze:** Vielleicht kam um 19.40 Uhr die reguläre Bestätigung. / Vielleicht um 20.05 Uhr. / Vielleicht morgen. / Vielleicht war das Kennzeichen nichts.
 - **K14 · 3 Absätze:** Sie hatten damals gewartet. / Sie hatten recht gehabt. / Ahrens war harmlos gewesen.
 - **K14 · 3 Absätze:** Dann dachte er an den Sicherheitsmann vom Vorabend. / Mehrere Frakturen. Keine Lebensgefahr. / Auch das war wahr.
 - **K14 · 3 Absätze:** Vierzig Minuten vermeidbare Reibung hatten sie dort gefunden. / Nicht fünf Stunden. / Nicht den Beweis, dass der Sicherheitsmann unverletzt geblieben wäre.
 - **K14 · 6 Absätze:** Das half ihm jetzt nicht. / Die Quelle konnte genau diesen Moment gebaut haben. / Nicht die Gefahr. Den Moment. / Ein reales verletztes Opfer. / Eine neue Warnung. / Ein knappes Zeitfenster.
-- **K14 · 6 Absätze:** Er hätte sich eine Begründung bauen können. / Akute Lage. / Gefahr für eine Großveranstaltung. / Zweimal präzise Quelleninformation. / Verletzter Sicherheitsmann. / Alles wahr.
-- **K14 · 9 Absätze:** Kein unsichtbarer Schritt. / Kein Hack. / Kein Zugang, den jemand anderer für ihn geöffnet hatte. / Sein Name. Seine Kennung. Seine Uhrzeit. / Das war fast beruhigend. / Fast. / Er nahm noch einmal das Diensttelefon. / Keine neue Nachricht von Berg. / Keine von Lena.
+- **K14 · 3 Absätze:** Er nahm noch einmal das Diensttelefon. / Keine neue Nachricht von Berg. / Keine von Lena.
 - **K14 · 5 Absätze:** Er konnte nur entscheiden, welches Risiko er jetzt trug. / Er klickte in das Feld für den Fallbezug. / Der Cursor blinkte. / Daniel schrieb die aktuelle Vorgangsnummer hinein. / Dann stoppte er.
 - **K14 · 5 Absätze:** Er hinterlegte den aktuellen Vorgang. / Das machte die Verwendung nicht sauber. / Es machte sie nur sichtbar. / Daniel nahm die Hände noch einmal von der Tastatur. / Nicht, weil er seine Entscheidung zurücknahm.
-- **K14 · 4 Absätze:** Er klickte zurück in die Suchmaske. / Person blieb leer. / Anschrift blieb leer. / Telefon blieb leer.
 - **K14 · 4 Absätze:** Er sah sie an. / Dann blendete er die erweiterten Felder aus. / Nicht nötig. / Nicht jetzt.
-- **K14 · 4 Absätze:** Keine Fahrer. / Keine Kontakte. / Keine Haushalte. / Keine Bewegungsübersicht.
 - **K14 · 4 Absätze:** Nicht alles, was technisch möglich war. / Nur das, was seine eine Frage beantworten konnte. / Sein Finger lag einen Moment auf der Entertaste. / Er dachte nicht an Paragrafen.
 - **K14 · 3 Absätze:** Was müssten wir finden, wenn es harmlos ist? / Einen Mietwagen, der nirgendwo anschließt. / Dann an Heller.
 - **K14 · 8 Absätze:** Die offenen Stellen konnten in zehn Minuten zurückrufen. / Daniel wusste das. / Er wusste auch, dass das hier nicht alternativlos war. / Genau deshalb war es eine Entscheidung. / Daniel drückte Enter. / Die Suche dauerte weniger als eine Sekunde. / Drei Treffer. / Er spürte keine Erleichterung.
 - **K14 · 4 Absätze:** Daniel öffnete nur die Metadaten. / Sechs Wochen zuvor. / Industriegebiet Reinickendorf. / B-QV 4172 stand vier Meter hinter einem weißen Lieferwagen.
 - **K14 · 3 Absätze:** Daniel hielt inne. / Kein Beschuldigter im aktuellen Fall. / Kein Beweis, dass die Fahrer sich kannten.
-- **K14 · 17 Absätze:** Das Feld wäre da gewesen. / Er ließ es zu. / Daniel öffnete den dritten Treffer. / Zwei Tage später. / Andere Straße. / Wieder beide Fahrzeuge innerhalb desselben Zeitfensters. / Diesmal neun Minuten auseinander. / Er lehnte sich zurück. / Zufall war möglich. / Zweimal derselbe Zufall war schlechter. / Daniel sah auf die Uhr. / 19.26 Uhr. / Er hätte jetzt erweitern können. / Fahrer. / Kontakte. / Weitere Fahrzeuge der Kurierfirma. / Personen aus dem alten Verfahren.
+- **K14 · 5 Absätze:** Er lehnte sich zurück. / Zufall war möglich. / Zweimal derselbe Zufall war schlechter. / Daniel sah auf die Uhr. / 19.26 Uhr.
 - **K14 · 3 Absätze:** Tat er nicht. / Er machte keinen Screenshot der Trefferübersicht. / Er exportierte nichts.
-- **K14 · 5 Absätze:** Natürlich war er das. / Daniel sah auf seine Notiz. / Drei Treffer. / Einer wertlos. / Zwei möglicherweise relevant.
+- **K14 · 3 Absätze:** Natürlich war er das. / Daniel sah auf seine Notiz. / Drei Treffer: einer wertlos, zwei offen.
 - **K14 · 5 Absätze:** Das machte den Schritt kleiner. / Nicht sauberer. / Daniel sah auf die Uhr. / 19.27 Uhr. / Drei Minuten.
 - **K14 · 3 Absätze:** Sein Telefon klingelte. / Jonas. / Daniel nahm ab.
 - **K15 · 3 Absätze:** Noch nicht. / Das gefiel ihm ebenfalls nicht. / Jonas deutete auf Daniels Notiz.
@@ -451,7 +407,7 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K18 · 4 Absätze:** Das war besser. / Keine Person war darin automatisch Quelle. / Nur Informationswege. / Daniel ergänzte unter den vier Feldern eine Arbeitsregel.
 - **K18 · 3 Absätze:** Er löschte keinen Namen. / Er sortierte sie nur hinter die Zeitfrage. / Das war sein Doppelspiel ab jetzt:
 - **K18 · 4 Absätze:** Keine der beiden Spuren durfte die andere automatisch bestätigen. / Er trug die neue Nachricht ein. / Operative Information: keine neue. / Internes Wissen: drei Treffer; Kennzeichenbegrenzung.
-- **K18 · 22 Absätze:** Nicht *Sie hatten recht*. / Nicht *Sie haben Menschen gerettet*. / Nicht einmal *der Zugriff hat funktioniert*. / Entschieden. / Als wäre das der relevante Teil gewesen. / Daniel lehnte sich zurück. / Die Quelle kommentierte nicht den Fund. / Sie kommentierte ihn. / Seine Reaktion auf die Lage. / Das war etwas anderes. / Er öffnete die erste Nachricht. / Nordtür. / Abholung. / Veranstaltung. / Briefkasten. / Dann die zweite. / Kennzeichen. / Jana. / Jetzt die dritte. / Drei Treffer. / Begrenzung. / Entscheidung.
+- **K18 · 19 Absätze:** Entschieden. / Als wäre das der relevante Teil gewesen. / Daniel lehnte sich zurück. / Die Quelle kommentierte nicht den Fund. / Sie kommentierte ihn. / Seine Reaktion auf die Lage. / Das war etwas anderes. / Er öffnete die erste Nachricht. / Nordtür. / Abholung. / Veranstaltung. / Briefkasten. / Dann die zweite. / Kennzeichen. / Jana. / Jetzt die dritte. / Drei Treffer. / Begrenzung. / Entscheidung.
 - **K18 · 3 Absätze:** Beide Ansichten waren schlechter für eine schnelle Geschichte. / Das war Absicht. / Daniel notierte daneben:
 - **K18 · 3 Absätze:** Daniel antwortete nicht sofort. / Genau dort lag die eigentliche Entscheidung. / Er konnte den Kanal abbrechen.
 - **K18 · 4 Absätze:** Daniel legte auf. / Dann öffnete er den Vorgang zur Quelle. / Bisher standen dort Herkunft, Zeitpunkte, bestätigte Informationen, Abweichungen. / Er ergänzte zwei getrennte Bereiche.
@@ -505,7 +461,7 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K24 · 3 Absätze:** Daniel nickte. / Der neue Weg war schneller gewesen. / Nicht vollständig.
 - **K24 · 3 Absätze:** Daniel hörte die Logik. / Sie war nicht absurd. / Genau das machte sie so unangenehm.
 - **K24 · 3 Absätze:** Daniel bedankte sich und legte auf. / Der Schaden war nicht spektakulär. / Niemand hatte Weber öffentlich an den Pranger gestellt.
-- **K24 · 7 Absätze:** Dann legte er auf. / Daniel hielt das Telefon noch am Ohr. / Keine Versöhnung. / Keine Entlastung. / Nur eine Korrektur, die langsamer wirkte als der Verdacht. / Nach dem Telefonat öffnete Daniel die Weitergabekette der Korrektur. / Bei ihnen stand alles richtig.
+- **K24 · 4 Absätze:** Dann legte er auf. / Daniel hielt das Telefon noch am Ohr. / Nach dem Telefonat öffnete Daniel die Weitergabekette der Korrektur. / Bei ihnen stand alles richtig.
 - **K24 · 4 Absätze:** Versandt. / Empfangen. / Zur Kenntnis genommen. / Drei grüne Statusmarken.
 - **K24 · 3 Absätze:** Kein Widerspruch im System. / Nur zwei verschiedene Wirklichkeiten, die beide korrekt dokumentiert waren. / Die Sicherheitsstelle hatte ihre Bewertung zurückgenommen.
 - **K24 · 5 Absätze:** Daniel sah auf die drei grünen Haken. / So sah eine erfolgreiche Korrektur technisch aus. / Und trotzdem saß Weber zu Hause. / Er ergänzte im Nachbericht nicht nur **Fehlzuordnung korrigiert**. / Darunter schrieb er:
@@ -589,18 +545,15 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K31 · 8 Absätze:** Keine neue Befugnis. / Kein neuer Fakt. / Nur weniger Zeit zwischen Fakten, die schon existierten. / Daniel sah auf die drei Fenster nebeneinander. / Genau deshalb war die Struktur so schwer wieder herzugeben. / Die Kollegen vor Ort meldeten zunächst nichts. / Fünf Minuten. / Zehn.
 - **K31 · 3 Absätze:** Berg ging zweimal aus dem Raum und kam wieder. / Daniel sah nicht auf die Uhr. / Dann kam die erste Meldung.
 - **K31 · 5 Absätze:** Im Raum sagte niemand etwas. / Daniel las den Satz noch einmal. / Nicht weil er ihn nicht verstanden hatte. / Weil er wusste, was jetzt folgte. / Berg sprach es aus.
-- **K31 · 3 Absätze:** Lena antwortete nicht sofort. / Daniel sah zu ihr. / Sie hasste den Satz vermutlich.
 - **K31 · 3 Absätze:** Berg nickte. / Kein Sieg. / Lena fügte hinzu: „Das macht meinen Treffer nicht richtiger.“
 - **K31 · 5 Absätze:** Der Erfolg durfte wahr bleiben. / Die Kosten auch. / Jonas öffnete den Nachbericht noch im selben Raum. / Unter **operative Wirkung** stand bereits der gefundene Lagerstrang. / Daniel zeigte auf die nächste freie Zeile.
 - **K31 · 3 Absätze:** Nicht als Erfolgsquote. / Nur als Nenner. / Daniel sah darauf.
 - **K32 · 3 Absätze:** Mara sagte nichts. / Daniel hörte sich selbst. / Er stoppte.
 - **K32 · 3 Absätze:** Er lachte erneut, diesmal kürzer. / Dann fragte er: „Freust du dich?“ / Mara atmete aus.
 - **K32 · 3 Absätze:** Daniel öffnete schon den Mund. / Mara sagte: „Keine Rechnung.“ / Er schloss ihn wieder.
-- **K32 · 4 Absätze:** Daniel hörte zu. / Nicht alles daran betraf ihn. / Das war vermutlich der Punkt. / Daniel fragte Mara nicht nach Quadratmetern oder Mietdauer.
 - **K32 · 3 Absätze:** Daniel ließ den Kalender im Kopf geschlossen. / Das war ungewohnt genug, dass er die Pause hörte. / Mara auch.
 - **K32 · 5 Absätze:** Freitagabend Zug. / Sonntag zurück. / Jedes zweite Wochenende. / Ein Plan, der schon durch seine Existenz beruhigend aussah. / Mara wollte etwas anderes.
 - **K32 · 3 Absätze:** Mara schwieg kurz. / Daniel merkte, dass er sich schon erklären wollte. / Tat er nicht.
-- **K32 · 5 Absätze:** Daniel auch nicht. / Daniel sah auf seine Hände. / Das hatte sie ihm schon beim ersten Gespräch gesagt. / Vielleicht nicht in denselben Worten. / Er hatte damals nach Homeoffice gefragt.
 - **K32 · 3 Absätze:** Er dachte nach. / Zu lange. / Mara sagte: „Genau.“
 - **K32 · 3 Absätze:** Daniel nickte, obwohl sie es nicht sehen konnte. / Kein Vorwurf. / Keine einfache alternative Vergangenheit.
 - **K32 · 4 Absätze:** Mara lachte einmal leise. / Nicht böse. / Nur müde. / Daniel verzog das Gesicht.
@@ -630,13 +583,12 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K34 · 3 Absätze:** Daniel nahm die erste Nachricht. / Die Abholung im Lagerkomplex. / Falsche Einheit. Richtiger Rechnungsempfänger. Exakte Uhrzeit.
 - **K34 · 5 Absätze:** Lena machte einen Strich auf ihrem Block. / Kein Treffer. / So arbeiteten sie seit fast zwei Stunden. / Nicht: Was passte zur Theorie? / Sondern: Was hielt ihr stand?
 - **K34 · 6 Absätze:** Der Stapel war inzwischen höher als der andere. / Das half. / Nicht weil es Heller entlastete. / Weil es Daniel zwang, jede Lücke einzeln zu verdienen. / Daniel stand auf. / Der Stuhl schlug mit der Lehne gegen die Wand.
-- **K34 · 4 Absätze:** Mit nur der Kennung wirkte die Lage enger. / Mit beiden Zeilen wirkte sie prüfbedürftig. / Nicht harmlos. / Nur anders.
 - **K34 · 8 Absätze:** Er nahm die Zeitlinie vom Betriebshof. / Dort war diese Frage nicht theoretisch. / Dort hatte jemand auf dem Asphalt gelegen. / Daniel blieb stehen. / Er kannte den Satz. / Nicht in diesen Worten. / Die Logik dahinter. / Nils Weber.
 - **K34 · 3 Absätze:** Lena. / Dasselbe Muster, nur näher. / Die neue Lieferfreigabe.
 - **K34 · 8 Absätze:** Er zog die ersten Warnungen auf den Bildschirm. / Lagerkomplex. / Abholung. / Dienstleister. / Öffentliche Veranstaltung. / Der Sicherheitsmann im Betriebshof. / Mehrere Frakturen. / Keine Lebensgefahr.
 - **K34 · 6 Absätze:** Danach hatte er anders gearbeitet. / Schneller. / Parallel. / Weniger geduldig mit Lücken. / Lena sagte nichts. / Sie wusste, wo er gelandet war.
 - **K34 · 7 Absätze:** Daniel nahm die Zeitlinie des Abends. / 14.20 Uhr Abholung. / 16.41 Uhr blauer Transporter beim Dienstleister. / 19.01 Uhr der Sicherheitsmann am Boden. / Dazwischen lagen keine fünf leeren Stunden. / Dazwischen lagen Systeme, Menschen, Fragmente. / Und vielleicht etwas, das Daniel damals nie gesehen hatte.
-- **K34 · 5 Absätze:** Auf dem Blatt stand nur der alte Vorfall. / Diesmal wirkte die Lücke nicht leer. / Diesmal konnte man sie prüfen. / Daniel hielt den Betriebshof-Ausdruck noch einen Moment fest. / Nicht weil er mehr darin sah als vorher.
+- **K34 · 4 Absätze:** Auf dem Blatt stand nur der alte Vorfall. / Diesmal war die Lücke prüfbar. / Daniel hielt den Betriebshof-Ausdruck noch einen Moment fest. / Nicht weil er mehr darin sah als vorher.
 - **K35 · 4 Absätze:** Der Wagen war durch die Zufahrt gegangen. / Schranke schief. / Mann im Krankenhaus. / Mehrere Frakturen.
 - **K35 · 6 Absätze:** Kennzeichen. / Mietbezug. / Randkontakt. / Dienstleister. / Mögliche gezielte Beobachtung. / Keiner dieser Schritte garantierte den nächsten.
 - **K35 · 8 Absätze:** Nur eine reale Möglichkeit. / Er öffnete den damaligen Einsatzvermerk noch einmal. / Nicht die Zusammenfassung, die sie seit Tagen zitierten. / Den ursprünglichen Vorgang. / Die schiefe Schranke. / Der Sicherheitsmann. / Krankenhaus. / Mehrere Frakturen.
@@ -731,7 +683,7 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K40 · 3 Absätze:** Heller hatte neben ihm gestanden. / Nicht als Einsatzleiter. / Nicht bewaffnet.
 - **K40 · 5 Absätze:** Heller hatte nichts darauf gesagt. / Im Ohrhörer fragte die Einsatzführung erneut nach dem Status. / Daniel antwortete: „Nicht bestätigt. Warten.“ / Heller hob das Terminal in der linken Hand. / Daniel sah die vorbereitete Meldung auf dem Display.
 - **K40 · 3 Absätze:** Heller hatte ihn angesehen. / Ruhig. / Fast müde.
-- **K40 · 7 Absätze:** Hellers Daumen lag über dem Sendefeld. / Daniel sah nicht nur Hellers Hand. / Er sah auch den Weg zu ihm. / Drei Meter auf nassem Beton. / Vielleicht weniger. / Ein Schritt unter das Vordach, zwei hinaus. / Wenn Heller stehen blieb, war die Entfernung lächerlich klein.
+- **K40 · 6 Absätze:** Hellers Daumen lag über dem Sendefeld. / Daniel sah nicht nur Hellers Hand. / Er sah auch den Weg zu ihm. / Drei Meter auf nassem Beton. / Ein Schritt unter das Vordach, zwei hinaus. / Wenn Heller stehen blieb, war die Entfernung lächerlich klein.
 - **K40 · 3 Absätze:** Daniel konnte losgehen. / Er konnte Heller am Unterarm greifen. / Er konnte das Terminal wegschlagen.
 - **K40 · 3 Absätze:** Nichts davon war absurd. / Genau deshalb blieb es später wichtig. / Daniel machte einen Schritt.
 - **K40 · 3 Absätze:** Daniel antwortete nicht sofort. / Die Frage war berechtigt. / Das machte sie gefährlicher.
@@ -743,7 +695,7 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K40 · 5 Absätze:** Er öffnete sie. / Im Ohr liefen die Meldungen weiter. / Eine weitere unbeteiligte Person lokalisiert. / Neue Route in Prüfung. / Fahrzeugstand unverändert.
 - **K40 · 5 Absätze:** Daniel konnte es sich auch noch nicht erlauben. / Heller machte ein Geräusch. / Daniel sah zu ihm. / Blut lief dunkel durch das Wasser unter seiner Jacke. / Daniel steckte die Waffe nicht weg.
 - **K40 · 6 Absätze:** Daniel trat zurück. / Jetzt senkte er die Pistole. / Daniel trat einen weiteren Schritt zurück. / Die Welt war wieder voller normaler Abläufe. / Jemand sprach mit der Einsatzführung. / Jemand sicherte das Terminal.
-- **K40 · 18 Absätze:** Drei Meter. / Vielleicht weniger. / Die Entfernung war nach dem Schuss nicht größer geworden. / Sie wirkte nur plötzlich messbar. / Daniel wusste, dass er später genau darüber sprechen würde. / Ob er hätte hinlaufen können. / Ob das Terminal rechtzeitig erreichbar gewesen wäre. / Ob sein Widerruf im Kanal genügt hätte. / Keine dieser Möglichkeiten war durch den Schuss verschwunden. / Sie waren nur nicht mehr ausprobierbar. / Im Ohr kam die nächste operative Meldung. / Daniel zwang sich, hinzuhören. / Der Bereich mit den acht Beschäftigten wurde neu sortiert. / Mehrere Personen waren inzwischen lokalisiert. / Die alternative Route stand noch nicht. / Der Zugriff war nicht gewonnen. / Nichts an Hellers Fall hatte die äußere Lage gelöst. / Daniel hob den Blick.
+- **K40 · 14 Absätze:** Daniel wusste, dass er später genau darüber sprechen würde. / Ob er hätte hinlaufen können. / Ob das Terminal rechtzeitig erreichbar gewesen wäre. / Ob sein Widerruf im Kanal genügt hätte. / Keine dieser Möglichkeiten war durch den Schuss verschwunden. / Sie waren nur nicht mehr ausprobierbar. / Im Ohr kam die nächste operative Meldung. / Daniel zwang sich, hinzuhören. / Der Bereich mit den acht Beschäftigten wurde neu sortiert. / Mehrere Personen waren inzwischen lokalisiert. / Die alternative Route stand noch nicht. / Der Zugriff war nicht gewonnen. / Nichts an Hellers Fall hatte die äußere Lage gelöst. / Daniel hob den Blick.
 - **K40 · 5 Absätze:** Daniel wusste, was als Nächstes normalerweise passieren musste. / Sicherung. / Abgabe. / Trennung. / Protokoll.
 - **K40 · 3 Absätze:** Daniel gab den Stand Satz für Satz weiter. / Er merkte, dass er langsamer sprach als sonst. / Nicht wegen Unklarheit.
 - **K40 · 3 Absätze:** Keine Deutung Hellers. / Keine Rechtfertigung. / Nur den Stand.
@@ -757,7 +709,7 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K41 · 4 Absätze:** Daniel spürte fast Erleichterung. / Nicht weil die Lage kleiner wurde. / Weil eine Gegenhypothese überlebt hatte. / Die gemeinsame Struktur hatte den Namen schnell sichtbar gemacht.
 - **K41 · 5 Absätze:** Jonas tat es. / Kurz darauf bestätigten die Fachkräfte den anderen Teil. / Material, Zugang und Vorbereitung passten zusammen. / Nicht vollständig. / Aber genug.
 - **K41 · 3 Absätze:** Er wusste nicht, ob das Konzentration war oder Flucht. / Es spielte noch keine Rolle. / Die Lage lief weiter.
-- **K41 · 9 Absätze:** Er ließ sich die offenen Punkte nennen. / Nicht jede Person war geklärt. / Nicht jede Verbindung erklärt. / Nicht jeder Teil von Hellers Warnung bestätigt. / Der Kern genügte trotzdem. / Der große Schaden war sehr wahrscheinlich verhindert. / Und die unbestätigten Teile blieben unbestätigt. / Beides musste später in dieselbe Akte. / Daniel ließ Jonas noch einen Punkt ergänzen.
+- **K41 · 5 Absätze:** Der Kern genügte trotzdem. / Der große Schaden war sehr wahrscheinlich verhindert. / Und die unbestätigten Teile blieben unbestätigt. / Beides musste später in dieselbe Akte. / Daniel ließ Jonas noch einen Punkt ergänzen.
 - **K41 · 4 Absätze:** Jonas verstand sofort. / Der Bericht würde dadurch länger und unbequemer. / Ein falscher Doppel-Ausweis. / Ein plausibler Fahrer.
 - **K41 · 3 Absätze:** Daneben die wenigen Verbindungen, die tatsächlich Maßnahmen begründet hatten. / Daniel sah die Liste entstehen. / Die Arbeitsweise hatte funktioniert.
 - **K41 · 3 Absätze:** Auch das gehörte zum Erfolg. / Nicht lange. / Lange genug, dass Daniel jede Sekunde hörte.
@@ -766,7 +718,6 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K41 · 3 Absätze:** Hellers Hand. / Der Knall. / Dann wieder der Bildschirm.
 - **K41 · 3 Absätze:** Lena sah es. / Sie sagte nichts. / Das half.
 - **K41 · 3 Absätze:** Nicht alles passte zu Hellers Bild. / Eine erwartete Person war nicht dort. / Ein Teil der angenommenen Verbindung fehlte.
-- **K41 · 4 Absätze:** Daniel merkte erst da, dass seine linke Hand zitterte. / Nicht stark. / Genug. / Berg kam in den Kanal.
 - **K41 · 3 Absätze:** Der geplante nächste Schritt konnte nicht mehr stattfinden. / Daniel fragte: „Großer Schaden verhindert?“ / Die Antwort kam nicht sofort.
 - **K41 · 10 Absätze:** Daniel nahm den Ohrhörer diesmal ganz heraus. / Nur für drei Sekunden. / Die Welt wurde nicht still. / Regen auf Metall. / Schritte hinter ihm. / Eine Tür. / Dann setzte er ihn wieder ein. / Der große Schaden war nach jetzigem Stand verhindert. / Nicht durch Hellers letzte Meldung. / Nicht trotz jeder problematischen Entscheidung.
 - **K41 · 9 Absätze:** Er hatte keine Formel dafür. / Nur die Tatsache. / Es hatte funktioniert. / Und nichts daran machte den Boden hinter ihm sauberer. / Er nahm den Ohrhörer ab. / Nicht ganz. / Nur aus einem Ohr. / Hinter ihm wurde die Trage angehoben. / Daniel sah hin.
@@ -790,7 +741,6 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K43 · 3 Absätze:** Daniel sah zu Lena. / Sie hatte den Satz ebenfalls gehört. / Berg sagte: „Das ist doch vernünftig.“
 - **K43 · 4 Absätze:** Das war vernünftig. / Genau das machte den Satz schwerer. / Niemand im Raum sagte, Heller habe recht gehabt. / Niemand sagte, Daniel habe recht gehabt.
 - **K43 · 3 Absätze:** Daniel nickte. / Kein dramatischer Ausschluss. / Keine sofortige Entlastung.
-- **K43 · 4 Absätze:** Daniel sah auf den Aktenstapel. / Das war die unbequemste Form des Endes. / Keine letzte Aussage. / Keine saubere Motivformel.
 - **K43 · 3 Absätze:** Er stand auf. / Die dritte Mappe blieb auf dem Tisch. / Operative Wirkung.
 - **K43 · 3 Absätze:** Zum ersten Mal musste er keine davon sofort lösen. / Hellers Vorgänge würden geprüft. / Seine eigenen Entscheidungen ebenfalls.
 - **K43 · 4 Absätze:** Drei Mappen, drei Zeitachsen. / Hellers mögliche Manipulation begann vor Daniels Fallzuweisung. / Daniels eigener Regelbruch begann später. / Die operative Wirkung der neuen Struktur noch später.
@@ -805,22 +755,20 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K44 · 6 Absätze:** Jetzt diskutierten sie, wer sie freigeben durfte. / Wie lange sie laufen durfte. / Wie man Treffer kontrollierte. / Das waren echte Verbesserungen. / Daniel wusste das. / Er hatte für einige davon selbst argumentiert.
 - **K44 · 3 Absätze:** Nicht angeordnet. / Vorgeschlagen. / Daniel hielt den Stift darüber.
 - **K44 · 4 Absätze:** Lena sah zu ihm. / Die Referentin blätterte bereits weiter. / Genau das war die Antwort. / Niemand musste die neue Möglichkeit feiern.
-- **K44 · 6 Absätze:** Wieder dieser Satz. / Getrennt. / Hellers Manipulation. / Daniels Schuss. / Operativer Nutzen. / Keines hob das andere auf.
 - **K44 · 3 Absätze:** Die Referentin setzte den Haken. / Mehr war es nicht. / Daniel sah zu Lena.
-- **K45 · 8 Absätze:** Daniel verzog den Mund. / Sein Telefon vibrierte. / Eine dienstliche Nachricht. / Er las die erste Zeile. / Rückfrage zur Verbundprüfung. Kein Einsatz. Kein akuter Fall. / Früher hätte er geantwortet, weil es zwei Minuten dauerte. / Vielleicht auch heute. / Mara stellte ihm den Kaffee hin.
+- **K45 · 7 Absätze:** Daniel verzog den Mund. / Sein Telefon vibrierte. / Eine dienstliche Nachricht. / Er las die erste Zeile. / Rückfrage zur Verbundprüfung. Kein Einsatz. Kein akuter Fall. / Früher hätte er geantwortet, weil es zwei Minuten dauerte. / Mara stellte ihm den Kaffee hin.
 - **K45 · 4 Absätze:** Mara kommentierte es nicht. / Am Nachmittag stand der Pflanzenständer schief. / Mara hatte es seit Tagen gesehen und ignoriert. / Daniel kniete davor und zog eine Schraube nach.
 - **K45 · 6 Absätze:** Er schraubte weiter. / Es war lächerlich klein. / Trotzdem fiel ihm auf, dass er gefragt hatte. / Nicht ob er es richtig machte. / Ob es überhaupt sein Problem war. / Mara sagte nichts dazu.
 - **K45 · 4 Absätze:** Mehr musste Daniel daraus nicht machen. / Daniel fand den Tisch zu groß. / Mara auch. / Sie kauften nichts.
 - **K45 · 9 Absätze:** Am Abend ging Daniel mit zu ihrem Teamessen. / Sein Telefon vibrierte zweimal in der Jackentasche. / Beim ersten Mal sah er nicht nach. / Beim zweiten schon. / Nichts Dringendes. / Er steckte es wieder ein. / Am nächsten Morgen fuhr er zurück nach Berlin. / Mara blieb in Hamburg. / So war es jetzt.
 - **K46 · 3 Absätze:** Jonas nickte. / Lena kam herein, setzte sich und nahm die Kurzfassung. / Berg folgte ihr.
 - **K46 · 5 Absätze:** Jonas sagte: „Ob wir früh eine Verbundprüfung ziehen.“ / Daniel sah zu ihm. / Nicht weil der Vorschlag falsch war. / Weil er so normal klang. / Berg fragte: „Kreis?“
-- **K46 · 3 Absätze:** Jonas nannte sie. / Lena nickte. / Das Gespräch dauerte vielleicht zwanzig Sekunden.
+- **K46 · 3 Absätze:** Jonas nannte sie. / Lena nickte. / Das Gespräch dauerte kaum zwanzig Sekunden.
 - **K46 · 6 Absätze:** Jetzt war die Reibung nicht verschwunden. / Sie hatte Formulare bekommen. / Rollen. / Schwellen. / Zuständigkeiten. / Das war besser als Improvisation.
-- **K46 · 6 Absätze:** Jonas zog die Markierung zurück. / Niemand wirkte enttäuscht. / Das gefiel Daniel. / Der zweite Zugriff blieb offen. / Nicht dramatisch offen. / Es gab nur noch keine saubere Erklärung.
+- **K46 · 5 Absätze:** Jonas zog die Markierung zurück. Niemand protestierte. / Das gefiel Daniel. / Der zweite Zugriff blieb offen. / Nicht dramatisch offen. / Es gab nur noch keine saubere Erklärung.
 - **K46 · 8 Absätze:** Lena fragte nach Zeitraum und Datenarten. / Jonas antwortete. / Daniel hörte zu. / Wieder kein Grundsatzstreit. / Nur eine fachliche Auswahl zwischen inzwischen verfügbaren Werkzeugen. / Die Runde ging weiter. / So unspektakulär. / Daniel sah auf die Handreichung neben Lenas Laptop.
 - **K46 · 4 Absätze:** Keine große Lage. / Kein Ausnahmezustand. / Genau dafür war die neue Routine nun gebaut. / Jonas sammelte die ersten Arbeitsaufträge ein.
 - **K46 · 3 Absätze:** Nicht als roter Alarm. / Als Liste. / Vier Zugangskontakte im relevanten Zeitfenster.
-- **K46 · 4 Absätze:** Jonas nickte. / Die Verbundprüfung hatte in dreißig Minuten mehr sichtbar gemacht. / Sie hatte den Fall nicht automatisch größer gemacht. / Zumindest diesmal nicht.
 - **K47 · 3 Absätze:** Jonas hatte die Seite auf den großen Bildschirm gelegt. / Daniel las den ersten Absatz. / Der Nachtzugriff war inzwischen teilweise erklärt.
 - **K47 · 3 Absätze:** Jonas hatte daraus keinen Alarm gebaut. / Sein Vorschlag war trotzdem breiter. / Daniel ließ Jonas die offenen Punkte nicht zusammenzählen.
 - **K47 · 5 Absätze:** Jonas öffnete die Protokolle. / 23.18 Uhr. / Seiteneingang. / Acht Minuten im Gebäude. / Kein Wartungsauftrag im regulären System.
@@ -836,7 +784,7 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 ## Erklärmarker nach starken Beats
 
 - **K1:** Das war der stärkere Satz. Nicht Neugier. Zeit.
-- **K4:** Das war vermutlich der erste Satz an diesem Abend, gegen den er nichts prüfen konnte.
+- **K4:** Das war der erste Satz an diesem Abend, gegen den er nichts prüfen konnte.
 - **K4:** Deshalb behielt er ihn für sich.
 - **K7:** Das war der Satz, der sofort größer klang als der gelbe Streifen selbst.
 - **K7:** Das war mehr als vorher.
@@ -866,7 +814,6 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K13:** Das waren echte Alternativen.
 - **K13:** Genau das war der Punkt, an dem der schnellere, nicht sauber freigegebene Weg begann, sich wie Handlung anzufühlen und Warten wie Unterlassen.
 - **K14:** Das war keine theoretische Option. Er musste sie sich nicht schönreden.
-- **K14:** Das war fast beruhigend.
 - **K14:** Das war wichtig. Er handelte nicht gegen eine sicher laufende Uhr. Er handelte gegen eine von einer manipulativen Quelle gesetzte Frist, deren letzte Warnung im Kern richtig gewesen war.
 - **K15:** Das war Absicht.
 - **K15:** Das war absichtlich so.
@@ -917,7 +864,6 @@ Kontextscan. Keine automatische Änderungsentscheidung.
 - **K31:** Damit war nicht entschieden, dass die breite Regel falsch war.
 - **K31:** Das war langsamere Arbeit als eine schöne Verbindung auf dem Bildschirm einfach zu glauben.
 - **K32:** Das war seit Tagen die Definition von Freizeit.
-- **K32:** Das war vermutlich der Punkt.
 - **K32:** Das war ungewohnt genug, dass er die Pause hörte.
 - **K33:** Das war der Unterschied zu einer Rechnung.
 - **K33:** Die Frage war gut, weil sie jede moralische Formulierung in Arbeitsregeln zwang.

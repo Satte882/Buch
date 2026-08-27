@@ -4,103 +4,67 @@
 
 Der Regen lief über den Verschluss der Pistole und sammelte sich am Korn.
 
-Eine Hand hielt die Waffe ruhig.
+Eine Hand hielt die Waffe ruhig genug.
 
-Nicht vollkommen ruhig. Aber ruhig genug.
+Ein paar Meter entfernt stand ein Mann im Regen. Dunkle Kleidung, die Schultern leicht nach vorn gezogen. Hinter ihm verschwamm ein heller Streifen aus Glas und Beton im Wasser auf den Scheiben.
 
-Drei, vielleicht vier Meter entfernt stand ein Mann im Regen. Mehr war von ihm kaum zu erkennen. Dunkle Kleidung. Die Schultern leicht nach vorn gezogen. Hinter ihm ein heller Streifen aus Glas und Beton, verschwommen im Wasser, das über die Scheiben lief.
+Unter dem Vordach war es kaum trockener. Der Wind drückte den Regen bis an die Wand. Wasser lief über den Boden und zog an den Schuhen des Schützen vorbei ins Dunkel.
 
-Unter dem Vordach war es kaum trockener. Der Wind drückte den Regen schräg bis an die Wand. Wasser lief über den Boden, sammelte sich in flachen Rinnen und zog an den Schuhen des Schützen vorbei ins Dunkel.
+Der Mann stand außerhalb des schmalen Schutzes. Seine Jacke war dunkel vor Nässe. Eine Hand hing an seiner Seite, die andere war nicht zu sehen.
 
-Der Mann gegenüber stand außerhalb des schmalen Schutzes. Das Wasser hatte seine Jacke dunkel gemacht. Eine Hand hing an seiner Seite, die andere war nicht zu sehen.
+Er bewegte sich nur wenig, und die Pistole folgte ihm gerade weit genug, dass der Lauf auf der Mitte seiner Brust blieb.
 
-Er bewegte sich.
+Dann hielt er wieder still.
 
-Nur wenig.
+Hinter der Glasfront ging irgendwo Licht an und gleich wieder aus. Vom Gelände kam ein dumpfer Schlag, Metall auf Metall, im Regen ohne erkennbare Richtung.
 
-Die Pistole folgte ihm.
+Der Mann hob die rechte Hand. Ob er etwas sagte, ging im Regen unter.
 
-Nicht hektisch. Der Lauf wanderte nur so weit mit, dass die Mitte der Brust dahinter blieb.
+Die Hand war leer.
 
-Der Mann hielt wieder still.
+Die Finger waren gespreizt, nicht hoch genug für eine eindeutige Geste und nicht tief genug, um bedeutungslos zu sein.
 
-Für einen Moment passierte nichts.
+Der Schütze machte keinen Schritt. Wasser lief über seine Fingerknöchel und tropfte vom Magazinboden.
 
-Hinter der Glasfront ging irgendwo Licht an und gleich wieder aus. Eine Bewegung, weit genug entfernt, um keine Rolle zu spielen. Vom Gelände drang ein dumpfes Geräusch herüber, Metall auf Metall vielleicht. Im Regen verlor es sofort jede Richtung.
+Der Mann hatte den Kopf leicht zur Seite gedreht. Dann sah er wieder nach vorn.
 
-Der Mann hob die rechte Hand. Ob er etwas sagte, ging im Regen unter. Vielleicht sagte er auch nichts.
-
-Die Mündung blieb auf seiner Brust.
-
-Die Hand war leer, soweit man es aus der Entfernung erkennen konnte. Finger gespreizt. Nicht hoch genug für eine eindeutige Geste. Nicht tief genug, um bedeutungslos zu sein.
-
-Der Schütze machte keinen Schritt.
-
-Sein linker Arm blieb dicht am Körper. Die rechte Hand lag fest um den Griff. Wasser lief über die Fingerknöchel und tropfte vom Magazinboden.
-
-Der Mann sah nicht zur Waffe. Zumindest schien es so. Sein Kopf war leicht gedreht, als gelte seine Aufmerksamkeit für einen Moment etwas außerhalb des Bildes.
-
-Dann sah er wieder nach vorn.
-
-Die Entfernung zwischen ihnen änderte sich nicht.
+Die Entfernung blieb gleich.
 
 Drei Meter. Vielleicht vier.
 
-Nah genug, um loszulaufen.
-
-Weit genug, dass der erste Schritt nicht der letzte gewesen wäre.
+Nah genug, um loszulaufen. Weit genug, dass der erste Schritt nicht der letzte gewesen wäre.
 
 Dann veränderte sich etwas.
 
-Keine große Bewegung. Kein Angriff. Nichts, was auf einem Standbild eindeutig gewesen wäre.
+Der rechte Arm des Mannes sank ein Stück. Sein Gewicht verlagerte sich seitlich. Kein Schritt auf den Schützen zu.
 
-Der rechte Arm des Mannes sank ein Stück. Sein Gewicht verlagerte sich. Nicht nach vorn. Nicht klar nach hinten. Die Bewegung hätte bedeuten können, dass er stehen blieb. Oder dass er etwas anderes tat.
-
-Die Pistole folgte nicht mehr.
-
-Sie war bereits dort.
+Die Pistole musste der Bewegung nicht folgen. Sie war bereits dort.
 
 Der Finger am Abzug spannte sich.
 
-Noch immer schrie niemand.
-
-Der Mann machte keine Bewegung auf den Schützen zu.
+Der Mann griff den Schützen nicht an.
 
 Der Knall war kurz und trocken.
 
-Der Verschluss riss zurück. Wasser spritzte vom Metall. Die leere Hülse verschwand irgendwo im Dunkel.
+Der Verschluss riss zurück. Wasser spritzte vom Metall, die leere Hülse verschwand im Dunkel.
 
 Für einen Augenblick war der Regen wieder das lauteste Geräusch.
 
-Der Mann zuckte. Ein Schritt nach hinten, als hätte jemand ihn an der Jacke gerissen.
-
-Dann fiel er.
-
-Er fing den Sturz nicht mit den Händen ab. Ein Knie schlug zuerst auf den Beton, dann die Schulter. Der Körper drehte sich halb zur Seite und blieb liegen.
+Der Mann zuckte und machte einen Schritt nach hinten, als hätte jemand ihn an der Jacke gerissen. Dann fiel er. Ein Knie schlug zuerst auf den Beton, danach die Schulter. Der Körper drehte sich halb zur Seite und blieb liegen.
 
 Die Waffe blieb oben.
 
-Der Schütze atmete durch den Mund. Einmal. Mehr war von ihm nicht zu hören.
+Der Schütze atmete einmal durch den Mund.
 
-Der Lauf blieb auf dem Mann gerichtet.
+Am Boden hob der Mann den Kopf kaum merklich. Eine Hand lag offen auf dem Beton, die andere war unter seinem Körper verschwunden.
 
-Der Mann am Boden bewegte den Kopf. Oder der Regen ließ es nur so aussehen. Eine Hand lag jetzt offen auf dem Beton. Die andere war unter seinem Körper verschwunden.
+Der Schütze setzte den rechten Fuß einen halben Schritt vor und blieb stehen.
 
-Der Schütze setzte den rechten Fuß einen halben Schritt vor.
+Es fiel kein zweiter Schuss.
 
-Er blieb wieder stehen.
+Erst jetzt trat er aus dem Schatten des Vordachs.
 
-Keine zweite Kugel.
-
-Keine Aufforderung.
-
-Keine Erklärung.
-
-Erst jetzt trat der Schütze einen halben Schritt aus dem Schatten des Vordachs.
-
-Daniel Reuter sah auf den Mann am Boden.
-
-Wasser lief ihm über die Stirn und in den Kragen. Er blinzelte nicht.
+Daniel Reuter sah auf den Mann am Boden. Wasser lief ihm über die Stirn und in den Kragen.
 
 Er senkte die Pistole nicht.
 
@@ -278,7 +242,7 @@ Daniel nickte.
 
 „Ja.“
 
-Jonas schien von der Zustimmung kurz aus dem Takt gebracht.
+Die Zustimmung brachte Jonas kurz aus dem Takt.
 
 „Und das reicht dir nicht?“
 
@@ -304,7 +268,7 @@ Das war der stärkere Satz. Nicht Neugier. Zeit.
 
 „Dann fährt er weiter.“
 
-„Vielleicht. Vielleicht fragt jemand nach dem Grund. Vielleicht wird aus einer Kontrolle eine zweite, weil ein Kollege den Vermerk sieht. Vielleicht passiert gar nichts.“
+„Vielleicht fragt jemand nach dem Grund. Vielleicht wird aus einer Kontrolle eine zweite, weil ein Kollege den Vermerk sieht. Oder es passiert gar nichts.“
 
 Jonas nickte langsam.
 
@@ -484,7 +448,7 @@ Er schloss die Datei nicht. Er schob sie nur aus der Mitte des Bildschirms.
 
 ## 2
 
-Die erste Entlastung kam um 14.37 Uhr.
+Die erste Entlastung kam um 14.37 Uhr. Zwei Rückrufe beim Sicherheitsdienst waren bis dahin ins Leere gegangen; die Fahrzeugdisposition stand noch aus.
 
 Daniel war gerade auf dem Weg zu einem anderen Termin, als Jonas ihn im Flur abfing.
 
@@ -512,7 +476,7 @@ Jonas grinste jetzt offen.
 
 Sie bogen in einen kleinen Besprechungsraum ab. Daniel nahm ihm das Tablet aus der Hand.
 
-Arbeitsauftrag. Datum. Ansprechpartner. Leistungsbeschreibung. Nichts daran wirkte nachträglich zusammengebaut. Trotzdem las Daniel die Seite zweimal.
+Arbeitsauftrag. Datum. Ansprechpartner. Leistungsbeschreibung. Nichts daran deutete auf eine nachträgliche Konstruktion. Trotzdem las Daniel die Seite zweimal.
 
 Der Auftrag war zwölf Tage alt. Nicht von heute. Die interne Projektnummer tauchte in zwei älteren Mails der Firma auf, die Jonas ebenfalls angefordert hatte. Ahrens war darin als technischer Ansprechpartner genannt.
 
@@ -610,11 +574,7 @@ Daniel sah auf das Kennzeichen.
 
 Jonas schob die digitale Fahrtenliste heran. Schlüsselübernahme, Rückgabe, Projektadresse. Dazu eine Tankquittung aus derselben Gegend um 19.26 Uhr.
 
-Daniel legte das Tablet flach auf den Tisch.
-
-Mit jedem Dokument wurde die Sache langweiliger.
-
-Daniel mochte langweilige Erklärungen.
+Daniel legte das Tablet flach auf den Tisch. Mit jedem Dokument wurde die Sache langweiliger, und Daniel mochte langweilige Erklärungen.
 
 „Also zu“, sagte Jonas.
 
@@ -622,7 +582,7 @@ Daniel mochte langweilige Erklärungen.
 
 Jonas hob beide Hände. „Natürlich nicht.“
 
-Daniel rief selbst bei dem Ansprechpartner des Gebäudes an. Zwei Minuten später hatte er die letzte Bestätigung: Ahrens sollte am kommenden Montag die Zufahrt mit einem größeren Fahrzeug testen. Die Bilder waren Teil seiner Vorbereitung.
+Daniel rief selbst bei dem Ansprechpartner des Gebäudes an. Beim ersten Versuch ging niemand ran. Zehn Minuten später rief der Mann zurück. Ahrens sollte am kommenden Montag die Zufahrt mit einem größeren Fahrzeug testen. Die Bilder waren Teil seiner Vorbereitung.
 
 Der Ansprechpartner erinnerte sich sogar daran, dass Ahrens sich über den versenkbaren Poller beschwert hatte.
 
@@ -724,15 +684,7 @@ Daniel öffnete noch einmal seinen eigenen ersten Vermerk vom Vortag.
 
 Drei Zeilen, die zusammen immer noch beunruhigend wirkten, wenn man die Erklärungen daneben nicht kannte.
 
-Er ergänzte keine vierte Zeile.
-
-Er setzte unter jede die bestätigte Erklärung.
-
-Arbeitsauftrag.
-
-Anlieferfenster.
-
-Anderer Aufbau in derselben Gegend.
+Er ergänzte keine vierte Zeile. Unter jede setzte er die bestätigte Erklärung: Arbeitsauftrag, Anlieferfenster, anderer Aufbau in derselben Gegend.
 
 Jonas sah zu.
 
@@ -1166,7 +1118,7 @@ Im zweiten Stock wartete Jana mit dem Schlüssel in der Hand.
 
 Er kam.
 
-Die Wohnung roch noch immer nach seiner Mutter, obwohl fast alles, was diesen Geruch hätte erklären können, längst in Kisten steckte. Vielleicht bildete er es sich ein. Jana behauptete, es sei das Holz der alten Schränke.
+Für Daniel roch die Wohnung noch immer nach seiner Mutter, obwohl fast alles, was diesen Geruch hätte erklären können, längst in Kisten steckte. Jana behauptete, es sei das Holz der alten Schränke.
 
 Im Flur fehlte das kleine Regal, auf dem früher die Post gelegen hatte. An der helleren Stelle der Tapete sah man noch seine Umrisse.
 
@@ -1484,7 +1436,7 @@ Jana lehnte sich zurück.
 
 Daniel sah zur hellen Stelle, an der das Regal gestanden hatte.
 
-Das war vermutlich der erste Satz an diesem Abend, gegen den er nichts prüfen konnte.
+Das war der erste Satz an diesem Abend, gegen den er nichts prüfen konnte.
 
 Er hatte keine gute Antwort.
 
