@@ -4,18 +4,18 @@
 
 ## Gesamtstand
 
-- **Ist:** 75.015 Wörter
+- **Ist:** 73.403 Wörter
 - **Planungsziel:** 77.000 Wörter
-- **Lücke zum Planungsziel:** 1.985 Wörter
-- **Zielerreichung:** 97,4%
+- **Lücke zum Planungsziel:** 3.597 Wörter
+- **Zielerreichung:** 95,3%
 
 ## Bausteine – Ist gegen Ziel
 
 | Baustein | Funktion | Ist Wörter | Ziel | Lücke | Ziel erreicht |
 |---|---|---:|---:|---:|---:|
 | 01 | Cold Open | 617 | 800 | +183 | 77.1% |
-| 02 | Ausgangswelt Daniel | 8.979 | 9.000 | +21 | 99.8% |
-| 03 | Auslösendes Ereignis | 11.195 | 11.000 | -195 | 101.8% |
+| 02 | Ausgangswelt Daniel | 7.484 | 9.000 | +1.516 | 83.2% |
+| 03 | Auslösendes Ereignis | 11.078 | 11.000 | -78 | 100.7% |
 | 04 | Erste Entscheidung | 8.471 | 8.500 | +29 | 99.7% |
 | 05 | Entdeckung & Eskalation | 11.858 | 12.000 | +142 | 98.8% |
 | 06 | Moralischer / psychologischer Kipppunkt | 13.418 | 13.400 | -18 | 100.1% |
@@ -28,15 +28,15 @@
 | Baustein | Kapitel | Ist Wörter |
 |---|---|---:|
 | 01 | Prolog | 617 |
-| 02 | 1 | 1.552 |
-| 02 | 2 | 1.328 |
-| 02 | 3 | 1.460 |
-| 02 | 4 | 1.861 |
-| 02 | 5 | 1.178 |
-| 02 | 6 | 1.600 |
+| 02 | 1 | 1.465 |
+| 02 | 2 | 1.175 |
+| 02 | 3 | 1.186 |
+| 02 | 4 | 1.834 |
+| 02 | 5 | 326 |
+| 02 | 6 | 1.498 |
 | 03 | 7 | 1.443 |
-| 03 | 8 | 1.724 |
-| 03 | 9 | 1.524 |
+| 03 | 8 | 1.745 |
+| 03 | 9 | 1.386 |
 | 03 | 10 | 1.808 |
 | 03 | 11 | 1.702 |
 | 03 | 12 | 1.450 |
