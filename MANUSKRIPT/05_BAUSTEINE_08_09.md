@@ -446,6 +446,14 @@ Es war kürzer als Hellers Nachricht.
 
 Und schwerer.
 
+Daniel ließ das Fenster offen.
+
+Nicht als Erinnerung an Heller.
+
+Als Arbeitsgrundlage.
+
+Drei bestätigte Anker, drei ausdrücklich notierte Grenzen und mehrere gestrichene Punkte. Mehr würde die nächste Entscheidung nicht bekommen.
+
 ---
 
 ## 39
@@ -831,6 +839,30 @@ Er war nur langsamer.
 Daniel faltete ihn nicht zusammen.
 
 Er ließ ihn liegen.
+
+Daniel sah noch einmal auf die Grenzen, die sie für die schnellere Prüfung gesetzt hatten.
+
+Sie waren nicht theoretisch geblieben.
+
+Zwei Treffer waren verworfen worden, einer hatte eine gezielte Maßnahme getragen, ein weiterer blieb trotz Zeitdruck offen.
+
+Das war der Unterschied zwischen breiter sehen und breiter handeln.
+
+Lena stellte sich neben ihn.
+
+„Wenn wir damit durchkommen, wird morgen jeder auf den Treffer zeigen, der funktioniert hat.“
+
+Daniel nickte.
+
+„Dann schreiben wir die anderen mit in den Bericht.“
+
+„Auch die, bei denen nichts passiert ist?“
+
+„Gerade die.“
+
+Denn ein System sah im Rückblick immer sauberer aus, wenn die verworfenen Namen verschwanden.
+
+Daniel wollte nicht noch einmal zulassen, dass Erfolg die Kosten unsichtbar machte.
 
 ---
 
@@ -1239,6 +1271,36 @@ Abgabe.
 Trennung.
 
 Protokoll.
+
+Daniel kannte den Ablauf nach einem Schuss aus Vorschriften, Übungen und fremden Berichten.
+
+Jetzt fühlte er sich nicht wie ein Ablauf an.
+
+Der Beamte vor ihm wartete auf die Übergabe.
+
+Gleichzeitig lief im Ohr eine Lage weiter, für die Daniel noch Informationen hatte, die niemand sonst in derselben Reihenfolge kannte.
+
+Er durfte beides nicht vermischen.
+
+„Meine Waffe geht an Sie“, sagte er. „Die Ermittlungsbewertung gebe ich noch in den Kanal. Danach bin ich raus, sobald die Einsatzführung übernimmt.“
+
+Der Beamte nickte knapp.
+
+Daniel merkte, dass er sich den Satz selbst erklären musste.
+
+Der Schuss gab ihm keine zusätzliche Autorität.
+
+Er nahm ihm eher welche.
+
+Was jetzt noch von ihm gebraucht wurde, war nicht die Entscheidung über Kräfte draußen, sondern der letzte saubere Stand seines Ermittlungsstrangs.
+
+Er nannte noch einmal die bestätigten Täteranker und die zurückgezogene Bereichsbewertung.
+
+Keine Deutung Hellers.
+
+Keine Rechtfertigung.
+
+Nur den Stand.
 
 Im Ohr sagte Jonas: „Daniel, wir haben den zweiten Standort.“
 
@@ -1686,6 +1748,44 @@ Lena lehnte mit dem Rücken an der Wand.
 
 Niemand antwortete.
 
+Daniel hörte Bergs Satz noch einmal im Kopf.
+
+**Es hat funktioniert.**
+
+Er wollte sofort widersprechen.
+
+Nicht weil der Satz falsch war.
+
+Weil er zu groß war.
+
+Was genau hatte funktioniert?
+
+Die unabhängige Bestätigung vor dem Zugriff.
+
+Die parallele Prüfung.
+
+Die Begrenzung auf den aktuellen Zugangskreis.
+
+Das Verwerfen mehrerer Fehl- und Banaltreffer.
+
+Die geänderte Route nach der neuen Information.
+
+Nicht jeder Teil davon gehörte zu derselben moralischen Rechnung.
+
+Daniel sagte in den Kanal: „Im Abschlussstand getrennt dokumentieren: Welche Treffer kamen aus der gemeinsamen Struktur, welche Maßnahme beruhte worauf, welche Hinweise wurden verworfen.“
+
+Jonas antwortete: „Mach ich.“
+
+„Auch Hellers unbestätigte Teile.“
+
+„Getrennt.“
+
+Erst danach ließ Daniel den Satz zu.
+
+Der große Schaden war verhindert worden.
+
+Das blieb wahr.
+
 Daniel sah auf die Stelle, an der Heller gelegen hatte.
 
 Der Regen wusch das Blut langsam in Richtung Ablauf.
@@ -2082,6 +2182,26 @@ Diesmal lachte sie wirklich.
 
 Daniel blieb noch zehn Minuten.
 
+Jana erzählte ihm noch von zwei Patienten, die sie am Montag unbedingt sehen wollte.
+
+Nicht warum.
+
+Nur dass sie Termine verschoben hatte und einer schon zweimal angerufen hatte.
+
+Daniel hörte zu.
+
+Es war nichts, das er lösen konnte.
+
+Genau deshalb war es angenehm.
+
+Als sein Telefon einmal vibrierte, sah er auf das Display.
+
+Keine akute Meldung.
+
+Er steckte es wieder ein.
+
+Jana bemerkte es, kommentierte es aber nicht.
+
 Dann ging er.
 
 Jana schloss die Tür hinter ihm.
@@ -2449,6 +2569,22 @@ Sie war die einzige, über die schon jetzt alle so sprachen, als gäbe es danach
 Berg sagte nichts.
 
 Lena auch nicht.
+
+Daniel legte seine Hand nicht auf eine der drei Mappen.
+
+Zum ersten Mal musste er keine davon sofort lösen.
+
+Hellers Vorgänge würden geprüft.
+
+Seine eigenen Entscheidungen ebenfalls.
+
+Und unabhängig davon würden andere entscheiden, was aus der Arbeitsstruktur blieb.
+
+Die drei Prozesse konnten zu unterschiedlichen Ergebnissen kommen.
+
+Das war keine Unordnung.
+
+Es war wahrscheinlich die sauberste Form, die nach diesem Fall noch möglich war.
 
 Draußen vor dem Fenster gingen Menschen mit Kaffeebechern über den Hof.
 
