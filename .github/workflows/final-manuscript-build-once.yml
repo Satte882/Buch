@@ -44,7 +44,6 @@ jobs:
 
           texts = [p.read_text(encoding='utf-8') for p in paths]
 
-          # Final continuity clarification: Prolog shows Heller's visible right hand empty.
           old = 'Heller hob das Terminal.\n\nDaniel sah die vorbereitete Meldung auf dem Display.'
           new = 'Heller hob das Terminal in der linken Hand.\n\nDaniel sah die vorbereitete Meldung auf dem Display.'
           if texts[4].count(old) != 1:
@@ -84,7 +83,6 @@ jobs:
           if list(sections.keys()) != expected:
               raise SystemExit('global chapter order changed')
 
-          # Semantic invariants that must survive the expansion/final pass.
           must = {
               '25': ['Wer kannte ihn?', 'bevor Daniel selbst wusste, dass es einen Fall gab'],
               '33': ['Ich baue die breiten Möglichkeiten jetzt nicht vollständig zurück', 'Entscheidung zur vorläufigen Fortführung: Reuter'],
@@ -109,8 +107,6 @@ jobs:
           if not sections['47'].rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“'):
               raise SystemExit('chapter 47 no longer ends before the decision')
 
-          # Detect accidental adjacent repetition from expansion patching.
-          # Check repeated blocks of 1-3 consecutive paragraphs, not only one long paragraph.
           for ch in expected:
               paras = [re.sub(r'\s+', ' ', p).strip() for p in re.split(r'\n\s*\n', sections[ch])]
               paras = [p for p in paras if p and p != '---']
@@ -118,10 +114,9 @@ jobs:
                   for i in range(0, len(paras) - 2 * span + 1):
                       left = paras[i:i+span]
                       right = paras[i+span:i+2*span]
-                      if left == right and len(' '.join(left)) >= 50:
+                      if left == right and len(' '.join(left)) >= 15:
                           raise SystemExit(f'chapter {ch}: adjacent duplicate block span={span}: {" | ".join(left)[:120]}')
 
-          # Explicitly guard against the near-duplicate Ch27 pair found in reader QA.
           if ('Die Tatsache, dass jemand wusste, welchen Ausgang sie benutzt hatte, bewies genau eine Sache: Jemand wusste es.' in sections['27']
               and 'Die Tatsache, dass jemand wusste, welchen Ausgang Jana benutzt hatte, bewies genau eine Sache: Jemand wusste es.' in sections['27']):
               raise SystemExit('chapter 27: redundant pronoun/name duplicate survived cleanup')
