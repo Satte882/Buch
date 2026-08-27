@@ -436,6 +436,56 @@ Jonas nickte.
 
 „Nach dem, was er nicht weiß.“
 
+Daniel blieb noch einen Moment vor der Tür stehen.
+
+„Sein Montag ist für ihn nicht banal“, sagte Lena.
+
+Daniel sah durch das Glas zu Mika.
+
+„Nein.“
+
+„Und genau deshalb lügt er an den Stellen, an denen sein normales Leben hängt.“
+
+Daniel dachte an die Beträge. Zweihundert. Fünfhundert. Zweimal. An die Tasche, deren Farbe Mika kannte, obwohl sie angeblich nicht seine gewesen war.
+
+„Er schützt nicht die Struktur“, sagte Daniel.
+
+„Er schützt die Version von sich, in der er irgendwie wieder zur Frühschicht geht.“
+
+Jonas sah auf die bestätigte Spätschicht.
+
+„Das macht ihn fast glaubwürdiger.“
+
+„Nein“, sagte Daniel. „Es macht seine Lügen lokaler.“
+
+Er nahm den Zettel noch einmal heraus und teilte Mikas Aussagen in drei Gruppen.
+
+**nachweislich falsch über eigene Rolle**
+
+**bestätigt über eigene Wege**
+
+**keine belastbare Kenntnis oberhalb der Kontakte**
+
+Die dritte Gruppe blieb die wichtigste.
+
+Nicht weil Mika dort ehrlich sein musste.
+
+Weil Daniel keinen Grund mehr hatte, jedes Nichtwissen als besonders gute Lüge zu behandeln.
+
+„Wenn wir ihn zum Kopf machen wollen, finden wir genug hässliche Sätze“, sagte Daniel.
+
+Jonas nickte.
+
+„Und wenn er nur ein bezahlter Helfer war?“
+
+„Dann finden wir dieselben hässlichen Sätze.“
+
+Daniel steckte den Zettel ein.
+
+Die Aufgabe war nicht, Mika kleiner zu machen.
+
+Nur nicht größer, als die überprüfbaren Dinge ihn machten.
+
 ---
 
 ## 20
@@ -882,6 +932,52 @@ Das war weniger befriedigend.
 
 Und sauberer.
 
+Daniel sah auf den Weg **getrennte Bewertung**.
+
+Lena hatte ihm nicht nur Information vorenthalten. Sie hatte einen legitimen Grund dafür genannt, den Daniel selbst grundsätzlich akzeptierte: Eine Kontrolle, die vollständig vom Kontrollierten gesteuert wurde, war keine unabhängige Kontrolle.
+
+Das machte den Vertrauensbruch nicht kleiner.
+
+Nur schwerer einzuordnen.
+
+„Wenn ich dich jetzt aus dem Herkunftsstand nehme“, sagte Daniel, „weil du einen geschützten Weg kennst, dann mache ich genau das, was ich vermeiden will.“
+
+Lena sah ihn an.
+
+„Nämlich?“
+
+„Aus Zugang Verdacht.“
+
+„Ja.“
+
+„Wenn ich dich drinlasse, obwohl du mir bewusst nicht alles sagst, ignoriere ich einen realen Informationsweg.“
+
+„Auch ja.“
+
+Jonas sagte nichts.
+
+Daniel nahm den Verteiler und setzte bei Lena keine Sondermarkierung. Stattdessen markierte er die Kontrollfunktion als eigenen Informationsweg, unabhängig von der Person, die sie gerade ausübte.
+
+„So“, sagte er.
+
+Lena las die Änderung.
+
+„Das ist weniger persönlich.“
+
+„Soll es sein.“
+
+„Fühlt sich trotzdem persönlich an?“
+
+Daniel antwortete nicht sofort.
+
+„Ja.“
+
+Lena nickte nur.
+
+Damit war nichts geklärt.
+
+Aber Daniel hatte verhindert, dass seine Kränkung zu einem Ermittlungsmerkmal wurde.
+
 Noch nicht.
 
 ---
@@ -1199,6 +1295,46 @@ Dass eine legitime Information nicht erst durch fünf Verteiler musste, bevor si
 Es fühlte sich nicht an wie mehr Macht.
 
 Es fühlte sich an wie weniger Reibung.
+
+Daniel ließ sich von Jonas noch einen alltäglichen Vorgang durch den neuen Weg legen.
+
+Keine akute Lage. Kein Quellenhinweis. Nur eine Fahrzeugfrage aus dem bestehenden Komplex.
+
+Vorher hätte Jonas die Halterzuordnung anfordern, auf die Antwort warten und danach separat die Berechtigungsstelle kontaktieren müssen. Jetzt gingen beide Fragen gleichzeitig an klar benannte Rollen. Die Antworten landeten nebeneinander, mit Uhrzeit und Herkunft.
+
+Elf Minuten später war der Vorgang erledigt.
+
+Keine dramatische Erkenntnis.
+
+Nur ein Fahrzeug eines legitimen Subunternehmers mit passender Berechtigung.
+
+„Und dafür haben jetzt mehr Leute denselben Fallbezug gesehen“, sagte Lena.
+
+Jonas nickte. „Ja.“
+
+„Und wir waren schneller.“
+
+„Auch ja.“
+
+Daniel sah auf den abgeschlossenen Vorgang.
+
+Genau diese Fälle machten die Struktur überzeugender als der spektakuläre Erfolg.
+
+Sie funktionierte auch dann, wenn nichts gefunden wurde.
+
+Nicht als Wunderwerkzeug.
+
+Als besser organisierter Raum für bereits zulässige Fragen.
+
+Der Preis blieb real: mehr gleichzeitige Sichtbarkeit, mehr Rollen, mehr Protokolle, mehr Menschen, die wissen konnten, woran gearbeitet wurde.
+
+Der Nutzen ebenfalls: weniger Wartezeit, weniger doppelte Arbeit, schnelleres Verwerfen falscher Zusammenhänge.
+
+Daniel verstand, warum Institutionen solche Wege selten wieder vollständig vergaßen, sobald sie einmal funktionierten.
+
+Nicht wegen Ideologie.
+
+Weil elf Minuten sich im Alltag sofort vernünftig anfühlten.
 
 Das war vermutlich der Grund, warum es so attraktiv war.
 
@@ -1666,6 +1802,52 @@ Mara atmete leise aus.
 
 „Dann entscheide ich mit dem, was ich habe.“
 
+„Dann entscheide ich mit dem, was ich habe.“
+
+Daniel sah auf den Ausdruck der Projektstruktur unter seiner Hand.
+
+Genau dort standen dieselben Wörter in anderer Form. Unvollständige Lage. verfügbare Informationen. Entscheidung trotz offener Punkte.
+
+Er hätte den Vergleich am liebsten nicht gesehen.
+
+Mara hatte in den letzten Tagen keine neue Persönlichkeit entwickelt. Sie hatte nur Dinge getan, die eine Frist erforderte.
+
+HR angerufen.
+
+Startoptionen geklärt.
+
+Zwei Besichtigungen angefragt.
+
+Mit der Stellvertreterin über eine mögliche Übergabe gesprochen.
+
+Jeder einzelne Schritt war vorläufig.
+
+Zusammen bedeuteten sie trotzdem, dass ihr Leben sich weiterbewegte, während Daniel noch auf den gemeinsamen Entscheidungsmoment wartete, den er selbst verpasst hatte.
+
+„Wenn du zusagst“, sagte er, „will ich es nicht aus einer Nachricht erfahren.“
+
+Mara schwieg kurz.
+
+„Dann geh ans Telefon.“
+
+Der Satz war nicht böse.
+
+Daniel schloss die Augen für eine Sekunde.
+
+„Fair.“
+
+„Ich sage dir vorher Bescheid, wenn ich entscheide.“
+
+„Danke.“
+
+„Aber ich frage nicht noch einmal, ob der Zeitpunkt für dich passt.“
+
+Daniel sah durch die Glastür auf Berg, Lena und Jonas.
+
+„Verstanden.“
+
+Diesmal meinte er es.
+
 Keine Drohung.
 
 Kein *Dann war’s das.*
@@ -1929,6 +2111,54 @@ Nur ein Effekt des Restes.
 Daniel markierte sich genau das am Rand.
 
 **Relatives Auffallen ist kein zusätzlicher Treffer.**
+
+Daniel zog Weber aus der obersten Zeile und legte ihn neben die drei übrigen offenen Treffer.
+
+Nicht weil er weniger auffällig geworden war.
+
+Damit die Darstellung nicht selbst zur Behauptung wurde.
+
+„Kriterien“, sagte er.
+
+Jonas sah auf.
+
+„Für Weber?“
+
+„Für jeden im Prüfkreis.“
+
+Sie schrieben vier Punkte auf.
+
+Aktueller Zeitbezug.
+
+Funktionaler Zugang.
+
+Unabhängige zweite Verbindung.
+
+Harmlose Erklärung noch offen oder widerlegt.
+
+Bei Weber waren zwei Punkte stark, zwei offen.
+
+Beim Aushilfsfahrer zunächst nur einer.
+
+„Damit ist Weber weiter vorne“, sagte Jonas.
+
+„Ja. Aber wegen derselben Kriterien wie alle anderen.“
+
+Lena sah die Liste durch.
+
+„Und was passiert bei einem Treffer?“
+
+„Nichts automatisch.“
+
+„Gut.“
+
+Die nächsten banalen Ergebnisse machten die Regel nützlich. Ein scheinbar doppelter Kontakt fiel heraus, weil die zweite Verbindung nur dieselbe Bereitschaftsnummer war. Ein Fahrzeug blieb im Kreis, verlor aber Gewicht, weil der fragliche Zugang exakt zum Arbeitsauftrag passte.
+
+Daniel sah zu, wie aus einer breiten Prüfung nicht automatisch eine breitere Verdächtigenliste wurde.
+
+Das war der Teil, den er später erinnern wollte, wenn der Erfolg kam.
+
+Die Methode funktionierte nur, wenn ein Treffer auch wieder kleiner werden durfte.
 
 Dann fand Jonas einen Resttreffer, den er zuerst weggelegt hatte.
 
@@ -2498,6 +2728,50 @@ Keine Entlastung.
 
 Nur eine Korrektur, die langsamer wirkte als der Verdacht.
 
+Daniel öffnete nach dem Gespräch mit Weber nicht sofort den nächsten Vorgang.
+
+Er ging den Korrekturweg selbst durch.
+
+Sicherheitsbewertung geändert.
+
+Arbeitgeber informiert.
+
+Interner Projektzugang: Sperrvermerk aufgehoben.
+
+Dienstplan: außerhalb ihres Zugriffs.
+
+Personalentscheidung: außerhalb ihres Zugriffs.
+
+Familie: überhaupt kein Systemfeld.
+
+Auf dem Bildschirm sah die Korrektur fast vollständig aus.
+
+In Webers Leben war sie es nicht.
+
+Daniel rief nicht noch einmal beim Arbeitgeber an. Er hätte nur denselben Druck in die Gegenrichtung erzeugt, den er zuvor kritisierte.
+
+Stattdessen ergänzte er im Projektvermerk ausdrücklich, dass die personenbezogenen Verdachtsmomente **nicht bestätigt** waren und nicht als Resthinweis in Folgeprüfungen übernommen werden sollten.
+
+Jonas sah den Satz.
+
+„Damit verschwindet er aus unserem Kreis.“
+
+„Aus diesem Verdacht.“
+
+„Und wenn später etwas Neues kommt?“
+
+„Dann ist es neu.“
+
+Daniel hörte Ahrens in dem Satz wieder.
+
+Diesmal hatte die saubere Schließung nicht verhindert, dass vorher schon etwas passiert war.
+
+Das war der Unterschied.
+
+Ein System konnte einen falschen Treffer korrigieren.
+
+Es konnte nicht garantieren, dass alle Folgen im selben Moment zurücksprangen.
+
 Lena setzte sich ihm gegenüber.
 
 „Er war nicht besonders sympathisch.“
@@ -2963,6 +3237,48 @@ Er speicherte den Vermerk nicht im breiten Quellenordner.
 Nur in seinem engsten Arbeitsstand.
 
 Der Cursor blieb danach im leeren Feld stehen.
+
+Daniel ließ den neuen Vermerk fünf Minuten offen, ohne weiterzuschreiben.
+
+**Privatbezug zeitlich vor Zuweisung Lagerkomplex. Auswahlzeitpunkt prüfen.**
+
+Der Satz veränderte keinen einzigen operativen Fakt des Falls.
+
+Mika blieb beteiligt.
+
+Der breite Prüfkreis hatte real funktioniert.
+
+Weber war falsch belastet worden.
+
+Die Quelle hatte echte Informationen geliefert und interne Details gekannt.
+
+Nichts davon wurde durch die neue Chronologie unwahr.
+
+Nur Daniels Platz darin verschob sich.
+
+Bisher hatte er sich als Ermittler betrachtet, auf den eine Quelle während eines Falls reagierte.
+
+Jetzt musste er eine zweite Möglichkeit zulassen: Jemand hatte bereits vor dem Fall einen Grund gehabt, Daniels Verhalten interessant zu finden.
+
+Er öffnete nicht sofort Personalakten, alte Kontakte oder Namen aus der Projektstruktur.
+
+Stattdessen schrieb er drei Prüfverbote für sich selbst daneben.
+
+**Keine Person nur wegen späteren Zugangs rückwirkend zum Vor-Fall-Kandidaten machen.**
+
+**Keine heutige Motivation in frühere Zeitpunkte zurückprojizieren.**
+
+**Erst klären, welches Wissen über Daniel vor 08.34 Uhr überhaupt verfügbar war.**
+
+Er las die Sätze.
+
+Sie gaben ihm keine Antwort.
+
+Aber sie hielten die neue Frage davon ab, sofort eine neue Geschichte zu werden.
+
+Daniel merkte, dass genau das schwieriger war als bei einem fremden Verdächtigen.
+
+Diesmal war er selbst das auffällige Muster.
 
 Daniel legte beide Hände auf den Tisch.
 
