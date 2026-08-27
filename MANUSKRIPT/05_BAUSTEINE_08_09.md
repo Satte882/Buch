@@ -408,6 +408,38 @@ Weil sie für die nächste Entscheidung nicht mehr reichen musste.
 
 „Ab jetzt nur noch unser Stand“, sagte er.
 
+Daniel ließ das neue Fenster nicht sofort weiterreichen.
+
+„Jeder Punkt bekommt Herkunft und Grenze“, sagte er.
+
+Jonas setzte neben die drei bestätigten Anker jeweils eine zweite Zeile.
+
+**Was beweist das nicht?**
+
+Bei der Freigabe: kein Beweis, wer sie manipuliert hatte.
+
+Beim Fahrzeug: kein Beweis, dass jeder Weg dieses Fahrzeugs Teil des finalen Plans war.
+
+Bei der Person: reale Verbindung, aber kein vollständiger Rollenbeweis.
+
+Daniel las die drei Einschränkungen zuerst.
+
+Erst danach die Treffer.
+
+„So geht der Stand raus.“
+
+Berg sah auf die bewusst offenen Stellen.
+
+„Das macht ihn schwächer.“
+
+„Nein“, sagte Lena. „Nur ehrlicher.“
+
+Daniel schob das Fenster frei.
+
+Der Zeitdruck blieb derselbe.
+
+Nur die Geschichte darum war kleiner geworden.
+
 Jonas zog die unabhängig bestätigten Punkte in ein neues Fenster.
 
 Es war kürzer als Hellers Nachricht.
@@ -719,6 +751,72 @@ Der Subunternehmer hatte das Fahrzeug seit Mittag offiziell als nicht verfügbar
 Kein Beweis für den finalen Plan.
 
 Aber ein aktueller, eigener Grund, es aus dem Verkehr zu ziehen und die Personen dahinter zu klären.
+
+Daniel hielt Berg noch zurück.
+
+„Bevor jemand aus diesem Treffer eine ganze Gruppe baut: Was ist unsere Maßnahme genau?“
+
+Berg legte das Telefon wieder hin.
+
+„Fahrzeug sichern. Personen darin feststellen. Verbindung klären.“
+
+„Nicht den gesamten Subunternehmerkreis.“
+
+„Nein.“
+
+„Nicht jede Person, die in den letzten Tagen Kontakt hatte.“
+
+„Nein.“
+
+Lena sagte: „Und wenn im Fahrzeug nichts trägt, fällt der Treffer zurück auf null.“
+
+Daniel nickte.
+
+Genau das war der Punkt, an dem die schnellere Arbeitsweise sonst fast unmerklich größer wurde.
+
+Ein belastbarer aktueller Anker öffnete eine Prüfung.
+
+Er durfte nicht automatisch alle Beziehungen darum herum legitimieren.
+
+Jonas zeigte auf den vierten Treffer, den sie eben hatten stehen lassen.
+
+„Dann bleibt der Kontakt hier weiter ohne Maßnahme?“
+
+„Ja.“
+
+„Obwohl er zeitlich passt?“
+
+„Zeitlich passen reicht nicht.“
+
+Berg sagte: „Wenn der Mann später wichtig wird, haben wir Minuten verloren.“
+
+Daniel sah ihn an.
+
+„Wenn er unwichtig ist und wir ihn jetzt behandeln, als wäre er Teil des Plans, haben wir etwas anderes verloren.“
+
+Berg wollte antworten, ließ es aber.
+
+Die ersten Kräfte meldeten sich für das Fahrzeug bereit.
+
+Daniel sah noch einmal auf den engeren Weg, der immer noch auf dem Tisch lag.
+
+Er konnte ihn auch jetzt noch wählen.
+
+Nur nicht mehr ohne den Preis, den sie gerade ausgerechnet hatten.
+
+„Wir bleiben bei der Projektstruktur“, sagte er. „Aber nur innerhalb der Grenzen, die wir eben gesetzt haben.“
+
+Lena fragte: „Und wenn der nächste Treffer diese Grenzen unbequem macht?“
+
+„Dann sind sie trotzdem Grenzen.“
+
+Daniel wusste, dass er damit keinen sicheren Ausgang gewählt hatte.
+
+Er hatte nur entschieden, welche Fehlerwahrscheinlichkeit er eher tragen wollte.
+
+Der Unterschied zu früher war nicht, dass er Unsicherheit beherrschte.
+
+Er konnte sie nur nicht mehr so tun lassen, als gehöre sie jemand anderem.
 
 Berg nahm sein Telefon.
 
@@ -1058,6 +1156,74 @@ Daniel trat zurück.
 
 Jetzt senkte er die Pistole.
 
+Daniel trat einen weiteren Schritt zurück.
+
+Die Welt war wieder voller normaler Abläufe.
+
+Jemand sprach mit der Einsatzführung.
+
+Jemand sicherte das Terminal.
+
+Jemand fragte nach seinem Namen, obwohl jeder hier wusste, wer er war.
+
+Daniel antwortete automatisch.
+
+Sein Blick blieb an dem nassen Beton zwischen ihm und Heller hängen.
+
+Drei Meter.
+
+Vielleicht weniger.
+
+Die Entfernung war nach dem Schuss nicht größer geworden.
+
+Sie wirkte nur plötzlich messbar.
+
+Daniel wusste, dass er später genau darüber sprechen würde.
+
+Ob er hätte hinlaufen können.
+
+Ob das Terminal rechtzeitig erreichbar gewesen wäre.
+
+Ob sein Widerruf im Kanal genügt hätte.
+
+Keine dieser Möglichkeiten war durch den Schuss verschwunden.
+
+Sie waren nur nicht mehr ausprobierbar.
+
+Im Ohr kam die nächste operative Meldung.
+
+Daniel zwang sich, hinzuhören.
+
+Der Bereich mit den acht Beschäftigten wurde neu sortiert.
+
+Mehrere Personen waren inzwischen lokalisiert.
+
+Die alternative Route stand noch nicht.
+
+Der Zugriff war nicht gewonnen.
+
+Nichts an Hellers Fall hatte die äußere Lage gelöst.
+
+Daniel hob den Blick.
+
+„Wer führt jetzt die neue Lagebewertung zusammen?“
+
+Eine Stimme nannte den zuständigen Ansprechpartner.
+
+„Meine letzte bestätigte Grundlage liegt dort vollständig?“
+
+„Ja.“
+
+„Mit dem Widerruf?“
+
+„Ja.“
+
+Daniel ließ sich die Antwort wiederholen.
+
+Nicht weil er sie akustisch nicht verstanden hatte.
+
+Weil er einen klaren Punkt brauchte, an dem die Verantwortung für den laufenden Zugriff wieder dort lag, wo sie hingehörte.
+
 Einer der Männer kniete bei Heller.
 
 Der andere sah Daniel an.
@@ -1209,6 +1375,98 @@ Mehr sagte keiner von beiden.
 Im Kanal meldete die Einsatzführung die geänderte Route.
 
 Der Bereich mit den acht Beschäftigten wurde nicht über den alten Zugang betreten. Eine zweite Gruppe übernahm die Räumung. Der operative Schritt verschob sich.
+
+Die geänderte Route entstand nicht in einem einzigen Befehl.
+
+Zuerst wurde bestätigt, welche der acht Beschäftigten den kritischen Bereich bereits verlassen hatten.
+
+Dann wurde der Zugang neu bewertet.
+
+Eine Gruppe hielt, eine andere verschob sich.
+
+Daniel hörte nur die Ergebnisse, nicht jeden taktischen Zwischenschritt.
+
+Das reichte.
+
+„Was davon hängt an unserem Ermittlungsstand?“ fragte er.
+
+Jonas antwortete: „Servicezufahrt, Fahrzeug, Zugangsmaterial. Die genaue Route nicht.“
+
+„Gut.“
+
+Daniel wollte nicht, dass aus seiner fachlichen Rolle nachträglich eine operative Kommandofunktion wurde, nur weil er den Widerruf ausgelöst hatte.
+
+Seine Aufgabe blieb enger.
+
+Welche Information trug.
+
+Welche nicht.
+
+Welche Verbindung stark genug war, um den nächsten Prüfpunkt zu rechtfertigen.
+
+Die erste Person am zweiten Standort ließ sich über den aktuellen Zugang und das gestoppte Fahrzeug verbinden.
+
+Die zweite nicht sofort.
+
+„Dann behandeln wir sie getrennt“, sagte Daniel.
+
+Jonas bestätigte.
+
+Berg fragte über den Kanal: „Auch jetzt noch?“
+
+„Gerade jetzt.“
+
+Ein paar Sekunden später kam die nächste Rückmeldung.
+
+Die zweite Person hatte keinen belastbaren eigenen Bezug zum älteren Unterstützerstrang. Sie war über denselben Dienstleister dort.
+
+Daniel spürte fast Erleichterung.
+
+Nicht weil die Lage kleiner wurde.
+
+Weil eine Gegenhypothese überlebt hatte.
+
+Die gemeinsame Struktur hatte den Namen schnell sichtbar gemacht.
+
+Die menschliche Prüfung hatte verhindert, dass Sichtbarkeit sofort Schuld bedeutete.
+
+„Raus aus der Täterzuordnung“, sagte Daniel.
+
+Jonas tat es.
+
+Kurz darauf bestätigten die Fachkräfte den anderen Teil.
+
+Material, Zugang und Vorbereitung passten zusammen.
+
+Nicht vollständig.
+
+Aber genug.
+
+Daniel sah auf die Uhr und merkte, dass er seit mehreren Minuten nicht mehr auf Heller geschaut hatte.
+
+Er wusste nicht, ob das Konzentration war oder Flucht.
+
+Es spielte noch keine Rolle.
+
+Die Lage lief weiter.
+
+Als schließlich feststand, dass der geplante nächste Schritt nicht mehr stattfinden konnte, blieb Daniel noch im Kanal.
+
+Er ließ sich die offenen Punkte nennen.
+
+Nicht jede Person war geklärt.
+
+Nicht jede Verbindung erklärt.
+
+Nicht jeder Teil von Hellers Warnung bestätigt.
+
+Der Kern genügte trotzdem.
+
+Der große Schaden war sehr wahrscheinlich verhindert.
+
+Und die unbestätigten Teile blieben unbestätigt.
+
+Beides musste später in dieselbe Akte.
 
 Nicht lange.
 
@@ -1635,6 +1893,60 @@ Daniel nahm sein Telefon heraus und öffnete die kurze Information, die er ihr g
 Jana nahm das Telefon nicht.
 
 „Damit kann ich was anfangen.“
+
+Daniel steckte das Telefon wieder ein.
+
+„Was brauchst du von mir?“ fragte er.
+
+Jana sah ihn an, als hätte sie mit der Frage nicht gerechnet.
+
+„Im Moment?“
+
+„Ja.“
+
+„Keine zusätzlichen Regeln.“
+
+Daniel nickte.
+
+„Information, wenn sich etwas ändert.“
+
+„Ja.“
+
+„Und wenn du etwas nicht weißt, sag nicht automatisch die gefährlichere Variante, nur weil sie sicherer klingt.“
+
+Daniel musste kurz wegsehen.
+
+„Das wird schwieriger.“
+
+„Dann übst du.“
+
+„Sehr konstruktiv.“
+
+„Gern.“
+
+Sie stand auf und öffnete den kleinen Kalender an der Wand.
+
+Montag war voll.
+
+Zwei Termine am Vormittag, drei am Nachmittag, dazwischen ein Block für Verwaltung.
+
+Daniel hatte in den letzten Tagen so oft in Zeitfenstern gedacht, dass ihn dieser normale Kalender fast irritierte.
+
+„Du hast wirklich vor, einfach zu arbeiten.“
+
+„Ja.“
+
+„Gut.“
+
+Jana sah ihn an.
+
+„Das war fast eine Freigabe.“
+
+„War es nicht.“
+
+„Knapp.“
+
+Daniel ließ es stehen.
 
 „Gut.“
 
@@ -2081,6 +2393,58 @@ Die Leiterin nickte.
 Daniel schob auch die Unterlagen zum Schuss nach vorn.
 
 „Dann alles.“
+
+Daniel blieb noch sitzen, als die Leiterin die Unterlagen zusammenzog.
+
+„Wann gibt es eine Bewertung zu meinem Schuss?“
+
+„Nicht heute.“
+
+„Und zu den anderen Verstößen?“
+
+„Ebenfalls nicht heute.“
+
+Berg sah zu ihm.
+
+Daniel ignorierte den Blick.
+
+„Bis dahin?“
+
+„Gelten die üblichen vorläufigen Maßnahmen. Sie werden separat informiert.“
+
+Daniel nickte.
+
+Kein dramatischer Ausschluss.
+
+Keine sofortige Entlastung.
+
+Nur ein Verfahren, das länger dauern würde als die Lage, in der alles passiert war.
+
+Lena schloss ihre Mappe.
+
+„Und Heller?“ fragte sie.
+
+Die Leiterin sah auf die erste Mappe.
+
+„Auch dort wird es offene Punkte geben, die sein Tod nicht mehr schließen lässt.“
+
+Daniel sah auf den Aktenstapel.
+
+Das war die unbequemste Form des Endes.
+
+Keine letzte Aussage.
+
+Keine saubere Motivformel.
+
+Keine Möglichkeit, Heller im Nachhinein alles zuzuschreiben, was Daniel selbst entschieden hatte.
+
+Er stand auf.
+
+Die dritte Mappe blieb auf dem Tisch.
+
+Operative Wirkung.
+
+Sie war die einzige, über die schon jetzt alle so sprachen, als gäbe es danach zwangsläufig eine nächste Version.
 
 Berg sagte nichts.
 
