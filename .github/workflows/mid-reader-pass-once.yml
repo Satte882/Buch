@@ -1,0 +1,55 @@
+name: Apply middle reader-pass
+on:
+  push:
+    paths:
+      - '.github/workflows/mid-reader-pass-once.yml'
+permissions:
+  contents: write
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply middle reader-pass
+        run: python .github/mid_reader_pass_patch.py
+      - name: Validate chapter structure and protected anchors
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p=Path('MANUSKRIPT/03_BAUSTEINE_05_06.md')
+          t=p.read_text(encoding='utf-8')
+          heads=re.findall(r'^##\s+(\d+)\s*$',t,re.M)
+          assert heads==[str(i) for i in range(19,34)], heads
+          for needle in [
+              'Es waren trotzdem Menschen tot.',
+              'Dann geh ans Telefon.',
+              'Das Diensthandy war nicht bei Weber.',
+              'Wer kannte ihn?',
+              'bevor Daniel selbst wusste, dass es einen Fall gab?',
+              'Keine automatische Fortführung nach Wegfall der akuten fallbezogenen Grundlage.',
+              'Im Moment meinte er jedes Wort.',
+              '18.32 Uhr. Ihre Schwester hat die Praxis über den Hinterausgang verlassen.',
+          ]:
+              assert needle in t, needle
+          ms=list(re.finditer(r'^##\s+(\d+)\s*$',t,re.M))
+          for i,m in enumerate(ms):
+              end=ms[i+1].start() if i+1<len(ms) else len(t)
+              body=t[m.end():end]
+              paras=[re.sub(r'\s+',' ',x).strip() for x in re.split(r'\n\s*\n',body)]
+              paras=[x for x in paras if x and x!='---']
+              for j in range(len(paras)-1):
+                  if paras[j]==paras[j+1] and len(paras[j])>15:
+                      raise SystemExit(f'ch {m.group(1)} direct repeat: {paras[j][:100]}')
+          print('PASS structure/anchors/repeats')
+          PY
+      - name: Commit manuscript and self-clean
+        shell: bash
+        run: |
+          git rm .github/workflows/mid-reader-pass-once.yml .github/mid_reader_pass_patch.py
+          git add MANUSKRIPT/03_BAUSTEINE_05_06.md
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Tighten middle reader flow through chapter 26'
+          git push
