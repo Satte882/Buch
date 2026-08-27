@@ -3020,15 +3020,25 @@ Daniel sah nicht vom Bildschirm auf.
 
 Sie kam herein und schloss die Tür.
 
+Daniel hatte den Vermerk aus Kapitel 25 noch offen. Nicht im breiten Quellenordner. Nur in seinem engsten Arbeitsstand.
+
+**Privatbezug zeitlich vor Zuweisung Lagerkomplex. Auswahlzeitpunkt prüfen.**
+
+Mehr stand dort nicht.
+
+Lena setzte sich nicht sofort.
+
 „Was hast du gefunden?“
 
-Daniel überlegte, wie viel er ihr sagen wollte.
+Daniel sah auf den Satz.
 
-Die Tatsache, dass er darüber nachdenken musste, gefiel ihm nicht.
+Die einfache Reaktion wäre gewesen, ihr den Bildschirm zuzudrehen. Lena war die Person, die seine Entscheidungen seit Tagen am härtesten prüfte. Sie war auch die Person, die ihm einen Teil ihres eigenen Kontrollwegs nicht offenlegte.
+
+Beides war wahr.
 
 „Der Privatbezug aus der ersten Nachricht liegt vor meiner Fallzuweisung.“
 
-Lena setzte sich.
+Jetzt setzte sie sich.
 
 „Sicher?“
 
@@ -3036,71 +3046,137 @@ Lena setzte sich.
 
 „Wie weit?“
 
-„Genug.“
-
-„Daniel.“
-
-Er drehte den Monitor nicht zu ihr.
-
 „Die Beobachtung im Haus meiner Mutter war abends. Berg hat mir den Lagerkomplex erst am nächsten Vormittag gegeben.“
 
-Lena sagte nichts.
+Lena sah auf den Monitor, den Daniel ihr noch immer nicht zugedreht hatte.
 
-„Und jetzt haben wir einen Hinweisgeber, der später geschützte interne Details kennt“, sagte Daniel. „Wenn das zusammengehört, begann das vor dem Fall.“
+„Und die Uhrzeit?“
 
-„Wenn es zusammengehört.“
+„Mit Jana gegengeprüft.“
 
-„Ja.“
+„Interne Vorbefassung?“
 
-„Und wenn jemand dich aus einem anderen Grund im Blick hatte?“
+„In meinen Unterlagen keine. Übergabeliste erst am nächsten Morgen.“
 
-„Dann will ich wissen, aus welchem.“
+„Mündlich?“
 
-Lena strich mit einem Finger über die Kante des Tisches.
+„Nicht ausgeschlossen.“
 
-„Du weißt, was die unangenehme Erklärung ist.“
+Lena nickte.
 
-Daniel sah sie an.
-
-„Sag sie.“
-
-„Dass nicht nur der Fall interessant war.“
-
-„Sondern?“
-
-„Deine Entscheidungen.“
-
-Daniel schnaubte leise.
-
-„Das ist noch ziemlich groß.“
-
-„Du hast gefragt.“
-
-„Und du hast keine Belege.“
+„Also nicht: Jemand wusste sicher, dass du den Fall bekommst.“
 
 „Nein.“
 
-Das war das Problem mit Lena. Wenn Daniel gehofft hatte, sie in eine überzogene Gegenposition drücken zu können, half sie ihm selten.
+„Sondern: Jemand hatte dich vorher im Blick.“
 
-Sie nahm ihr Tablet heraus und legte es auf den Tisch.
+„So weit gehe ich.“
 
-„Das hier ist ein interner Arbeitsstand.“
+Daniel drehte den Monitor nun doch ein Stück zu ihr.
 
-Daniel las.
+Lena las den Satz einmal.
 
-Sein Fall tauchte in einer Übersicht zu beschleunigter fallübergreifender Zusammenarbeit auf. Nicht mit seinem Namen in der Überschrift. Aber sein problematischer Datenabgleich war als Beispiel beschrieben, der spätere Erfolg ebenfalls.
+„Und jetzt?“
 
-„Woher hast du das?“
+„Jetzt finde ich heraus, wer mich vor dem Fall beruflich einschätzen konnte.“
 
-„Ist im Projektkreis.“
+„Das war nicht meine Frage.“
 
-„Seit wann?“
+Daniel sah sie an.
 
-„Seit gestern.“
+„Welche dann?“
 
-Daniel las den Absatz noch einmal.
+„Was machst du mit der Tatsache, dass du vielleicht nicht nur informiert, sondern ausgewählt wurdest?“
 
-Aus einem problematischen Zugriff war innerhalb weniger Tage eine Fallstudie geworden.
+Daniel lehnte sich zurück.
+
+„Ich kontrolliere die Informationswege enger.“
+
+„Das machst du schon.“
+
+„Dann enger.“
+
+Lena strich mit einem Finger über die Tischkante.
+
+„Das ist Kontrolle. Keine Antwort.“
+
+„Im Moment ist Kontrolle eine ziemlich brauchbare Antwort.“
+
+„Für dich.“
+
+„Für den Fall.“
+
+„Vielleicht.“
+
+Daniel merkte, dass er auf das Wort reagierte.
+
+„Sag es.“
+
+„Was?“
+
+„Du hast etwas im Kopf.“
+
+Lena atmete aus.
+
+„Wenn jemand dich vorher ausgewählt hat, dann vielleicht nicht, weil du leichtfertig bist.“
+
+Daniel schwieg.
+
+„Sondern weil du glaubwürdig bist“, sagte sie. „Weil du normalerweise Grenzen ernst nimmst. Weil deine Entscheidungen Gewicht haben, gerade wenn du eine Grenze trotzdem überschreitest.“
+
+„Das ist eine ziemlich große Theorie für eine Uhrzeit im Hausflur.“
+
+„Ja.“
+
+„Und du hast keinen Beleg dafür.“
+
+„Nein.“
+
+Daniel stand auf.
+
+Das half. Nicht viel.
+
+Er ging zum Fenster. Draußen schob jemand einen Aktenwagen über den Hof. Eine völlig normale Bewegung. Daniel beobachtete sie länger als nötig und ärgerte sich darüber.
+
+„Wir haben Menschen geschützt“, sagte er.
+
+„Ja.“
+
+„Der Sicherheitsmann wäre vielleicht nicht der Letzte gewesen.“
+
+„Ja.“
+
+„Der breite Prüfkreis hat einen realen Vorbereitungsschritt sichtbar gemacht.“
+
+„Ja.“
+
+Daniel drehte sich zu ihr um.
+
+„Dann sag nicht so, als wäre jeder Schritt nur politisches Material.“
+
+„Tue ich nicht.“
+
+„Klingt aber so.“
+
+„Daniel, genau dass die Schritte real funktionieren, macht sie politisch verwertbar.“
+
+Er sagte nichts.
+
+Lena nahm ihr Tablet aus der Tasche und legte es auf den Tisch.
+
+„Das hier ist seit gestern im Projektkreis.“
+
+Daniel ging zurück und las.
+
+Eine interne Übersicht zur beschleunigten fallübergreifenden Zusammenarbeit. Sein Name stand nicht in der Überschrift. Sein problematischer Datenabgleich stand trotzdem darin. Daneben der spätere operative Erfolg.
+
+Nicht als Heldengeschichte.
+
+Als Beispiel.
+
+**Zeitverlust durch getrennte Informationsräume. Operativ wirksame Gegenmaßnahme. Struktureller Handlungsbedarf.**
+
+Daniel las die Zeile zweimal.
 
 „Berg?“
 
@@ -3118,15 +3194,35 @@ Lena sah ihn an.
 
 Daniel schob das Tablet zurück.
 
-„Wenn jemand mich ausgewählt hat, weil er wusste, wie ich entscheide, dann ist das hier der Ertrag.“
+„Das beweist nichts über die Quelle.“
 
-„Vielleicht.“
+„Habe ich nicht gesagt.“
 
-„Du klingst jetzt wie ich.“
+„Es beweist auch nicht, dass jemand meine Entscheidung brauchte.“
 
-„Schlechte Angewohnheit.“
+„Nein.“
 
-Daniel stand auf und ging zum Fenster.
+„Dann was?“
+
+Lena nahm das Tablet nicht zurück.
+
+„Dass deine Entscheidung nicht bei dir geblieben ist.“
+
+Daniel sah wieder auf die Übersicht.
+
+Er hatte das gewusst.
+
+Nicht in dieser Form.
+
+Berg hatte den Zugriff bewertet. Die Projektstruktur war daraus entstanden. Natürlich war der Fall intern Referenz.
+
+Trotzdem fühlte sich der Satz anders an, seit er wusste, dass jemand ihn bereits vorher beobachtet hatte.
+
+Nicht nur seine Information konnte Teil eines Mechanismus sein.
+
+Seine Vernunft konnte es auch.
+
+Daniel setzte sich.
 
 „Also was?“
 
@@ -3134,15 +3230,37 @@ Daniel stand auf und ging zum Fenster.
 
 „Welche?“
 
-„Die, die du selbst kontrollieren kannst.“
+„Eine, die nicht davon abhängt, ob der nächste Zugriff wieder funktioniert.“
 
-Daniel drehte sich um.
+Daniel sah sie an.
 
-Lena sprach weiter, bevor er etwas sagen konnte.
+„Du willst, dass wir die Projektstruktur abschalten.“
 
-„Projektstruktur nur für diesen Komplex. Befristung bleibt. Danach keine Verlängerung aus Gewohnheit. Unabhängige Prüfung der Sonderentscheidungen.“
+„Nein.“
 
-„Wenn die Bedrohung dann vorbei ist.“
+„Was dann?“
+
+„Dass du festlegst, wann sie endet. Bevor die nächste Lage kommt.“
+
+Daniel zog den Projektvermerk auf.
+
+Die Laufzeit stand dort bereits.
+
+„Befristung ist drin.“
+
+„Eine Laufzeit ist noch keine Rückkehrgrenze.“
+
+„Doch.“
+
+„Nicht, wenn am letzten Tag ein Satz reicht: Bedrohung nicht vollständig geklärt.“
+
+Daniel schwieg.
+
+Lena tippte auf den Bildschirm.
+
+„Fallbezogen. Befristet. Unabhängige Prüfung. Und wenn die akute Grundlage weg ist, kein automatischer Übergang in den nächsten Komplex.“
+
+„Wenn die Bedrohung vorbei ist.“
 
 „Wenn die akute Grundlage vorbei ist.“
 
@@ -3150,9 +3268,9 @@ Lena sprach weiter, bevor er etwas sagen konnte.
 
 „Genau deshalb sage ich es.“
 
-Daniel sah auf die Tür.
+Daniel stand wieder auf.
 
-„Und wenn wir in zwei Wochen noch Fragmente haben?“
+„Und wenn wir am Ende noch Fragmente haben?“
 
 „Dann begründen wir neu.“
 
@@ -3160,53 +3278,149 @@ Daniel sah auf die Tür.
 
 „Vielleicht.“
 
-Lena blieb ernst.
-
-„Du hast gerade herausgefunden, dass jemand dich möglicherweise vor dem Fall ausgewählt hat. Wenn du darauf mit noch mehr persönlicher Kontrolle reagierst, wäre ich vorsichtig damit, das Autonomie zu nennen.“
-
-Das war unfair.
-
-Nicht völlig.
-
-„Ich sage nicht, dass wir aufhören zu handeln.“
-
-„Ich auch nicht.“
-
-„Dann sind wir uns ja einig.“
-
-„Nein.“
-
-Daniel nickte.
-
-„Gut.“
-
-Er nahm einen Block und schrieb drei Worte.
-
-**fallbezogen – befristet – Prüfung**
-
-Lena sah darauf.
-
-„Ist das eine Zusage?“
+„Du hast den Sicherheitsmann gesehen.“
 
 „Ja.“
 
-„Dann schreibe sie nicht nur auf deinen Block.“
+„Du weißt, was Warten kosten kann.“
 
-Daniel öffnete den Projektvermerk.
+„Ja.“
 
-Er ergänzte die Grenze dort.
+Lena blieb sitzen.
+
+„Und du weißt jetzt auch, was Erfolg kosten kann.“
+
+Daniel sah sie an.
+
+„Weber.“
+
+„Unter anderem.“
+
+„Der Fund war trotzdem real.“
+
+„Ja.“
+
+Wieder nahm sie ihm die bequeme Gegenposition.
+
+Daniel ging zum Tisch zurück und öffnete nicht seinen privaten Block, sondern den formalen Projektvermerk.
+
+Er schrieb:
+
+**Nutzung ausschließlich im definierten Terrorismuskomplex.**
+
+Darunter:
+
+**Keine automatische Fortführung nach Wegfall der akuten fallbezogenen Grundlage. Fortführung nur nach erneuter dokumentierter Begründung und Freigabe.**
+
+Dann:
+
+**Sonderentscheidungen und Ausweitungen werden nach Abschluss unabhängig geprüft; Protokollierung bleibt vollständig erhalten.**
+
+Lena las mit.
+
+„Wer ist unabhängig?“
+
+Daniel hielt inne.
+
+„Nicht ich.“
+
+„Das wäre ein Anfang.“
+
+„Nicht Berg allein.“
+
+„Auch ein Anfang.“
+
+Daniel ergänzte die zuständige Kontrollfunktion aus der bestehenden Projektstruktur, ohne einen Namen einzutragen.
+
+„Und die Daten?“ fragte Lena.
+
+„Rückführung nach den festgelegten Regeln. Kein stiller Dauerbestand.“
+
+„Schreib es.“
+
+Daniel tat es.
+
+Er mochte den Ton nicht, in dem sie mit ihm sprach.
+
+Das war kein Argument gegen den Satz.
+
+Als er fertig war, schickte er die Änderung nicht nur an Lena. Berg bekam sie. Der definierte Kontrollweg ebenfalls.
+
+Daniel sah den Versandstatus.
+
+Damit war es keine Notiz mehr, die er später anders erinnern konnte.
 
 Lena stand auf.
 
-An der Tür sagte sie: „Erfolg ist gerade nicht das Argument dafür, dass du weniger Kontrolle brauchst.“
+„Ist das eine Zusage?“
+
+Daniel sah auf die vier Absätze.
+
+„Ja.“
+
+„Auch wenn die Struktur bis dahin noch einmal funktioniert?“
+
+„Ja.“
+
+„Auch wenn wir dann noch offene Fragmente haben?“
+
+Daniel hob den Blick.
+
+„Wenn die akute Grundlage weg ist, begründen wir neu.“
+
+Lena nickte einmal.
+
+Keine Anerkennung. Nur Registrierung.
+
+Daniel sagte: „Du tust gerade so, als wäre Kontrolle nur mein Problem.“
+
+„Nein.“
+
+„Deinen eigenen Weg erklärst du mir bis heute nicht vollständig.“
+
+Lena blieb an der Tür stehen.
+
+„Stimmt.“
+
+„Und ich soll gleichzeitig akzeptieren, dass du meine Autonomie schützt.“
+
+„Nein. Du sollst akzeptieren, dass ich deine Entscheidungen prüfbar halten will. Ob du mir dabei vertraust, ist eine andere Frage.“
+
+Daniel spürte Ärger.
+
+„Sehr beruhigend.“
+
+„War nicht das Ziel.“
+
+Sie öffnete die Tür.
+
+„Erfolg ist gerade nicht das Argument dafür, dass du weniger Kontrolle brauchst.“
 
 Daniel sah sie an.
 
 „Hab ich nie gesagt.“
 
-„Noch nicht.“
+„Gut.“
+
+Diesmal fügte sie kein *noch nicht* hinzu.
 
 Sie ging.
+
+Daniel blieb allein mit dem Projektvermerk.
+
+Vier Absätze.
+
+Fallbezogen.
+
+Befristet.
+
+Prüfung.
+
+Rückkehr.
+
+Er las sie noch einmal und änderte kein Wort.
+
+Im Moment meinte er jedes davon.
 
 ---
 
@@ -3240,6 +3454,8 @@ Daniel hielt das Telefon fest.
 
 Es war 18.47 Uhr.
 
+Fünfzehn Minuten.
+
 „Prüf die Lieferfreigabe.“
 
 „Welche?“
@@ -3253,6 +3469,8 @@ Daniel gab ihm die Kennung.
 Jonas tippte bereits.
 
 Daniel öffnete Janas Kontakt.
+
+Sein Daumen blieb über dem Anrufsymbol stehen.
 
 Er rief nicht an.
 
@@ -3268,43 +3486,155 @@ Nicht, dass beides zusammenhing.
 
 Daniel sagte sich das einmal.
 
-Es änderte nichts daran, dass sein Körper längst entschieden hatte, die Information anders zu behandeln.
+Dann noch einmal, weil sein Körper die Information offenbar nicht gelesen hatte.
 
-Jonas drehte den Bildschirm.
+Sein Nacken war hart. Er stand noch immer.
 
-„Freigabe existiert.“
+„Freigabe existiert“, sagte Jonas.
+
+Daniel trat an seinen Bildschirm.
 
 „Seit wann?“
 
-„Heute 16.08 Uhr.“
+„Heute 16.08 Uhr angelegt.“
 
 „Für wen?“
 
-„Neuer Lieferdienst im Aufbau. Formal genehmigt.“
+„Neuer Lieferdienst im Aufbau.“
 
-„Wer hat genehmigt?“
+„Nur angelegt oder genehmigt?“
 
-„Veranstaltungslogistik. Sieht erst mal normal aus.“
+Jonas öffnete den nächsten Stand.
 
-Daniel las den Eintrag.
+„Formal genehmigt. 16.41 Uhr.“
 
-Die Quelle hatte einen echten Punkt geliefert.
+„Von wem?“
 
-Was er bedeutete, war offen.
+„Veranstaltungslogistik. Zwei Freigabeschritte.“
 
-Daniel zeigte Jonas die Nachricht bis zur Leerzeile.
+„Warum neu?“
 
-Janas Satz behielt er noch für sich.
+„Der bisherige Dienstleister hat für morgen einen Teil der Tour abgegeben. Steht in der Logistiknotiz.“
 
-Jonas las den Rest. „‚Zugänge darum herum‘ ist ziemlich bequem. Kann alles heißen.“
+Daniel las sie selbst.
 
-„Genau.“
+Kapazitätsengpass. Ersatzdienstleister. Fahrerlisten teilweise nachgeliefert.
 
-Lena kam herein.
+Eine plausible Erklärung.
 
-Daniel gab ihr den sachlichen Teil.
+Nicht einmal eine besonders seltene.
 
-Sie las ihn und sah ihn dann an.
+„Firmenbezug?“
+
+„Ziehe ich.“
+
+Jonas öffnete die vorhandenen Projektinformationen. Der Lieferdienst war bisher nicht aufgefallen. Kein direkter Bezug zu Mika. Keine bekannte Verbindung zum Lagerraum aus Kapitel 23.
+
+„Also bestätigt ist im Moment nur, dass die Kennung echt ist“, sagte Jonas.
+
+„Und neu.“
+
+„Ja.“
+
+„Mehr nicht.“
+
+„Mehr nicht.“
+
+Daniel zeigte ihm die Nachricht bis zur Leerzeile.
+
+Jonas las.
+
+„‚Zugänge darum herum‘ ist ziemlich bequem.“
+
+„Wie bequem?“
+
+„Kann Fahrer heißen. Schichtplaner. Zugangskarten. Leute, die die Fahrerlisten sehen. Leute, die den Lieferbereich freigeben. Oder einfach jeden, der irgendwie in der Nähe davon arbeitet.“
+
+„Also kein Kriterium.“
+
+„Noch nicht.“
+
+Jonas markierte die Kennung im Arbeitsstand als **bestätigt**, die Bedeutung als **offen**.
+
+Daniel sah auf die zwei Wörter.
+
+So hatte er nach dem Betriebshof begonnen zu arbeiten.
+
+Bestätigt.
+
+Offen.
+
+Widerlegt.
+
+Der Jana-Satz passte in keine der drei Kategorien, weil er eine andere Frage beantwortete.
+
+Daniel schrieb selbst daneben:
+
+**Privatwissen bestätigt keine Gefahrenannahme.**
+
+Jonas sah zu ihm.
+
+„Was?“
+
+Daniel zeigte ihm jetzt auch die letzte Zeile.
+
+Jonas las sie und sagte zunächst nichts.
+
+„Ist das aktuell?“
+
+„Fünfzehn Minuten alt.“
+
+„Scheiße.“
+
+„Ja.“
+
+„Rufst du sie an?“
+
+„Gleich.“
+
+„Warum gleich?“
+
+Daniel sah ihn an.
+
+„Weil ich erst wissen will, was ich ihr sagen kann.“
+
+„Und wenn sie gerade unterwegs ist?“
+
+Das war ein guter Einwand.
+
+Daniel mochte ihn nicht.
+
+Er wählte trotzdem noch nicht.
+
+„Prüf zuerst, ob die Lieferfreigabe in irgendeinem anderen aktuellen Strang auftaucht.“
+
+Jonas drehte sich wieder zum Bildschirm.
+
+Lena kam herein, einen Ausdruck in der Hand.
+
+„Was ist?“
+
+Daniel gab ihr zunächst nur den sachlichen Teil.
+
+Sie las die Nachricht bis zur Leerzeile.
+
+„Kennung bestätigt?“
+
+„Ja.“
+
+„Bedeutung?“
+
+„Offen.“
+
+„Firma?“
+
+„Bis jetzt unauffällig.“
+
+„Zeitfenster?“
+
+„‚Morgiger Aufbau‘. Kein genauer Zeitpunkt.“
+
+Lena sah ihn an.
 
 „Was fehlt?“
 
@@ -3318,15 +3648,19 @@ Er zeigte ihr die letzte Zeile.
 
 Lena las sie einmal.
 
+Ihr Gesicht veränderte sich kaum.
+
 „Jana ist kein Beweis für den Aufbau.“
 
 „Weiß ich.“
 
-„Sag es trotzdem.“
+„Dann behandel sie nicht wie einen Treffer in derselben Spalte.“
 
-Daniel sah sie an.
+Daniel zeigte auf seinen Vermerk.
 
-„Jana ist kein Beweis für den Aufbau.“
+**Privatwissen bestätigt keine Gefahrenannahme.**
+
+„Tue ich nicht.“
 
 „Gut.“
 
@@ -3334,39 +3668,169 @@ Daniel sah sie an.
 
 „Nein.“
 
+Daniel setzte sich endlich.
+
+Jonas sagte: „Ich habe einen zweiten sachlichen Punkt.“
+
+Sie drehten sich zu ihm.
+
+„Die Fahrerlisten sind noch nicht vollständig. Zwei Namen fehlen, obwohl die Zufahrtsberechtigungen morgen früh aktiv werden sollen.“
+
+„Ungewöhnlich?“ fragte Lena.
+
+„Nicht gut. Aber die Logistik hat eine Nachreichfrist bis heute Abend gesetzt.“
+
+„Also Verfahrenslücke, noch kein Gefahrenbezug.“
+
+„Genau.“
+
+Daniel sah auf die Uhr.
+
+18.54 Uhr.
+
+Der Satz über Jana war jetzt zweiundzwanzig Minuten alt.
+
 Berg kam dazu, die Jacke noch über dem Arm.
 
 „Was haben wir?“
 
-Daniel erklärte den bestätigten und den offenen Teil.
+Daniel erklärte zuerst die Lieferfreigabe. Kennung echt. Ersatzdienstleister real. Fahrerlisten unvollständig. Kein bestätigter Tatbezug.
 
-Berg fragte nicht nach der Quelle zuerst.
+Dann den Jana-Satz.
 
-„Was können wir bis morgen früh sauber prüfen?“
+Berg blieb an der Tür stehen.
 
-Daniel nannte die engen Möglichkeiten.
+„Ist sie erreichbar?“
 
-Lieferfreigabe verifizieren. Personen und Firmen im vorhandenen Projektkontext. Bestehende Zugänge und bekannte Überschneidungen. Keine neue flächige Erhebung.
+„Noch nicht angerufen.“
 
-„Und wenn das nicht reicht?“
+Berg sah ihn an.
+
+„Warum?“
+
+Daniel spürte Ärger, weil jetzt schon zwei Leute dieselbe gute Frage gestellt hatten.
+
+„Weil ich nicht mit einer Anweisung in ein Telefonat gehen will, bevor ich weiß, was wir tatsächlich haben.“
+
+Berg nickte einmal.
+
+„Dann was können wir bis morgen früh sauber prüfen?“
+
+Lena antwortete zuerst.
+
+„Lieferdienst im vorhandenen Projektkontext. Bestehende Zugänge. Nachgereichte Fahrer. Bekannte Kontaktüberschneidungen. Keine neue flächige Erhebung nur wegen der Quellenformulierung.“
+
+Jonas sagte: „Und wir können den Begriff ‚Zugänge darum herum‘ in konkrete prüfbare Kategorien zerlegen. Sonst prüfen wir am Ende alles.“
+
+Berg sah zu Daniel.
+
+„Wie viel Zeit?“
+
+„Aufbau beginnt früh. Exakten Gefahrenzeitpunkt haben wir nicht.“
+
+„Dann ist die operative Frage nicht, ob die Quelle glaubwürdig ist“, sagte Berg. „Sondern was wir heute noch ausschließen können, ohne morgen blind zu sein.“
+
+Daniel nickte.
+
+Das war Berg in seiner besten Form. Keine Theorie über Manipulation. Keine Forderung nach maximaler Reichweite. Nur die Frage, welche Optionen offen blieben.
+
+Lena tippte auf Daniels Projektvermerk, den er am Morgen geändert hatte.
+
+„Und deine Grenze?“
+
+„Steht.“
+
+„Dann gilt sie jetzt.“
+
+„Ja.“
+
+„Auch mit Jana in der Nachricht.“
+
+Daniel sah sie an.
+
+„Jana ist kein Beweis.“
+
+„Das war nicht die Frage.“
+
+Daniel schwieg kurz.
+
+„Ja. Auch jetzt.“
+
+Jonas legte drei Spalten an.
+
+**Lieferfreigabe. Zugangsbezug. Privatwissen.**
+
+Unter die dritte schrieb er nichts außer: **separat behandeln**.
+
+Daniel sah es und ließ es stehen.
+
+Dann begannen sie die enge Prüfung.
+
+Der Ersatzdienstleister war real. Vertrag echt. Ansprechpartner erreichbar. Zwei der bereits gemeldeten Fahrer hatten reguläre Vorbeschäftigungen bei anderen Veranstaltungen. Keine Auffälligkeit.
+
+Eine Zugangsrolle im Logistiksystem war am Nachmittag erweitert worden. Der Grund war dokumentiert: Die verantwortliche Mitarbeiterin vertrat einen erkrankten Kollegen.
+
+Ein weiterer Treffer sah zunächst nach einer ungewöhnlichen Nachtberechtigung aus. Es war eine Standardberechtigung für Aufbauphasen.
+
+Alles erklärbar.
+
+Dann kam die erste kleine Irritation.
+
+Einer der noch fehlenden Fahrernamen war zwar nachgereicht, aber die hinterlegte Mobilnummer gehörte laut Altbestand seit Monaten nicht mehr zu ihm.
+
+„Kann schlampig sein“, sagte Jonas.
+
+„Ja.“
+
+„Prüfen?“
+
+„Eng.“
+
+Die Rückfrage beim Dienstleister lief.
+
+Berg sah auf die Uhr.
+
+„Und wenn das bis Mitternacht nichts ergibt?“
 
 Niemand antwortete sofort.
 
-Daniel dachte an die drei Worte in seinem Projektvermerk.
+Daniel dachte an die vier Absätze aus Kapitel 26.
 
-Fallbezogen.
+Keine automatische Ausweitung.
 
-Befristet.
+Neue Begründung.
 
-Prüfung.
+Dokumentierte Prüfung.
 
-Die Grenze war noch da.
+Dann dachte er an Jana im Hinterausgang.
+
+Sein Kopf versuchte, beide Dinge in dieselbe Rechnung zu ziehen.
+
+Er zwang sie wieder auseinander.
 
 „Dann entscheiden wir mit dem, was wir haben“, sagte er.
 
+„Was heißt das konkret?“ fragte Berg.
+
+„Wenn die engen Prüfungen eine reale Lücke lassen und ein unabhängiger Anker dazukommt, legen wir die breitere Option neu auf den Tisch. Nicht vorher.“
+
 Lena sah ihn an.
 
-Er rief Jana an.
+„Das ist die Grenze.“
+
+„Ja.“
+
+Jonas sagte: „Und Jana?“
+
+Daniel nahm sein Telefon.
+
+„Ist eine andere Entscheidung.“
+
+Er stand auf.
+
+Diesmal wusste er wenigstens, dass er stand.
+
+Er ging in den leeren Flur und rief seine Schwester an.
 
 ---
 
@@ -3376,9 +3840,11 @@ Er rief Jana an.
 
 Jana sagte nicht Hallo.
 
-Daniel stand in einem leeren Flur und sah auf die Brandschutztür am Ende, ohne sie wahrzunehmen.
+Daniel blieb im leeren Flur stehen.
 
-„Dass jemand heute gesehen hat, wie du die Praxis verlassen hast.“
+Hinter der Brandschutztür am Ende hörte er einen Wagen über den Boden rollen. Sonst nichts.
+
+„Dass jemand heute um 18.32 Uhr gesehen hat, wie du die Praxis über den Hinterausgang verlassen hast.“
 
 Stille.
 
@@ -3386,11 +3852,45 @@ Stille.
 
 „Weiß ich nicht.“
 
+„Warum sagt dir jemand das?“
+
+Daniel lehnte sich mit der Schulter an die Wand.
+
+„Es kam zusammen mit einem Hinweis zu meinem Fall.“
+
+„Ist der Hinweis echt?“
+
+„Ein Teil davon.“
+
+„Welcher?“
+
+„Eine neue Lieferfreigabe existiert. Ob sie etwas mit einer Gefahr zu tun hat, wissen wir nicht.“
+
+Jana schwieg kurz.
+
 „Und was vermutest du?“
 
 Daniel schloss die Augen.
 
 Das war genau die Frage, die er anderen stellte.
+
+„Dass der Absender Druck auf mich erzeugen will. Und dass trotzdem eine reale Gefahr dahinter liegen kann.“
+
+„Das ist keine Antwort auf mich.“
+
+„Nein.“
+
+„Also noch mal: Was weißt du über mich?“
+
+Daniel öffnete die Augen.
+
+„Dass jemand deinen Hinterausgang kannte und dich heute dort gesehen hat.“
+
+„Mehr?“
+
+„Nein.“
+
+„Was vermutest du?“
 
 „Dass es mit meinem Fall zusammenhängt.“
 
@@ -3398,23 +3898,9 @@ Das war genau die Frage, die er anderen stellte.
 
 „Nicht sicher.“
 
-„Daniel.“
-
-„Es gibt einen realen Hinweis in derselben Nachricht.“
-
-„Das habe ich nicht gefragt.“
-
-Er öffnete die Augen wieder.
-
-„Ich weiß.“
-
-„Also?“
-
-„Ich kann nicht belegen, dass du konkret gefährdet bist.“
-
-Jana atmete aus.
-
 „Gut.“
+
+Daniel spürte sofort Widerstand gegen das Wort.
 
 „Das heißt nicht, dass du es ignorieren sollst.“
 
@@ -3436,7 +3922,7 @@ Daniel presste Daumen und Zeigefinger gegen die Stirn.
 
 „Nichts Konkretes.“
 
-„Dann sag nicht, ich soll aus meiner Wohnung raus.“
+„Dann sag nicht, ich soll aus meiner Wohnung raus, als wäre das eine Tatsache.“
 
 „Jemand kennt deine Wege.“
 
@@ -3446,17 +3932,115 @@ Daniel presste Daumen und Zeigefinger gegen die Stirn.
 
 „Vielleicht reicht ein Hotel auch nicht.“
 
-Er sagte nichts.
+Daniel sagte nichts.
+
+Jana war nicht leichtfertig.
+
+Das wäre einfacher gewesen.
+
+Sie nahm exakt dieselbe Unterscheidung vor, die er im Besprechungsraum gerade verteidigt hatte: bekannt, vermutet, offen.
+
+„Was hast du heute noch vor?“ fragte er.
+
+„Eigentlich nach Hause, essen, morgen acht Uhr erster Termin.“
+
+„Sag den Termin ab.“
+
+„Habe ich schon.“
+
+Daniel richtete sich auf.
+
+„Wann?“
+
+„Während du wahrscheinlich noch überlegt hast, ob du mich anrufst.“
+
+Er schwieg.
+
+„Claudia hat gesehen, dass mich das beschäftigt“, sagte Jana. „Ich habe ihr gesagt, dass jemand meine Wege beobachtet haben könnte.“
+
+„Du hast ihr vom Fall erzählt?“
+
+„Nein. Von mir.“
+
+Die Korrektur saß.
+
+„Was macht ihr?“
+
+„Sie holt mich ab. Ich fahre morgen nicht mit meinem Auto. Den ersten Termin habe ich abgesagt, den zweiten macht sie. Ich schlafe heute nicht zu Hause.“
+
+Daniel atmete etwas aus.
+
+Nicht genug.
+
+„Wo?“
+
+„Bei jemandem, den ich kenne.“
+
+„Bei Claudia?“
+
+„Vielleicht.“
+
+„Jana.“
+
+„Nein.“
+
+„Was nein?“
+
+„Ich gebe dir die Adresse nicht.“
+
+Daniel löste sich von der Wand.
+
+„Warum?“
+
+„Weil du mir gerade gesagt hast, dass du nicht weißt, wer Informationen über mich bekommt.“
+
+Der Satz blieb hängen.
+
+„Mein Telefon ist nicht der Quellenordner.“
+
+„Das habe ich nicht gesagt.“
+
+„Dann was?“
+
+„Dass weniger Leute meinen Aufenthaltsort kennen, solange niemand weiß, woher das Wissen kommt, nicht völlig verrückt ist.“
+
+Daniel ging drei Schritte den Flur hinunter und zurück.
+
+„Ich bin dein Bruder.“
+
+„Ja.“
+
+„Und derjenige, der gerade versucht, dich zu schützen.“
+
+„Auch ja.“
+
+„Dann muss ich wissen, wo du bist.“
+
+„Nein.“
+
+Das Wort war nicht laut.
+
+Es erinnerte ihn an die Mutterwohnung. An Jana, die einen Maklertermin organisierte, während Daniel noch versuchte, eine Entscheidung zu vertagen. Damals hatte er ihre Geschwindigkeit für Ungeduld gehalten.
+
+Jetzt ging es um reale Gefahr.
+
+Und trotzdem traf er auf dieselbe Grenze.
 
 „Du machst das schon wieder“, sagte Jana.
 
 „Was?“
 
-„Aus vielleicht wird bei dir sofort eine Anweisung.“
+„Aus Verantwortung wird bei dir sehr schnell Zuständigkeit.“
 
-„Diesmal hat jemand dich beobachtet.“
+Daniel lachte einmal ohne Humor.
 
-„Ja. Deshalb nehme ich es ernst.“
+„Diesmal ist das nicht nur eine Wohnung.“
+
+„Weiß ich.“
+
+„Jemand hat dich heute beobachtet.“
+
+„Weiß ich auch.“
 
 „Dann—“
 
@@ -3466,23 +4050,15 @@ Daniel schwieg.
 
 Jana sprach ruhiger weiter.
 
-„Ich sage den Termin morgen früh ab. Ich fahre nicht allein zur Praxis. Claudia holt mich ab, und ich schlafe heute bei ihr.“
+„Ich nehme es ernst. Deshalb ändere ich meinen Ablauf. Ich bin nicht allein. Claudia weiß Bescheid. Mein Handy bleibt an. Ich fahre morgen nicht zur normalen Zeit in die Praxis.“
 
-Daniel kannte Claudia. Mitinhaberin der Praxis.
+„Und wenn dir jemand folgt?“
 
-„Wo?“
+„Dann fahre ich nicht zum Ziel und rufe die Polizei.“
 
-„Das sage ich dir nicht.“
+„Und wenn dir vorher etwas auffällt?“
 
-„Jana.“
-
-„Genau deshalb.“
-
-„Das ist nicht lustig.“
-
-„Ich lache nicht.“
-
-Er ging ein paar Schritte den Flur hinunter und wieder zurück.
+„Dasselbe.“
 
 „Ich kann dir Schutz organisieren.“
 
@@ -3498,7 +4074,47 @@ Sie hatte recht.
 
 Er mochte es überhaupt nicht.
 
-„Handy anlassen“, sagte er.
+„Du könntest wenigstens die Adresse nur mir geben.“
+
+„Und wenn genau dein Umfeld das Problem ist?“
+
+Daniel spürte, wie sein Kiefer hart wurde.
+
+„Das ist nicht fair.“
+
+„Nein.“
+
+Jana klang müde.
+
+„Aber du hast mich gefragt, vernünftig mit wenig Information umzugehen. Das tue ich.“
+
+Daniel wollte widersprechen.
+
+Er fand keinen sachlichen Punkt, nur sein Bedürfnis, ihren Standort zu kennen.
+
+Das war zu wenig.
+
+„Okay“, sagte er.
+
+Jana schwieg kurz.
+
+„Okay?“
+
+„Ich finde es scheiße.“
+
+„Das glaube ich.“
+
+„Aber okay.“
+
+Er hörte im Hintergrund eine Tür und Stimmen.
+
+„Claudia ist da“, sagte Jana.
+
+„Lass sie fahren.“
+
+„War der Plan.“
+
+„Handy an.“
 
 „Ja.“
 
@@ -3506,41 +4122,91 @@ Er mochte es überhaupt nicht.
 
 „Ja.“
 
-„Und wenn dir irgendwas auffällt—“
+„Und schreib mir, wenn du angekommen bist. Keine Adresse. Nur angekommen.“
 
-„Dann rufe ich dich an. Oder die Polizei. Ich bin vierzig, Daniel.“
+Kurze Pause.
 
-„Das war nicht der Punkt.“
+„Mache ich.“
 
-„Bei dir ist es oft der Punkt.“
+Daniel lehnte den Kopf gegen die Wand.
 
-Er hörte im Hintergrund eine Tür.
+Das war der Kompromiss.
 
-„Ich muss los“, sagte Jana.
+Nicht seiner.
 
-„Wohin?“
+Ihrer.
 
-Pause.
+„Und wenn ich dir später mehr sagen kann—“
 
-„Zu Claudia.“
+„Dann sagst du mir mehr.“
 
-„Welche Adresse?“
+„Nicht nur: Tu das.“
 
-„Nein.“
+Jana lachte leise.
 
-Dann legte sie auf.
+„Das wäre neu.“
+
+„Übertreib nicht.“
+
+„Nie.“
+
+Für einen Moment klangen sie wie früher.
+
+Dann war die Leichtigkeit wieder weg.
+
+„Daniel?“
+
+„Ja?“
+
+„Mach aus mir keinen Beweis für irgendwas, nur weil du Angst hast.“
+
+Er schloss die Augen.
+
+„Versuche ich nicht.“
+
+„Gut.“
+
+Sie legte auf.
 
 Daniel sah auf das Telefon.
 
 Jana hatte vernünftig gehandelt.
 
-Sie hatte ihre Routine geändert, war nicht allein und hatte eine weitere Person eingebunden.
+Sie hatte ihren Termin abgesagt, ihre Routine geändert, eine zweite Person eingebunden, das eigene Auto aus dem Plan genommen und eine klare Reaktion vereinbart, falls ihr etwas auffiel.
 
-Sein Risikoempfinden sank trotzdem kein Stück.
+Mehr Kontrolle hätte Daniel kaum sinnvoll begründen können.
+
+Trotzdem sank sein Risikoempfinden kein Stück.
 
 Vielleicht stieg es sogar.
 
 Weil er jetzt nicht wusste, wo sie war.
+
+Er stand noch eine Minute im Flur.
+
+Dann kam Janas Nachricht.
+
+**Bin unterwegs. Claudia fährt.**
+
+Keine Adresse.
+
+Daniel tippte **Okay**.
+
+Löschte es.
+
+Schrieb **Meld dich, wenn ihr da seid.**
+
+Schickte es.
+
+Dann ging er zurück in die Lage.
+
+Seine Schwester war keine Variable, die er geschlossen hatte.
+
+Sie war eine Person, die selbst entschieden hatte.
+
+Das machte die Lage nicht ruhiger.
+
+Nur ehrlicher.
 
 ---
 
@@ -3551,6 +4217,14 @@ Die engere Prüfung ließ siebenundzwanzig Namen übrig.
 Zu viele für Gewissheit.
 
 Zu wenige, um die Lücke zu ignorieren.
+
+Die Zahl stand auf dem Bildschirm, seit Jonas die letzten Doppelungen entfernt hatte.
+
+27.
+
+Keine Ampel. Keine Risikowerte. Keine Rangliste.
+
+Nur Menschen im definierten Projektkreis, die nach den vereinbarten Kriterien überhaupt in die breitere Prüfung fallen konnten.
 
 Berg stand vor dem Bildschirm.
 
@@ -3570,21 +4244,57 @@ Lena saß am Tisch, die Hände flach neben ihrem Laptop.
 
 Daniel sah auf die Uhr.
 
-Das Zeitfenster aus der Warnung war nicht bestätigt. Die neue Lieferfreigabe schon. Zwei weitere kleine Auffälligkeiten ebenfalls.
+Die Nacht hatte die Lieferfreigabe nicht entlastet und nicht belastet.
 
-Der Teil, der die mögliche Größe der Gefahr ausmachte, blieb offen.
+Der Ersatzdienstleister war real. Die unklare Mobilnummer war auf einen alten Datensatzfehler zurückgeführt worden. Zwei Fahrer waren nachgemeldet und plausibel. Ein Teil der Zugangsrollen war erklärt.
+
+Trotzdem blieb eine Lücke.
+
+Mehrere Personen konnten innerhalb der verbleibenden Zeit relevante Informationen oder Zugänge berühren, ohne dass die enge Prüfung ihre Kontakt- und Zeitüberschneidungen vollständig abdecken würde.
+
+Das Zeitfenster aus der Warnung war nicht bestätigt.
+
+Die mögliche Schadensgröße ebenfalls nicht.
+
+Die reale neue Lieferfreigabe schon.
+
+Daniel hatte fast nicht geschlafen.
+
+Jana hatte kurz nach Mitternacht geschrieben:
+
+**Da. Alles ruhig.**
+
+Keine Adresse.
+
+Er hatte die Nachricht gelesen und das Telefon umgedreht.
+
+Jetzt lag es mit dem Display nach unten neben seinem Block.
 
 „Kriterien“, sagte Daniel.
 
-Jonas schob eine Liste auf den großen Monitor.
+Jonas schob die Liste auf den großen Monitor.
 
-Menschen im definierten Projektkreis mit Zugang zu sensiblen Lageinformationen oder relevanten Veranstaltungszugängen. Dazu nicht erklärte Kontakt- oder Zeitüberschneidungen in den festgelegten Fenstern.
+„Nur Personen im definierten Projektkreis“, sagte er. „Zugang zu sensiblen Fallinformationen oder relevanten Veranstaltungszugängen. Dazu nicht erklärte Kontakt- oder Zeitüberschneidungen in den festgelegten Fenstern.“
 
-Keine automatische Wertung.
+„Keine Erweiterung auf Kontakte dieser Personen?“ fragte Daniel.
 
-Nur Treffer, die Menschen lesen mussten.
+„Nicht automatisch.“
 
-„Breiter als gestern“, sagte Lena.
+„Keine Bewertung allein wegen eines einzelnen Zeitfensters?“
+
+„Nein.“
+
+„Keine Maßnahmen aus einem Treffer ohne menschliche Prüfung.“
+
+Jonas sah ihn an. „Sowieso nicht.“
+
+„Sag es trotzdem.“
+
+„Keine Maßnahmen aus einem Treffer ohne menschliche Prüfung.“
+
+Lena beobachtete Daniel.
+
+„Breiter als gestern“, sagte sie.
 
 „Ja.“
 
@@ -3592,23 +4302,107 @@ Nur Treffer, die Menschen lesen mussten.
 
 Daniel sah sie an.
 
+Der Name lag zwischen ihnen, obwohl er nicht auf dem Bildschirm stand.
+
 „Ist genau der Grund, warum wir Gegenlesarten brauchen.“
 
 „Nicht der Grund, noch mehr Leute reinzunehmen.“
 
-Berg sagte: „Und wenn der eine Kontakt, den wir nicht prüfen, morgen der ist, über den es läuft?“
+Berg sagte: „Und der Lagerraum?“
 
 Lena drehte sich zu ihm.
 
-„Dann wirst du mit diesem Satz jeden Kreis erweitern können.“
+„Ist genau der Grund, warum die Frage schwer ist.“
 
-Berg hob beide Hände. „Ich stelle eine Frage.“
+Berg nickte.
 
-Daniel kannte die Antwort, bevor er sie sagte.
+Kein Triumph.
+
+Daniel mochte ihn in diesem Moment fast dafür.
+
+„Ohne den breiten Prüfkreis hätten wir den Aushilfsfahrer wahrscheinlich nicht rechtzeitig verbunden“, sagte Berg. „Mit demselben Prüfkreis haben wir Weber falsch gewichtet.“
+
+„Ja“, sagte Lena.
+
+„Dann haben wir kein sauberes Beispiel dafür oder dagegen.“
+
+„Richtig.“
+
+Daniel sah auf die 27.
+
+Das war schlimmer als ein eindeutiger Fehlschlag.
+
+Ein Fehlschlag hätte eine Richtung vorgegeben.
+
+Stattdessen hatte die Methode gleichzeitig einen realen Gefahrenstrang sichtbar gemacht und einen Unbeteiligten beschädigt.
+
+„Was bleibt unberührt, wenn wir eng bleiben?“ fragte Daniel.
+
+Jonas öffnete die Lückenliste.
+
+Sechs Personen mit sensiblen Informationszugängen, deren relevante Kontaktzeiten bislang nur teilweise geprüft waren. Neun Personen mit Veranstaltungszugängen und mindestens einer nicht erklärten Überschneidung. Der Rest bestand aus Rollen, bei denen Daten uneindeutig oder noch nicht vollständig zurückgemeldet waren.
+
+„Und wenn wir breit prüfen?“
+
+„Dann bekommen wir mehr Erklärungsarbeit“, sagte Jonas. „Wahrscheinlich viel Müll.“
+
+„Und vielleicht einen Treffer“, sagte Berg.
+
+Lena sah zu Daniel.
+
+„Und vielleicht wieder Weber.“
+
+Daniel nickte.
+
+„Ja.“
+
+Sie wartete offenbar auf mehr.
+
+Daniel gab es ihr nicht.
+
+Er zog den Projektvermerk aus Kapitel 26 auf.
+
+**Keine automatische Fortführung oder Ausweitung. Fortführung nur nach erneuter dokumentierter Begründung und Freigabe.**
+
+Er las den Satz lautlos.
+
+Die akute Grundlage war nicht weggefallen. Aber die konkrete breitere Prüfung war genau die Art von Ausweitung, die er nicht aus Gewohnheit wollte.
+
+Er öffnete einen neuen Entscheidungsvermerk.
+
+**Grund:** bestätigte neue Lieferfreigabe; verbleibende ungeklärte Zugangs-/Informationslücke; enger Aufbauzeitraum; realer Gefahrenstrang im selben Komplex zuvor erst durch breitere Zusammenhangsprüfung erkannt.
+
+Dann schrieb er darunter:
+
+**Gegenrisiko:** Fehlzuordnung Weber; Korrelation beweist keine individuelle Beteiligung; zusätzliche Personen werden in Prüfung einbezogen.
+
+Lena las mit.
+
+„Und Jana?“ fragte sie.
+
+Daniel sah sie an.
+
+„Steht da nicht.“
+
+„Gut.“
+
+„Sie ist kein Beweis.“
+
+„Ich weiß.“
+
+Der Satz reizte ihn weniger als gestern.
+
+Vielleicht weil er ihn inzwischen selbst brauchte.
+
+Berg setzte sich.
+
+„Entscheidung?“
+
+Daniel sah noch einmal auf die 27.
 
 „Wir prüfen den definierten Kreis.“
 
-Lena sah zu ihm.
+Lena hob den Blick.
 
 „Komplett?“
 
@@ -3622,9 +4416,15 @@ Sie schüttelte den Kopf, nur einmal.
 
 „Das hast du bei Weber auch geglaubt.“
 
-Daniel antwortete nicht.
+„Ja.“
 
-Er autorisierte die Auswertung.
+Daniel sagte es ohne Verteidigung.
+
+„Und ich autorisiere es trotzdem.“
+
+Im Raum wurde es kurz still.
+
+Dann setzte Jonas die Prüfung frei.
 
 Die ersten Ergebnisse waren langweilig.
 
@@ -3634,9 +4434,35 @@ Ein Techniker tauchte nachts in Zugriffslisten auf, weil sein Konto für einen a
 
 Zwei Telefonnummern gehörten inzwischen anderen Personen.
 
+Eine Mitarbeiterin hatte in drei relevanten Zeitfenstern dieselbe interne Stelle angerufen. Ihr Vater lag dort im Krankenhaus; die Durchwahl war falsch kategorisiert worden.
+
+Ein Zugang sah nach einer nächtlichen Anmeldung aus und war eine verzögerte Synchronisierung.
+
 Jonas fluchte leise über Dubletten.
 
-Dann sagte er: „Moment.“
+„Bisher nur Arbeit“, sagte Berg.
+
+„Gut“, sagte Lena.
+
+Daniel sah auf die Erklärungen, die neben jedem Treffer ergänzt wurden.
+
+Nicht das System entschied.
+
+Menschen lasen, telefonierten, verglichen, strichen wieder weg.
+
+Genau deshalb dauerte es.
+
+Nach vierzig Minuten waren sieben Treffer erklärt.
+
+Nach einer Stunde elf.
+
+Drei blieben offen, weil Rückmeldungen fehlten.
+
+Dann sagte Jonas: „Moment.“
+
+Nur ein Wort.
+
+Trotzdem veränderte sich der Raum.
 
 Daniel trat hinter ihn.
 
@@ -3646,7 +4472,7 @@ Dr. Lena Vogt.
 
 Nicht wegen ihrer normalen Fallarbeit.
 
-Wegen wiederholter Kontakte zu einem internen Kontrollbereich, die in den Projektunterlagen nicht erklärt waren.
+Wegen wiederholter Kontakte zu einem internen Datenschutz- und Kontrollbereich, die in den Projektunterlagen nicht erklärt waren.
 
 Die Zeiten lagen auffällig nah an Daniels Sonderentscheidungen.
 
@@ -3682,13 +4508,31 @@ Juristische Abstimmung.
 
 Dokumentation.
 
+Eine Beschwerde über seinen ersten Zugriff.
+
+Eine fachliche Prüfung, die vertraulich bleiben musste.
+
 Etwas völlig Normales, das nur wegen der Zeitfenster falsch aussah.
 
-Bei Weber hatte er diese Arbeit langsamer gemacht.
+Die Möglichkeiten kamen schnell.
 
-Er bemerkte es.
+Zu schnell.
 
-Lena bemerkte, dass er es bemerkte.
+Bei Weber hatte er sie ebenfalls gekannt.
+
+Diensthandy geteilt.
+
+Schichttausch.
+
+Falsche Zugangszuordnung.
+
+Er hatte sie aufgeschrieben und dann schwächer gewichtet.
+
+Jetzt wollte er jede davon sofort zuerst prüfen.
+
+Daniel bemerkte den Unterschied in sich, bevor jemand etwas sagte.
+
+Lena bemerkte, dass er ihn bemerkte.
 
 „Sag es“, sagte sie.
 
@@ -3696,13 +4540,37 @@ Lena bemerkte, dass er es bemerkte.
 
 „Dass du gerade Gründe suchst, warum es bei mir anders ist.“
 
-Daniel sah auf die Treffer.
+Daniel sah auf die drei Zeitfenster.
 
-„Ist es nicht.“
+„Ich suche Gegenlesarten.“
 
-Jonas bewegte sich auf seinem Stuhl.
+„Schneller als bei Weber.“
+
+„Weil ich mehr Kontext zu dir habe.“
+
+„Genau.“
+
+Der Satz war nicht spöttisch.
+
+Das machte ihn schlimmer.
+
+Daniel kannte ihre Arbeit. Ihre Haltung. Ihre Geschichte im Fall. Er wusste, wie oft sie ihn gebremst hatte, wenn eine einfache Erklärung zu glatt wurde.
+
+Alles davon war Kontext.
+
+Alles davon war auch persönliche Nähe.
 
 Berg sagte: „Bis wir das geklärt haben, nimmst du keinen Zugriff auf den Quellenstand und die sensibelsten Projektteile.“
+
+Jonas drehte sich halb zu ihm.
+
+„Komplett?“
+
+„Die sensiblen Teile.“
+
+„Sie hat laufende Prüfungen.“
+
+„Dann Übergabe.“
 
 Lena sah zu Daniel.
 
@@ -3710,9 +4578,65 @@ Nicht zu Berg.
 
 Daniel hätte widersprechen können.
 
-Er kannte ihre Arbeit. Ihre Haltung. Ihre Geschichte im Fall.
+Die Auffälligkeit war kein Beweis.
 
-Genau das konnte er bei Nils Weber nicht sagen.
+Bei Weber war die Auffälligkeit auch kein Beweis gewesen.
+
+„Welche Teile genau?“ fragte Daniel.
+
+Berg nannte Quellenstand, Herkunftsprüfung und die nicht breit verteilten sensiblen Projektinformationen.
+
+„Operative allgemeine Lage?“
+
+„Nur soweit für die Übergabe nötig, bis die Prüfung steht.“
+
+Lena sagte: „Wenn ihr die Regel braucht, dann macht sie nicht kleiner, weil ihr meinen Namen kennt.“
+
+Daniel sah sie an.
+
+„Du könntest erklären, was die Kontakte sind.“
+
+„Formal.“
+
+„Das dauert.“
+
+„Dann dauert es.“
+
+„Du weißt, was morgen läuft.“
+
+„Ja.“
+
+„Und du gibst mir trotzdem nichts?“
+
+Lena lehnte sich zurück.
+
+„Ich gebe dir genau das, was ich dir zu einem vertraulichen Kontrollkontakt außerhalb des vorgesehenen Weges geben darf: dass er existiert und formal erklärt werden kann.“
+
+„Das ist ziemlich wenig.“
+
+„Für deinen persönlichen Komfort, ja.“
+
+Daniel spürte Ärger.
+
+Jonas sah weg.
+
+Berg sagte: „Daniel.“
+
+Die Entscheidung lag faktisch schon auf dem Tisch.
+
+Daniel öffnete den Vermerk, in dem er die Kriterien für den 27-Personen-Kreis festgehalten hatte.
+
+Kein persönlicher Ausnahmesatz.
+
+Keine Klausel für Menschen, denen er vertraute.
+
+Er setzte den Cursor unter die Trefferbewertung.
+
+**Vorläufige Einschränkung sensibler Zugriffe bis formale Klärung des nicht erklärten Kontaktmusters.**
+
+Seine Finger blieben einen Moment auf der Tastatur.
+
+Dann speicherte er.
 
 „Vorläufig“, sagte Daniel.
 
@@ -3720,23 +4644,107 @@ Lena nickte langsam.
 
 „Natürlich.“
 
-Sie schloss ihren Laptop.
+Jonas begann, ihre offenen Aufgaben aufzurufen.
 
-Jonas sah weg.
+„Die Lieferrollenprüfung ist bei dir“, sagte er.
+
+„Geht an dich“, sagte Lena.
+
+„Die Rückfrage aus der Kontrollstelle?“
+
+„Nicht öffnen, solange mein Zugriff gesperrt ist. Lass sie formal umhängen.“
+
+„Dauert.“
+
+„Ja.“
+
+Daniel hörte, wie die Entscheidung sofort Arbeit erzeugte.
+
+Lena schloss ihren Laptop nicht einfach. Sie ging die offenen Punkte einzeln durch.
+
+Eine Rückfrage an Jonas.
+
+Ein Dokument an Berg.
+
+Ein Zeitstand, den sie nicht mehr selbst weiterführen durfte.
+
+Keine große Szene.
+
+Nur ein professioneller Ausschluss, der sich in kleinen Handgriffen real machte.
+
+Dann erschien auf ihrem Bildschirm die Zugriffsmeldung.
+
+**Berechtigung für sensiblen Projektbereich vorläufig ausgesetzt.**
+
+Lena las sie.
+
+Ihr Gesicht blieb ruhig.
+
+„Jetzt offiziell genug?“ fragte Daniel.
+
+Sie sah ihn an.
+
+„Für den Ausschluss? Ja.“
+
+„Ich meinte—“
+
+„Ich weiß, was du meintest.“
+
+Daniel schwieg.
 
 Lena stand auf.
 
 An der Tür blieb sie kurz stehen.
 
+„Du hast die Regel nicht falsch angewandt.“
+
+Daniel sah sie an.
+
+Der Satz half weniger, als er erwartet hätte.
+
+„Aber?“
+
+„Kein Aber.“
+
+Sie öffnete die Tür.
+
 „Wenn du die Regel brauchst, dann wend sie wenigstens wirklich an.“
 
 Dann ging sie.
 
-Daniel sah auf ihren Namen auf dem Bildschirm.
+Jonas saß noch immer vor dem Bildschirm.
 
-Er fühlte sich plötzlich anders an als die anderen sechsundzwanzig.
+„Was machen wir mit ihrem Treffer?“
 
-Die Regel nicht.
+Daniel sah auf Lenas Namen.
+
+„Formal prüfen.“
+
+„Und die anderen?“
+
+„Weiter wie beschlossen.“
+
+Berg nickte und ging zurück an seinen Platz.
+
+Der Raum nahm die Arbeit wieder auf.
+
+Daniel blieb einen Moment stehen.
+
+Vor einer Stunde waren dort siebenundzwanzig Namen gewesen.
+
+Jetzt waren es sechsundzwanzig Namen und Lena.
+
+Das war sachlich falsch. Natürlich war sie weiterhin eine von siebenundzwanzig.
+
+Genau deshalb bemerkte Daniel den Gedanken.
+
+Er löschte ihren Treffer nicht.
+
+Er änderte die Regel nicht.
+
+Er konnte nur nicht mehr so tun, als fühlte sie sich bei jedem Menschen gleich an.
+
+Die Regel schon.
 
 ---
 
