@@ -1,0 +1,95 @@
+name: Final target-depth reserve one-time pass
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/final-depth-reserve-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.head_commit.message == 'Apply final target-depth reserve'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Apply selective final depth reserve
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          p_a = Path('.github/final-depth-a.txt').read_text(encoding='utf-8')
+          p_b = Path('.github/final-depth-b.txt').read_text(encoding='utf-8')
+          p_c = Path('.github/final-depth-c.txt').read_text(encoding='utf-8')
+
+          def part(patch, label):
+              m = re.search(rf'^==={re.escape(label)}===\n(.*?)(?=^===|\Z)', patch, re.S | re.M)
+              if not m:
+                  raise SystemExit(f'missing patch section: {label}')
+              return m.group(1).strip()
+
+          def insert_after(src, anchor, addition, label):
+              count = src.count(anchor)
+              if count != 1:
+                  raise SystemExit(f'{label}: anchor count {count}: {anchor!r}')
+              return src.replace(anchor, anchor + '\n' + addition + '\n', 1)
+
+          f1 = Path('MANUSKRIPT/01_BAUSTEINE_01_02.md')
+          f2 = Path('MANUSKRIPT/02_BAUSTEINE_03_04.md')
+          f3 = Path('MANUSKRIPT/03_BAUSTEINE_05_06.md')
+          f5 = Path('MANUSKRIPT/05_BAUSTEINE_08_09.md')
+
+          t1 = f1.read_text(encoding='utf-8')
+          t2 = f2.read_text(encoding='utf-8')
+          t3 = f3.read_text(encoding='utf-8')
+          t5 = f5.read_text(encoding='utf-8')
+
+          t1 = insert_after(t1, "Als er später noch einmal in seine offene Liste sah, war Ahrens' Name verschwunden.\n", part(p_a, 'b02_ch2'), 'b02_ch2')
+          t1 = insert_after(t1, 'Jana hatte nicht verlangt, dass er schneller trauerte.\n\nNur dass seine Langsamkeit nicht automatisch ihr Tempo bestimmte.\n', part(p_a, 'b02_ch4'), 'b02_ch4')
+
+          t2 = insert_after(t2, 'Diesmal fühlte sie sich langsamer an.\n', part(p_a, 'b03_ch10'), 'b03_ch10')
+          t2 = insert_after(t2, '„Dokumentation ist eine.“\n\nDann ging sie.\n', part(p_a, 'b04_ch17'), 'b04_ch17')
+          t2 = insert_after(t2, 'Vorhersagbar war etwas anderes als kontrolliert.\n', part(p_a, 'b04_ch18'), 'b04_ch18')
+
+          t3 = insert_after(t3, 'Und Daniel, der merkte, dass sich dieser neue Pfad sofort vernünftiger anfühlte als alles, was sie in den letzten Tagen improvisiert hatten.\n', part(p_b, 'b05_ch21'), 'b05_ch21')
+          t3 = insert_after(t3, 'Nur eine Korrektur, die langsamer wirkte als der Verdacht.\n', part(p_b, 'b05_ch24'), 'b05_ch24')
+          t3 = insert_after(t3, 'Diesmal war er selbst das auffällige Muster.\n', part(p_b, 'b05_ch25'), 'b05_ch25')
+          t3 = insert_after(t3, 'Das machte seinen Reflex nicht sauberer.\n', part(p_b, 'b06_ch30'), 'b06_ch30')
+          t3 = insert_after(t3, 'Der Erfolg durfte wahr bleiben.\n\nDie Kosten auch.\n', part(p_b, 'b06_ch31'), 'b06_ch31')
+          t3 = insert_after(t3, 'Diesmal versuchte Daniel nicht, sie durch einen Termin zu ersetzen.\n', part(p_b, 'b06_ch32'), 'b06_ch32')
+
+          t5 = insert_after(t5, '„Ich halte es für unseres.“\n', part(p_c, 'b08_ch38'), 'b08_ch38')
+          t5 = insert_after(t5, 'Der erste war nicht falsch gewesen.\n\nEr war nur langsamer.\n', part(p_c, 'b08_ch39'), 'b08_ch39')
+          t5 = insert_after(t5, '„Das wird schwieriger.“\n\n„Dann übst du.“\n\n„Sehr konstruktiv.“\n\n„Gern.“\n', part(p_c, 'b08_ch42'), 'b08_ch42')
+          t5 = insert_after(t5, 'Die drei Prozesse konnten zu unterschiedlichen Ergebnissen kommen.\n\nDas war keine Unordnung.\n\nEs war wahrscheinlich die sauberste Form, die nach diesem Fall noch möglich war.\n', part(p_c, 'b08_ch43'), 'b08_ch43')
+
+          combined = '\n'.join([t1, t2, t3, Path('MANUSKRIPT/04_BAUSTEIN_07.md').read_text(encoding='utf-8'), t5])
+          headings = re.findall(r'^##\s+(Prolog|\d+)\s*$', combined, re.M)
+          expected = ['Prolog'] + [str(i) for i in range(1, 48)]
+          if headings != expected:
+              raise SystemExit(f'chapter structure changed: {headings}')
+          if '===b0' in combined:
+              raise SystemExit('patch marker leaked into manuscript')
+
+          f1.write_text(t1, encoding='utf-8')
+          f2.write_text(t2, encoding='utf-8')
+          f3.write_text(t3, encoding='utf-8')
+          f5.write_text(t5, encoding='utf-8')
+          PY
+
+      - name: Self-remove temporary files and commit
+        shell: bash
+        run: |
+          git rm .github/workflows/final-depth-reserve-once.yml .github/final-depth-a.txt .github/final-depth-b.txt .github/final-depth-c.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MANUSKRIPT/01_BAUSTEINE_01_02.md MANUSKRIPT/02_BAUSTEINE_03_04.md MANUSKRIPT/03_BAUSTEINE_05_06.md MANUSKRIPT/05_BAUSTEINE_08_09.md
+          git commit -m 'Close selective depth reserve to publication corridor'
+          git push
