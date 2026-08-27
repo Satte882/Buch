@@ -1,0 +1,63 @@
+name: B06 closing one-time patch
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/b06-close-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.head_commit.message == 'Apply B06 closing beats'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply B06 closing additions
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          manuscript = Path('MANUSKRIPT/03_BAUSTEINE_05_06.md')
+          patchpath = Path('.github/b06-close-patch.txt')
+          text = manuscript.read_text(encoding='utf-8')
+          p = patchpath.read_text(encoding='utf-8')
+
+          a31 = p.split('===ADD31===\n', 1)[1].split('===ADD32===\n', 1)[0].strip()
+          a32 = p.split('===ADD32===\n', 1)[1].strip()
+
+          def apply_once(src, anchor, addition, label):
+              count = src.count(anchor)
+              if count != 1:
+                  raise SystemExit(f'{label}: expected anchor once, got {count}')
+              return src.replace(anchor, anchor + '\n' + addition + '\n', 1)
+
+          text = apply_once(
+              text,
+              'Genau deshalb wusste Daniel, welche Diskussion als Nächstes schwerer geworden war.\n\nNicht leichter.\n',
+              a31,
+              'chapter 31'
+          )
+          text = apply_once(
+              text,
+              'Diesmal versuchte Daniel nicht, sie durch einen Termin zu ersetzen.\n',
+              a32,
+              'chapter 32'
+          )
+
+          manuscript.write_text(text, encoding='utf-8')
+          PY
+      - name: Self-remove temporary files and commit
+        shell: bash
+        run: |
+          git rm .github/workflows/b06-close-once.yml .github/b06-close-patch.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MANUSKRIPT/03_BAUSTEINE_05_06.md
+          git commit -m 'Close remaining B06 chapter gaps'
+          git push
