@@ -810,6 +810,38 @@ Daniel ging zum nächsten Termin.
 
 Als er später noch einmal in seine offene Liste sah, war Ahrens' Name verschwunden.
 
+Nur in der Versionshistorie blieb der Vorgang sichtbar.
+
+Daniel öffnete sie noch einmal. Eingang des Hinweises. Seine erste Bewertung. Die Prüfaufträge. Dann der Abschluss.
+
+Kein Warnmarker. Keine Wiedervorlage. Kein technischer Rest, der Ahrens bei der nächsten Routineabfrage wieder nach oben ziehen würde.
+
+Jonas stand hinter ihm.
+
+„Also wirklich weg.“
+
+„Aus der aktiven Prüfung.“
+
+„Und wenn jemand nur den ersten Vermerk liest?“
+
+Daniel zeigte auf die verknüpften Erklärungen.
+
+„Dann soll er weiterlesen.“
+
+„Tun Leute nicht immer.“
+
+„Deshalb steht die Korrektur direkt daneben.“
+
+Jonas nickte.
+
+Daniel schloss die Historie. Das System hatte nichts vergessen. Das musste es auch nicht.
+
+Der Unterschied lag darin, ob eine alte Vermutung als Geschichte gespeichert blieb oder als erledigte Prüfung mit ihrer Widerlegung.
+
+Ahrens war nicht dadurch geschützt, dass niemand je über ihn nachgedacht hatte.
+
+Sondern dadurch, dass aus diesem Nachdenken kein dauerhafter Anlass geworden war.
+
 ---
 
 ## 3
@@ -1631,6 +1663,54 @@ Den Sessel ließ er auf der Liste.
 Jana hatte nicht verlangt, dass er schneller trauerte.
 
 Nur dass seine Langsamkeit nicht automatisch ihr Tempo bestimmte.
+
+Auf der Treppe trug Daniel die Keramikschale unter dem Arm. Jana hatte den Ordner an die Brust gedrückt.
+
+Eine Etage tiefer blieb sie stehen.
+
+„Freitag schicke ich dir den Vergleich und den Vorschlag vom Makler.“
+
+„Gut.“
+
+„Und wenn du bis zur vereinbarten Uhrzeit nichts sagst, entscheide ich.“
+
+Daniel setzte schon zu einer Antwort an.
+
+Jana hob die Hand.
+
+„Nicht weil du mir egal bist. Weil die Wohnung nicht noch einen Monat auf eine Entscheidung von dir warten kann.“
+
+Daniel sah auf die Schale.
+
+„Ich habe verstanden.“
+
+„Sag nicht verstanden, wenn du eigentlich meinst: Wir reden Freitag noch mal darüber.“
+
+Er musste kurz lächeln.
+
+„Dann genauer: Wenn ich nicht reagiere, wartest du nicht.“
+
+„Genau.“
+
+„Und wenn ich reagiere, diskutieren wir.“
+
+„Sehr wahrscheinlich.“
+
+Sie gingen weiter.
+
+Unten im Flur sah Daniel wieder die Briefkästen. Jana ging bereits zur Tür.
+
+Er hätte sie jetzt noch einmal fragen können, ob der Makler vielleicht am Schild gewesen war. Ob der Hausmeister Zugriff auf die Kästen hatte. Ob jemand in den vergangenen Tagen länger im Flur gestanden hatte.
+
+Keine dieser Fragen war völlig absurd.
+
+Keine war im Moment stark genug, um Jana wieder anzuhalten.
+
+Daniel merkte, dass beide Entscheidungen denselben unangenehmen Kern hatten: Beim Briefkasten ließ er etwas ungeklärt. Bei der Wohnung ließ Jana nicht zu, dass Ungeklärtheit automatisch Aufschub bedeutete.
+
+Er mochte den Vergleich nicht.
+
+Deshalb behielt er ihn für sich.
 
 Später, als sie die Wohnung verließen, blieb Daniel noch einmal am Briefkasten stehen.
 

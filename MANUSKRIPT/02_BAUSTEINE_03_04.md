@@ -1626,6 +1626,98 @@ Er hatte nur dieselbe Grenze benannt, die Daniel wenige Tage zuvor noch als sein
 
 Diesmal fühlte sie sich langsamer an.
 
+Daniel öffnete nach Hellers Weggang einen neuen Vermerk.
+
+Lena sah es.
+
+„Was schreibst du?“
+
+„Was er tatsächlich angeboten hat.“
+
+„Warum?“
+
+Daniel setzte drei Punkte untereinander.
+
+**Parallele reguläre Prüfungen. Direkter Koordinationsweg. Neubewertung bei zweitem Anker.**
+
+Darunter schrieb er:
+
+**Keine zusätzliche Befugnis. Keine Freigabe für Räume. Keine Behauptung, die Quelle sei vertrauenswürdig.**
+
+Lena las über seine Schulter.
+
+„Du sicherst Heller gegen deine eigene Erinnerung ab.“
+
+„Ich sichere den Stand.“
+
+„Natürlich.“
+
+Daniel ließ den Einwand stehen.
+
+Er wusste, wie schnell ein späterer Schaden ein früheres Gespräch veränderte. Aus einem Mann, der eine Grenze benannt hatte, konnte im Rückblick jemand werden, der sie ihnen aufgezwungen hatte. Aus einer Empfehlung zur Parallelisierung konnte ein Nein zu schnellerem Handeln werden.
+
+Beides stimmte nicht.
+
+Jonas kam zurück in den Raum.
+
+„Was ist jetzt die Arbeitsregel?“
+
+Daniel drehte den Bildschirm zu ihm.
+
+„Alles, was der reale Dienstleisterbezug selbst trägt, parallel. Keine Maßnahme aus dem Koffer allein. Wenn ein zweiter unabhängiger Punkt kommt, neu entscheiden.“
+
+„Und Heller?“
+
+„Koordiniert, wenn wir ihn brauchen.“
+
+„Du vertraust ihm?“
+
+Daniel schüttelte den Kopf.
+
+„Ich habe keinen Grund, ihm zu misstrauen.“
+
+Lena sah ihn an.
+
+„Auch nicht dasselbe.“
+
+„Nein.“
+
+Daniel speicherte den Vermerk.
+
+Heller war damit nicht aus der Geschichte. Aber er war auch nicht größer geworden, nur weil Daniel sich über die verlorene Zeit ärgerte.
+
+Das war im Moment wichtig.
+
+Nicht für Heller.
+
+Für Daniel.
+
+Daniel zog noch eine Linie unter den Vermerk.
+
+„Was hätte Heller anders sagen müssen, damit ich ihn als Blockade behandle?“
+
+Jonas überlegte.
+
+„Dass wir gar nichts parallel prüfen sollen.“
+
+„Hat er nicht.“
+
+„Oder dass die Quelle wertlos ist.“
+
+„Hat er auch nicht.“
+
+Lena sagte: „Oder dass die fehlende Grundlage kein Problem wäre, solange das Risiko groß genug klingt.“
+
+Daniel nickte.
+
+Genau das hatte Heller ebenfalls nicht gesagt.
+
+Er hatte zwei Risiken nebeneinandergestellt und Daniel die Entscheidung gelassen.
+
+Daniel speicherte den Stand mit Zeitstempel.
+
+Wenn sich seine Bewertung später änderte, sollte wenigstens klar bleiben, woraus sie damals entstanden war.
+
 ---
 
 ## 11
@@ -4990,6 +5082,70 @@ Lena ging an ihm vorbei zur Tür.
 
 Dann ging sie.
 
+Lena war kaum aus dem Raum, als Daniels Diensttelefon vibrierte.
+
+Jonas.
+
+„Kannst du den Fahrzeugstand noch freigeben?“
+
+Daniel sah auf den Bildschirm.
+
+Sein Zugang funktionierte weiterhin.
+
+Keine Sperre. Kein Hinweis. Keine Rolle, die auf **vorläufig entzogen** gesprungen war.
+
+Nur der normale Vorgang, derselbe Button wie vor einer Stunde.
+
+„Ja“, sagte Daniel.
+
+„Bist du noch im Fall?“
+
+Daniel blickte auf die Tür, durch die Lena gegangen war.
+
+„Anscheinend.“
+
+Das Wort gefiel ihm nicht.
+
+Er öffnete den Fahrzeugstand, prüfte Herkunft und Zeitstempel und gab nur den aktuellen, unabhängig bestätigten Teil frei.
+
+Routine.
+
+Genau das war das Seltsame.
+
+Nach dem Gespräch mit Berg hatte Daniel mit irgendeiner sichtbaren Unterbrechung gerechnet. Einen anderen Raum. Eine formale Übergabe. Wenigstens einen Moment, in dem sein Regelbruch die Arbeit stoppte.
+
+Stattdessen fragte Jonas ihn nach einem Fahrzeug.
+
+Daniel erledigte die Aufgabe.
+
+Dann sah er auf die Zugriffsliste. Sein Name stand noch überall dort, wo er vorher gestanden hatte.
+
+Die Konsequenz existierte als Vermerk.
+
+Operativ war sie für diesen Abend fast unsichtbar.
+
+Daniel schrieb sich die Uhrzeit auf, zu der Berg entschieden hatte, ihn in der Lage zu lassen.
+
+Nicht weil er Berg misstraute.
+
+Weil er später nicht erzählen wollte, die Nicht-Sanktion sei irgendwie einfach passiert.
+
+Auch sie war eine Entscheidung gewesen.
+
+Dann öffnete Daniel seinen eigenen Vermerk noch einmal.
+
+Oben stand der Regelbruch.
+
+Darunter Bergs Entscheidung zur Fortführung.
+
+Zwei verschiedene Absätze. Zwei verschiedene Verantwortungen.
+
+Daniel setzte keinen Satz dazwischen, der aus dem zweiten eine nachträgliche Billigung des ersten machte.
+
+Er ließ die Lücke sichtbar.
+
+Genau dort lag das Unbehagen.
+
 Daniel blieb kurz allein im Raum.
 
 Auf dem Tisch war nichts mehr von seinem Zugriff übrig außer einem Abdruck des Papiers im Staub und einem leeren Wasserglas.
@@ -5301,6 +5457,42 @@ Vielleicht hatte sie nur darauf gesetzt, dass er es wahrscheinlich tat.
 Das war unangenehmer.
 
 Vorhersagbar war etwas anderes als kontrolliert.
+
+Daniel legte das Telefon noch einmal hin, bevor er Jonas anrief.
+
+Er öffnete zwei getrennte Arbeitsstände.
+
+Im ersten blieb nur, was operativ gebraucht wurde: keine neue Lageinformation, kein neuer Ort, keine neue Person.
+
+Im zweiten stand, was die Quelle über Daniels Vorgehen wusste.
+
+**Drei Treffer. Begrenzung auf Kennzeichen. Zeitpunkt nach interner Offenlegung.**
+
+Er setzte verschiedene Zugriffsrechte.
+
+Nicht perfekt. Nicht endgültig. Nur so, dass niemand aus Bequemlichkeit beide Ebenen in derselben Ansicht weiterführte.
+
+Dann prüfte er selbst, was er dadurch verlor.
+
+Im operativen Stand fehlte jetzt der Satz, der die Quelle psychologisch interessant machte. Im Herkunftsstand fehlte der laufende Fallkontext, der jeden internen Zugriff sofort verdächtig aussehen ließ.
+
+Beide Ansichten waren schlechter für eine schnelle Geschichte.
+
+Das war Absicht.
+
+Daniel notierte daneben:
+
+**Trennung erzeugt Rückfragen. Rückfragen sind Kosten, kein Fehler.**
+
+Er las den Satz und änderte **kein Fehler** in **bewusster Preis**.
+
+Er wusste nicht, ob diese Trennung den Abfluss wirklich erschwerte.
+
+Aber sie zwang ihn wenigstens dazu, bei jeder Weitergabe zu entscheiden, welche Information er gerade aus welchem Grund bewegte.
+
+Er nahm das Telefon wieder.
+
+Erst jetzt rief er Jonas an.
 
 Daniel nahm sein Diensttelefon und rief Jonas an.
 
