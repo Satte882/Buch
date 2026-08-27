@@ -1,0 +1,44 @@
+name: Final manuscript meta-artifact audit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/final-meta-artifact-audit-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    if: github.event.head_commit.message == 'Audit manuscript for drafting meta artifacts'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Scan prose for drafting/meta vocabulary
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          terms = re.compile(r'\b(Kapitel|Szene|Plot|Leser|Autor|Roman|Baustein|Cliffhanger|Dramaturg\w*)\b', re.I)
+          for path in sorted(Path('MANUSKRIPT').glob('*.md')):
+              print(f'=== {path} ===')
+              for n, line in enumerate(path.read_text(encoding='utf-8').splitlines(), 1):
+                  s = line.strip()
+                  if not s or s.startswith('# Manuskript –') or s.startswith('## '):
+                      continue
+                  if terms.search(line):
+                      print(f'{n}: {line}')
+          PY
+      - name: Self-remove audit workflow
+        shell: bash
+        run: |
+          git rm .github/workflows/final-meta-artifact-audit-once.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Remove final meta-artifact audit workflow'
+          git push
