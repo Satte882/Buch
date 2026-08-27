@@ -29,7 +29,8 @@ jobs:
           from pathlib import Path
           import re
           text = Path('AUSNAHMEZUSTAND_FINAL.md').read_text(encoding='utf-8')
-          assert text.startswith('# Ausnahmezustand\n')
+          assert text.startswith('# NORMALFALL\n')
+          assert 'Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.' in text
           assert re.findall(r'^## (Prolog|\d+)$', text, re.M) == ['Prolog'] + [str(i) for i in range(1, 48)]
           assert text.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
 
