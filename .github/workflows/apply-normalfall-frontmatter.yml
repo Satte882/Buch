@@ -15,96 +15,85 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Apply title and frontmatter
-        shell: python
-        run: |
-          from pathlib import Path
-
-          final_path = Path('AUSNAHMEZUSTAND_FINAL.md')
-          text = final_path.read_text(encoding='utf-8')
-          old = '# Ausnahmezustand\n\n---\n\n## Prolog\n'
-          new = '\n'.join([
-              '# NORMALFALL',
-              '',
-              '*Psychothriller*',
-              '',
-              '---',
-              '',
-              '**Normalfall, der:** Ein Routinefall, der den geltenden Regeln entspricht.',
-              '',
-              '*Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.*',
-              '',
-              '---',
-              '',
-              '## Prolog',
-              '',
-          ])
-          assert text.startswith(old), 'Unexpected consolidated manuscript header'
-          final_path.write_text(new + text[len(old):], encoding='utf-8')
-
-          builder_path = Path('scripts/build_testreader_docx.py')
-          builder = builder_path.read_text(encoding='utf-8')
-          replacements = {
-              'doc.core_properties.title = "Ausnahmezustand"': 'doc.core_properties.title = "Normalfall"',
-              'run = title.add_run("AUSNAHMEZUSTAND")': 'run = title.add_run("NORMALFALL")',
-              'run = subtitle.add_run("Roman")': 'run = subtitle.add_run("Psychothriller")',
-          }
-          for old_value, new_value in replacements.items():
-              assert old_value in builder, f'Missing builder anchor: {old_value}'
-              builder = builder.replace(old_value, new_value, 1)
-
-          anchor = '    run = subtitle.add_run("Psychothriller")\n    run.italic = True\n    set_run_font(run, size=12)\n\n    manuscript_section = doc.add_section(WD_SECTION.NEW_PAGE)\n'
-          insert_lines = [
-              '    run = subtitle.add_run("Psychothriller")',
-              '    run.italic = True',
-              '    set_run_font(run, size=12)',
-              '',
-              '    doc.add_page_break()',
-              '    for _ in range(5):',
-              '        doc.add_paragraph()',
-              '',
-              '    definition = doc.add_paragraph()',
-              '    definition.alignment = WD_ALIGN_PARAGRAPH.CENTER',
-              '    definition.paragraph_format.first_line_indent = Cm(0)',
-              '    definition.paragraph_format.space_after = Pt(30)',
-              '    run = definition.add_run("Normalfall, der: Ein Routinefall, der den geltenden Regeln entspricht.")',
-              '    set_run_font(run, size=12)',
-              '',
-              '    epigraph = doc.add_paragraph()',
-              '    epigraph.alignment = WD_ALIGN_PARAGRAPH.CENTER',
-              '    epigraph.paragraph_format.first_line_indent = Cm(0)',
-              '    epigraph.paragraph_format.left_indent = Cm(2.0)',
-              '    epigraph.paragraph_format.right_indent = Cm(2.0)',
-              '    run = epigraph.add_run("Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.")',
-              '    run.italic = True',
-              '    set_run_font(run, size=12)',
-              '',
-              '    manuscript_section = doc.add_section(WD_SECTION.NEW_PAGE)',
-              '',
-          ]
-          insert = '\n'.join(insert_lines)
-          assert anchor in builder, 'Missing frontmatter insertion anchor'
-          builder = builder.replace(anchor, insert, 1)
-          builder_path.write_text(builder, encoding='utf-8')
-
-      - name: Validate protected manuscript body
+      - name: Update existing frontmatter and builder
         shell: python
         run: |
           from pathlib import Path
           import re
-          text = Path('AUSNAHMEZUSTAND_FINAL.md').read_text(encoding='utf-8')
-          front = text.split('## Prolog', 1)[0]
-          assert text.startswith('# NORMALFALL\n')
-          assert '*Psychothriller*' in front
+
+          final_path = Path('AUSNAHMEZUSTAND_FINAL.md')
+          text = final_path.read_text(encoding='utf-8')
+          old_front = '''# NORMALFALL
+
+*Psychothriller*
+
+---
+
+**Normalfall**
+
+Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.
+
+*Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.*
+
+---
+
+## Prolog
+'''
+          new_front = '''# NORMALFALL
+
+*Psychothriller*
+
+---
+
+**Normalfall, der:** Ein Routinefall, der den geltenden Regeln entspricht.
+
+*Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.*
+
+---
+
+## Prolog
+'''
+          assert text.startswith(old_front), 'Unexpected current frontmatter'
+          final_path.write_text(new_front + text[len(old_front):], encoding='utf-8')
+
+          builder_path = Path('scripts/build_testreader_docx.py')
+          builder = builder_path.read_text(encoding='utf-8')
+          old_builder = '''    definition_title = doc.add_paragraph()
+    definition_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    definition_title.paragraph_format.first_line_indent = Cm(0)
+    definition_title.paragraph_format.space_after = Pt(6)
+    run = definition_title.add_run("Normalfall")
+    run.bold = True
+    set_run_font(run, size=13)
+
+    definition = doc.add_paragraph()
+    definition.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    definition.paragraph_format.first_line_indent = Cm(0)
+    definition.paragraph_format.space_after = Pt(30)
+    run = definition.add_run("Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.")
+    set_run_font(run, size=12)
+'''
+          new_builder = '''    definition = doc.add_paragraph()
+    definition.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    definition.paragraph_format.first_line_indent = Cm(0)
+    definition.paragraph_format.space_after = Pt(30)
+    run = definition.add_run("Normalfall, der: Ein Routinefall, der den geltenden Regeln entspricht.")
+    set_run_font(run, size=12)
+'''
+          assert old_builder in builder, 'Unexpected current builder frontmatter'
+          builder_path.write_text(builder.replace(old_builder, new_builder, 1), encoding='utf-8')
+
+          check = final_path.read_text(encoding='utf-8')
+          front = check.split('## Prolog', 1)[0]
           assert 'Normalfall, der: Ein Routinefall, der den geltenden Regeln entspricht.' in front
           assert 'Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.' in front
-          assert re.findall(r'^## (Prolog|\d+)$', text, re.M) == ['Prolog'] + [str(i) for i in range(1, 48)]
-          assert text.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
+          assert re.findall(r'^## (Prolog|\d+)$', check, re.M) == ['Prolog'] + [str(i) for i in range(1, 48)]
+          assert check.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add AUSNAHMEZUSTAND_FINAL.md scripts/build_testreader_docx.py
-          git commit -m "Add Normalfall title and frontmatter"
+          git commit -m "Refine Normalfall frontmatter"
           git push
