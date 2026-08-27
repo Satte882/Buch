@@ -23,22 +23,24 @@ jobs:
           final_path = Path('AUSNAHMEZUSTAND_FINAL.md')
           text = final_path.read_text(encoding='utf-8')
           old = '# Ausnahmezustand\n\n---\n\n## Prolog\n'
-          new = '''# NORMALFALL
-
-*Psychothriller*
-
----
-
-**Normalfall**
-
-Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.
-
-*Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.*
-
----
-
-## Prolog
-'''
+          new = '\n'.join([
+              '# NORMALFALL',
+              '',
+              '*Psychothriller*',
+              '',
+              '---',
+              '',
+              '**Normalfall**',
+              '',
+              'Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.',
+              '',
+              '*Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.*',
+              '',
+              '---',
+              '',
+              '## Prolog',
+              '',
+          ])
           assert text.startswith(old), 'Unexpected consolidated manuscript header'
           final_path.write_text(new + text[len(old):], encoding='utf-8')
 
@@ -53,58 +55,54 @@ Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.
               assert old_value in builder, f'Missing builder anchor: {old_value}'
               builder = builder.replace(old_value, new_value, 1)
 
-          anchor = '''    run = subtitle.add_run("Psychothriller")
-    run.italic = True
-    set_run_font(run, size=12)
-
-    manuscript_section = doc.add_section(WD_SECTION.NEW_PAGE)
-'''
-          insert = '''    run = subtitle.add_run("Psychothriller")
-    run.italic = True
-    set_run_font(run, size=12)
-
-    doc.add_page_break()
-    for _ in range(5):
-        doc.add_paragraph()
-
-    definition_title = doc.add_paragraph()
-    definition_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    definition_title.paragraph_format.first_line_indent = Cm(0)
-    definition_title.paragraph_format.space_after = Pt(6)
-    run = definition_title.add_run("Normalfall")
-    run.bold = True
-    set_run_font(run, size=13)
-
-    definition = doc.add_paragraph()
-    definition.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    definition.paragraph_format.first_line_indent = Cm(0)
-    definition.paragraph_format.space_after = Pt(30)
-    run = definition.add_run("Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.")
-    set_run_font(run, size=12)
-
-    epigraph = doc.add_paragraph()
-    epigraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    epigraph.paragraph_format.first_line_indent = Cm(0)
-    epigraph.paragraph_format.left_indent = Cm(2.0)
-    epigraph.paragraph_format.right_indent = Cm(2.0)
-    run = epigraph.add_run("Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.")
-    run.italic = True
-    set_run_font(run, size=12)
-
-    manuscript_section = doc.add_section(WD_SECTION.NEW_PAGE)
-'''
+          anchor = '    run = subtitle.add_run("Psychothriller")\n    run.italic = True\n    set_run_font(run, size=12)\n\n    manuscript_section = doc.add_section(WD_SECTION.NEW_PAGE)\n'
+          insert_lines = [
+              '    run = subtitle.add_run("Psychothriller")',
+              '    run.italic = True',
+              '    set_run_font(run, size=12)',
+              '',
+              '    doc.add_page_break()',
+              '    for _ in range(5):',
+              '        doc.add_paragraph()',
+              '',
+              '    definition_title = doc.add_paragraph()',
+              '    definition_title.alignment = WD_ALIGN_PARAGRAPH.CENTER',
+              '    definition_title.paragraph_format.first_line_indent = Cm(0)',
+              '    definition_title.paragraph_format.space_after = Pt(6)',
+              '    run = definition_title.add_run("Normalfall")',
+              '    run.bold = True',
+              '    set_run_font(run, size=13)',
+              '',
+              '    definition = doc.add_paragraph()',
+              '    definition.alignment = WD_ALIGN_PARAGRAPH.CENTER',
+              '    definition.paragraph_format.first_line_indent = Cm(0)',
+              '    definition.paragraph_format.space_after = Pt(30)',
+              '    run = definition.add_run("Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.")',
+              '    set_run_font(run, size=12)',
+              '',
+              '    epigraph = doc.add_paragraph()',
+              '    epigraph.alignment = WD_ALIGN_PARAGRAPH.CENTER',
+              '    epigraph.paragraph_format.first_line_indent = Cm(0)',
+              '    epigraph.paragraph_format.left_indent = Cm(2.0)',
+              '    epigraph.paragraph_format.right_indent = Cm(2.0)',
+              '    run = epigraph.add_run("Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.")',
+              '    run.italic = True',
+              '    set_run_font(run, size=12)',
+              '',
+              '    manuscript_section = doc.add_section(WD_SECTION.NEW_PAGE)',
+              '',
+          ]
+          insert = '\n'.join(insert_lines)
           assert anchor in builder, 'Missing frontmatter insertion anchor'
           builder = builder.replace(anchor, insert, 1)
           builder_path.write_text(builder, encoding='utf-8')
 
           workflow_path = Path('.github/workflows/build-testreader-docx.yml')
           workflow = workflow_path.read_text(encoding='utf-8')
-          assert "assert text.startswith('# Ausnahmezustand\\n')" in workflow
-          workflow = workflow.replace(
-              "assert text.startswith('# Ausnahmezustand\\n')",
-              "assert text.startswith('# NORMALFALL\\n')",
-              1,
-          )
+          old_assert = "assert text.startswith('# Ausnahmezustand\\n')"
+          new_assert = "assert text.startswith('# NORMALFALL\\n')"
+          assert old_assert in workflow
+          workflow = workflow.replace(old_assert, new_assert, 1)
           needle = "assert text.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')"
           assert needle in workflow
           workflow = workflow.replace(
@@ -120,10 +118,11 @@ Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.
           from pathlib import Path
           import re
           text = Path('AUSNAHMEZUSTAND_FINAL.md').read_text(encoding='utf-8')
+          front = text.split('## Prolog', 1)[0]
           assert text.startswith('# NORMALFALL\n')
-          assert '*Psychothriller*' in text.split('## Prolog', 1)[0]
-          assert 'Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.' in text.split('## Prolog', 1)[0]
-          assert 'Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.' in text.split('## Prolog', 1)[0]
+          assert '*Psychothriller*' in front
+          assert 'Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.' in front
+          assert 'Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.' in front
           assert re.findall(r'^## (Prolog|\d+)$', text, re.M) == ['Prolog'] + [str(i) for i in range(1, 48)]
           assert text.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
 
