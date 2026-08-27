@@ -1,0 +1,90 @@
+name: Rebuild final after middle reader-pass
+on:
+  push:
+    paths:
+      - '.github/workflows/rebuild-final-after-middle-pass-once.yml'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate and rebuild final manuscript
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          paths=[
+            Path('MANUSKRIPT/01_BAUSTEINE_01_02.md'),
+            Path('MANUSKRIPT/02_BAUSTEINE_03_04.md'),
+            Path('MANUSKRIPT/03_BAUSTEINE_05_06.md'),
+            Path('MANUSKRIPT/04_BAUSTEIN_07.md'),
+            Path('MANUSKRIPT/05_BAUSTEINE_08_09.md'),
+          ]
+          expected_by_file=[
+            ['Prolog']+[str(i) for i in range(1,7)],
+            [str(i) for i in range(7,19)],
+            [str(i) for i in range(19,34)],
+            [str(i) for i in range(34,38)],
+            [str(i) for i in range(38,48)],
+          ]
+          hr=re.compile(r'^##\s+(Prolog|\d+)\s*$',re.M)
+          wr=re.compile(r"\b[\wÄÖÜäöüß]+(?:[-’'][\wÄÖÜäöüß]+)*\b",re.UNICODE)
+          sections={}
+          for p,exp in zip(paths,expected_by_file):
+            t=p.read_text(encoding='utf-8')
+            heads=[m.group(1) for m in hr.finditer(t)]
+            if heads!=exp: raise SystemExit(f'{p}: structure {heads}')
+            ms=list(hr.finditer(t))
+            for i,m in enumerate(ms):
+              end=ms[i+1].start() if i+1<len(ms) else len(t)
+              body=re.sub(r'\n\s*---\s*$','',t[m.end():end].strip()).strip()
+              if not body: raise SystemExit(f'empty chapter {m.group(1)}')
+              sections[m.group(1)]=body
+          expected=['Prolog']+[str(i) for i in range(1,48)]
+          if list(sections)!=expected: raise SystemExit('global order changed')
+          must={
+            '20':['Das war weniger befriedigend.','Und sauberer.'],
+            '21':['Es waren trotzdem Menschen tot.','Ich will die Struktur'],
+            '22':['Dann geh ans Telefon.'],
+            '23':['Konkrete Gefahrenrelevanz. Vorbereitung rechtzeitig unterbrochen.'],
+            '24':['Das Diensthandy war nicht bei Weber.','Mein Sohn hat gestern gefragt'],
+            '25':['Wer kannte ihn?','bevor Daniel selbst wusste, dass es einen Fall gab?'],
+            '26':['Keine automatische Fortführung nach Wegfall der akuten fallbezogenen Grundlage.','Ist das eine Zusage?','Im Moment meinte er jedes Wort.'],
+            '27':['18.32 Uhr. Ihre Schwester hat die Praxis über den Hinterausgang verlassen.'],
+            '33':['Ich baue die breiten Möglichkeiten jetzt nicht vollständig zurück'],
+            '40':['Terminal in der linken Hand','Nicht gesendet.'],
+            '43':['Heller starb am nächsten Morgen um 5.18 Uhr.'],
+            '47':['stärkste Gegenhypothese'],
+          }
+          for ch,needles in must.items():
+            for n in needles:
+              if n not in sections[ch]: raise SystemExit(f'ch {ch}: lost {n}')
+          if not sections['47'].rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“'):
+            raise SystemExit('final line changed')
+          if 'Nicht: Wer kannte den Fall?Nicht: Wer kannte den Fall?' in sections['25']:
+            raise SystemExit('midpoint seam remains')
+          for ch in expected:
+            paras=[re.sub(r'\s+',' ',x).strip() for x in re.split(r'\n\s*\n',sections[ch])]
+            paras=[x for x in paras if x and x!='---']
+            for i in range(len(paras)-1):
+              if paras[i]==paras[i+1] and len(paras[i])>=15:
+                raise SystemExit(f'ch {ch}: direct repeat')
+          total=sum(len(wr.findall(sections[ch])) for ch in expected)
+          if not 70000<=total<=80000: raise SystemExit(f'implausible final size {total}')
+          chunks=['# Ausnahmezustand']+[f'## {ch}\n\n{sections[ch]}' for ch in expected]
+          Path('AUSNAHMEZUSTAND_FINAL.md').write_text('\n\n---\n\n'.join(chunks)+'\n',encoding='utf-8')
+          print(f'PASS middle-reader final build: chapters=48 words={total}')
+          PY
+      - name: Self-clean and commit
+        shell: bash
+        run: |
+          git rm .github/workflows/rebuild-final-after-middle-pass-once.yml
+          if [ -f MANUSKRIPT/.metrics-trigger ]; then git rm MANUSKRIPT/.metrics-trigger; fi
+          git add AUSNAHMEZUSTAND_FINAL.md
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Rebuild final manuscript after middle reader-pass'
+          git push
