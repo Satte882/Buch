@@ -40,10 +40,6 @@ jobs:
                   end = len(p)
               parts[label] = p[start:end].strip()
 
-          def insert_after(anchor, addition, label):
-              nonlocal_text = None
-              return
-
           def apply_once(src, anchor, addition, label):
               count = src.count(anchor)
               if count != 1:
@@ -76,7 +72,7 @@ jobs:
           )
           text = apply_once(
               text,
-              'Dann speicherte er.\n',
+              'Er las den Satz.\n\nDann speicherte er.\n',
               parts['ADD33'],
               'chapter 33'
           )
