@@ -3350,6 +3350,36 @@ Daniel sah den Versandstatus.
 
 Damit war es keine Notiz mehr, die er später anders erinnern konnte.
 
+Berg antwortete zuerst.
+
+Keine Diskussion. Nur ein kurzer Vermerk im Projektkanal:
+
+**Gesehen. Aufnahme in die nächste Lagefassung.**
+
+Daniel starrte auf die zwei Sätze.
+
+Er hätte die Änderung jetzt noch abschwächen können. Aus *keine automatische Fortführung* hätte *Überprüfung vor Fortführung* werden können. Aus *unabhängig geprüft* ein weicheres *nachbereitet*.
+
+Niemand hätte es bemerkt.
+
+Er änderte nichts.
+
+Stattdessen öffnete er die Versionshistorie und prüfte, ob die neue Fassung tatsächlich gespeichert war. Uhrzeit. Autor. Empfängerkreis.
+
+Alles da.
+
+Lena beobachtete ihn.
+
+„Du sicherst gerade deine eigene Grenze gegen dich selbst ab.“
+
+Daniel schloss die Versionsansicht.
+
+„Ich sichere einen Vermerk.“
+
+„Natürlich.“
+
+Er ließ die Bemerkung stehen.
+
 Lena stand auf.
 
 „Ist das eine Zusage?“
@@ -3774,6 +3804,66 @@ Ein weiterer Treffer sah zunächst nach einer ungewöhnlichen Nachtberechtigung 
 
 Alles erklärbar.
 
+Daniel nahm einen leeren Zettel und zog eine Linie durch die Mitte.
+
+Links schrieb er:
+
+**Reale Gefahr + Druckmittel.**
+
+Rechts:
+
+**Reale Fragmente + gezielte Übersteuerung.**
+
+Jonas sah darauf.
+
+„Das ist fast dasselbe.“
+
+„Für die ersten Prüfschritte ja.“
+
+„Und später?“
+
+„Später entscheidet, was unabhängig trägt.“
+
+Lena stellte sich neben den Tisch.
+
+„Und was ist mit der Variante, dass die Lieferfreigabe völlig harmlos ist und der Jana-Satz nur dafür sorgt, dass du sie nicht mehr harmlos behandeln kannst?“
+
+Daniel setzte unter die rechte Seite einen dritten Satz:
+
+**Harmloser Sachpunkt + psychologischer Druck.**
+
+Er mochte die Zeile nicht.
+
+Sie blieb trotzdem stehen.
+
+Jonas deutete auf die erste Spalte. „Was würde die größer machen?“
+
+„Ein zweiter aktueller Anker. Nicht aus der Quelle.“
+
+„Und was würde sie kleiner machen?“
+
+„Saubere Erklärung der offenen Zugänge und Fahrer.“
+
+Lena sagte: „Dann haben wir wenigstens Kriterien, bevor wir anfangen, welche zu erfinden.“
+
+Daniel sah wieder auf die Nachricht.
+
+Die Quelle hatte ihm keine konkrete Person genannt. Kein Fahrzeug. Keine Uhrzeit für eine Tat. Nur eine echte neue Kennung und eine Formulierung, die den Blick beliebig weit machen konnte.
+
+**Prüfen Sie die Zugänge darum herum.**
+
+Je länger Daniel den Satz ansah, desto weniger Information enthielt er.
+
+Und desto mehr Handlung konnte man aus ihm ableiten.
+
+Das war neu genug, um ihn zu stören.
+
+Er markierte im Arbeitsstand deshalb nicht nur, was bestätigt war, sondern auch, was die Quelle gerade **nicht** geliefert hatte: kein konkreter Gefahrenzeitpunkt, keine benannte Person, kein unabhängiger Beleg für eine Manipulation der Lieferfreigabe.
+
+Berg las die Ergänzung und nickte.
+
+„Gut. Dann prüft die Lücke. Nicht den Ton der Nachricht.“
+
 Dann kam die erste kleine Irritation.
 
 Einer der noch fehlenden Fahrernamen war zwar nachgereicht, aber die hinterlegte Mobilnummer gehörte laut Altbestand seit Monaten nicht mehr zu ihm.
@@ -3967,6 +4057,62 @@ Die Korrektur saß.
 „Was macht ihr?“
 
 „Sie holt mich ab. Ich fahre morgen nicht mit meinem Auto. Den ersten Termin habe ich abgesagt, den zweiten macht sie. Ich schlafe heute nicht zu Hause.“
+
+„Wer weiß außer Claudia davon?“ fragte Daniel.
+
+„Niemand, der meinen Aufenthaltsort kennen muss.“
+
+„Mitarbeiter?“
+
+„Die wissen nur, dass ich morgen später komme oder gar nicht.“
+
+„Familie?“
+
+„Nein.“
+
+„Und wenn Claudia dich nicht fahren kann?“
+
+„Dann nehme ich ein Taxi und ändere den Zielort, wenn mir etwas komisch vorkommt.“
+
+Daniel bemerkte, wie er ihre Antworten automatisch auf Schwachstellen prüfte.
+
+Nicht weil sie schlecht waren.
+
+Weil er weiter nach einer Stelle suchte, an der er wieder übernehmen konnte.
+
+„Hast du Bargeld?“ fragte er.
+
+Kurze Stille.
+
+„Was?“
+
+„Falls du das Handy—“
+
+„Daniel.“
+
+Er stoppte.
+
+„Ja.“
+
+„Du bist gerade bei Fluchtplan Nummer sieben.“
+
+„Drei.“
+
+„Das macht es nicht besser.“
+
+Er musste kurz ausatmen.
+
+„Okay.“
+
+Jana sagte: „Ich brauche von dir keine komplette Einsatzplanung. Ich brauche eine ehrliche Aktualisierung, wenn du mehr weißt.“
+
+„Bekommst du.“
+
+„Auch wenn die Aktualisierung lautet: Wir wissen immer noch nichts über mich.“
+
+Daniel schwieg einen Moment.
+
+„Auch dann.“
 
 Daniel atmete etwas aus.
 
@@ -4770,7 +4916,9 @@ Daniel stand ihr gegenüber.
 
 „Und du akzeptierst, dass du bis dahin draußen bleibst?“
 
-„Ich akzeptiere gar nichts. Ich halte nur meinen eigenen Kontrollweg nicht für wertlos, sobald er unbequem wird.“
+Lena sah ihn an.
+
+„Ich akzeptiere, dass ihr die Regel angewandt habt. Ich akzeptiere nicht, dass der Kontrollweg wertlos wird, sobald er unbequem wird.“
 
 Daniel spürte Ärger.
 
@@ -4778,57 +4926,149 @@ Nicht weil sie unrecht hatte.
 
 Weil sie seine Zeit benutzte.
 
-Eine Stunde später saßen sie wieder in einem kleinen Raum.
+Oder weil er das so empfand.
 
-Diesmal mit einer Person aus dem internen Datenschutz- und Kontrollbereich, deren Name für Daniel in diesem Moment weniger wichtig war als die Dokumente auf dem Tisch.
+Jonas kam aus dem Auswertungsraum.
 
-Lena hatte nach seinem ersten problematischen Datenzugriff begonnen, Sonderentscheidungen getrennt festzuhalten.
+„Die Lieferrollenprüfung hängt.“
 
-Zeitpunkt.
+Lena drehte sich zu ihm.
+
+„Warum?“
+
+„Eine Rückfrage liegt in deinem gesperrten Bereich. Ich sehe nur, dass sie da ist.“
+
+„Dann formal umhängen lassen.“
+
+„Hab ich angestoßen.“
+
+„Wie lange?“
+
+Jonas hob die Schultern.
+
+„Keine Ahnung.“
+
+Daniel sah auf die Uhr.
+
+Der Ausschluss war keine abstrakte Markierung mehr. Er erzeugte sofort Reibung.
+
+„Kannst du mir sagen, worum es in der Rückfrage geht?“ fragte er Lena.
+
+„Nicht, ohne den gesperrten Stand aufzurufen.“
+
+„Du weißt es doch vielleicht aus dem Kopf.“
+
+„Vielleicht.“
+
+„Lena.“
+
+„Genau das ist der Punkt.“
+
+Sie ging an ihm vorbei.
+
+Eine Stunde später saßen sie in einem kleinen Raum, den Daniel sonst für kurze Abstimmungen benutzte.
+
+Diesmal lag ein formaler Vermerk auf dem Tisch. Dazu eine Person aus dem internen Datenschutz- und Kontrollbereich. Kein Name, den Daniel sich merken musste. Die Funktion reichte.
+
+Die Tür blieb geschlossen.
+
+Die Kontrollperson begann nicht mit Lenas Kontakten.
+
+Sie begann mit Daniels erstem problematischen Datenzugriff.
+
+Datum.
+
+Zeit.
+
+Verwendete Datenräume.
 
 Begründung.
 
-Verwendete Daten.
+Dokumentierte Nachbereitung.
 
-Offene Rechtsfrage.
+Dann ein zweiter Vorgang.
 
-Sie hatte dazu vertraulich fachlichen Rat eingeholt.
+Dann ein dritter.
 
-Nicht einmal.
+Daniel erkannte seine eigenen Entscheidungen wieder, nur in einer Sprache, die keine Rechtfertigung und keinen Vorwurf enthielt.
 
-Mehrfach.
+„Wer hat diese Zusammenstellung erstellt?“ fragte er.
 
-Genau deshalb passten die Kontaktzeiten zu Daniels Entscheidungen.
+„Frau Vogt hat die Einzelentscheidungen dokumentiert. Die Kontrollbewertung stammt aus unserem Bereich.“
 
-Daniel blätterte durch die Übersicht.
+Daniel sah zu Lena.
 
-„Warum hast du mir das nicht gesagt?“
+Sie sagte nichts.
 
-Lena sah ihn an.
+Die Kontrollperson blätterte weiter.
 
-„Weil ich nicht deine Zustimmung brauchte, um deine Entscheidungen unabhängig prüfbar zu halten.“
+„Nach dem ersten Zugriff hat Frau Vogt um fachliche Einordnung gebeten. Nicht zur operativen Freigabe. Zur unabhängigen Dokumentation und späteren Prüfbarkeit.“
 
-„Du arbeitest in meinem Fall.“
+„Wie oft?“
 
-„Und nicht für dein gutes Gefühl.“
+„Mehrfach.“
 
-Die Kontrollperson hob kurz den Blick, sagte aber nichts.
+„Wann?“
 
-Daniel schloss die Mappe.
+Die Zeiten kamen auf den Tisch.
 
-„Gab es irgendeinen Abfluss aus diesem Kontakt?“
+Daniel kannte sie.
 
-„Nach allem, was wir geprüft haben: nein“, sagte die Kontrollperson.
+Es waren genau die Zeitfenster, die im breiten Abgleich auffällig geworden waren.
 
-„Zugriff auf Quelleninhalte?“
+Nach seinem ersten Regelbruch.
 
-„Nicht in der Form, die Ihre frühen Nachrichten erklären würde.“
+Nach einer Ausweitung.
+
+Nach einer Lageentscheidung, die später in den Projektunterlagen gelandet war.
+
+Das Muster war real.
+
+Nur seine Bedeutung war eine andere.
+
+„Warum war das nicht im Projektstand erklärt?“ fragte Daniel.
+
+Lena antwortete diesmal.
+
+„Weil ein vertraulicher Kontrollkontakt nicht dadurch unabhängiger wird, dass er in dem operativen Projekt steht, das er prüfen soll.“
+
+„Du hättest mir sagen können, dass es einen Kontrollkontakt gibt.“
+
+„Habe ich.“
+
+Daniel erinnerte sich.
+
+Mehr über den Kontrollweg, als du gerade wissen musst.
+
+Damals hatte der Satz wie Ausweichen geklungen.
+
+Jetzt war er immer noch Ausweichen gewesen.
+
+Nur mit Grund.
+
+„Gab es aus diesem Kontakt irgendeinen Abfluss in den Quellenkanal?“ fragte Daniel die Kontrollperson.
+
+„Nach allem, was wir geprüft haben: nein.“
+
+„Zugriff auf die frühen Quelleninhalte?“
+
+„Nicht in der Form, die Ihre ersten Nachrichten erklären würde.“
 
 „Die Trefferzahl aus meinem Altbestand?“
 
-„Kann über mehrere andere interne Wege gelaufen sein. Dieser Kontakt erklärt sie nicht.“
+„Dieser Kontakt erklärt sie nicht.“
+
+„Hellers Bereich?“
+
+Die Kontrollperson schüttelte den Kopf.
+
+„Dazu kann ich aus diesem Vorgang nichts beitragen.“
 
 Daniel nickte.
+
+Keine neue Lösung.
+
+Nur eine alte Hypothese weniger.
 
 Lena war nicht das Leck.
 
@@ -4836,13 +5076,73 @@ Ihre Zeitmuster waren real.
 
 Seine Interpretation war es nicht.
 
-Draußen im Flur bekam sie ihren Zugriff nicht sofort zurück. Erst musste Berg die formale Freigabe nachziehen.
+Daniel sah auf die Liste der Kontakte.
 
-Lena stand neben Daniel am Automaten und drückte auf einen Kaffee, den sie dann nicht trank.
+Er merkte, dass er sich erleichtert fühlte.
 
-„Es tut mir leid“, sagte er.
+Das gefiel ihm nicht.
 
-Sie sah auf den Becher.
+Bei Weber hatte er keine Erleichterung empfunden. Nur Korrektur.
+
+Bei Lena hatte er von Beginn an nach einer harmlosen Erklärung gesucht.
+
+Und sie war richtig gewesen.
+
+Das machte seinen Reflex nicht sauberer.
+
+„Die Einschränkung kann aufgehoben werden?“ fragte Berg, der für den letzten Teil dazugekommen war.
+
+„Aus Sicht dieses Kontrollvorgangs spricht nichts dagegen“, sagte die Kontrollperson.
+
+„Dann machen wir das.“
+
+„Nicht sofort“, sagte Lena.
+
+Berg sah sie an.
+
+„Warum nicht?“
+
+„Weil die formale Wiederfreigabe genauso dokumentiert werden soll wie der Ausschluss.“
+
+„Du willst länger draußen bleiben?“
+
+„Nein. Ich will nicht, dass ihr bei der Korrektur plötzlich weniger sauber seid als beim Verdacht.“
+
+Jonas, der an der Tür stand, senkte den Blick.
+
+Daniel wusste nicht, ob er ein Lächeln versteckte.
+
+Berg atmete aus.
+
+„Dann sauber.“
+
+Die Wiederfreigabe brauchte weitere vierzig Minuten.
+
+Vierzig Minuten, in denen Lena nicht an den sensiblen Stand kam.
+
+Jonas musste zwei ihrer Aufgaben übernehmen. Eine Rückfrage wurde an eine andere Rolle weitergegeben. Ein Zwischenstand ging ohne Lenas Gegenprüfung in die Lage und kam zehn Minuten später mit einer Korrektur zurück, die sie vermutlich sofort gesehen hätte.
+
+Kein Drama.
+
+Nur Kosten.
+
+Als die Berechtigung wieder erschien, saß Lena am Kaffeeautomaten.
+
+Sie drückte auf einen Kaffee und nahm den Becher nicht heraus.
+
+Daniel blieb neben ihr stehen.
+
+„Du bist wieder drin.“
+
+„Ich weiß.“
+
+„Die interne Bewertung gegen dich wird korrigiert.“
+
+„Gut.“
+
+„Es tut mir leid.“
+
+Lena sah auf den Automaten.
 
 „Wofür?“
 
@@ -4862,21 +5162,31 @@ Daniel sah sie an.
 
 „Was dann?“
 
-Lena nahm den Becher aus dem Automaten.
+Lena nahm endlich den Becher heraus.
 
-„Dass du nicht so tust, als wäre ‚vorläufig‘ für denjenigen, den es trifft, ein neutrales Wort.“
+„Dass du nicht so tust, als wäre *vorläufig* für denjenigen, den es trifft, ein neutrales Wort.“
+
+Daniel schwieg.
+
+„Ich war vier Stunden aus einem Fall draußen, in dem ich seit Tagen arbeite“, sagte sie. „Andere mussten meine Arbeit übernehmen. Mein Name stand in einem Sicherheitsvermerk. Das wird korrigiert. Es ist trotzdem passiert.“
+
+„Ich weiß.“
+
+„Nein. Jetzt weißt du es.“
 
 Sie ging zum Aufzug.
 
 Daniel folgte ihr nicht.
 
-Auf seinem Telefon warteten neue Treffer aus derselben Auswertung.
+Auf seinem Telefon warteten neue Treffer aus derselben breiten Auswertung.
 
 Er öffnete sie.
 
 Nicht weil Lena damit unrecht hatte.
 
-Weil ihre Unschuld nichts darüber sagte, ob die anderen Treffer falsch waren.
+Sondern weil ihre Unschuld nichts darüber sagte, ob die anderen Treffer falsch waren.
+
+Genau diese Trennung fühlte sich inzwischen gefährlich vernünftig an.
 
 ---
 
@@ -4908,55 +5218,201 @@ Lena war wieder im Raum. Ihr Zugriff war hergestellt, die Stimmung nicht.
 
 Sie trat hinter Jonas.
 
-„Was ist unabhängig davon?“
+„Was ist die harmlose Erklärung?“
 
-Jonas öffnete einen anderen Vorgang.
+Jonas öffnete seine Notizen.
 
-Eine Berliner Dienststelle hatte am Morgen eine Person aus genau diesem Dienstleisterumfeld kontrolliert. Routine. Keine Festnahme. Aber die Person hatte ein Fahrzeug genutzt, das in einer früheren Unterstützungsermittlung an einem anderen Ort aufgefallen war.
+„Dienstleister arbeitet dort. Alte Adresse ist Zufall. Der frühere Gefahrenbezug ist erledigt oder betrifft einen anderen Nutzer.“
 
-„Dasselbe Fahrzeug?“ fragte Daniel.
+„Und was ist unabhängig davon?“
+
+„Noch nichts.“
+
+Daniel sah auf die Adresse.
+
+Vor zwei Tagen hätte er sie vielleicht offen gelassen und parallel weitergezogen.
+
+Nach Lena wollte er mehr.
+
+„Dann schließen wir sie nicht als harmlos“, sagte er. „Aber wir machen auch nichts daraus, bis ein zweiter Anker kommt.“
+
+Berg stand am anderen Ende des Raums.
+
+„Zeit?“
+
+„Läuft.“
+
+„Das tut sie immer.“
+
+Daniel sah ihn an.
+
+„Dann soll sie diesmal laufen.“
+
+Zwanzig Minuten später kam die erste Rückmeldung.
+
+Eine Berliner Dienststelle hatte am Morgen eine Person aus genau diesem Dienstleisterumfeld kontrolliert.
+
+Routine.
+
+Keine Festnahme.
+
+Keine besondere Lage.
+
+Die Person war mit einem Fahrzeug unterwegs gewesen, das in einer früheren Unterstützungsermittlung an einem anderen Ort aufgefallen war.
+
+Jonas zog das Foto auf den Bildschirm.
+
+„Kennzeichen?“
+
+„Passt.“
+
+„Fahrzeughalter?“
+
+„Dienstleister.“
+
+„Person?“
+
+„Nicht die aus unserem Treffer.“
+
+Lena sagte: „Dann ist das noch kein zweiter Anker für die Adresse.“
+
+„Nein“, sagte Daniel.
+
+Jonas nickte und telefonierte weiter.
+
+Die nächste Rückmeldung machte die Sache zunächst kleiner.
+
+Das Fahrzeug wurde von mehreren Mitarbeitern genutzt. Der kontrollierte Fahrer hatte einen regulären Auftrag in derselben Stadt.
+
+„Fast zu“, sagte Jonas.
+
+Daniel sah auf die Uhr.
+
+„Fast ist offen.“
+
+Lena warf ihm einen Blick zu.
+
+„Das kannst du jetzt in beide Richtungen benutzen.“
+
+„Deshalb brauchen wir noch etwas.“
+
+Sie warteten.
+
+Nicht still.
+
+Andere Treffer liefen parallel. Zwei wurden geschlossen. Einer ging wegen fehlender Rückmeldung in die nächste Schicht. Die Lieferadresse blieb auf Daniels Bildschirm, obwohl nichts Neues passierte.
+
+Dann kam ein Foto aus der Kontrolle.
+
+Nicht vom Fahrer.
+
+Vom Fahrzeugstandort.
+
+Im Hintergrund war die Zufahrt zu einem Gewerbehof zu sehen.
+
+Jonas vergrößerte nicht das Bild. Er zog die Standortdaten der Kontrolle.
+
+Die Lieferadresse lag zwei Straßen weiter.
+
+„Das reicht auch nicht“, sagte Daniel.
+
+„Nein.“
+
+„Warum war das Fahrzeug dort?“
+
+Die Berliner Kollegen fragten nach.
+
+Der Fahrer hatte angegeben, vor Dienstbeginn Material abgeholt zu haben.
+
+Von wem?
+
+Keine Erinnerung an einen Namen. Nur eine Halle.
+
+Die Firma bestätigte keinen Auftrag an dieser Adresse.
+
+Jetzt war es mehr als vorher.
+
+Noch kein Gefahrenbezug.
+
+Daniel ließ die Gesellschaft hinter der Lieferadresse prüfen.
+
+Registerdaten.
+
+Mietverhältnis.
+
+Aktueller Nutzer.
+
+Die Gesellschaft war formal unauffällig. Der angrenzende Lagerbereich wurde jedoch von derselben Gesellschaft angemietet, die über zwei weitere Ecken an einen bereits bekannten Unterstützerkontakt führte.
+
+„Alt oder aktuell?“ fragte Daniel.
+
+„Der Unterstützerkontakt ist bekannt. Die Gesellschaftsverbindung besteht noch.“
+
+„Reicht nicht.“
+
+„Nein.“
+
+Lena sah auf das Fahrzeugfoto.
+
+„Aber jetzt haben wir zwei voneinander getrennte Dinge: aktuelles Fahrzeug dort und bestehende Gesellschaftsverbindung.“
 
 „Ja.“
 
+Daniel merkte, wie sehr er auf das Wort *getrennt* reagierte.
+
+Nicht Quelle plus Quelle.
+
+Nicht Korrelation plus Interpretation.
+
+Zwei Wege.
+
+Jonas öffnete einen aktuellen Vorgang aus einer anderen Stelle.
+
+Eine zweite Person aus dem Dienstleisterumfeld war am Vortag an derselben Adresse erfasst worden. Nicht wegen Daniels Projekt. Wegen einer normalen Kontrolle in einem anderen Zusammenhang.
+
+„Foto?“
+
+„Ja.“
+
+„Zeit?“
+
+„17.26 Uhr.“
+
 „Bestätigt?“
 
-„Foto und Kennzeichen.“
+„Ja.“
 
 Daniel sah zu Lena.
 
 Sie nickte.
 
-„Das ist ein zweiter Anker.“
+„Das ist der zweite Anker.“
 
-Zum ersten Mal an diesem Tag klang ihre Stimme wieder wie Arbeit und nicht wie eine offene Rechnung.
+Berg kam näher.
 
-Daniel zog den Treffer aus dem breiten Stapel heraus.
+„Dann los.“
 
-„Nur diesen Strang weiter.“
-
-Berg kam herein.
+„Nur diesen Strang“, sagte Daniel.
 
 „Was ist mit den anderen?“
 
-„Bleiben offen, keine Maßnahmen nur wegen der Korrelation.“
-
-„Und hier?“
-
-Daniel erklärte die unabhängige Verbindung.
-
-Berg nickte. „Dann los.“
+„Bleiben offen. Keine Maßnahme nur wegen der Korrelation.“
 
 Die weitere Prüfung lief schnell.
 
 Nicht weil plötzlich alles erlaubt war.
 
-Weil die Kontakte bereits standen, die Zuständigkeiten klar waren und die relevanten Informationen im Projekt zusammenliefen.
+Weil die Kontakte bereits standen, die Zuständigkeiten klar waren und dieselben rechtmäßig vorhandenen Informationen im Projekt nicht mehr nacheinander durch mehrere Stellen wandern mussten.
 
-Eine Stunde später stand fest, dass die Adresse nicht nur ein Büro war. Ein angrenzender Lagerbereich wurde von derselben Gesellschaft genutzt. Ein Fahrzeug aus dem bekannten Umfeld war am Vortag dort gewesen.
+Der tatsächliche Nutzer des Lagerbereichs wurde bestätigt.
+
+Das Fahrzeug war am Vortag dort gewesen.
+
+Eine zweite Person aus dem bekannten Umfeld ebenfalls.
 
 Noch kein Beweis für eine konkrete Tat.
 
-Aber genug für eine gezielte Maßnahme.
+Aber genug, um den gezielten nächsten Schritt über die zuständige Stelle vorzubereiten.
 
 Daniel bekam währenddessen eine Nachricht von Jana.
 
@@ -4964,49 +5420,111 @@ Daniel bekam währenddessen eine Nachricht von Jana.
 
 Er las sie.
 
-Dann legte er das Telefon mit dem Display nach unten.
+Sein erster Impuls war, zurückzurufen.
 
-Der bestätigte Strang lag woanders.
+Dann sah er auf den bestätigten Strang.
 
-Er folgte ihm.
+Jana war nicht der Beweis.
 
-Am frühen Abend kam die Meldung aus der Maßnahme.
+Er legte das Telefon mit dem Display nach unten.
 
-Zwei Personen waren überprüft worden. In dem Lagerbereich fanden sich missbräuchlich beschaffte Zugangsunterlagen, technische Ausrüstung und weitere Materialien, die nach erster Einschätzung zu einer ernsthaften Vorbereitungshandlung gehörten.
+„Weiter“, sagte er.
 
-Mehr brauchte Daniel im ersten Moment nicht zu wissen.
+Die Kollegen vor Ort meldeten zunächst nichts.
 
-Die Spezialisten stuften die Lage als konkrete Gefahr ein.
+Fünf Minuten.
 
-Ein geplanter weiterer Schritt konnte nicht mehr stattfinden.
+Zehn.
 
-Berg stand hinter Jonas und las die Meldung über dessen Schulter.
+Jonas stand auf, setzte sich wieder, öffnete einen anderen Vorgang und schloss ihn, ohne gelesen zu haben.
+
+„Du machst mich nervös“, sagte Lena.
+
+„Ich mache gar nichts.“
+
+„Genau.“
+
+Berg ging zweimal aus dem Raum und kam wieder.
+
+Daniel sah nicht auf die Uhr.
+
+Dann kam die erste Meldung.
+
+**Zwei Personen angetroffen. Identitäten werden geprüft.**
+
+Noch nichts.
+
+Dann:
+
+**Lagerbereich gesichert. Unterlagen und Zugangsmaterial vorhanden. Herkunft offen.**
+
+Jonas atmete hörbar aus.
+
+Daniel nicht.
+
+„Fachprüfung“, sagte er.
+
+„Läuft.“
+
+Weitere Minuten.
+
+Die Spezialisten ordneten die Unterlagen einem aktuellen Vorbereitungsschritt im Veranstaltungskontext zu. Technische Ausrüstung und weitere Materialien passten dazu. Nicht jede Funktion war sofort klar. Aber der Gefahrenbezug war nicht mehr nur eine Adresskorrelation.
+
+Die Rückmeldung kam knapp:
+
+**Konkrete Gefahr. Weiterer Vorbereitungsschritt rechtzeitig unterbrochen.**
+
+Im Raum sagte niemand etwas.
+
+Daniel las den Satz noch einmal.
+
+Nicht weil er ihn nicht verstanden hatte.
+
+Weil er wusste, was jetzt folgte.
+
+Berg sprach es aus.
 
 „Ohne den breiten Abgleich hätten wir die Adresse nicht.“
 
-Lena sagte: „Wahrscheinlich nicht.“
+Lena antwortete nicht sofort.
 
-Berg sah sie an, vielleicht überrascht, dass sie es sagte.
+Daniel sah zu ihr.
 
-„Danke.“
+Sie hasste den Satz vermutlich.
 
-„Gewöhn dich nicht dran.“
+„Wahrscheinlich nicht rechtzeitig“, sagte sie schließlich.
 
-Jonas lachte kurz.
+Berg nickte.
 
-Niemand sonst.
+Kein Sieg.
+
+Lena fügte hinzu: „Das macht meinen Treffer nicht richtiger.“
+
+„Nein“, sagte Daniel.
+
+„Und den Fund nicht falscher.“
+
+„Nein.“
+
+Jonas sah zwischen ihnen hin und her.
+
+„Kann irgendjemand heute einmal eine einfache Schlussfolgerung haben?“
+
+Niemand antwortete.
 
 Daniel saß still.
 
 Vor wenigen Stunden hatte dieselbe Logik Lena aus dem Fall gedrückt.
 
-Jetzt hatte sie einen realen Gefahrenstrang sichtbar gemacht, den die engere Prüfung sehr wahrscheinlich übersehen hätte.
+Jetzt hatte sie einen realen Gefahrenstrang sichtbar gemacht, den die engere Prüfung wahrscheinlich nicht rechtzeitig verbunden hätte.
 
 Beides stand auf demselben Tisch.
 
 Es ließ sich nicht gegeneinander wegstreichen.
 
-Und genau deshalb wusste Daniel schon, welche Diskussion als Nächstes kommen würde.
+Genau deshalb wusste Daniel, welche Diskussion als Nächstes schwerer geworden war.
+
+Nicht leichter.
 
 ---
 
@@ -5018,11 +5536,15 @@ Mara ging nach dem zweiten Klingeln ran.
 
 Daniel saß im Auto auf dem Parkplatz und hatte den Motor nicht gestartet.
 
+Die Lage war für den Moment stabil genug, dass niemand ihn brauchte.
+
+Das war seit Tagen die Definition von Freizeit.
+
 „Hast du kurz?“
 
 „Ja.“
 
-Im Hintergrund hörte er Geschirr.
+Im Hintergrund hörte er Geschirr und eine Schranktür.
 
 „Wir sind für heute durch.“
 
@@ -5034,15 +5556,33 @@ Im Hintergrund hörte er Geschirr.
 
 Daniel rieb sich über das Gesicht.
 
+Er hatte sich auf dem Weg zum Auto vorgenommen, nicht mit dem Fall anzufangen.
+
+Jetzt hatte er genau das getan.
+
+„Wie war dein Tag?“ fragte er.
+
+Mara schwieg eine Sekunde.
+
+„Interessante Reihenfolge.“
+
+„Ich übe.“
+
+„Mittelmäßig.“
+
+Er musste kurz lachen.
+
+Dann wurde es wieder still.
+
 „Wann musst du Hamburg endgültig sagen, ob du kommst?“
 
-Mara schwieg.
+Mara antwortete nicht sofort.
 
-Er wusste die Antwort, bevor sie sie gab.
+Daniel wusste es, bevor sie sprach.
 
 „Heute.“
 
-Daniel sah durch die Windschutzscheibe auf die dunklen Fenster des Gebäudes.
+Er sah durch die Windschutzscheibe auf die dunklen Fenster des Gebäudes.
 
 „Heute bis wann?“
 
@@ -5066,7 +5606,7 @@ Eher eine kurze Leere, in der sein Kopf sofort anfing zu rechnen.
 
 „Ich habe zwei Besichtigungen nächste Woche.“
 
-„Möbliert erstmal?“
+„Möbliert erst mal?“
 
 „Eine davon.“
 
@@ -5076,6 +5616,8 @@ Mara sagte nichts.
 
 Daniel hörte sich selbst.
 
+Er stoppte.
+
 „Okay.“
 
 „Du darfst das fragen.“
@@ -5084,15 +5626,69 @@ Daniel hörte sich selbst.
 
 „Ich wollte dich nur erst ausrechnen lassen.“
 
-Er musste trotz allem kurz lachen.
+„War ich schlimm?“
 
-„Sehr witzig.“
+„Startdatum, Wohnung, Pendeln in zwölf Sekunden.“
+
+„Solide.“
+
+„Für eine Spedition vielleicht.“
+
+Er lachte erneut, diesmal kürzer.
+
+Dann fragte er: „Freust du dich?“
+
+Mara atmete aus.
+
+„Ja.“
+
+Das Wort tat mehr, als Daniel erwartet hatte.
+
+„Sehr?“
+
+„Genug, dass ich zugesagt habe.“
+
+„Was heißt genug?“
+
+„Dass ich die Rolle will. Das Team. Die Verantwortung. Und dass ich keine perfekte Lösung brauche, um zu wissen, dass ich es versuchen will.“
+
+Daniel sah auf seine Hände.
+
+Das hatte sie ihm schon beim ersten Gespräch gesagt.
+
+Vielleicht nicht in denselben Worten.
+
+Er hatte damals nach Homeoffice gefragt.
+
+„Wann sagst du deinem jetzigen Team Bescheid?“
+
+„Morgen meiner Chefin. Danach dem Team.“
+
+„Kündigung?“
+
+„Ist vorbereitet.“
+
+„Wohnung beide nächste Woche?“
+
+Mara schwieg.
+
+Daniel verzog das Gesicht.
+
+„Schon wieder.“
 
 „Ein bisschen.“
 
-Dann wurde es still.
+„Entschuldigung.“
 
-Daniel sagte: „Du hättest mir schreiben können.“
+„Du musst dich nicht dafür entschuldigen, dass du praktisch denkst.“
+
+„Nur dafür, wenn ich nichts anderes tue.“
+
+„Das wäre eine brauchbare Regel.“
+
+Daniel lehnte den Kopf zurück.
+
+„Du hättest mir schreiben können.“
 
 „Habe ich überlegt.“
 
@@ -5114,37 +5710,63 @@ Mara sagte: „Genau.“
 
 „Ja.“
 
-Die Antwort kam so schnell, dass er wieder fast lachen musste.
+Die Antwort kam so schnell, dass er fast wieder lachen musste.
 
 „Ich habe nicht zugesagt, weil du nicht da warst“, sagte sie. „Ich habe zugesagt, weil ich die Stelle will und weil ich heute entscheiden musste.“
 
-„Und wir?“
+„Hättest du anders entschieden, wenn wir den Termin gehabt hätten?“
+
+Mara schwieg einen Moment.
+
+„Vielleicht hätten wir besser gewusst, was es für uns bedeutet.“
+
+„Das war nicht die Frage.“
+
+„Mehr kann ich dir ehrlich nicht sagen.“
+
+Daniel nickte, obwohl sie es nicht sehen konnte.
+
+Kein Vorwurf.
+
+Keine einfache alternative Vergangenheit.
+
+„Und wir?“ fragte er.
 
 „Sind nicht automatisch weg.“
-
-Daniel sah auf seine Hände.
 
 „Aber?“
 
 „Aber die Frage ist jetzt eine andere.“
 
-„Welche?“
+„Nicht mehr, ob du gehst.“
 
-„Nicht mehr, ob ich gehe.“
-
-Er nickte, obwohl sie es nicht sehen konnte.
+„Genau.“
 
 „Sondern wie wir damit umgehen.“
 
 „Ja.“
 
-Daniel dachte an die Zugverbindung, an Wochenenden, an zwei Wohnungen, an Termine.
+Daniel dachte an Zugverbindungen, Wochenenden, zwei Wohnungen, Kalender.
 
-Er sagte nichts davon.
+Er bemerkte die Liste und ließ sie diesmal im Kopf.
 
-Mara ließ ihm die Stille.
+„Ich weiß gerade nicht, wie“, sagte er.
 
-„Ich bin froh für dich“, sagte er schließlich.
+Mara schwieg kurz.
+
+„Das ist wenigstens eine Antwort.“
+
+„Keine gute.“
+
+„Muss sie heute nicht sein.“
+
+„Du brauchtest heute aber eine.“
+
+„Für meinen Job. Nicht für alles.“
+
+Daniel sah auf die Uhr und drehte das Handgelenk sofort wieder zurück.
+
+„Ich bin froh für dich“, sagte er.
 
 „Das glaube ich dir.“
 
@@ -5156,9 +5778,29 @@ Mara ließ ihm die Stille.
 
 „Dass ich trotzdem müde bin.“
 
-Daniel sah auf die Uhr.
+„Wegen mir?“
 
-„Wir reden morgen.“
+„Unter anderem. Auch wegen Hamburg. Auch weil ich seit Tagen Entscheidungen vorbereite.“
+
+Daniel nahm das hin.
+
+„Ich will nicht, dass du denkst, ich hätte dich einfach laufen lassen.“
+
+„Das denke ich nicht.“
+
+„Was dann?“
+
+„Dass du gute Gründe hattest, später entscheiden zu wollen.“
+
+„Und?“
+
+„Meine Frist hatte trotzdem ein Datum.“
+
+Daniel schwieg.
+
+Mara musste den Satz nicht erklären.
+
+„Wir reden morgen“, sagte er.
 
 Mara lachte einmal leise.
 
@@ -5176,6 +5818,10 @@ Daniel verzog das Gesicht.
 
 „Besser.“
 
+„Und wenn es wieder nicht geht, sage ich es vorher.“
+
+„Noch besser.“
+
 Sie verabschiedeten sich diesmal.
 
 Daniel legte das Telefon auf den Beifahrersitz.
@@ -5184,9 +5830,17 @@ Für einen Moment empfand er etwas, das fast wie Erleichterung war.
 
 Eine Entscheidung war gefallen.
 
-Dann mochte er sich dafür nicht besonders.
+Nicht seine.
+
+Dann mochte er sich für die Erleichterung nicht besonders.
 
 Er startete den Motor.
+
+Mara ging nach Hamburg.
+
+Was aus ihnen wurde, war offen.
+
+Aber die alte Version ihrer gemeinsamen Entscheidung kam nicht zurück.
 
 ---
 
@@ -5198,17 +5852,29 @@ Lena stand auf der anderen Seite des Tisches.
 
 Berg saß zwischen ihnen, ohne dass es dadurch nach Vermittlung aussah.
 
-Daniel hatte die Nachricht der Quelle vom Nachmittag geöffnet.
+Jonas hatte drei Unterlagen nebeneinandergelegt.
+
+Die Quellenachricht.
+
+Den Projektstand zur neuen Lieferfreigabe.
+
+Daniels eigenen Vermerk aus Kapitel 26.
+
+Daniel kannte jedes Dokument.
+
+Zusammen sahen sie schlechter aus.
+
+Lena tippte auf die Quellenmeldung.
 
 **Prüfen Sie nicht nur den Namen. Prüfen Sie die Zugänge darum herum.**
 
 Darunter die Kennung der neuen Lieferfreigabe.
 
-Lena legte einen internen Zeitstand daneben.
+Dann auf den internen Projektstand.
 
-„Die Kennung in genau dieser Form taucht intern erst in dem Projektstand auf, in dem bereits vermerkt war, dass der neue Lieferdienst formal geprüft und regulär ergänzt worden war.“
+„Die Kennung in genau dieser Form taucht intern erst in einer Fassung auf, in der bereits vermerkt war, dass der neue Lieferdienst formal geprüft und regulär ergänzt worden war.“
 
-Daniel las die beiden Zeitstempel.
+Daniel las die Zeitstempel.
 
 „Sicher?“
 
@@ -5216,61 +5882,107 @@ Daniel las die beiden Zeitstempel.
 
 „Vielleicht kam die Kennung über einen anderen Weg.“
 
-„Möglich. Aber wir finden keinen internen Stand, der nur die Kennung hatte und nicht den Status.“
+„Möglich.“
 
-Lena wartete.
+Lena schob den nächsten Ausdruck zu ihm.
+
+„Aber wir finden bisher keinen internen Stand, der nur die Kennung hatte und nicht den entlastenden Kontext.“
+
+Berg nahm beide Seiten.
+
+„Also hatte die Quelle wahrscheinlich beides.“
+
+„Wahrscheinlich“, sagte Lena.
+
+„Und hat uns nur den Teil gegeben, der nach einer offenen Lücke aussieht.“
+
+„So sieht es aus.“
+
+Daniel sagte nichts.
+
+Er erinnerte sich an die drei Modelle aus Kapitel 27.
+
+Reale Gefahr plus Druckmittel.
+
+Reale Fragmente plus gezielte Übersteuerung.
+
+Harmloser Sachpunkt plus psychologischer Druck.
+
+Keines davon war vollständig verschwunden.
+
+Aber das zweite hatte Gewicht bekommen.
+
+„Der Lieferdienst war trotzdem nicht vollständig geklärt“, sagte Daniel.
+
+„Nein“, sagte Lena.
+
+„Die Fahrerlisten waren unvollständig.“
+
+„Ja.“
+
+„Und der breitere Abgleich hat einen realen Gefahrenstrang sichtbar gemacht.“
+
+„Ja.“
 
 Daniel sah sie an.
 
-„Was?“
+Sie gab ihm wieder keine bequeme Gegenposition.
 
-„Du suchst gerade eine Gegenhypothese.“
+Berg legte die Blätter hin.
 
-„Das ist neuerdings ein Fehler?“
+„Dann lautet die unangenehme Version: Die Quelle hat einen echten Punkt genommen, den beruhigenden Kontext weggelassen und uns in eine Richtung geschoben, in der wir trotzdem etwas Reales gefunden haben.“
 
-„Nein. Ich wollte nur sicher sein, dass du merkst, wann du sie benutzt.“
+„Ja“, sagte Lena.
 
-Berg nahm die beiden Blätter.
+„Das ist ziemlich effektiv.“
 
-„Also hat die Quelle wahrscheinlich einen wahren Punkt genommen, den entlastenden Kontext weggelassen und gleichzeitig gesagt, wir sollen breiter schauen.“
+Niemand widersprach.
 
-„So sieht es aus“, sagte Lena.
+Daniel zog Webers Korrekturvermerk auf den Bildschirm.
 
-„Und wir haben breiter geschaut und etwas gefunden“, sagte Berg.
+Dann Lenas.
 
-Lena drehte sich zu ihm.
+Zwei Fehlbelastungen.
 
-„Das macht die Lenkung nicht kleiner.“
+Eine unbekannte Person, bei der Daniel eine harmlose Gegenlesart zu schwach gewichtet hatte.
 
-„Hab ich nicht gesagt.“
+Eine Kollegin, bei der er dieselbe Gegenlesart sofort retten wollte.
 
-Daniel kannte das Gespräch.
+Daneben die aktuelle Meldung aus dem Lagerbereich.
 
-Nicht die Sätze.
+**Konkrete Gefahr. Weiterer Vorbereitungsschritt rechtzeitig unterbrochen.**
 
-Die Struktur.
+Vier Dinge.
 
-Etwas war manipuliert.
+Keines löschte eines der anderen.
 
-Etwas war real.
+Lena schob Daniels Projektvermerk zu ihm.
 
-Beides forderte eine Konsequenz, die in verschiedene Richtungen zeigte.
+**Keine automatische Fortführung nach Wegfall der akuten fallbezogenen Grundlage. Fortführung nur nach erneuter dokumentierter Begründung und Freigabe.**
 
-Lena schob Daniels eigenen Projektvermerk zu ihm.
+Darunter:
 
-**fallbezogen – befristet – Prüfung**
+**Sonderentscheidungen und Ausweitungen werden nach Abschluss unabhängig geprüft.**
 
-Darunter die ausformulierte Zusage zum Rückbau nach Ende der akuten Grundlage.
+„Wir haben einen belastbaren Manipulationshinweis“, sagte sie. „Wir haben einen gestoppten akuten Teilstrang. Genau für so einen Moment hast du die Grenze geschrieben.“
 
-„Wir haben jetzt einen belastbaren Manipulationshinweis“, sagte sie. „Und eine gestoppte akute Teilgefahr. Genau dafür war die Grenze da.“
+Berg lehnte sich zurück.
 
-Berg sagte: „Die größere Struktur ist nicht geklärt.“
+„Die größere Struktur ist nicht geklärt.“
+
+Lena sah zu ihm.
 
 „Dann arbeiten wir weiter. Aber enger.“
 
 „Wie viel enger?“
 
-„Die breiten Abgleiche aussetzen. Erst die Quellenlenkung prüfen.“
+„Bestätigte Stränge gezielt weiter. Breite Kontakt- und Zeitabgleiche aussetzen. Quellenlenkung unabhängig prüfen.“
+
+„Und wenn in den breiten Resttreffern der nächste Lagerraum steckt?“ fragte Berg.
+
+Lena schwieg einen Moment.
+
+„Dann ist das das Risiko.“
 
 Berg sah zu Daniel.
 
@@ -5280,47 +5992,221 @@ Nicht weil Berg ihm die Entscheidung zuschieben wollte.
 
 Weil Daniel die Grenze selbst formuliert hatte.
 
-Er dachte an Weber.
+Er öffnete den Entscheidungsvermerk aus Kapitel 29.
 
-An Lena.
+**Gegenrisiko: Fehlzuordnung Weber; Korrelation beweist keine individuelle Beteiligung.**
 
-An die zwei Menschen im Lagerbereich.
+Darunter stand seine Entscheidung, den 27-Personen-Kreis trotzdem zu prüfen.
 
-An die Meldung: konkrete Gefahr.
+Sie hatte Lena getroffen.
 
-An Jana, die ihre Adresse bewusst nicht genannt hatte.
+Sie hatte einen realen Gefahrenstrang gefunden.
 
-An Mara, die nach Hamburg ging.
+Beides war jetzt Vergangenheit.
 
-Dann strich er die privaten Bilder aus der Entscheidung, so gut es ging.
+Die nächste Entscheidung nicht.
 
-„Quellenprüfung läuft“, sagte Daniel.
+„Was ist im bestätigten Strang noch offen?“ fragte Daniel.
+
+Jonas antwortete.
+
+„Verbindungen der beiden Personen. Herkunft eines Teils der Unterlagen. Noch zwei logistische Berührungspunkte, die wir nicht sauber zugeordnet haben.“
+
+„Brauchen wir dafür den breiten Abgleich?“
+
+„Für die zwei Personen nicht. Für unbekannte Querbezüge möglicherweise.“
+
+„Möglicherweise“, wiederholte Lena.
+
+Jonas hob die Hände. „Mehr weiß ich nicht.“
+
+Daniel nickte.
+
+In Kapitel 1 hätte ihm das gereicht.
+
+Nicht für eine Maßnahme gegen jemanden. Nicht für die Ausweitung einer Prüfung.
+
+Damals hatte er gefragt: Was haben wir belastbar?
+
+Jetzt drängte sich eine andere Frage davor.
+
+Was passiert, wenn wir zurückbauen und falsch liegen?
+
+Er kannte die Verschiebung.
+
+Das machte sie nicht kleiner.
+
+„Die Quelle ist nicht vertrauenswürdig“, sagte Daniel.
 
 Lena wartete.
 
-„Dokumentation bleibt.“
+„Sie lenkt wahrscheinlich.“
+
+„Ja.“
+
+„Und der Jana-Bezug war Druck.“
+
+„Mindestens das.“
+
+„Weber war falsch.“
+
+„Ja.“
+
+„Du warst falsch.“
+
+Lena antwortete nach einem Moment.
+
+„Ja.“
+
+Daniel sah auf die Gefahrenmeldung.
+
+„Und das war real.“
+
+„Auch ja.“
+
+Berg sagte nichts.
+
+Daniel stand auf und ging zum Fenster.
+
+Draußen war es bereits dunkel. Im Glas sah er den Raum hinter sich gespiegelt. Berg am Tisch. Lena auf der anderen Seite. Jonas am Bildschirm.
+
+Kein Ausnahmezustand.
+
+Nur eine Nachbesprechung mit zu vielen richtigen Sätzen.
+
+„Wenn wir jetzt breit zurückbauen“, sagte Daniel, „und morgen stellt sich heraus, dass einer der offenen Querbezüge der nächste operative Zugang war, dann haben wir die Lücke bewusst wieder hergestellt.“
+
+Lena antwortete sofort.
+
+„Und wenn ihr nicht zurückbaut, akzeptierst du bewusst weitere Menschen im Prüfkreis, obwohl du weißt, dass die Quelle dich genau zu dieser Reichweite drängen kann.“
+
+Daniel drehte sich um.
+
+„Ja.“
+
+Das Wort war draußen, bevor er es weicher machen konnte.
+
+Lena schwieg.
+
+Daniel ging zurück zum Tisch.
+
+„Quellenprüfung läuft weiter.“
 
 „Daniel.“
 
 „Unabhängige Prüfung auch.“
 
-„Und der Rückbau?“
+„Das ist nicht der Rückbau.“
 
-Er sah auf seinen eigenen Satz.
+„Nein.“
 
-Die Bedrohung war nicht geklärt.
+„Dokumentation?“
 
-Die Quelle steuerte ihn wahrscheinlich.
+„Bleibt vollständig.“
 
-Beides war wahr.
+„Auch das ist nicht der Rückbau.“
 
-„Nicht jetzt.“
+„Weiß ich.“
+
+Lena zog den Vermerk näher zu ihm.
+
+„Dann sag es sauber.“
+
+Daniel sah auf seine eigene Formulierung.
+
+Keine automatische Fortführung.
+
+Neue Begründung.
+
+Freigabe.
+
+Er hatte die Worte geschrieben, damit ein späterer Daniel nicht einfach weiterlief.
+
+Jetzt saß er hier.
+
+Nicht später genug offenbar.
+
+„Ich baue die breiten Möglichkeiten jetzt nicht vollständig zurück“, sagte er.
+
+Berg bewegte sich nicht.
+
+Jonas sah auf seinen Bildschirm.
+
+Lena fragte: „Warum?“
+
+Daniel hätte eine lange Antwort geben können.
+
+Offene Struktur.
+
+Zeit.
+
+Erfolg.
+
+Schadenspotenzial.
+
+Er sagte nur:
+
+„Weil ich das Risiko, die nächste reale Verbindung zu verlieren, im Moment höher gewichte.“
+
+„Höher als was?“
+
+Daniel sah sie an.
+
+„Als den Schaden, die breitere Prüfung vorläufig weiterlaufen zu lassen.“
 
 Lena lehnte sich zurück.
 
-Berg sagte nichts.
+„Der Schaden war für mich nicht vorläufig.“
 
-„Dann war die Grenze nichts wert“, sagte Lena.
+Daniel nickte.
+
+„Ich weiß.“
+
+„Und für Weber auch nicht.“
+
+„Ich weiß.“
+
+„Dann nenn ihn nicht abstrakt.“
+
+Daniel schwieg.
+
+Berg sagte: „Wir können die Kriterien enger halten. Keine Erweiterung über den bestehenden Kreis. Keine Maßnahmen ohne zweiten Anker.“
+
+Lena drehte sich zu ihm.
+
+„Das macht die Entscheidung kontrollierter. Nicht zu einem Rückbau.“
+
+„Hab ich auch nicht behauptet.“
+
+Daniel sah auf Berg.
+
+Der Vorschlag war vernünftig.
+
+Natürlich war er das.
+
+Genau solche vernünftigen Zwischenlösungen hatten sie bis hierher gebracht.
+
+„Bestehender definierter Kreis“, sagte Daniel. „Keine Erweiterung ohne neue Freigabe. Maßnahmen nur mit unabhängiger Bestätigung. Quellenprüfung getrennt.“
+
+Lena sagte nichts.
+
+Daniel öffnete den Projektvermerk.
+
+Er löschte seine alte Grenze nicht.
+
+Er änderte sie auch nicht.
+
+Darunter ergänzte er die aktuelle Entscheidung mit Datum und Begründung.
+
+**Rückbau derzeit ausgesetzt. Offener realer Gefahrenstrang und nicht abgeschlossene Querbezüge. Manipulationsverdacht der Quelle bleibt ausdrücklich bestehen.**
+
+Er las den Satz.
+
+Dann speicherte er.
+
+Lena sah auf die Uhrzeit der Änderung.
+
+„Dann war die Grenze nichts wert“, sagte sie.
 
 „Doch.“
 
@@ -5334,17 +6220,17 @@ Daniel sah sie an.
 
 „Nein.“
 
+Diesmal sagte er es ohne Versuch, den Widerspruch zu reparieren.
+
 Es war das erste Mal in dem Gespräch, dass Lena nichts sofort erwiderte.
 
 Daniel schob den Vermerk nicht weg.
 
-Er löschte ihn auch nicht.
+Er wusste, was dort stand.
 
-„Die Quelle ist nicht vertrauenswürdig“, sagte Daniel. „Die Maßnahme war nicht sauber.“
+Er wusste auch, was gestern dort gestanden hatte.
 
-Lena wartete.
-
-„Und ich schalte sie trotzdem nicht ab, solange wir einen offenen realen Gefahrenstrang haben, den die breitere Prüfung gerade nachweislich sichtbar gemacht hat.“
+Beides war von ihm.
 
 Lena schloss ihre Mappe.
 
@@ -5354,11 +6240,13 @@ Daniel spürte Ärger.
 
 „Was?“
 
+Sie schüttelte den Kopf.
+
 „Nichts.“
 
 Sie stand auf.
 
-„Sieben dreißig?“ fragte Berg.
+Berg fragte: „Sieben dreißig?“
 
 „Ja“, sagte Daniel.
 
@@ -5370,8 +6258,10 @@ Tat sie nicht.
 
 Die Tür fiel hinter ihr zu.
 
-Daniel sah auf die beiden Blätter vor sich.
+Daniel sah auf die beiden Fassungen seines eigenen Vermerks.
 
-Seine alte Grenze stand noch da.
+Die alte Grenze war noch da.
 
-Nur begann sie nicht mehr dort, wo sie einmal begonnen hatte.
+Er hatte sie nicht vergessen.
+
+Er hatte gegen sie entschieden.
