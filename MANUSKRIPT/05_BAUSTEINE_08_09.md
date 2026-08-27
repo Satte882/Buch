@@ -102,6 +102,92 @@ Zwei voneinander getrennte Dinge.
 
 Noch.
 
+Daniel nahm den Ausdruck mit der vorgezogenen Freigabe noch einmal.
+
+„Ruf den Dienstleister über die Nummer aus dem Stammdatensatz an. Nicht über irgendetwas aus der Anforderung.“
+
+Berg griff zum Telefon.
+
+Jonas sah auf die Uhr.
+
+Daniel sah absichtlich nicht hin.
+
+Nach zwei Minuten hatte Berg jemanden in der Disposition. Er stellte keine offene Frage, die schon verriet, was sie suchten.
+
+„Gab es heute eine Änderung des Zeitfensters für den Aufbau?“
+
+Er hörte zu.
+
+„Von wem?“
+
+Noch einmal zuhören.
+
+Dann legte er einen Finger auf den Lautsprecherknopf, sah Daniel an und schaltete frei.
+
+Eine müde Männerstimme sagte: „Wir hatten eine Verzögerung, ja. Aber wir haben deswegen keine Vorziehung beantragt. Im Gegenteil. Wir wollten später rein.“
+
+Daniel nahm den Stift.
+
+„Wer durfte für Sie Änderungen melden?“
+
+Der Mann nannte zwei Namen.
+
+Keiner stand auf der Anforderung.
+
+„Kann jemand aus einem Subunternehmen das veranlasst haben?“
+
+„Nicht regulär.“
+
+„Nicht regulär heißt?“
+
+„Wenn jemand unsere Referenz und den Vorgang kennt, kann er es versuchen. Aber freigeben muss der Veranstalter.“
+
+Daniel schrieb nichts dazu.
+
+Versuchen war noch keine Täterstruktur.
+
+Lena fragte: „Gibt es irgendeinen normalen Grund, warum jemand aus Ihrem Bereich genau sechsundvierzig Minuten früher hineinmüsste?“
+
+Am anderen Ende raschelte Papier.
+
+„Nicht dass ich wüsste.“
+
+„Das ist nicht dasselbe wie nein“, sagte Daniel.
+
+„Nein“, sagte der Mann. „Ist es nicht.“
+
+Berg beendete das Gespräch.
+
+Daniel legte die Freigabe in die linke Spalte.
+
+Nicht: Gefahr bestätigt.
+
+Sondern: Änderung nicht vom benannten Dienstleister veranlasst.
+
+Mehr war es noch nicht.
+
+Jonas sagte: „Ich habe zu dem zweiten Fahrzeugbezug aus der Nachricht nichts.“
+
+Daniel sah auf.
+
+„Gar nichts?“
+
+„Ein Kennzeichen passt formal. Aber die Sichtung, die es in die Nähe des Geländes bringen würde, kommt aus einer unklaren Meldungskette. Ich kriege die Herkunft nicht sauber getrennt.“
+
+„Dann raus.“
+
+Berg drehte sich zu ihm. „Wenn es später doch stimmt?“
+
+„Dann stimmt es später. Jetzt trägt es nicht.“
+
+Jonas zog den Fahrzeugbezug aus dem Arbeitsfenster.
+
+Die Liste wurde kürzer.
+
+Daniel spürte, wie ein Teil von ihm dagegen arbeitete. Jede gestrichene Information machte die Entscheidung schwerer, obwohl genau das der Sinn war.
+
+Diesmal durfte ein Teil der Lage einfach unklar bleiben.
+
 Jonas tippte weiter.
 
 „Ich habe den Fahrer aus der Routinekontrolle.“
@@ -198,6 +284,70 @@ Unabhängige Verbindung zur Täterstruktur.
 
 Ein bereits benutzter Ausweis.
 
+Daniel ließ Jonas die drei belastbaren Verbindungen noch einmal einzeln öffnen.
+
+Nicht nebeneinander.
+
+Nacheinander.
+
+Zuerst die Freigabe.
+
+Vorgezogenes Zeitfenster. Regulär aussehender Antrag. Benannter Dienstleister bestreitet die Veranlassung.
+
+Dann das Fahrzeug.
+
+Routinekontrolle einer anderen Dienststelle. Spätere Zuordnung zu einer Adresse aus dem bereits gesicherten Lagerfund. Kein Quellenhinweis nötig.
+
+Dann die Person.
+
+Temporärer Ausweis. Tatsächlich benutzt. Ältere dokumentierte Verbindung in das Unterstützerumfeld.
+
+„Was wäre davon ohne die anonyme Nachricht überhaupt auf unserem Tisch gelandet?“ fragte Daniel.
+
+Jonas dachte nach.
+
+„Die Freigabe wahrscheinlich später. Das Fahrzeug vielleicht über die Nachmeldung. Die Person erst, wenn wir den Zugangskreis aktiv geprüft hätten.“
+
+„Also hat die Nachricht beschleunigt.“
+
+„Ja.“
+
+„Aber sie ist nicht mehr der Grund, warum wir handeln.“
+
+Lena sagte: „Für den Kern nicht.“
+
+Daniel zeigte auf die gestrichenen Punkte.
+
+„Und das hier?“
+
+„Bleibt draußen.“
+
+„Auch wenn es in das Bild passen würde.“
+
+„Gerade dann.“
+
+Berg stand auf und ging zum Fenster. Draußen bewegten sich Fahrzeuge über das Gelände, als gäbe es keine Entscheidung, die in diesem Raum gerade enger wurde.
+
+„Ihr wollt also eine akute Lage auf drei Teilanker stützen, von denen keiner für sich den großen Plan beweist.“
+
+Daniel sah ihn an.
+
+„Ja.“
+
+„Und das hältst du für besser als Hellers Gesamtbild?“
+
+„Ich halte es für unseres.“
+
+Berg drehte sich zurück.
+
+Daniel hörte selbst, wie wenig beruhigend der Satz war.
+
+Aber genau darum ging es.
+
+Nicht um Gewissheit.
+
+Um eine Kette, bei der sie zu jedem Glied sagen konnten, woher es kam und was es nicht bewies.
+
 Keiner dieser Punkte stammte aus Hellers Behauptung über den Zeitpunkt vor dem Einlass.
 
 Sie brauchten Heller nicht mehr dafür.
@@ -277,6 +427,84 @@ Berg mochte den Satz nicht.
 Lena schob zwei Blätter auf den Tisch.
 
 „Heute reichen zwei.“
+
+Daniel zog den engeren Weg näher zu sich.
+
+„Fünfundvierzig Minuten Best Case“, sagte er. „Woraus besteht das?“
+
+Berg nahm einen Stift.
+
+„Zugangsstelle separat. Fahrzeughalter separat. Personenkreis über die jeweils zuständigen Stellen. Dann Rückmeldungen zusammenführen. Danach gezielte Maßnahmen.“
+
+„Was davon läuft parallel?“
+
+„Nicht alles.“
+
+„Warum nicht?“
+
+„Weil nicht jede Stelle dieselbe Grundlage hat und wir Teile erst weitergeben dürfen, wenn der Bezug sauber steht.“
+
+Lena ergänzte: „Und weil der engere Weg genau davon lebt, dass jeder Zugriff enger begründet wird. Das kostet Abstimmung.“
+
+Daniel schrieb die frühesten realistischen Rückmeldezeiten neben die Schritte.
+
+Nicht als exakten Plan.
+
+Als Grenze.
+
+Zwölf Minuten hier.
+
+Vielleicht zwanzig dort.
+
+Ein Rückruf, wenn jemand erreichbar war.
+
+Ein weiterer, wenn nicht.
+
+Nach drei Zeilen lag die erste theoretische Maßnahme schon hinter dem vorgezogenen Zugangskorridor.
+
+„Best Case“, sagte Berg noch einmal.
+
+Daniel nickte.
+
+Der engere Weg war real.
+
+Und sein Risiko war real.
+
+Lena schob das zweite Blatt wieder heran.
+
+Die Projektstruktur sparte Zeit nicht durch einen geheimen Zugriff.
+
+Sie sparte Zeit, weil vorhandene fallrelevante Daten gleichzeitig in einem freigegebenen Kreis sichtbar wurden und mehrere Prüfungen parallel anlaufen konnten.
+
+Genau das hatte Daniel inzwischen schätzen gelernt.
+
+„Welche Reichweite brauchen wir wirklich?“ fragte Lena.
+
+Daniel markierte die beiden bestätigten Servicebereiche.
+
+„Diese.“
+
+„Personen?“
+
+„Nur aktueller Zugang oder aktuelle operative Funktion dort.“
+
+Berg zeigte auf den Vermittlerpunkt.
+
+„Und indirekte Kontakte?“
+
+Daniel schüttelte den Kopf.
+
+„Nicht ohne eigenen Anker.“
+
+„Das kann uns den Mann kosten, der alles zusammenhält.“
+
+„Ja.“
+
+Daniel sagte es, bevor Berg weiterreden konnte.
+
+Der Preis gehörte zur Entscheidung.
+
+Nicht erst zu ihrer späteren Bewertung.
 
 Daniel las das erste.
 
