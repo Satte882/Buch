@@ -2616,6 +2616,34 @@ Sie sahen aus wie Ordnung.
 
 Tatsächlich bedeuteten sie auch, dass er beim nächsten Mal früher handlungsfähig sein wollte.
 
+Daniel setzte den Cursor noch einmal darunter.
+
+Früher handlungsfähig durfte nicht heißen: früher überzeugt.
+
+Er ergänzte drei Grenzen.
+
+**Kein Eingriff allein wegen einer Quellenbehauptung.**
+
+**Keine Erweiterung eines Datenzugriffs, nur weil die Zeit knapp ist.**
+
+**Widerlegte Teile bleiben widerlegt, auch wenn ein anderer Teil später stimmt.**
+
+Er las die Sätze.
+
+Das war keine neue Befugnis. Nicht einmal eine neue Schwelle. Es war ein Versuch, die Zeit zwischen Hinweis und sauberer Prüfung zu verkürzen, ohne das Ergebnis der Prüfung vorwegzunehmen.
+
+Daniel schob die drei Felder in eine kleine Vorlage. Neben jedem offenen Punkt musste künftig stehen, welche Prüfung bereits möglich war und was daraus ausdrücklich noch nicht folgen durfte.
+
+Die Vorlage würde niemanden festhalten, keinen Zugriff freigeben und keine Zweckgrenze verschieben.
+
+Sie würde nur verhindern, dass eine prüfbare Frage liegen blieb, bis eine andere beantwortet war.
+
+Daniel sah auf die Zeitlinie vom Betriebshof.
+
+Genau diese Art verlorener Zeit wollte er nicht noch einmal verschenken.
+
+Mehr hatte er sich in dieser Nacht noch nicht erlaubt.
+
 Er wollte den Rechner sperren, als das private Telefon neben ihm vibrierte.
 
 Diesmal sah er sofort hin.
