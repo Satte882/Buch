@@ -5226,6 +5226,26 @@ Bei Lena fühlte dieselbe Sauberkeit plötzlich wie ein Makel an, der dauerhaft 
 
 Er schloss den Vermerk wieder.
 
+Als Lena wieder im Raum auftauchte, wurde es für einen Moment stiller als nötig.
+
+Nicht auffällig. Nur zwei Gespräche brachen eine Sekunde zu früh ab.
+
+Jonas schob ihr die übernommenen Aufgaben zurück.
+
+„Das hier ist erledigt. Das hier offen. Und das hier habe ich vermutlich anders sortiert, als du es getan hättest.“
+
+Lena setzte sich.
+
+„Dann sehe ich es mir an.“
+
+Kein Kommentar dazu, dass sie wieder da war.
+
+Keine kleine Willkommensgeste.
+
+Daniel war dankbar dafür und fand auch das unangenehm.
+
+Die Korrektur hatte ihren Zugriff wiederhergestellt. Sie konnte nicht herstellen, dass alle im Raum vier Stunden lang ihren Namen neben einem ungeklärten Kontaktmuster gesehen hatten.
+
 Jonas sah von seinem Bildschirm auf.
 
 „Alles okay?“
@@ -5393,6 +5413,38 @@ Jonas vergrößerte nicht das Bild. Er zog die Standortdaten der Kontrolle.
 Die Lieferadresse lag zwei Straßen weiter.
 
 „Das reicht auch nicht“, sagte Daniel.
+
+Daniel ließ auch die Standortangabe noch einmal gegenprüfen.
+
+Jonas sah ihn an.
+
+„Die Kontrolle ist dokumentiert.“
+
+„Ich weiß.“
+
+„Foto passt. Uhrzeit passt.“
+
+„Ich weiß.“
+
+„Was genau soll ich noch prüfen?“
+
+„Ob der Standort aus der Kontrolle stammt oder später aus einem übernommenen Datensatz.“
+
+Jonas atmete hörbar aus, machte es aber.
+
+Die Antwort kam wenige Minuten später: ursprünglicher Kontrollvorgang, Zeit und Ort direkt dort erfasst. Keine spätere Zuordnung aus Daniels Projekt.
+
+„Unabhängig genug?“ fragte Jonas.
+
+„Für diesen Punkt ja.“
+
+Daniel markierte ihn entsprechend.
+
+Das war langsamere Arbeit als eine schöne Verbindung auf dem Bildschirm einfach zu glauben.
+
+Aber nicht langsam genug, um den Vorteil der neuen Struktur wieder verschwinden zu lassen.
+
+Genau diese Kombination machte ihm inzwischen mehr Sorgen als ein klar schlechter Prozess: schneller als früher, kontrollierbarer als sein erster Regelbruch und trotzdem fähig, Menschen falsch in einen Zusammenhang zu ziehen.
 
 „Nein.“
 
@@ -5873,6 +5925,58 @@ Daniel hörte sich selbst und ergänzte: „Nicht als Lösung. Nur wenn du wills
 „Das wäre schön.“
 
 Mehr machte sie daraus nicht.
+
+„Ich weiß noch nicht, wie oft ich am Anfang nach Berlin komme“, sagte Mara.
+
+Daniel merkte, wie sofort wieder ein Kalender in seinem Kopf aufging.
+
+„Die ersten zwei Wochen gar nicht?“
+
+„Keine Ahnung.“
+
+„Danach jedes zweite—“
+
+Er stoppte selbst.
+
+Mara sagte nichts.
+
+„Schon gut“, sagte Daniel.
+
+„Was?“
+
+„Ich versuche gerade aus einer Beziehung einen Fahrplan zu machen.“
+
+„Du versuchst herauszufinden, ob sie praktisch funktioniert.“
+
+„Ist doch nicht ganz falsch.“
+
+„Nein. Nur ein bisschen früh.“
+
+Daniel sah durch die Windschutzscheibe.
+
+„Dann keine Wochenendregel.“
+
+„Danke.“
+
+„Das klang sehr erleichtert.“
+
+„War es.“
+
+Er lächelte.
+
+Mara sagte: „Ich will nicht nach Hamburg ziehen und gleichzeitig schon beweisen müssen, dass sich für uns nichts ändert.“
+
+Daniel antwortete nach einem Moment: „Es ändert sich etwas.“
+
+„Ja.“
+
+„Heißt nicht, dass es vorbei ist.“
+
+„Nein.“
+
+Mehr Sicherheit hatten sie gerade nicht.
+
+Diesmal versuchte Daniel nicht, sie durch einen Termin zu ersetzen.
 
 Daniel auch nicht.
 
@@ -6527,6 +6631,44 @@ Kurz davor blieb sie stehen, als hätte sie noch etwas sagen wollen.
 Tat sie nicht.
 
 Die Tür fiel hinter ihr zu.
+
+Berg blieb sitzen, nachdem Lena gegangen war.
+
+„Willst du, dass ich die Entscheidung übernehme?“ fragte er.
+
+Daniel sah ihn an.
+
+„Warum?“
+
+„Weil du gerade gegen deinen eigenen Vermerk entschieden hast.“
+
+Daniel wartete.
+
+„Das war keine Kritik“, sagte Berg. „Nur die Frage, ob du für die Fortführung eine zweite Entscheidungsebene willst.“
+
+Daniel sah auf die beiden Fassungen.
+
+Es wäre bequem gewesen.
+
+Nicht fachlich. Persönlich.
+
+Wenn Berg die Fortführung bestätigte, wäre es anschließend ihre Entscheidung gewesen.
+
+Daniel schüttelte den Kopf.
+
+„Die Freigaben bleiben wie vorgesehen. Aber die Gewichtung hier ist meine.“
+
+Berg nickte.
+
+„Dann dokumentier genau das.“
+
+Daniel ergänzte im Vermerk einen letzten Satz:
+
+**Entscheidung zur vorläufigen Fortführung: Reuter.**
+
+Kein großes Bekenntnis.
+
+Nur ein Name unter einer Entscheidung, die er später nicht auf die Lage, Berg oder die Quelle schieben wollte.
 
 Daniel sah auf die beiden Fassungen seines eigenen Vermerks.
 
