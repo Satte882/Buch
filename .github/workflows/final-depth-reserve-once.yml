@@ -66,7 +66,7 @@ jobs:
           t3 = insert_after(t3, 'Diesmal versuchte Daniel nicht, sie durch einen Termin zu ersetzen.\n', part(p_b, 'b06_ch32'), 'b06_ch32')
 
           t5 = insert_after(t5, '„Ich halte es für unseres.“\n', part(p_c, 'b08_ch38'), 'b08_ch38')
-          t5 = insert_after(t5, 'Der erste war nicht falsch gewesen.\n\nEr war nur langsamer.\n', part(p_c, 'b08_ch39'), 'b08_ch39')
+          t5 = insert_after(t5, 'Daniel sah auf die beiden Wege, die noch auf dem Tisch lagen.\n\nDer erste war nicht falsch gewesen.\n\nEr war nur langsamer.\n', part(p_c, 'b08_ch39'), 'b08_ch39')
           t5 = insert_after(t5, '„Das wird schwieriger.“\n\n„Dann übst du.“\n\n„Sehr konstruktiv.“\n\n„Gern.“\n', part(p_c, 'b08_ch42'), 'b08_ch42')
           t5 = insert_after(t5, 'Die drei Prozesse konnten zu unterschiedlichen Ergebnissen kommen.\n\nDas war keine Unordnung.\n\nEs war wahrscheinlich die sauberste Form, die nach diesem Fall noch möglich war.\n', part(p_c, 'b08_ch43'), 'b08_ch43')
 
