@@ -4,10 +4,10 @@
 
 ## Gesamtstand
 
-- **Ist:** 70.778 Wörter
+- **Ist:** 71.868 Wörter
 - **Planungsziel:** 77.000 Wörter
-- **Lücke zum Planungsziel:** 6.222 Wörter
-- **Zielerreichung:** 91,9%
+- **Lücke zum Planungsziel:** 5.132 Wörter
+- **Zielerreichung:** 93,3%
 
 ## Bausteine – Ist gegen Ziel
 
@@ -20,7 +20,7 @@
 | 05 | Entdeckung & Eskalation | 11.355 | 12.000 | +645 | 94.6% |
 | 06 | Moralischer / psychologischer Kipppunkt | 12.840 | 13.400 | +560 | 95.8% |
 | 07 | Reversal / Umdeutung | 6.172 | 7.000 | +828 | 88.2% |
-| 08 | Finale Entscheidung & Konsequenz | 8.589 | 10.500 | +1.911 | 81.8% |
+| 08 | Finale Entscheidung & Konsequenz | 9.679 | 10.500 | +821 | 92.2% |
 | 09 | Nachhall / Schlussszene | 3.823 | 4.800 | +977 | 79.6% |
 
 ## Kapitel – Ist-Wortzahl
@@ -65,12 +65,12 @@
 | 07 | 35 | 1.632 |
 | 07 | 36 | 1.771 |
 | 07 | 37 | 1.303 |
-| 08 | 38 | 1.522 |
-| 08 | 39 | 1.489 |
-| 08 | 40 | 1.617 |
-| 08 | 41 | 1.526 |
-| 08 | 42 | 1.182 |
-| 08 | 43 | 1.253 |
+| 08 | 38 | 1.720 |
+| 08 | 39 | 1.682 |
+| 08 | 40 | 1.805 |
+| 08 | 41 | 1.686 |
+| 08 | 42 | 1.339 |
+| 08 | 43 | 1.447 |
 | 09 | 44 | 1.015 |
 | 09 | 45 | 942 |
 | 09 | 46 | 849 |
