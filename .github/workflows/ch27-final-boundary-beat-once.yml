@@ -23,21 +23,15 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
-
           path = Path('MANUSKRIPT/03_BAUSTEINE_05_06.md')
           text = path.read_text(encoding='utf-8')
           anchor = '**Privatwissen erhöht Druck, nicht Gefahrenevidenz.**'
-          addition = '''Daniel zog darunter eine zweite Linie. Neben Janas Namen schrieb er keine Dringlichkeitsstufe.
-
-Er hätte sie ohne Mühe als Argument benutzen können. Fünfzehn Minuten alte Beobachtung. Schwester. Unbekannte Quelle. Jeder im Raum hätte verstanden, warum er deshalb schneller werden wollte.
-
-Genau das war das Problem.
-
-Wenn die Lieferfreigabe gefährlich war, musste sie auch ohne Jana gefährlich sein. Wenn sie harmlos war, durfte seine Angst den fehlenden zweiten Anker nicht ersetzen.
-
-Er schob das Blatt so hin, dass Jonas es sehen konnte.
-
-Die Trennung sollte nicht nur in seinem Kopf existieren.'''
+          addition = ('Daniel zog darunter eine zweite Linie. Neben Janas Namen schrieb er keine Dringlichkeitsstufe.\n\n'
+                      'Er hätte sie ohne Mühe als Argument benutzen können. Fünfzehn Minuten alte Beobachtung. Schwester. Unbekannte Quelle. Jeder im Raum hätte verstanden, warum er deshalb schneller werden wollte.\n\n'
+                      'Genau das war das Problem.\n\n'
+                      'Wenn die Lieferfreigabe gefährlich war, musste sie auch ohne Jana gefährlich sein. Wenn sie harmlos war, durfte seine Angst den fehlenden zweiten Anker nicht ersetzen.\n\n'
+                      'Er schob das Blatt so hin, dass Jonas es sehen konnte.\n\n'
+                      'Die Trennung sollte nicht nur in seinem Kopf existieren.')
           if text.count(anchor) != 1:
               raise SystemExit(f'anchor count={text.count(anchor)}')
           text = text.replace(anchor, anchor + '\n\n' + addition, 1)
