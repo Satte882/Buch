@@ -434,6 +434,42 @@ Daniel betrachtete das Foto mit dem Rolltor.
 
 „Komisch reicht nicht.“
 
+Jonas blieb an der Tür stehen.
+
+„Was wäre für dich genug?“
+
+Daniel sah vom Foto zu ihm.
+
+„Für die Kontrolle?“
+
+„Ja.“
+
+Daniel dachte kurz nach.
+
+„Ein Punkt, der die harmlose Arbeitserklärung beschädigt. Kein zweites Detail, das nur genauso aussieht wie das erste.“
+
+„Zum Beispiel?“
+
+„Kein Auftrag. Falscher Ansprechpartner. Fahrzeug nicht dort eingesetzt, wo die Firma es behauptet. Irgendwas, das unabhängig nicht passt.“
+
+Jonas nickte.
+
+„Und wenn wir genau das in einer Stunde finden?“
+
+„Dann reden wir neu.“
+
+„Also ist das kein Nein.“
+
+„Es ist ein Nein zu dem, was wir jetzt haben.“
+
+Jonas nahm den Zettel fester zwischen zwei Finger.
+
+„Das ist ein Unterschied, den draußen später keiner sieht.“
+
+Daniel sah wieder auf Ahrens.
+
+„Deshalb müssen wir ihn hier machen.“
+
 Jonas verzog kurz den Mund. Fast ein Lächeln, fast auch nicht.
 
 Dann ging er.
@@ -691,6 +727,42 @@ Jonas las über seine Schulter.
 „Dann ist es neu.“
 
 Er löschte ihn nicht aus der Welt. Er nahm ihn nur aus diesem Vorgang.
+
+Daniel öffnete noch einmal seinen eigenen ersten Vermerk vom Vortag.
+
+**Fotografieren. Frage nach Abendbetrieb. Fahrzeug erneut im Umfeld.**
+
+Drei Zeilen, die zusammen immer noch beunruhigend wirkten, wenn man die Erklärungen daneben nicht kannte.
+
+Er ergänzte keine vierte Zeile.
+
+Er setzte unter jede die bestätigte Erklärung.
+
+Arbeitsauftrag.
+
+Anlieferfenster.
+
+Anderer Aufbau in derselben Gegend.
+
+Jonas sah zu.
+
+„Du könntest den alten Vermerk auch einfach löschen.“
+
+„Nein.“
+
+„Warum?“
+
+„Weil die erste Bewertung existiert hat.“
+
+Daniel speicherte beide Stände.
+
+„Wenn wir nur den sauberen Schluss behalten, sieht es später so aus, als wäre das von Anfang an offensichtlich gewesen.“
+
+Jonas nickte langsam.
+
+Der Fehler lag nicht darin, Ahrens geprüft zu haben.
+
+Er hätte darin gelegen, aus der Prüfung einen Grund zu machen, ihn weiter festzuhalten.
 
 „Der Mann hätte heute vielleicht eine Verkehrskontrolle gehabt“, sagte Jonas.
 
@@ -1033,6 +1105,78 @@ Daniel sah auf.
 Daniel sah auf die drei ursprünglichen Zeilen. Elf Minuten. Drei Türen. Eine Gruppe, die nie existiert hatte.
 
 „Wäre schlimmer, wenn es mich nicht stören würde.“
+
+Lena blieb noch an der Tür stehen.
+
+„Sag mir, wo deine Geschichte gekippt ist.“
+
+Daniel sah sie an.
+
+„Welche?“
+
+„Die Gruppe.“
+
+Jonas hörte sofort auf, seine Tasse einzupacken.
+
+Daniel drehte den ersten Ausdruck wieder zu sich.
+
+„Hier.“
+
+Er zeigte auf die drei Zeitstempel.
+
+„Nein“, sagte Lena. „Da hat sie angefangen.“
+
+Daniel schwieg.
+
+Dann nahm er den ungesendeten Entwurf.
+
+**Möglicherweise koordinierte Nutzung mehrerer externer Zugänge außerhalb der regulären Zeitfenster.**
+
+„Hier“, sagte er.
+
+„Warum?“
+
+„Weil ich aus zeitlicher Nähe Koordination gemacht habe, bevor ich geprüft hatte, ob die Zeiten überhaupt dasselbe bedeuten.“
+
+Lena nickte.
+
+Daniel ging weiter.
+
+„Dann habe ich nach dem gemeinsamen Auftraggeber gesucht.“
+
+„Vernünftig.“
+
+„Ja. Aber in meinem Kopf war das schon eine Suche nach dem Bindeglied. Nicht mehr nur eine Prüfung, ob es eines gibt.“
+
+Jonas sagte: „Das klingt jetzt sehr fein.“
+
+Daniel sah zu ihm.
+
+„Ist es auch. Genau deshalb merkt man es zu spät.“
+
+Er nahm den verbliebenen Nachtzugang.
+
+„Der hier war echt. Wenn ich die Gruppe retten wollte, hätte ich ihn jetzt als Rest eines größeren Musters beschrieben.“
+
+Lena sagte: „Und stattdessen?“
+
+„Ist es ein einzelner unzulässiger Ausweisgebrauch mit erklärtem Anlass.“
+
+„Weniger spannend.“
+
+„Leider.“
+
+Jonas grinste wieder.
+
+Lena nicht.
+
+„Das ist die Arbeit“, sagte sie.
+
+Daniel sah auf seinen korrigierten Vermerk.
+
+Nicht das Finden des Musters.
+
+Auch das Aushalten, wenn es verschwand.
 
 Lena öffnete die Tür.
 
@@ -1444,6 +1588,50 @@ Daniel wollte widersprechen.
 
 Tat es nicht.
 
+Daniel nahm die Liste noch einmal, bevor Jana sie in den Ordner schob.
+
+„Eine Sache.“
+
+„Welche?“
+
+Er zeigte auf die Keramikschale aus dem Flur.
+
+„Die würde ich behalten.“
+
+Jana sah zum Karton.
+
+„Dann nimm sie mit.“
+
+„Jetzt?“
+
+„Wann sonst?“
+
+Daniel stand auf, öffnete den Karton und nahm die Schale wieder heraus. Sie war leichter, als er sie in Erinnerung hatte.
+
+„Und der Sessel?“ fragte Jana.
+
+Daniel sah auf die Liste.
+
+„Weg.“
+
+„Sicher?“
+
+Er hörte den Tonfall und musste lächeln.
+
+„Ja.“
+
+Jana setzte einen Haken.
+
+Es war keine große Entscheidung. Gerade deshalb fiel Daniel auf, wie ungewohnt endgültig das Geräusch des Stifts auf dem Papier wirkte.
+
+Die Schale nahm er unter den Arm.
+
+Den Sessel ließ er auf der Liste.
+
+Jana hatte nicht verlangt, dass er schneller trauerte.
+
+Nur dass seine Langsamkeit nicht automatisch ihr Tempo bestimmte.
+
 Später, als sie die Wohnung verließen, blieb Daniel noch einmal am Briefkasten stehen.
 
 Der Kunststoffstreifen saß schief.
@@ -1767,6 +1955,44 @@ Jonas las.
 Daniel schob die Ausdrucke zurück.
 
 „Gewöhn dich dran.“
+
+Daniel öffnete noch einmal die Optionen für die Adressmarkierung.
+
+Das System bot mehr an, als er brauchte.
+
+Beobachtungspunkt.
+
+Wiedervorlage.
+
+Verknüpfungsrelevant.
+
+Die Begriffe waren neutral genug, dass jeder davon vernünftig geklungen hätte.
+
+Er wählte keinen.
+
+Stattdessen blieb nur die Freitextnotiz im abgeschlossenen Vorgang.
+
+Jonas stand noch in der Tür.
+
+„Wenn später wirklich etwas mit der Anlage ist, findest du den Satz dann überhaupt wieder?“
+
+„Ja.“
+
+„Und wenn nicht?“
+
+„Dann war er offenbar nicht wichtig genug.“
+
+Jonas verzog das Gesicht.
+
+„Du hast ein erstaunlich entspanntes Verhältnis dazu, Dinge nicht wiederzufinden.“
+
+„Nur zu Dingen, für die wir keinen Anlass haben, sie absichtlich oben zu halten.“
+
+Daniel schloss die Maske.
+
+Die Adresse blieb vorhanden.
+
+Sie bekam nur kein Eigenleben.
 
 Jonas ging wieder.
 
@@ -2243,6 +2469,36 @@ Daniel sah auf den noch leeren Kalendereintrag.
 Mara nickte.
 
 „Gut.“
+
+Mara nahm ihr Glas und drehte es langsam zwischen den Händen.
+
+„Ich brauche Sonntag übrigens nicht von dir, dass du schon weißt, ob Hamburg funktioniert.“
+
+Daniel sah sie an.
+
+„Was dann?“
+
+„Dass du dich mit mir hinsetzt, bevor meine Frist die Entscheidung für uns übernimmt.“
+
+„Für uns?“
+
+„Für mich ist es meine Stelle. Für uns ist es trotzdem eine Veränderung.“
+
+Daniel nickte.
+
+„Und wenn du schon weißt, dass du willst?“
+
+Mara sah ihn einen Moment an.
+
+„Dann sage ich dir das auch.“
+
+Der Satz gefiel Daniel weniger, als er sollte.
+
+Nicht weil er wollte, dass Mara absagte.
+
+Weil er begriff, dass der Termin nicht dazu da war, ihm Entscheidungszeit zu geben.
+
+Er war dazu da, rechtzeitig Teil einer Entscheidung zu sein, die auch ohne ihn fallen konnte.
 
 „Du willst das schriftlich?“
 
