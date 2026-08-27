@@ -1,0 +1,24 @@
+name: Final AI reader-pass
+on:
+  push:
+    paths:
+      - '.github/workflows/final-ai-reader-pass-once.yml'
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply final reader-pass and rebuild
+        run: python .github/final_ai_reader_pass.py
+      - name: Commit manuscript and self-clean
+        run: |
+          git rm .github/workflows/final-ai-reader-pass-once.yml .github/final_ai_reader_pass.py
+          git add MANUSKRIPT/03_BAUSTEINE_05_06.md MANUSKRIPT/05_BAUSTEINE_08_09.md AUSNAHMEZUSTAND_FINAL.md
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Polish final reader rhythm before test readers'
+          git push
