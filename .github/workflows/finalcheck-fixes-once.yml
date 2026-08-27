@@ -1,0 +1,79 @@
+name: Final integration fixes one-time pass
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/finalcheck-fixes-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    if: github.event.head_commit.message == 'Apply final integration fixes'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Replace four integration blocks atomically
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          patch = Path('.github/finalcheck-fixes.txt').read_text(encoding='utf-8')
+
+          def part(label):
+              m = re.search(rf'^==={re.escape(label)}===\n(.*?)(?=^===|\Z)', patch, re.S | re.M)
+              if not m:
+                  raise SystemExit(f'missing {label}')
+              return m.group(1).strip()
+
+          replacements = [
+              ('MANUSKRIPT/01_BAUSTEINE_01_02.md', 'ch4'),
+              ('MANUSKRIPT/03_BAUSTEINE_05_06.md', 'ch21'),
+              ('MANUSKRIPT/03_BAUSTEINE_05_06.md', 'ch24'),
+              ('MANUSKRIPT/05_BAUSTEINE_08_09.md', 'ch38'),
+          ]
+
+          texts = {}
+          for path, label in replacements:
+              if path not in texts:
+                  texts[path] = Path(path).read_text(encoding='utf-8')
+              old = part(label + '_old')
+              new = part(label + '_new')
+              count = texts[path].count(old)
+              if count != 1:
+                  raise SystemExit(f'{label}: old block count {count}')
+              texts[path] = texts[path].replace(old, new, 1)
+
+          combined_parts = []
+          for path in [
+              'MANUSKRIPT/01_BAUSTEINE_01_02.md',
+              'MANUSKRIPT/02_BAUSTEINE_03_04.md',
+              'MANUSKRIPT/03_BAUSTEINE_05_06.md',
+              'MANUSKRIPT/04_BAUSTEIN_07.md',
+              'MANUSKRIPT/05_BAUSTEINE_08_09.md',
+          ]:
+              combined_parts.append(texts.get(path, Path(path).read_text(encoding='utf-8')))
+          combined = '\n'.join(combined_parts)
+          headings = re.findall(r'^##\s+(Prolog|\d+)\s*$', combined, re.M)
+          expected = ['Prolog'] + [str(i) for i in range(1,48)]
+          if headings != expected:
+              raise SystemExit('chapter structure changed')
+
+          for path, text in texts.items():
+              Path(path).write_text(text, encoding='utf-8')
+          PY
+      - name: Remove temporary files and commit
+        shell: bash
+        run: |
+          git rm .github/workflows/finalcheck-fixes-once.yml .github/finalcheck-fixes.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MANUSKRIPT/01_BAUSTEINE_01_02.md MANUSKRIPT/03_BAUSTEINE_05_06.md MANUSKRIPT/05_BAUSTEINE_08_09.md
+          git commit -m 'Fix final-pass integration seams'
+          git push
