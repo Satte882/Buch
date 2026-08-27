@@ -1,0 +1,64 @@
+name: B07 final one-time pass
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/b07-final-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.head_commit.message == 'Apply B07 final depth pass'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Apply B07 final depth additions
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          manuscript = Path('MANUSKRIPT/04_BAUSTEIN_07.md')
+          patchfile = Path('.github/b07-final-patch.txt')
+          text = manuscript.read_text(encoding='utf-8')
+          patch = patchfile.read_text(encoding='utf-8')
+
+          labels = ['34', '35', '37']
+          parts = {}
+          for i, label in enumerate(labels):
+              marker = f'==={label}===\n'
+              start = patch.index(marker) + len(marker)
+              if i + 1 < len(labels):
+                  end = patch.index(f'==={labels[i+1]}===\n', start)
+              else:
+                  end = len(patch)
+              parts[label] = patch[start:end].strip()
+
+          def insert_after(src, anchor, addition, label):
+              count = src.count(anchor)
+              if count != 1:
+                  raise SystemExit(f'{label}: expected anchor once, got {count}')
+              return src.replace(anchor, anchor + '\n' + addition + '\n', 1)
+
+          text = insert_after(text, 'Diesmal konnte man sie prüfen.\n', parts['34'], '34')
+          text = insert_after(text, 'Vor dem Schaden hatte ein engerer Weg existiert.\n\nNicht sicher erfolgreich.\n\nAber real.\n', parts['35'], '35')
+          text = insert_after(text, 'Er markierte sie auch nicht als bestätigt.\n', parts['37'], '37')
+
+          manuscript.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Self-remove temporary files and commit
+        shell: bash
+        run: |
+          git rm .github/workflows/b07-final-once.yml .github/b07-final-patch.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MANUSKRIPT/04_BAUSTEIN_07.md
+          git commit -m 'Finish reversal block to chapter minimums'
+          git push
