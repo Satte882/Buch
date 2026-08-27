@@ -187,19 +187,11 @@ def build_docx(source: Path, output: Path) -> None:
     for _ in range(5):
         doc.add_paragraph()
 
-    definition_title = doc.add_paragraph()
-    definition_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    definition_title.paragraph_format.first_line_indent = Cm(0)
-    definition_title.paragraph_format.space_after = Pt(6)
-    run = definition_title.add_run("Normalfall")
-    run.bold = True
-    set_run_font(run, size=13)
-
     definition = doc.add_paragraph()
     definition.alignment = WD_ALIGN_PARAGRAPH.CENTER
     definition.paragraph_format.first_line_indent = Cm(0)
     definition.paragraph_format.space_after = Pt(30)
-    run = definition.add_run("Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.")
+    run = definition.add_run("Normalfall, der: Ein Fall, der nach den üblichen Regeln behandelt wird.")
     set_run_font(run, size=12)
 
     epigraph = doc.add_paragraph()
