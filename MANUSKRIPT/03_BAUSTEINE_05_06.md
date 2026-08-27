@@ -4012,6 +4012,18 @@ Darunter:
 
 **Privatwissen erhöht Druck, nicht Gefahrenevidenz.**
 
+Daniel zog darunter eine zweite Linie. Neben Janas Namen schrieb er keine Dringlichkeitsstufe.
+
+Er hätte sie ohne Mühe als Argument benutzen können. Fünfzehn Minuten alte Beobachtung. Schwester. Unbekannte Quelle. Jeder im Raum hätte verstanden, warum er deshalb schneller werden wollte.
+
+Genau das war das Problem.
+
+Wenn die Lieferfreigabe gefährlich war, musste sie auch ohne Jana gefährlich sein. Wenn sie harmlos war, durfte seine Angst den fehlenden zweiten Anker nicht ersetzen.
+
+Er schob das Blatt so hin, dass Jonas es sehen konnte.
+
+Die Trennung sollte nicht nur in seinem Kopf existieren.
+
 Seine Hand schrieb sauber. Sein Körper hielt sich nicht daran. Der Nacken war hart, der Mund trocken, und während Jonas die Lieferfreigabe prüfte, musste Daniel sich zweimal davon abhalten, Jana anzurufen, bevor er überhaupt wusste, was er ihr sagen konnte.
 
 „Du bist gerade schneller“, sagte Jonas.
