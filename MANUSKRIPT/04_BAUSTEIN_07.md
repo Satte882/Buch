@@ -438,6 +438,16 @@ Diesmal wirkte die Lücke nicht leer.
 
 Diesmal konnte man sie prüfen.
 
+Daniel hielt den Betriebshof-Ausdruck noch einen Moment fest.
+
+Nicht weil er mehr darin sah als vorher.
+
+Sondern weil zum ersten Mal ein Fall übrig blieb, bei dem das Prüfkriterium nicht sofort zerfiel.
+
+Kein Muster aus Stimmung.
+
+Ein nächster konkreter Test.
+
 ---
 
 ## 35
@@ -721,6 +731,114 @@ Vor dem Schaden hatte ein engerer Weg existiert.
 Nicht sicher erfolgreich.
 
 Aber real.
+
+Daniel blieb bei der Frage, ob dieser engere Weg damals überhaupt ohne jene späteren Sondermittel möglich gewesen wäre.
+
+„Stopp“, sagte er. „Wir benutzen gerade Wissen von heute.“
+
+Lena sah auf die Markierungen.
+
+„Welches?“
+
+„Dass der Transporter wichtig war.“
+
+„Dann streichen wir alles, was erst später Bedeutung bekommen hat.“
+
+Jonas zog den damaligen Arbeitsstand auf.
+
+Nur das Kennzeichen.
+
+Zeit.
+
+Ort.
+
+Der bereits bekannte Randkontakt.
+
+Nicht der spätere Betriebshof.
+
+Nicht die Verletzung.
+
+Nicht die spätere Täterstruktur in ihrer heutigen Klarheit.
+
+Daniel zeigte auf den Randkontakt.
+
+„Reicht das für den ersten Prüfschritt?“
+
+Lena nickte langsam.
+
+„Für eine gezielte Abklärung des Fahrzeugs: ja. Nicht für einen Zugriff. Nicht für eine breite Personenauswertung.“
+
+„Also ohne unsere spätere Projektstruktur.“
+
+„Ja.“
+
+Das traf ihn stärker als die Frage nach Minuten.
+
+Der frühere, engere Weg hätte gerade **keine** Ausnahme gebraucht.
+
+Er hätte nur das Detail gebraucht, das in der Warnung fehlte.
+
+Daniel nahm die damalige Nachricht wieder zur Hand.
+
+Die Quelle hatte ihm eine große Gefahr gegeben, für die seine normalen Mittel zu langsam wirkten.
+
+Im selben Zeitraum existierte ein kleineres, konkreteres Fragment, mit dem normales Arbeiten wenigstens hätte beginnen können.
+
+„Und wenn die Fahrzeugprüfung nichts ergeben hätte?“
+
+„Dann hätten wir genau das gewusst“, sagte Lena.
+
+„Und Zeit verloren.“
+
+„Vielleicht.“
+
+Daniel lächelte kurz ohne Humor.
+
+Da war es wieder.
+
+Zeitverlust.
+
+Das Argument, das seit dem Betriebshof in fast jeder späteren Entscheidung mit am Tisch gesessen hatte.
+
+Er sah noch einmal in den alten Krankenhausvermerk.
+
+Nicht auf die Diagnose.
+
+Auf die Reihenfolge.
+
+Erste Meldung.
+
+Transporter.
+
+Schranke.
+
+Verletzter Mann.
+
+Die Ereignisse blieben dieselben.
+
+Nur Daniels Lehre daraus war nicht mehr vollständig.
+
+Er hatte geglaubt, die Wahl sei gewesen zwischen Warten und Schaden.
+
+Jetzt musste er eine dritte Möglichkeit danebenlegen:
+
+Vielleicht war die Lage so gebaut worden, dass ihm ein engerer Weg gar nicht erst sichtbar wurde.
+
+Nicht bewiesen.
+
+Aber nicht mehr wegzuerklären.
+
+Daniel schrieb unter die drei Zeitpunkte nur einen Satz:
+
+**Frühere Schadensbegrenzung realistisch möglich; Ausgang offen.**
+
+Lena las ihn.
+
+„Damit kann ich leben.“
+
+Daniel sah auf den Satz.
+
+„Ich gerade nicht.“
 
 Daniel sah wieder auf die Tabelle.
 
@@ -1883,6 +2001,16 @@ Daniel schloss die Nachricht der Quelle.
 Er löschte sie nicht.
 
 Er markierte sie auch nicht als bestätigt.
+
+Daniel ließ Jonas zusätzlich notieren, welche Aussage **noch keinen** unabhängigen Anker hatte.
+
+Die Zugangserweiterung blieb offen.
+
+Die behauptete Unkorrigierbarkeit vor Einlass ebenfalls.
+
+Zwei reale Teiltreffer machten aus der Nachricht keinen Gesamtbeweis.
+
+Genau diese Trennung musste bis zur nächsten Entscheidung halten.
 
 „Weiterprüfen“, sagte er.
 
