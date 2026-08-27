@@ -1,0 +1,62 @@
+name: B02 target-depth one-time pass
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/b02-target-depth-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.head_commit.message == 'Apply B02 target-depth pass'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Deepen chapters 1 to 6
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          manuscript = Path('MANUSKRIPT/01_BAUSTEINE_01_02.md')
+          patchfile = Path('.github/b02-target-depth-patch.txt')
+          text = manuscript.read_text(encoding='utf-8')
+          patch = patchfile.read_text(encoding='utf-8')
+
+          labels = ['1','2','3','4','5','6']
+          parts = {}
+          for i, label in enumerate(labels):
+              marker = f'==={label}===\n'
+              start = patch.index(marker) + len(marker)
+              end = patch.index(f'==={labels[i+1]}===\n', start) if i + 1 < len(labels) else len(patch)
+              parts[label] = patch[start:end].strip()
+
+          def insert_after(src, anchor, addition, label):
+              count = src.count(anchor)
+              if count != 1:
+                  raise SystemExit(f'chapter {label}: anchor count {count}: {anchor!r}')
+              return src.replace(anchor, anchor + '\n' + addition + '\n', 1)
+
+          text = insert_after(text, '„Komisch reicht nicht.“\n', parts['1'], '1')
+          text = insert_after(text, 'Er löschte ihn nicht aus der Welt. Er nahm ihn nur aus diesem Vorgang.\n', parts['2'], '2')
+          text = insert_after(text, '„Wäre schlimmer, wenn es mich nicht stören würde.“\n', parts['3'], '3')
+          text = insert_after(text, '„Dann entscheide ich.“\n\nDaniel wollte widersprechen.\n\nTat es nicht.\n', parts['4'], '4')
+          text = insert_after(text, '„Gewöhn dich dran.“\n', parts['5'], '5')
+          text = insert_after(text, '„Sonntag, achtzehn Uhr. Wenn nichts Akutes ist, verschiebe ich es nicht.“\n\nMara nickte.\n\n„Gut.“\n', parts['6'], '6')
+
+          manuscript.write_text(text, encoding='utf-8')
+          PY
+      - name: Self-remove temporary files and commit
+        shell: bash
+        run: |
+          git rm .github/workflows/b02-target-depth-once.yml .github/b02-target-depth-patch.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MANUSKRIPT/01_BAUSTEINE_01_02.md
+          git commit -m 'Deepen Daniel baseline world toward target weight'
+          git push
