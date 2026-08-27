@@ -2956,7 +2956,7 @@ Die neue Chronologie änderte keinen operativen Fakt. Mika blieb beteiligt. Der 
 
 Nur Daniels Platz darin hatte sich verschoben.
 
-Nicht: Wer kannte den Fall?Nicht: Wer kannte den Fall?
+Nicht: Wer kannte den Fall?
 
 Wer kannte ihn?
 
