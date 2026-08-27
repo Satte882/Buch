@@ -338,11 +338,7 @@ Daniel sah ihn an.
 
 „Ich halte es für unseres.“
 
-Daniel ließ Jonas den neuen Stand einmal an eine Kollegin geben, die die anonyme Nachricht nicht vor sich hatte.
-
-„Nur die drei Anker“, sagte er.
-
-Die Kollegin las.
+Daniel nahm ein leeres Blatt und schrieb nur die drei unabhängigen Anker darauf.
 
 Vorgezogene Freigabe.
 
@@ -350,65 +346,41 @@ Fahrzeugbezug.
 
 Aktueller Ausweis einer Person mit realer Altverbindung.
 
-„Was soll ich daraus ableiten?“
+Daneben schrieb er nicht Hellers Deutung, sondern die jeweils schwächste plausible Gegenlesart.
 
-Daniel antwortete nicht.
+**Fehlerhaft zugeordnete Änderung.**
 
-„Akute Prüfung des Servicebereichs“, sagte sie schließlich. „Aber ich würde nicht behaupten, dass ich die ganze Struktur kenne.“
+**Berufliche Fahrt mit zufälligem Altbezug.**
 
-Lena sah zu Daniel.
+**Früher Kontakt ohne heutige operative Rolle.**
 
-Genau das wollte er wissen.
+Lena las über seine Schulter.
 
-Ohne Hellers Gesamtbild entstand immer noch eine Handlungslage.
+„Und?“
 
-Nur keine fertige Geschichte.
+Daniel sah auf die beiden Spalten.
 
-Daniel fragte: „Was fehlt dir?“
+Keine Gegenlesart war für sich widerlegt.
 
-„Wer die Freigabe manipuliert hat. Welche Rolle das Fahrzeug genau hat. Ob die Person mehr ist als Kontakt und Zugang.“
+Aber um den gesamten aktuellen Zusammenhang wieder banal zu machen, mussten mehrere voneinander unabhängige Auffälligkeiten gleichzeitig harmlos sein.
 
-Drei Lücken.
+Das bewies Hellers Gesamtbild nicht.
 
-Dieselben, die Jonas notiert hatte.
+Es reichte für etwas Kleineres.
 
-Daniel nahm den Ausdruck zurück.
+Eine akute Prüfung des Servicebereichs, ohne schon zu behaupten, die ganze Struktur zu kennen.
 
-Die Beweiskette trug also nicht nur, weil alle im Raum Hellers Nachricht längst kannten.
+Daniel setzte darunter drei offene Fragen:
 
-Sie ließ sich auch jemandem vorlegen, der nur ihre unabhängigen Teile sah.
+Wer hatte die Freigabe verändert?
 
-Das war keine Reinheit.
+Welche Rolle hatte das Fahrzeug tatsächlich?
 
-Aber es war ein brauchbarer Test gegen Kontamination.
+War die Person mehr als Kontakt und Zugang?
 
-Daniel bat die Kollegin um eine zweite Lesart.
+Die Lücken blieben sichtbar.
 
-„Was wäre die harmlose Version?“
-
-Sie zeigte zuerst auf die Freigabe.
-
-„Falsch zugeordnete Änderung.“
-
-Dann auf das Fahrzeug.
-
-„Berufliche Fahrt, die nur wegen einer alten Adresse auffällt.“
-
-Dann auf die Person.
-
-„Früher Kontakt ohne heutige operative Rolle.“
-
-Daniel nickte.
-
-Keine der Erklärungen war widerlegt.
-
-Aber alle drei mussten gleichzeitig genug tragen, um den aktuellen Zusammenhang wieder vollständig banal zu machen.
-
-Das war kein mathematischer Beweis.
-
-Nur der Punkt, an dem mehrere unabhängige Auffälligkeiten eine akute Prüfung rechtfertigten, ohne dass daraus schon Hellers vollständiges Szenario wurde.
-
-Daniel ließ auch diese Gegenlesarten im Stand.
+Genau so sollte der Stand weiterlaufen.
 
 Berg drehte sich zurück.
 

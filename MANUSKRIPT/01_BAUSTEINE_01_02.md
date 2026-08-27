@@ -1664,9 +1664,7 @@ Jana hatte nicht verlangt, dass er schneller trauerte.
 
 Nur dass seine Langsamkeit nicht automatisch ihr Tempo bestimmte.
 
-Auf der Treppe trug Daniel die Keramikschale unter dem Arm. Jana hatte den Ordner an die Brust gedrückt.
-
-Eine Etage tiefer blieb sie stehen.
+Jana schob den Ordner nicht sofort zu.
 
 „Freitag schicke ich dir den Vergleich und den Vorschlag vom Makler.“
 
@@ -1680,7 +1678,7 @@ Jana hob die Hand.
 
 „Nicht weil du mir egal bist. Weil die Wohnung nicht noch einen Monat auf eine Entscheidung von dir warten kann.“
 
-Daniel sah auf die Schale.
+Daniel sah auf die Keramikschale unter seinem Arm.
 
 „Ich habe verstanden.“
 
@@ -1696,15 +1694,13 @@ Er musste kurz lächeln.
 
 „Sehr wahrscheinlich.“
 
-Sie gingen weiter.
+Jana klappte den Ordner zu.
 
-Unten im Flur sah Daniel wieder die Briefkästen. Jana ging bereits zur Tür.
-
-Er hätte sie jetzt noch einmal fragen können, ob der Makler vielleicht am Schild gewesen war. Ob der Hausmeister Zugriff auf die Kästen hatte. Ob jemand in den vergangenen Tagen länger im Flur gestanden hatte.
+Daniel dachte noch einmal an den Briefkasten unten. Er hätte sie weiter fragen können, ob der Makler vielleicht am Schild gewesen war. Ob der Hausmeister Zugriff auf die Kästen hatte. Ob jemand in den vergangenen Tagen länger im Flur gestanden hatte.
 
 Keine dieser Fragen war völlig absurd.
 
-Keine war im Moment stark genug, um Jana wieder anzuhalten.
+Keine war im Moment stark genug, um aus dem schiefen Kunststoff mehr zu machen.
 
 Daniel merkte, dass beide Entscheidungen denselben unangenehmen Kern hatten: Beim Briefkasten ließ er etwas ungeklärt. Bei der Wohnung ließ Jana nicht zu, dass Ungeklärtheit automatisch Aufschub bedeutete.
 

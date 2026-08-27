@@ -1448,43 +1448,35 @@ Nur Jonas, der einen alten Zugriff aus der Aufgabenliste strich und durch einen 
 
 Und Daniel, der merkte, dass sich dieser neue Pfad sofort vernünftiger anfühlte als alles, was sie in den letzten Tagen improvisiert hatten.
 
-Die erste echte Nutzung des neuen Weges war enttäuschend banal.
+Daniel sah noch einmal auf den Vergleich, den Jonas eben geöffnet hatte.
 
-Jonas stellte eine Fahrzeugfrage ein, die im alten Ablauf zwei Rückrufe gebraucht hätte. Ein Transporter war am Rand eines relevanten Zeitfensters aufgetaucht.
+Alter Ablauf links. Projektweg rechts.
 
-Vier Minuten später lag die Halterzuordnung vor.
+Dasselbe Beispiel, dieselben Fragen. Fahrzeug. Berechtigung. Firmenbezug.
 
-Weitere drei Minuten später die dienstliche Erklärung.
+Links liefen sie nacheinander. Rechts gleichzeitig.
 
-Regulärer Auftrag. Dokumentiert. Ende.
+„Was passiert, wenn am Ende nichts ist?“, fragte Daniel.
 
-Jonas sah auf die Uhr.
+Jonas zuckte mit den Schultern. „Dann wissen wir schneller, dass nichts ist.“
 
-„Sieben Minuten.“
+Berg nickte. „Ist doch auch ein Nutzen.“
 
-Lena fragte: „Und früher?“
+Lena sagte: „Und wir haben dafür trotzdem mehrere Daten gleichzeitig zusammengeführt.“
 
-„Wenn alle rangegangen wären? Zwanzig, dreißig.“
+„Auch wahr“, sagte Jonas.
 
-Berg sagte: „Also funktioniert es.“
+Daniel sah auf die rechte Seite.
 
-Daniel sah auf den geschlossenen Treffer.
+Genau das machte den neuen Weg überzeugender als einen Sonderzugriff, der nur in dramatischen Fällen Nutzen versprach.
 
-„Es hat schneller gezeigt, dass nichts ist.“
+Er konnte auch einen banalen Zusammenhang schneller schließen.
 
-„Ist doch auch Funktion.“
+Kein Heldentreffer. Keine Gefahr. Nur weniger Zeit, in der etwas offen blieb.
 
-Ja.
+Das fühlte sich vernünftig an.
 
-Genau das machte den neuen Weg überzeugender als einen Sonderzugriff, der nur in dramatischen Fällen Nutzen brachte.
-
-Er sparte auch Zeit beim Entkräften.
-
-Kein Heldentreffer. Keine Gefahr. Nur ein Name, der nach sieben Minuten wieder aus dem aktiven Stand verschwand.
-
-Daniel merkte, dass er das fast beruhigender fand als den großen Nutzen vom Vortag.
-
-Ein Verfahren, das auch bei banalen Fällen vernünftig wirkte, musste sich nicht mehr wie eine Ausnahme anfühlen.
+Vielleicht gerade deshalb nicht mehr wie eine Ausnahme.
 
 ---
 
@@ -2806,17 +2798,7 @@ Darunter schrieb er:
 
 **Folgewirkung außerhalb des eigenen Vorgangs nicht automatisch reversibel.**
 
-Jonas las den Satz später und fragte: „Ist das noch unser Thema?“
-
-Daniel sah auf Webers leere Schichtzeile.
-
-„Wenn unsere Bewertung es ausgelöst hat, ja.“
-
-Nicht für immer.
-
-Aber lange genug, dass der Erfolg der Korrektur nicht mit dem Ende des Schadens verwechselt wurde.
-
-Daniel ließ sich zusätzlich bestätigen, wann die Korrektur beim Arbeitgeber angekommen war.
+Dann ließ er sich bestätigen, wann die Korrektur beim Arbeitgeber angekommen war.
 
 Zeitstempel: 10.14 Uhr.
 
