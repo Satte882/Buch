@@ -1,0 +1,45 @@
+name: Chapter 41 final discipline beat
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/ch41-final-discipline-beat-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.head_commit.message == 'Add final chapter 41 discipline beat'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Insert final functional beat
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          path = Path('MANUSKRIPT/05_BAUSTEINE_08_09.md')
+          text = path.read_text(encoding='utf-8')
+          anchor = 'Daniel ließ Jonas deshalb bei jeder neuen Meldung den Ursprung voranstellen.'
+          addition = ('Nicht Hellers Nachricht entschied, welche Spur oben blieb. Die Reihenfolge kam aus den unabhängigen Rückmeldungen. '
+                      'Wenn eine davon wegbrach, musste auch die Lage kleiner werden – selbst jetzt, selbst kurz vor dem Zugriff. '
+                      'Kein Treffer durfte nur deshalb schwerer wiegen, weil er in die letzten Minuten passte.')
+          if text.count(anchor) != 1:
+              raise SystemExit(f'anchor count={text.count(anchor)}')
+          text = text.replace(anchor, anchor + '\n\n' + addition, 1)
+          path.write_text(text, encoding='utf-8')
+          print('PASS inserted chapter 41 discipline beat')
+          PY
+      - name: Self-remove and commit
+        shell: bash
+        run: |
+          git rm .github/workflows/ch41-final-discipline-beat-once.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MANUSKRIPT/05_BAUSTEINE_08_09.md
+          git commit -m 'Strengthen chapter 41 final discipline'
+          git push
