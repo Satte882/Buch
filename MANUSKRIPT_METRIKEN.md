@@ -4,10 +4,10 @@
 
 ## Gesamtstand
 
-- **Ist:** 64.408 Wörter
+- **Ist:** 64.817 Wörter
 - **Planungsziel:** 77.000 Wörter
-- **Lücke zum Planungsziel:** 12.592 Wörter
-- **Zielerreichung:** 83,6%
+- **Lücke zum Planungsziel:** 12.183 Wörter
+- **Zielerreichung:** 84,2%
 
 ## Bausteine – Ist gegen Ziel
 
@@ -21,7 +21,7 @@
 | 06 | Moralischer / psychologischer Kipppunkt | 11.441 | 13.400 | +1.959 | 85.4% |
 | 07 | Reversal / Umdeutung | 6.172 | 7.000 | +828 | 88.2% |
 | 08 | Finale Entscheidung & Konsequenz | 8.589 | 10.500 | +1.911 | 81.8% |
-| 09 | Nachhall / Schlussszene | 3.414 | 4.800 | +1.386 | 71.1% |
+| 09 | Nachhall / Schlussszene | 3.823 | 4.800 | +977 | 79.6% |
 
 ## Kapitel – Ist-Wortzahl
 
@@ -71,9 +71,9 @@
 | 08 | 41 | 1.526 |
 | 08 | 42 | 1.182 |
 | 08 | 43 | 1.253 |
-| 09 | 44 | 876 |
-| 09 | 45 | 820 |
-| 09 | 46 | 701 |
+| 09 | 44 | 1.015 |
+| 09 | 45 | 942 |
+| 09 | 46 | 849 |
 | 09 | 47 | 1.017 |
 
 ## Zählregel
