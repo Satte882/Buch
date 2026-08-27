@@ -1,0 +1,61 @@
+name: B04 target-depth one-time pass
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/b04-target-depth-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.head_commit.message == 'Apply B04 target-depth pass'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Deepen chapters 14 to 18
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          manuscript = Path('MANUSKRIPT/02_BAUSTEINE_03_04.md')
+          patchfile = Path('.github/b04-target-depth-patch.txt')
+          text = manuscript.read_text(encoding='utf-8')
+          patch = patchfile.read_text(encoding='utf-8')
+
+          labels = ['14','15','16','17','18']
+          parts = {}
+          for i, label in enumerate(labels):
+              marker = f'==={label}===\n'
+              start = patch.index(marker) + len(marker)
+              end = patch.index(f'==={labels[i+1]}===\n', start) if i + 1 < len(labels) else len(patch)
+              parts[label] = patch[start:end].strip()
+
+          def insert_after(src, anchor, addition, label):
+              count = src.count(anchor)
+              if count != 1:
+                  raise SystemExit(f'chapter {label}: anchor count {count}: {anchor!r}')
+              return src.replace(anchor, anchor + '\n' + addition + '\n', 1)
+
+          text = insert_after(text, 'Daniel hinterlegte den aktuellen Vorgang.\n\nDas machte die Verwendung nicht sauber.\n\nEs machte sie nur sichtbar.\n', parts['14'], '14')
+          text = insert_after(text, '„Ab hier nichts mehr nur wegen meines Treffers.“\n', parts['15'], '15')
+          text = insert_after(text, 'Daniel schrieb jedes Teil einzeln auf.\n', parts['16'], '16')
+          text = insert_after(text, 'Berg sah zu Daniel.\n\n„Ich nehme ihn nicht aus dem Fall.“\n', parts['17'], '17')
+          text = insert_after(text, 'Das war besser.\n\nKeine Person war darin automatisch Quelle.\n\nNur Informationswege.\n', parts['18'], '18')
+
+          manuscript.write_text(text, encoding='utf-8')
+          PY
+      - name: Self-remove temporary files and commit
+        shell: bash
+        run: |
+          git rm .github/workflows/b04-target-depth-once.yml .github/b04-target-depth-patch.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MANUSKRIPT/02_BAUSTEINE_03_04.md
+          git commit -m 'Deepen first-decision block toward target weight'
+          git push
