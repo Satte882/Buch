@@ -1,0 +1,70 @@
+name: Build test-reader DOCX
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - AUSNAHMEZUSTAND_FINAL.md
+      - scripts/build_testreader_docx.py
+      - .github/workflows/build-testreader-docx.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install build and QA dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install python-docx
+          sudo apt-get update
+          sudo apt-get install -y libreoffice poppler-utils fonts-liberation
+
+      - name: Build DOCX
+        run: |
+          python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND.docx
+          test -s AUSNAHMEZUSTAND.docx
+
+      - name: Render for visual QA
+        run: |
+          mkdir -p qa/pages
+          libreoffice --headless --convert-to pdf --outdir qa AUSNAHMEZUSTAND.docx
+          test -s qa/AUSNAHMEZUSTAND.pdf
+          pdfinfo qa/AUSNAHMEZUSTAND.pdf | tee qa/pdfinfo.txt
+          pdftoppm -png -r 110 qa/AUSNAHMEZUSTAND.pdf qa/pages/page >/dev/null 2>&1
+          PAGE_COUNT=$(find qa/pages -name 'page-*.png' | wc -l)
+          echo "Rendered pages: ${PAGE_COUNT}"
+          test "${PAGE_COUNT}" -gt 100
+
+      - name: Upload QA artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ausnahmezustand-docx-qa
+          path: |
+            AUSNAHMEZUSTAND.docx
+            qa/AUSNAHMEZUSTAND.pdf
+            qa/pdfinfo.txt
+            qa/pages/*.png
+          retention-days: 7
+
+      - name: Commit Word manuscript
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AUSNAHMEZUSTAND.docx
+          if git diff --cached --quiet; then
+            echo "DOCX unchanged"
+            exit 0
+          fi
+          git commit -m "Build Word test-reader manuscript"
+          git push
