@@ -5726,6 +5726,32 @@ Genau deshalb wusste Daniel, welche Diskussion als Nächstes schwerer geworden w
 
 Nicht leichter.
 
+Jonas setzte sich wieder.
+
+„Was schreibe ich als Ergebnis für den breiten Abgleich?“
+
+Daniel sah auf die offenen und geschlossenen Treffer.
+
+„Nicht: hat funktioniert.“
+
+„Sondern?“
+
+„Dass er den Strang sichtbar gemacht hat. Und dass die Maßnahme erst nach unabhängiger Bestätigung kam.“
+
+Lena sah zu ihm.
+
+„Und die Fehlzuordnungen?“
+
+„Gehören in denselben Nachbericht.“
+
+Jonas nickte und begann zu schreiben.
+
+Daniel wusste, warum ihm die Formulierung wichtig war. Wenn aus diesem Abend später nur der verhinderte Schaden übrigblieb, würde die Entscheidung im Rückblick sauberer aussehen, als sie gewesen war.
+
+Der Erfolg durfte wahr bleiben.
+
+Die Kosten auch.
+
 ---
 
 ## 32
@@ -5977,6 +6003,46 @@ Daniel antwortete nach einem Moment: „Es ändert sich etwas.“
 Mehr Sicherheit hatten sie gerade nicht.
 
 Diesmal versuchte Daniel nicht, sie durch einen Termin zu ersetzen.
+
+„Und du?“ fragte Mara.
+
+Daniel brauchte einen Moment.
+
+„Was ich?“
+
+„Wie sieht deine nächste Woche aus?“
+
+Er sah auf das dunkle Gebäude vor sich.
+
+„Weiß ich nicht.“
+
+„Gar nicht?“
+
+„Morgen früh sieben dreißig. Danach hängt es von der Lage ab.“
+
+Mara schwieg kurz.
+
+Daniel merkte, dass er sich schon erklären wollte.
+
+Tat er nicht.
+
+„Dann weißt du es nicht“, sagte sie.
+
+„Ja.“
+
+„Ist auch eine Information.“
+
+Daniel lächelte schwach.
+
+„Wir sind heute erstaunlich gut in ehrlichen schlechten Antworten.“
+
+„Vielleicht brauchen wir die gerade mehr als gute erfundene.“
+
+Daniel sagte nichts darauf.
+
+Es war kein Versprechen für Hamburg.
+
+Aber es war ein Gespräch, in dem nicht nur Mara ihr neues Leben erklären musste.
 
 Daniel auch nicht.
 
