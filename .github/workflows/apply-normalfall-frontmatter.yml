@@ -30,9 +30,7 @@ jobs:
               '',
               '---',
               '',
-              '**Normalfall**',
-              '',
-              'Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.',
+              '**Normalfall, der:** Ein Routinefall, der den geltenden Regeln entspricht.',
               '',
               '*Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.*',
               '',
@@ -65,19 +63,11 @@ jobs:
               '    for _ in range(5):',
               '        doc.add_paragraph()',
               '',
-              '    definition_title = doc.add_paragraph()',
-              '    definition_title.alignment = WD_ALIGN_PARAGRAPH.CENTER',
-              '    definition_title.paragraph_format.first_line_indent = Cm(0)',
-              '    definition_title.paragraph_format.space_after = Pt(6)',
-              '    run = definition_title.add_run("Normalfall")',
-              '    run.bold = True',
-              '    set_run_font(run, size=13)',
-              '',
               '    definition = doc.add_paragraph()',
               '    definition.alignment = WD_ALIGN_PARAGRAPH.CENTER',
               '    definition.paragraph_format.first_line_indent = Cm(0)',
               '    definition.paragraph_format.space_after = Pt(30)',
-              '    run = definition.add_run("Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.")',
+              '    run = definition.add_run("Normalfall, der: Ein Routinefall, der den geltenden Regeln entspricht.")',
               '    set_run_font(run, size=12)',
               '',
               '    epigraph = doc.add_paragraph()',
@@ -106,7 +96,7 @@ jobs:
           front = text.split('## Prolog', 1)[0]
           assert text.startswith('# NORMALFALL\n')
           assert '*Psychothriller*' in front
-          assert 'Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.' in front
+          assert 'Normalfall, der: Ein Routinefall, der den geltenden Regeln entspricht.' in front
           assert 'Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.' in front
           assert re.findall(r'^## (Prolog|\d+)$', text, re.M) == ['Prolog'] + [str(i) for i in range(1, 48)]
           assert text.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
