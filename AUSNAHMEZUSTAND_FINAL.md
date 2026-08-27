@@ -2661,10 +2661,6 @@ Aber die Nachricht war eingegangen, bevor Daniel den Vorgang im System vollstän
 
 Er prüfte die Uhrzeit noch einmal.
 
-Dann den Briefkasten.
-
-20.11 Uhr.
-
 Daniel ging zurück in den zweiten Stock.
 
 Jonas saß an seinem Platz und hatte Kopfhörer auf. Er bemerkte Daniel erst, als der neben seinem Tisch stehen blieb.
@@ -3350,8 +3346,6 @@ Daniel sah auf den abgeschnittenen Rand.
 „Ist auch kein Freibrief.“
 
 Daniel lehnte sich zurück.
-
-Lena ließ sich mit der Antwort zufrieden geben. Vorerst.
 
 Lena sah Daniel an.
 
