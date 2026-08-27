@@ -91,7 +91,7 @@ jobs:
 
           check = final_path.read_text(encoding='utf-8')
           front = check.split('## Prolog', 1)[0]
-          assert 'Normalfall, der: Ein Fall, der nach den üblichen Regeln behandelt wird.' in front
+          assert '**Normalfall, der:** Ein Fall, der nach den üblichen Regeln behandelt wird.' in front
           assert 'Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.' in front
           assert re.findall(r'^## (Prolog|\d+)$', check, re.M) == ['Prolog'] + [str(i) for i in range(1, 48)]
           assert check.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
