@@ -4,23 +4,23 @@
 
 ## Gesamtstand
 
-- **Ist:** 75.050 Wörter
+- **Ist:** 74.843 Wörter
 - **Planungsziel:** 77.000 Wörter
-- **Lücke zum Planungsziel:** 1.950 Wörter
-- **Zielerreichung:** 97,5%
+- **Lücke zum Planungsziel:** 2.157 Wörter
+- **Zielerreichung:** 97,2%
 
 ## Bausteine – Ist gegen Ziel
 
 | Baustein | Funktion | Ist Wörter | Ziel | Lücke | Ziel erreicht |
 |---|---|---:|---:|---:|---:|
 | 01 | Cold Open | 617 | 800 | +183 | 77.1% |
-| 02 | Ausgangswelt Daniel | 8.994 | 9.000 | +6 | 99.9% |
+| 02 | Ausgangswelt Daniel | 8.979 | 9.000 | +21 | 99.8% |
 | 03 | Auslösendes Ereignis | 11.033 | 11.000 | -33 | 100.3% |
 | 04 | Erste Entscheidung | 8.472 | 8.500 | +28 | 99.7% |
-| 05 | Entdeckung & Eskalation | 11.943 | 12.000 | +57 | 99.5% |
+| 05 | Entdeckung & Eskalation | 11.867 | 12.000 | +133 | 98.9% |
 | 06 | Moralischer / psychologischer Kipppunkt | 13.399 | 13.400 | +1 | 100.0% |
 | 07 | Reversal / Umdeutung | 6.172 | 7.000 | +828 | 88.2% |
-| 08 | Finale Entscheidung & Konsequenz | 10.597 | 10.500 | -97 | 100.9% |
+| 08 | Finale Entscheidung & Konsequenz | 10.481 | 10.500 | +19 | 99.8% |
 | 09 | Nachhall / Schlussszene | 3.823 | 4.800 | +977 | 79.6% |
 
 ## Kapitel – Ist-Wortzahl
@@ -31,7 +31,7 @@
 | 02 | 1 | 1.552 |
 | 02 | 2 | 1.328 |
 | 02 | 3 | 1.460 |
-| 02 | 4 | 1.876 |
+| 02 | 4 | 1.861 |
 | 02 | 5 | 1.178 |
 | 02 | 6 | 1.600 |
 | 03 | 7 | 1.443 |
@@ -48,10 +48,10 @@
 | 04 | 18 | 1.678 |
 | 05 | 19 | 1.769 |
 | 05 | 20 | 1.549 |
-| 05 | 21 | 1.766 |
+| 05 | 21 | 1.734 |
 | 05 | 22 | 1.483 |
 | 05 | 23 | 1.700 |
-| 05 | 24 | 1.871 |
+| 05 | 24 | 1.827 |
 | 05 | 25 | 1.805 |
 | 06 | 26 | 1.469 |
 | 06 | 27 | 1.618 |
@@ -65,7 +65,7 @@
 | 07 | 35 | 1.632 |
 | 07 | 36 | 1.771 |
 | 07 | 37 | 1.303 |
-| 08 | 38 | 1.980 |
+| 08 | 38 | 1.864 |
 | 08 | 39 | 1.919 |
 | 08 | 40 | 1.805 |
 | 08 | 41 | 1.686 |
