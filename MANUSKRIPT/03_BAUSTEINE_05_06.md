@@ -932,53 +932,7 @@ Das war weniger befriedigend.
 
 Und sauberer.
 
-Daniel sah auf den Weg **getrennte Bewertung**.
 
-Lena hatte ihm nicht nur Information vorenthalten. Sie hatte einen legitimen Grund dafür genannt, den Daniel selbst grundsätzlich akzeptierte: Eine Kontrolle, die vollständig vom Kontrollierten gesteuert wurde, war keine unabhängige Kontrolle.
-
-Das machte den Vertrauensbruch nicht kleiner.
-
-Nur schwerer einzuordnen.
-
-„Wenn ich dich jetzt aus dem Herkunftsstand nehme“, sagte Daniel, „weil du einen geschützten Weg kennst, dann mache ich genau das, was ich vermeiden will.“
-
-Lena sah ihn an.
-
-„Nämlich?“
-
-„Aus Zugang Verdacht.“
-
-„Ja.“
-
-„Wenn ich dich drinlasse, obwohl du mir bewusst nicht alles sagst, ignoriere ich einen realen Informationsweg.“
-
-„Auch ja.“
-
-Jonas sagte nichts.
-
-Daniel nahm den Verteiler und setzte bei Lena keine Sondermarkierung. Stattdessen markierte er die Kontrollfunktion als eigenen Informationsweg, unabhängig von der Person, die sie gerade ausübte.
-
-„So“, sagte er.
-
-Lena las die Änderung.
-
-„Das ist weniger persönlich.“
-
-„Soll es sein.“
-
-„Fühlt sich trotzdem persönlich an?“
-
-Daniel antwortete nicht sofort.
-
-„Ja.“
-
-Lena nickte nur.
-
-Damit war nichts geklärt.
-
-Aber Daniel hatte verhindert, dass seine Kränkung zu einem Ermittlungsmerkmal wurde.
-
-Noch nicht.
 
 ---
 
@@ -1131,12 +1085,6 @@ Sein Bild stockte. Als es wieder lief, sah Heller nicht in die Kamera.
 „Ich war einmal in einem Fall, da hatte jede Stelle einen vertretbaren Grund zu warten“, sagte er. „Hinterher konnten wir sehr genau erklären, warum nichts früher gegangen war. Es waren trotzdem Menschen tot.“
 
 Der Raum wurde stiller.
-
-Heller sagte nicht mehr.
-
-Keine Geschichte. Keine Namen. Kein moralischer Schluss.
-
-Nur dieser Satz.
 
 Lena sah auf die Rollenübersicht.
 
@@ -1338,62 +1286,6 @@ Weil elf Minuten sich im Alltag sofort vernünftig anfühlten.
 
 Das war vermutlich der Grund, warum es so attraktiv war.
 
-„Was spart uns das konkret?“, fragte Daniel.
-
-Jonas war der Einzige, der sofort antwortete.
-
-„Beim Ablauf von letzter Woche? Je nach Rückmeldung vierzig Minuten bis vielleicht zwei Stunden.“
-
-Berg sah zu ihm. „Das ist ziemlich viel.“
-
-„Wenn die Information relevant ist“, sagte Lena.
-
-„Natürlich“, sagte Jonas.
-
-Berg ließ Jonas auf dem Bildschirm einen einfachen Vergleich öffnen: alter Ablauf links, Projektweg rechts.
-
-Eine Fahrzeugfrage, eine Berechtigungsfrage, eine Firmenverbindung.
-
-Links drei getrennte Anfragen mit Rückläufen nacheinander.
-
-Rechts dieselben Fragen parallel, mit dokumentierten Rollen.
-
-„Keine neue Information“, sagte Jonas. „Nur früher nebeneinander.“
-
-Daniel sah auf die Uhrzeiten aus dem alten Ablauf.
-
-Genau das war es, was er seit dem verletzten Sicherheitsmann gesucht hatte.
-
-Nicht weniger Regeln.
-
-Weniger tote Zeit zwischen ihnen.
-
-„Und wenn eine der drei Fragen gar nicht fallrelevant ist?“, fragte Lena.
-
-Jonas zuckte mit den Schultern. „Dann haben wir sie schneller als irrelevant erkannt.“
-
-„Und trotzdem Daten verarbeitet.“
-
-„Ja.“
-
-Daniel hörte den Preis mit.
-
-Die Struktur machte nicht nur richtige Verbindungen schneller sichtbar.
-
-Sie machte auch mehr irrelevante Verbindungen gleichzeitig sichtbar.
-
-Jonas klickte probeweise auf einen vorbereiteten Fahrzeugfall aus dem aktuellen Komplex. Drei Rollen sahen sofort denselben bestätigten Stand; eine vierte bekam nur die für sie nötige Frage.
-
-„Vorher hätte ich dafür zwei Mails und mindestens einen Rückruf gebraucht“, sagte er.
-
-„Jetzt brauchst du dafür vier Menschen mit Zugriff“, sagte Lena.
-
-„Auch wahr.“
-
-Daniel sah auf beide Seiten des Bildschirms.
-
-Genau dieser Tausch war die eigentliche Veränderung: weniger Reibung gegen mehr gleichzeitige Reichweite.
-
 „Ich will die Struktur“, sagte Daniel.
 
 Lena sah zu ihm.
@@ -1448,35 +1340,7 @@ Nur Jonas, der einen alten Zugriff aus der Aufgabenliste strich und durch einen 
 
 Und Daniel, der merkte, dass sich dieser neue Pfad sofort vernünftiger anfühlte als alles, was sie in den letzten Tagen improvisiert hatten.
 
-Daniel sah noch einmal auf den Vergleich, den Jonas eben geöffnet hatte.
 
-Alter Ablauf links. Projektweg rechts.
-
-Dasselbe Beispiel, dieselben Fragen. Fahrzeug. Berechtigung. Firmenbezug.
-
-Links liefen sie nacheinander. Rechts gleichzeitig.
-
-„Was passiert, wenn am Ende nichts ist?“, fragte Daniel.
-
-Jonas zuckte mit den Schultern. „Dann wissen wir schneller, dass nichts ist.“
-
-Berg nickte. „Ist doch auch ein Nutzen.“
-
-Lena sagte: „Und wir haben dafür trotzdem mehrere Daten gleichzeitig zusammengeführt.“
-
-„Auch wahr“, sagte Jonas.
-
-Daniel sah auf die rechte Seite.
-
-Genau das machte den neuen Weg überzeugender als einen Sonderzugriff, der nur in dramatischen Fällen Nutzen versprach.
-
-Er konnte auch einen banalen Zusammenhang schneller schließen.
-
-Kein Heldentreffer. Keine Gefahr. Nur weniger Zeit, in der etwas offen blieb.
-
-Das fühlte sich vernünftig an.
-
-Vielleicht gerade deshalb nicht mehr wie eine Ausnahme.
 
 ---
 
@@ -1928,11 +1792,7 @@ Daniel setzte sich.
 
 Sein Telefon blieb in der Tasche.
 
-Mara brauchte ihn für ihre nächsten Schritte nicht mehr.
 
-Das war nicht das Ende ihrer Beziehung.
-
-Nur das Ende der Annahme, dass ihre Entscheidung warten würde, bis Daniel Zeit dafür hatte.
 
 ---
 
@@ -2034,23 +1894,7 @@ Lena sah Daniel an.
 
 Auf dem zweiten Bildschirm liefen die übrigen Treffer aus der neuen Projektstruktur ein.
 
-Viel Müll.
-
-Ein Fahrer, dessen Name in zwei Systemen unterschiedlich geschrieben war. Jonas brauchte zwölf Minuten, um festzustellen, dass beide Schreibweisen dieselbe Person meinten und beide Aufträge regulär waren.
-
-Eine Mitarbeiterin hatte fünfmal dieselbe Telefonnummer angerufen, weil die Mailbox eines Lieferanten nicht funktionierte.
-
-Ein Zugang, der scheinbar nachts erfolgt war, erwies sich als verspätete Synchronisierung eines Lesegeräts.
-
-Ein Mitarbeiter tauchte an zwei relevanten Orten auf, weil er als Springer für genau beide Standorte eingeplant war.
-
-Eine Telefonnummer führte nicht zu einem Kontakt, sondern zu einem gemeinsam genutzten Bereitschaftsgerät.
-
-Ein Fahrzeug war dreimal in einem kritischen Zeitfenster erfasst worden. Es gehörte einem Reinigungsunternehmen, das dort täglich arbeitete.
-
-Jonas strich Dinge weg.
-
-Die Liste wurde länger, bevor sie kürzer wurde.
+Die meisten zerfielen schnell: Schreibvarianten, gemeinsam genutzte Bereitschaftsgeräte, verspätete Synchronisierung, legitime Schichten und reguläre Fahrzeuge. Jonas strich sie weg. Die Liste wurde länger, bevor sie kürzer wurde.
 
 „Magisch ist anders“, sagte er.
 
@@ -2114,79 +1958,17 @@ Nur eine Entscheidung.
 
 Er autorisierte den definierten Prüfkreis.
 
-Die nächsten zwei Stunden brachten fast nichts.
+Die nächsten zwei Stunden erklärten fast alle übrigen Treffer. Weber blieb offen. Daniel zog ihn trotzdem aus der obersten Zeile: relatives Auffallen war kein zusätzlicher Treffer.
 
-Zwanzig Treffer wurden erklärt oder als nicht relevant markiert.
-
-Drei blieben wegen fehlender Rückmeldungen offen.
-
-Weber blieb oben.
-
-Zwischendurch meldete die Personalstelle eines Dienstleisters, dass ein scheinbarer Nachtkontakt schlicht ein automatischer Bereitschaftswechsel gewesen war. Ein anderer Treffer verschwand, weil eine alte Telefonnummer neu vergeben worden war. Ein dritter sah zehn Minuten lang nach einer zweiten Verbindung zu Mika aus, bis Jonas feststellte, dass zwei Personen denselben Nachnamen hatten.
-
-„Wir prüfen gerade vor allem, warum wir nichts gefunden haben“, sagte Jonas.
-
-„Das ist Prüfung“, sagte Lena.
-
-Daniel sah auf die Uhr.
-
-Je länger die Liste banal blieb, desto stärker wirkte Weber im Vergleich.
-
-Das war kein neuer Fakt über Weber.
-
-Nur ein Effekt des Restes.
-
-Daniel markierte sich genau das am Rand.
-
-**Relatives Auffallen ist kein zusätzlicher Treffer.**
-
-Daniel zog Weber aus der obersten Zeile und legte ihn neben die drei übrigen offenen Treffer.
-
-Nicht weil er weniger auffällig geworden war.
-
-Damit die Darstellung nicht selbst zur Behauptung wurde.
-
-„Kriterien“, sagte er.
-
-Jonas sah auf.
-
-„Für Weber?“
-
-„Für jeden im Prüfkreis.“
-
-Sie schrieben vier Punkte auf.
-
-Aktueller Zeitbezug.
-
-Funktionaler Zugang.
-
-Unabhängige zweite Verbindung.
-
-Harmlose Erklärung noch offen oder widerlegt.
-
-Bei Weber waren zwei Punkte stark, zwei offen.
-
-Beim Aushilfsfahrer zunächst nur einer.
+Für jeden im Prüfkreis galten dieselben vier Punkte: aktueller Zeitbezug, funktionaler Zugang, unabhängige zweite Verbindung, harmlose Erklärung noch offen oder widerlegt. Bei Weber waren zwei stark, zwei offen.
 
 „Damit ist Weber weiter vorne“, sagte Jonas.
 
 „Ja. Aber wegen derselben Kriterien wie alle anderen.“
 
-Lena sah die Liste durch.
-
-„Und was passiert bei einem Treffer?“
+Lena sah die Liste durch. „Und was passiert bei einem Treffer?“
 
 „Nichts automatisch.“
-
-„Gut.“
-
-Die nächsten banalen Ergebnisse machten die Regel nützlich. Ein scheinbar doppelter Kontakt fiel heraus, weil die zweite Verbindung nur dieselbe Bereitschaftsnummer war. Ein Fahrzeug blieb im Kreis, verlor aber Gewicht, weil der fragliche Zugang exakt zum Arbeitsauftrag passte.
-
-Daniel sah zu, wie aus einer breiten Prüfung nicht automatisch eine breitere Verdächtigenliste wurde.
-
-Das war der Teil, den er später erinnern wollte, wenn der Erfolg kam.
-
-Die Methode funktionierte nur, wenn ein Treffer auch wieder kleiner werden durfte.
 
 Dann fand Jonas einen Resttreffer, den er zuerst weggelegt hatte.
 
@@ -2848,109 +2630,19 @@ Jonas sah den Satz.
 
 „Dann ist es neu.“
 
-Daniel hörte Ahrens in dem Satz wieder.
+Nach dem Gespräch zog Daniel die Zeitlinie zurück. Diensthandy. Nachtzugang. Schichtübersicht. Bei jedem Punkt hatte es eine harmlose Gegenlesart gegeben. Er hatte sie gesehen. Nur weniger schwer gewichtet, je realer die Gefahr des Nicht-Handelns geworden war.
 
-Diesmal hatte die saubere Schließung nicht verhindert, dass vorher schon etwas passiert war.
+Der breite Prüfkreis hatte real funktioniert. Weber war trotzdem falsch belastet worden. Beides blieb wahr.
 
-Das war der Unterschied.
+Der Fehler lag nicht in einer fehlenden Gegenhypothese. Er lag darin, was sie in Daniels Rechnung noch wert gewesen war.
 
-Ein System konnte einen falschen Treffer korrigieren.
-
-Es konnte nicht garantieren, dass alle Folgen im selben Moment zurücksprangen.
-
-Lena setzte sich ihm gegenüber.
-
-„Er war nicht besonders sympathisch.“
-
-Daniel legte das Telefon hin.
-
-„Nein.“
-
-„Macht es einfacher.“
-
-„Nein.“
-
-Diesmal lächelte sie fast.
-
-Daniel zog die Zeitlinie der letzten Tage noch einmal auf.
-
-Weber war nicht entscheidend für den Fund gewesen.
-
-Der breite Zugriff war entscheidend gewesen.
-
-Beides konnte gleichzeitig stimmen.
-
-Er markierte die Punkte, an denen Weber besonders plausibel gewirkt hatte.
-
-Diensthandy.
-
-Nachtzugang.
-
-Schichtübersicht.
-
-Bei jedem hatte es eine harmlose Gegenlesart gegeben.
-
-Daniel hatte sie gesehen.
-
-Er hatte sie nicht ignoriert.
-
-Er hatte sie nur schwächer gewichtet, weil die Gefahr des Nicht-Handelns inzwischen schwerer wog.
-
-Das war unangenehmer als ein übersehener Fakt.
-
-Der Fehler lag nicht darin, dass er keine Gegenhypothese gehabt hatte.
-
-Der Fehler lag darin, was sie in seiner Rechnung wert gewesen war.
-
-Daniel ging noch einmal zurück in den Arbeitsstand vom Vortag. Neben Weber standen zwei frühe Hinweise, die damals als **offen** markiert worden waren.
-
-Er änderte die historische Bewertung nicht. Er setzte nur einen Kommentar daneben:
-
-**Gegenlesart vorhanden, Gewicht im Verlauf gesunken. Warum?**
+Neben zwei frühen **offen**-Markierungen schrieb er: **Gegenlesart vorhanden, Gewicht im Verlauf gesunken. Warum?**
 
 Lena las über seine Schulter.
 
 „Das ist die bessere Frage.“
 
-„Als was?“
-
-„Als: Welchen Fakt habe ich übersehen?“
-
 Daniel nickte.
-
-Ein übersehener Fakt ließ sich reparieren, indem man beim nächsten Mal genauer hinsah.
-
-Eine verschobene Gewichtung war schwieriger.
-
-Sie konnte vollkommen rational aussehen, während sie sich veränderte.
-
-„Das Problem ist nicht, dass die Methode nichts gefunden hat“, sagte Daniel.
-
-Lena wartete.
-
-„Sie hat etwas gefunden.“
-
-„Ja.“
-
-„Und genau deshalb war es leichter, Weber im Nachhinein als Teil des richtigen Bildes zu behandeln.“
-
-„Ja.“
-
-Daniel sah sie an. „Du könntest irgendwann auch ein anderes Wort sagen.“
-
-„Wenn du etwas Falsches sagst.“
-
-Er öffnete die Quellenhinweise.
-
-Nicht um zu sehen, was dort gestanden hatte.
-
-Sondern was nicht.
-
-Welche Informationen hatten seine Gewichtung vorbereitet, ohne selbst falsch zu sein?
-
-Zum ersten Mal suchte Daniel nicht nur nach dem Leck.
-
-Er suchte nach der Form seiner eigenen Fehlentscheidung.
 
 ---
 
@@ -3244,211 +2936,27 @@ Danach: erste anonyme Nachricht mit dem Privatdetail.
 
 Später: Quelle kennt seinen problematischen Datenabgleich.
 
-Er markierte keine Verbindung als bewiesen, die nicht bewiesen war.
+Die alte Erklärung passte nicht mehr: Die Quelle reagierte nicht erst auf Daniel, nachdem er im Fall wichtig geworden war. Der Privatbezug lag vor der dokumentierten Fallzuweisung.
 
-Aber die alte Erklärung – Quelle beobachtet Daniel, weil er während des Falls wichtig wird – passte nicht mehr.
+Das bewies keine Auswahl. Jemand konnte ihn aus einem anderen Grund beobachtet, die Uhrzeit rekonstruiert oder viele Menschen im Blick gehabt haben. Aber Daniel musste eine zweite Möglichkeit zulassen: Jemand hatte schon vorher einen Grund gehabt, sein Verhalten interessant zu finden.
 
-Jemand, dessen Beobachtung später bei der Quelle gelandet war, hatte Daniel vorher im Blick gehabt.
-
-Nicht möglicherweise nach seiner ersten Grenzüberschreitung.
-
-Nicht erst, weil er interessant geworden war.
-
-Vorher.
-
-Daniel lehnte sich zurück.
-
-Der Bildschirm zeigte eine langweilige Zuweisungszeile, eine Uhrzeit, einen Sachbearbeiter.
-
-Nichts sah nach einem Plan aus.
-
-Das machte es schlimmer.
-
-Er stand wieder auf.
-
-Diesmal ging er bis zur Tür.
-
-Draußen saß Jonas zwei Räume weiter und tippte. Lena war nicht zu sehen. Bergs Tür war geschlossen.
-
-Daniel blieb im Türrahmen stehen.
-
-Wenn die Quelle bereits vor dem Fall an ihm interessiert gewesen war, veränderte das den Kreis der Fragen.
-
-Nicht automatisch den Kreis der Verdächtigen.
-
-Er ging zurück zum Tisch.
-
-Die erste Frage, die er bisher verfolgt hatte, lautete:
-
-**Wer konnte diese Fallinformation kennen?**
-
-Darunter schrieb er eine zweite:
+Er schrieb zwei Fragen auf:
 
 **Wer konnte mich vorher beruflich einschätzen?**
 
-Dann eine dritte:
-
-**Wer konnte vor der Fallzuweisung wissen oder beeinflussen, dass ich relevant werden würde?**
-
-Beim dritten Satz hielt er inne.
-
-*Beeinflussen* war zu viel.
-
-Er strich das Wort durch.
-
 **Wer konnte vor der Fallzuweisung erwarten, dass ich relevant werden würde?**
 
-Besser.
-
-Noch immer groß.
-
-Aber jetzt war es die richtige Größe des Problems.
-
-Er öffnete einen neuen Vermerk zur Quellenprüfung und schrieb zuerst:
-
-**Beobachtung vor Fallbefassung.**
-
-Dann löschte er den Satz wieder.
-
-Zu endgültig.
-
-Er wusste noch nicht, ob die Beobachtung gezielt für diesen Fall erfolgt war.
-
-Er schrieb stattdessen:
+Danach nur einen Vermerk:
 
 **Privatbezug zeitlich vor Zuweisung Lagerkomplex. Auswahlzeitpunkt prüfen.**
 
-Er speicherte den Vermerk nicht im breiten Quellenordner.
+Er öffnete keine Personalakten und keine Namenslisten. Späterer Zugang durfte niemanden rückwirkend zum Vor-Fall-Kandidaten machen.
 
-Nur in seinem engsten Arbeitsstand.
+Die neue Chronologie änderte keinen operativen Fakt. Mika blieb beteiligt. Der breite Prüfkreis hatte real funktioniert. Weber war falsch belastet worden. Die Quelle hatte echte Informationen geliefert.
 
-Der Cursor blieb danach im leeren Feld stehen.
+Nur Daniels Platz darin hatte sich verschoben.
 
-Daniel ließ den neuen Vermerk fünf Minuten offen, ohne weiterzuschreiben.
-
-**Privatbezug zeitlich vor Zuweisung Lagerkomplex. Auswahlzeitpunkt prüfen.**
-
-Der Satz veränderte keinen einzigen operativen Fakt des Falls.
-
-Mika blieb beteiligt.
-
-Der breite Prüfkreis hatte real funktioniert.
-
-Weber war falsch belastet worden.
-
-Die Quelle hatte echte Informationen geliefert und interne Details gekannt.
-
-Nichts davon wurde durch die neue Chronologie unwahr.
-
-Nur Daniels Platz darin verschob sich.
-
-Bisher hatte er sich als Ermittler betrachtet, auf den eine Quelle während eines Falls reagierte.
-
-Jetzt musste er eine zweite Möglichkeit zulassen: Jemand hatte bereits vor dem Fall einen Grund gehabt, Daniels Verhalten interessant zu finden.
-
-Er öffnete nicht sofort Personalakten, alte Kontakte oder Namen aus der Projektstruktur.
-
-Stattdessen schrieb er drei Prüfverbote für sich selbst daneben.
-
-**Keine Person nur wegen späteren Zugangs rückwirkend zum Vor-Fall-Kandidaten machen.**
-
-**Keine heutige Motivation in frühere Zeitpunkte zurückprojizieren.**
-
-**Erst klären, welches Wissen über Daniel vor 08.34 Uhr überhaupt verfügbar war.**
-
-Er las die Sätze.
-
-Sie gaben ihm keine Antwort.
-
-Aber sie hielten die neue Frage davon ab, sofort eine neue Geschichte zu werden.
-
-Daniel merkte, dass genau das schwieriger war als bei einem fremden Verdächtigen.
-
-Diesmal war er selbst das auffällige Muster.
-
-Daniel schrieb darunter keine Namen.
-
-Stattdessen drei mögliche Gründe, warum jemand schon vor dem Lagerkomplex auf ihn hätte sehen können.
-
-**Zufall / anderer Anlass.**
-
-**Berufliche Funktion.**
-
-**Persönliche Auswahl.**
-
-Beim dritten Punkt hielt er inne.
-
-Er wusste nicht einmal, ob *Auswahl* schon zulässig war.
-
-Also ergänzte er:
-
-**nicht bewiesen.**
-
-Dann schrieb er daneben, was jede Erklärung verlangen würde.
-
-Für Zufall müsste die spätere Nutzung des Details erst nachträglich entstanden sein.
-
-Für berufliche Funktion müsste Daniel schon vor 08.34 Uhr in einem Kreis gelegen haben, den jemand sinnvoll beobachten konnte.
-
-Für persönliche Auswahl müsste jemand etwas über ihn gewusst haben, das über seine bloße Zuständigkeit hinausging.
-
-Was?
-
-Seine Vorsicht?
-
-Seine Rolle?
-
-Seine Erreichbarkeit?
-
-Seine Familie?
-
-Daniel strich die letzte Zeile sofort wieder.
-
-Zu viel Geschichte.
-
-Er ließ nur die Frage stehen:
-
-**Welche Eigenschaft Daniels wäre vor dem Fall überhaupt bekannt und relevant gewesen?**
-
-Keine Antwort.
-
-Aber jetzt war zumindest sichtbar, an welcher Stelle aus Chronologie Motivation werden würde.
-
-Noch war er nicht dort.
-
-Daniel legte beide Hände auf den Tisch.
-
-Seine Atmung war flach. Er merkte es erst, als er bewusst ausatmete.
-
-Er versuchte, den nächsten Arbeitsschritt zu formulieren, und bekam für einige Sekunden keinen sauberen Satz zustande.
-
-Das passierte ihm selten.
-
-Er stand auf, ging zum Waschbecken im Nebenraum und ließ kaltes Wasser über die Hände laufen. Nicht weil er sich beruhigen musste, sagte er sich. Weil die Finger kalt waren.
-
-Als er zurückkam, stand dieselbe Zuweisungszeit noch auf dem Bildschirm.
-
-08.34 Uhr.
-
-Der Fakt hatte sich nicht verändert, nur weil Daniel drei Minuten nicht davor gesessen hatte.
-
-Das war kein Beweis dafür, dass jemand jede seiner Entscheidungen geplant hatte.
-
-Kein Beweis für Heller.
-
-Kein Beweis für Berg.
-
-Kein Beweis für Lena.
-
-Nur dafür, dass Daniels bisherige Chronologie falsch gewesen war.
-
-Die Quelle war nicht erst zu ihm gekommen, nachdem er im Fall eine Grenze überschritten hatte.
-
-Irgendetwas an Daniel war vorher schon relevant gewesen.
-
-Dann stellte er eine andere Frage als bisher.
-
-Nicht: Wer kannte den Fall?
+Nicht: Wer kannte den Fall?Nicht: Wer kannte den Fall?
 
 Wer kannte ihn?
 
@@ -3798,103 +3306,23 @@ Das war kein Argument gegen den Satz.
 
 Als er fertig war, schickte er die Änderung nicht nur an Lena. Berg bekam sie. Der definierte Kontrollweg ebenfalls.
 
-Daniel sah den Versandstatus.
+Der Versandstatus sprang nacheinander um. Berg: gelesen. Kontrollfunktion: zugestellt. Lena: im Raum. Damit war die Grenze nicht mehr nur seine Absicht.
 
-Damit war es keine Notiz mehr, die er später anders erinnern konnte.
-
-Daniel sah den Versandstatus noch einmal an.
-
-Berg: gelesen.
-
-Kontrollfunktion: zugestellt.
-
-Lena: im Raum.
-
-Er hätte die drei Sätze auch in seinem privaten Arbeitsstand lassen können. Dann wären sie eine Absicht gewesen, an die er sich später vielleicht anders erinnerte.
-
-Jetzt waren sie eine externe Erwartung.
-
-„Wenn ich morgen behaupte, die Lage habe eine Ausnahme verlangt?“, fragte Daniel.
-
-Lena sah ihn an.
-
-„Dann steht hier, welche Ausnahme du dir heute gerade nicht erlauben willst.“
-
-„Und wenn ich gute Gründe habe?“
+„Wenn ich morgen gute Gründe habe?“, fragte Daniel.
 
 „Dann musst du sie gegen deine eigene Grenze begründen. Nicht so tun, als hätte es die Grenze nie gegeben.“
 
 Daniel nickte.
 
-Genau das wollte er.
-
-Nicht Vertrauen in seine spätere Disziplin.
-
-Reibung gegen sich selbst.
-
-Seit der Erkenntnis über seine mögliche Vorauswahl hatte er den Impuls, jeden Informationsweg enger zu ziehen, jeden Zugriff zu kontrollieren, jeden möglichen Beobachter zu identifizieren. Kontrolle fühlte sich nach zurückgewonnener Autonomie an.
-
-Diese vier Absätze waren etwas anderes.
-
-Sie kontrollierten nicht die anderen.
-
-Sie kontrollierten ihn.
-
-Das gefiel Daniel deutlich weniger.
-
-Gerade deshalb ließ er sie stehen.
-
-Berg antwortete zuerst.
-
-Keine Diskussion. Nur ein kurzer Vermerk im Projektkanal:
-
-**Gesehen. Aufnahme in die nächste Lagefassung.**
-
-Daniel starrte auf die zwei Sätze.
-
-Er hätte die Änderung jetzt noch abschwächen können. Aus *keine automatische Fortführung* hätte *Überprüfung vor Fortführung* werden können. Aus *unabhängig geprüft* ein weicheres *nachbereitet*.
-
-Niemand hätte es bemerkt.
-
-Er änderte nichts.
-
-Stattdessen öffnete er die Versionshistorie und prüfte, ob die neue Fassung tatsächlich gespeichert war. Uhrzeit. Autor. Empfängerkreis.
-
-Alles da.
-
-Lena beobachtete ihn.
-
-„Du sicherst gerade deine eigene Grenze gegen dich selbst ab.“
-
-Daniel schloss die Versionsansicht.
-
-„Ich sichere einen Vermerk.“
-
-„Natürlich.“
-
-Er ließ die Bemerkung stehen.
-
-Lena stand auf.
-
-„Ist das eine Zusage?“
-
-Daniel sah auf die vier Absätze.
+„Ist das eine Zusage?“, fragte Lena.
 
 „Ja.“
 
 „Auch wenn die Struktur bis dahin noch einmal funktioniert?“
 
-„Ja.“
-
-„Auch wenn wir dann noch offene Fragmente haben?“
-
-Daniel hob den Blick.
-
-„Wenn die akute Grundlage weg ist, begründen wir neu.“
+Daniel sah auf den Vermerk. „Wenn die akute Grundlage weg ist, begründen wir neu.“
 
 Lena nickte einmal.
-
-Keine Anerkennung. Nur Registrierung.
 
 Daniel sagte: „Du tust gerade so, als wäre Kontrolle nur mein Problem.“
 
@@ -3932,19 +3360,7 @@ Sie ging.
 
 Daniel blieb allein mit dem Projektvermerk.
 
-Vier Absätze.
-
-Fallbezogen.
-
-Befristet.
-
-Prüfung.
-
-Rückkehr.
-
-Er las sie noch einmal und änderte kein Wort.
-
-Im Moment meinte er jedes davon.
+Im Moment meinte er jedes Wort.
 
 ---
 
