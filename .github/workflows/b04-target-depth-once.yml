@@ -42,7 +42,7 @@ jobs:
                   raise SystemExit(f'chapter {label}: anchor count {count}: {anchor!r}')
               return src.replace(anchor, anchor + '\n' + addition + '\n', 1)
 
-          text = insert_after(text, 'Daniel hinterlegte den aktuellen Vorgang.\n\nDas machte die Verwendung nicht sauber.\n\nEs machte sie nur sichtbar.\n', parts['14'], '14')
+          text = insert_after(text, 'Er hinterlegte den aktuellen Vorgang.\n\nDas machte die Verwendung nicht sauber.\n\nEs machte sie nur sichtbar.\n', parts['14'], '14')
           text = insert_after(text, '„Ab hier nichts mehr nur wegen meines Treffers.“\n', parts['15'], '15')
           text = insert_after(text, 'Daniel schrieb jedes Teil einzeln auf.\n', parts['16'], '16')
           text = insert_after(text, 'Berg sah zu Daniel.\n\n„Ich nehme ihn nicht aus dem Fall.“\n', parts['17'], '17')
