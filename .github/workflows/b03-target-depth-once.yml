@@ -1,0 +1,63 @@
+name: B03 target-depth one-time pass
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/b03-target-depth-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.head_commit.message == 'Apply B03 target-depth pass'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Deepen chapters 7 to 13
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          manuscript = Path('MANUSKRIPT/02_BAUSTEINE_03_04.md')
+          patchfile = Path('.github/b03-target-depth-patch.txt')
+          text = manuscript.read_text(encoding='utf-8')
+          patch = patchfile.read_text(encoding='utf-8')
+
+          labels = ['7','8','9','10','11','12','13']
+          parts = {}
+          for i, label in enumerate(labels):
+              marker = f'==={label}===\n'
+              start = patch.index(marker) + len(marker)
+              end = patch.index(f'==={labels[i+1]}===\n', start) if i + 1 < len(labels) else len(patch)
+              parts[label] = patch[start:end].strip()
+
+          def insert_after(src, anchor, addition, label):
+              count = src.count(anchor)
+              if count != 1:
+                  raise SystemExit(f'chapter {label}: anchor count {count}: {anchor!r}')
+              return src.replace(anchor, anchor + '\n' + addition + '\n', 1)
+
+          text = insert_after(text, 'Er drückte die Klinke, ließ die Tür noch einmal ins Schloss fallen und sah auf die Falle. Keine sichtbare Beschädigung. Kein verbogenes Metall. Der Streifen hatte nur verhindert, dass sie vollständig einrastete.\n', parts['7'], '7')
+          text = insert_after(text, '**Privatbezug separat. Herkunft ungeklärt.**\n', parts['8'], '8')
+          text = insert_after(text, 'Lena ließ sich mit der Antwort zufrieden geben. Vorerst.\n', parts['9'], '9')
+          text = insert_after(text, '„Aber kein Beweis für die Geschichte, die sie daraus baut.“\n\nDaniel sah ihn an.\n\n„Nein.“\n', parts['10'], '10')
+          text = insert_after(text, 'Ein Kollege las eine erste Notiz vor: Schranke beschädigt, Sicherheitsmitarbeiter verletzt, Fahrzeug verlassen, Fahrer flüchtig.\n', parts['11'], '11')
+          text = insert_after(text, '**Reibung.**\n', parts['12'], '12')
+          text = insert_after(text, 'Das waren echte Alternativen.\n\nNur keine, deren Ergebnis er kontrollieren konnte.\n', parts['13'], '13')
+
+          manuscript.write_text(text, encoding='utf-8')
+          PY
+      - name: Self-remove temporary files and commit
+        shell: bash
+        run: |
+          git rm .github/workflows/b03-target-depth-once.yml .github/b03-target-depth-patch.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MANUSKRIPT/02_BAUSTEINE_03_04.md
+          git commit -m 'Deepen trigger block toward target weight'
+          git push
