@@ -136,6 +136,82 @@ Aber die konkrete Lücke, nach der sie suchten, bekam er nicht sauber zu fassen.
 
 Weg damit.
 
+Daniel nahm den Ausdruck zurück.
+
+„Zeig mir die sieben Minuten.“
+
+Jonas zog den Versionsverlauf auf.
+
+Nicht die Zusammenfassung. Den Rohstand.
+
+Eine interne Meldung war um 15.06 Uhr eingegangen. Der Ortsbezug, den Daniel der Quelle im Nachhinein als ausgelassen vorwerfen wollte, tauchte um 15.13 Uhr zum ersten Mal belastbar auf.
+
+„Davor?“
+
+„Ein Freitextfeld ohne Zuordnung.“
+
+„Also theoretisch bekannt.“
+
+„Theoretisch ist viel bekannt.“
+
+Daniel mochte die Antwort nicht.
+
+„Wer hatte das Freitextfeld?“
+
+Jonas öffnete die Empfängerliste.
+
+Zu viele Stellen.
+
+Kein sauberer Weg zur Quelle. Kein Beleg, dass jemand den Ort vor 15.13 Uhr als relevant erkannt hatte.
+
+Lena fragte: „Hätte der Ort um 15.06 Uhr deine Entscheidung verändert?“
+
+Daniel sah auf den damaligen Stand.
+
+Damals hatte ihnen nicht nur der Ort gefehlt. Auch die Zuordnung zum Dienstleister war noch offen gewesen.
+
+„Nein“, sagte er.
+
+„Dann ist es nicht die Lücke, die wir suchen.“
+
+Daniel strich den Punkt selbst durch.
+
+Beim nächsten Blatt dauerte es länger.
+
+Ein Firmenbezug, den die Quelle erst später genannt hatte. Daniel war sicher gewesen, dass er früher im System gestanden hatte.
+
+Tat er auch.
+
+Nur falsch.
+
+Zwei Gesellschaften mit ähnlichem Namen. Eine automatische Verknüpfung, die erst am nächsten Morgen von einem Menschen bestätigt worden war.
+
+„Wenn ich das hier mitzähle, baue ich mir mein Muster selbst“, sagte Daniel.
+
+„Ja.“
+
+„Und wenn ich es nicht mitzähle, kann ich trotzdem etwas übersehen.“
+
+„Auch ja.“
+
+Jonas lehnte sich zurück.
+
+„Das ist eine beschissene Ermittlungsmethode.“
+
+Daniel sah ihn an.
+
+„Willkommen.“
+
+Sie legten den Firmenbezug auf den Stapel der verworfenen Punkte.
+
+Der Stapel war inzwischen höher als der andere.
+
+Das half.
+
+Nicht weil es Heller entlastete.
+
+Weil es Daniel zwang, jede Lücke einzeln zu verdienen.
+
 Daniel stand auf.
 
 Der Stuhl schlug mit der Lehne gegen die Wand.
@@ -157,6 +233,90 @@ Lena schob ihm einen Ausdruck hin.
 „Sondern?“
 
 „Nach Stellen, an denen die weggelassene Information die Entscheidung verändert hätte.“
+
+Daniel zog einen leeren Ausdruck zu sich und schrieb drei Wörter untereinander.
+
+**Unvermeidbar.**
+
+**Neutral.**
+
+**Handlungsändernd.**
+
+Lena las mit.
+
+„Zu sauber.“
+
+„Deshalb ist es Papier.“
+
+Er zeigte auf die erste Kategorie.
+
+„Unvermeidbar: Information war noch nicht belastbar oder für die Quelle nicht erreichbar.“
+
+Auf die zweite.
+
+„Neutral: Sie fehlte, hätte aber an unserer damaligen Entscheidung nichts geändert.“
+
+Dann auf die dritte.
+
+„Handlungsändernd: Sie war rechtzeitig verfügbar und hätte einen engeren, schnelleren oder formal saubereren Weg eröffnet.“
+
+Jonas sagte: „Und wenn wir nicht wissen, ob sie verfügbar war?“
+
+Daniel schrieb daneben: **offen**.
+
+„Dann bleibt sie offen.“
+
+Lena nahm den Stift und zog unter das letzte Wort einen Strich.
+
+„Und Absicht?“
+
+Daniel sah auf die Warnungen.
+
+„Steht auf keinem dieser Zettel.“
+
+„Gut.“
+
+Sie gingen die verbleibenden Stellen noch einmal durch.
+
+Bei einer war die Auslassung real, aber neutral. Daniel hätte mit dem fehlenden Kontext trotzdem nicht handeln können.
+
+Bei einer anderen war die Information wahrscheinlich erreichbar, aber die Zugriffskette ließ sich nicht sauber schließen.
+
+Offen.
+
+Dann blieb die Lieferfreigabe.
+
+Die Kennung war echt. Der beruhigende Status stand im selben Arbeitszusammenhang. Die Warnung lieferte das eine und nicht das andere.
+
+Daniel nahm beide Zeilen und deckte abwechselnd eine davon mit der Hand ab.
+
+Mit nur der Kennung wirkte die Lage enger.
+
+Mit beiden Zeilen wirkte sie prüfbedürftig.
+
+Nicht harmlos.
+
+Nur anders.
+
+„Das ist der Unterschied“, sagte er.
+
+Lena antwortete nicht sofort.
+
+„Einmal ist noch keine Methode.“
+
+„Nein.“
+
+Daniel sah auf den Stapel mit den alten Warnungen.
+
+Die Frage war nicht mehr, ob irgendwo Informationen fehlten. In solchen Lagen fehlte immer etwas.
+
+Die Frage war, ob wiederholt genau das fehlte, was aus Druck eine prüfbare Alternative gemacht hätte.
+
+Er nahm die Zeitlinie vom Betriebshof.
+
+Dort war diese Frage nicht theoretisch.
+
+Dort hatte jemand auf dem Asphalt gelegen.
 
 Daniel blieb stehen.
 
@@ -409,6 +569,158 @@ Sie dachte nach.
 „Also wissen wir nicht, ob es etwas geändert hätte.“
 
 „Nein. Nur, dass wir früher einen engeren, sachnäheren Prüfweg gehabt hätten als mit der Warnung allein.“
+
+Daniel ließ Lena die Schritte nicht als Liste stehen.
+
+„Von vorn“, sagte er. „Als hätten wir das Kennzeichen damals um diese Uhrzeit auf dem Tisch.“
+
+Lena schob den Ausdruck zu ihm zurück.
+
+„Erster Schritt: Halter- und Mietbezug prüfen. Nicht den ganzen Personenkreis.“
+
+Jonas ergänzte: „Der Mietbezug hätte zum Randkontakt geführt. Nicht automatisch zur späteren Tat.“
+
+„Wie schnell?“
+
+„Wenn die Systeme sauber antworten: Minuten. Wenn Rückfragen nötig sind: länger.“
+
+Daniel nickte.
+
+„Dann?“
+
+„Dann wäre die Verbindung zum bekannten Umfeld prüfbar gewesen“, sagte Lena. „Danach hätten wir entscheiden müssen, ob eine gezielte Beobachtung oder eine engere Abklärung rechtlich trägt.“
+
+„Also wieder Entscheidung.“
+
+„Natürlich wieder Entscheidung.“
+
+„Kein Knopf, den man drückt und der Betriebshof ist sicher.“
+
+„Nein.“
+
+Daniel nahm einen Stift und setzte neben jeden Schritt eine kleine Markierung.
+
+Kennzeichen.
+
+Mietbezug.
+
+Randkontakt.
+
+Dienstleister.
+
+Mögliche gezielte Beobachtung.
+
+Keiner dieser Schritte garantierte den nächsten.
+
+Aber jeder war enger als das, was Daniel damals gehabt hatte: eine wahre Warnung über eine größere Richtung und zu wenig, um sauber an etwas Konkretem anzusetzen.
+
+„Wann wäre der früheste Punkt gewesen, an dem wir den Transporter selbst als prüfenswert behandelt hätten?“
+
+Jonas verglich die Zeitstempel.
+
+„Kann ich nicht minutengenau sagen.“
+
+„Ungefähr.“
+
+„Vor dem Betriebshof. Deutlich. Mehr würde ich nicht behaupten.“
+
+Daniel sah zu Lena.
+
+Sie nickte.
+
+„Das reicht.“
+
+Er sagte es und merkte sofort, dass es nicht reichte.
+
+Nicht für die Frage, die ihn interessierte.
+
+„Hätten wir ihn gestoppt?“
+
+„Weiß niemand.“
+
+„Hätten wir den Sicherheitsmann warnen können?“
+
+„Vielleicht. Wenn die Kette schnell genug trägt und der Betriebshof als möglicher Kontaktpunkt sichtbar wird.“
+
+„Vielleicht.“
+
+„Ja.“
+
+Daniel strich das Wort nicht weg.
+
+Es war unbequem, weil es weder Entlastung noch Anklage lieferte.
+
+Nur eine reale Möglichkeit.
+
+Er öffnete den damaligen Einsatzvermerk noch einmal.
+
+Nicht die Zusammenfassung, die sie seit Tagen zitierten.
+
+Den ursprünglichen Vorgang.
+
+Die schiefe Schranke.
+
+Der Sicherheitsmann.
+
+Krankenhaus.
+
+Mehrere Frakturen.
+
+Daniel hatte diese drei Zeilen später wie eine Rechnung benutzt. Als Beweis dafür, was Vorsicht kosten konnte.
+
+Die Rechnung war echt gewesen.
+
+Aber vielleicht hatte jemand ihm nur eine Seite davon gezeigt.
+
+Er scrollte zurück zur Uhrzeit des Kennzeichens.
+
+Dann vor zur Warnung.
+
+Dann zum Betriebshof.
+
+Drei Zeitpunkte.
+
+Zwischen dem ersten und dem zweiten lag eine Information, die den Druck nicht beseitigt hätte.
+
+Sie hätte ihn verändert.
+
+Aus: Wir wissen zu wenig und verlieren Zeit.
+
+In: Wir haben ein konkretes Fahrzeug und müssen entscheiden, was wir damit rechtmäßig prüfen dürfen.
+
+Daniel legte die Hände flach auf den Tisch.
+
+„Wenn das Kennzeichen in der Warnung gestanden hätte, hätte ich trotzdem falsch entscheiden können.“
+
+„Ja“, sagte Lena.
+
+„Ich hätte zu langsam sein können.“
+
+„Ja.“
+
+„Oder wir hätten geprüft und nichts Belastbares gefunden.“
+
+„Ja.“
+
+Er sah sie an.
+
+„Du machst es mir heute wirklich leicht.“
+
+„Du brauchst mich nicht für die Gegenhypothesen.“
+
+Daniel wandte sich wieder dem Bildschirm zu.
+
+Genau das war das Problem.
+
+Er konnte jede einzelne Unsicherheit benennen.
+
+Keine davon stellte den alten Zustand wieder her.
+
+Vor dem Schaden hatte ein engerer Weg existiert.
+
+Nicht sicher erfolgreich.
+
+Aber real.
 
 Daniel sah wieder auf die Tabelle.
 
@@ -818,6 +1130,114 @@ Berg hatte sie nach oben getragen.
 
 Heller verband beides mit dem Davor.
 
+Daniel nahm ein Blatt und zog drei senkrechte Striche.
+
+„Früher Informationszugang“, sagte er.
+
+Er schrieb es über die erste Spalte.
+
+„Kenntnis von mir vor dem Fall.“
+
+Zweite Spalte.
+
+„Nähe zu dem, was aus meinen Entscheidungen geworden ist.“
+
+Dritte Spalte.
+
+Jonas sah auf das Blatt.
+
+„Das ist jetzt verdächtig ordentlich.“
+
+„Dann zerstör es.“
+
+Sie begannen mit Lena.
+
+Späte Kenntnis der Sonderentscheidungen: ja.
+
+Kontrollzugänge: ja.
+
+Vor-Fall-Beobachtung: nein.
+
+Früher Informationszugang zu den ersten Fragmenten: nur teilweise.
+
+Daniel setzte kein Kreuz durch ihren Namen. Er schrieb nur: **erklärt nicht davor**.
+
+Berg.
+
+Institutionelle Nutzung: eindeutig.
+
+Kenntnis von Daniels Arbeitsweise: ja.
+
+Hausflur vor Fallzuweisung: passte zeitlich nicht.
+
+Daniel schrieb: **erklärt Wirkung, nicht Auswahl**.
+
+Dann Heller.
+
+Jonas legte nichts Neues auf den Tisch. Sie benutzten nur, was bereits trug.
+
+Sonderauswertung.
+
+Alte fachliche Bewertung.
+
+Projektumfeld der Vorprüfung.
+
+Nähe zu Koordination und späterer Verwertung.
+
+Daniel setzte die Punkte nicht schneller, nur weil sie passten.
+
+„Das ist immer noch eine Rollenbeschreibung“, sagte er.
+
+„Ja“, sagte Lena.
+
+„Ein Mensch in dieser Funktion taucht zwangsläufig an vielen Stellen auf.“
+
+„Ja.“
+
+„Das ist die harmlose Erklärung.“
+
+„Für jeden einzelnen Punkt.“
+
+Daniel sah auf die drei Spalten.
+
+Nicht für ihre Kombination.
+
+Er strich Hellers Namen trotzdem nicht ein.
+
+Noch nicht.
+
+Stattdessen legte er die Notiz aus der Vorprüfung daneben.
+
+20.11 Uhr.
+
+Daneben die spätere erste Nachricht.
+
+Dasselbe Detail.
+
+Jonas sagte: „Das Projektkonto ist kein persönlicher Login.“
+
+„Weiß ich.“
+
+„Und die Vorlage über Hellers Büro heißt nicht, dass er jeden Arbeitsschritt selbst angestoßen hat.“
+
+„Weiß ich.“
+
+Daniel hörte, wie scharf das zweite *weiß ich* klang.
+
+Er zwang sich, die Schultern zu lösen.
+
+„Sag es weiter.“
+
+Jonas tat es.
+
+Mehrere Personen konnten Teile ausgeführt haben. Eine organisatorisch klingende Vorprüfung brauchte für die Ausführenden kein größeres Motiv. Der missbräuchliche Zweck musste nicht in irgendeiner Akte stehen.
+
+Das machte Heller nicht sicherer.
+
+Es machte die Spur nur weniger filmreif.
+
+Und dadurch glaubwürdiger.
+
 Daniel blieb an der Tür stehen.
 
 „Warum ich?“ fragte Jonas.
@@ -869,6 +1289,88 @@ Lena sah ihn an.
 Daniel schob die Unterlage weg.
 
 „Dann sieht es vernünftig aus.“
+
+Daniel sah wieder die alte Bewertung.
+
+Nicht vorschnell eskalierend.
+
+Hohe Akzeptanz operativ und juristisch.
+
+Er hatte Jahre damit verbracht, genau diese Art von Vertrauen aufzubauen, ohne sie je so zu nennen.
+
+Ahrens.
+
+Ein Verdacht, der nicht gereicht hatte.
+
+Daniel hatte gewartet.
+
+Der Mann war unschuldig gewesen.
+
+Damals hatte sich die Regel nicht wie Feigheit angefühlt, sondern wie Arbeit.
+
+Später hatte derselbe Daniel eine Grenze überschritten.
+
+Nicht weil er Regeln plötzlich verachtete.
+
+Weil reale Schäden die Gewichtung verändert hatten.
+
+Und genau deshalb war sein Schritt nach außen etwas anderes gewesen als die Forderung eines Mannes, der schon vorher alles breiter wollte.
+
+Daniel spürte den Gedanken körperlich, bevor er ihn sauber formulieren konnte.
+
+Seine Glaubwürdigkeit war nicht nur Schutz gewesen.
+
+Sie war verwertbar.
+
+„Wenn das stimmt“, sagte Jonas vorsichtig, „dann warst du nicht interessant, obwohl du so gearbeitet hast.“
+
+Daniel sah ihn an.
+
+Jonas brach ab.
+
+„Schon gut.“
+
+„Nein. Sag es.“
+
+„Dann warst du deswegen interessant.“
+
+Daniel nahm die Projektunterlage mit den späteren Erfolgen und legte sie neben die alte Bewertung.
+
+Zwei Dokumente, die für sich nichts Unheimliches hatten.
+
+Gerade das störte ihn.
+
+Er brauchte keinen Plan mit seinem Namen.
+
+Es reichte, wenn jemand verstanden hatte, welchen Wert eine Ausnahme bekam, sobald sie von einem Mann kam, der normalerweise keine wollte.
+
+Daniel schob beide Blätter auseinander.
+
+„Meine Entscheidungen bleiben meine.“
+
+Lena nickte.
+
+„Ja.“
+
+„Auch wenn er darauf gesetzt hat.“
+
+„Ja.“
+
+Das war keine Entlastung.
+
+Es war schlimmer.
+
+Wenn Heller ihn nicht gesteuert hatte wie eine Figur, sondern nur Bedingungen gebaut hatte, unter denen Daniel selbst vernünftige Entscheidungen traf, dann konnte Daniel nichts davon an ihn zurückgeben.
+
+Nicht Lena.
+
+Nicht Weber.
+
+Nicht den Nicht-Rückbau.
+
+Die Entscheidungen blieben bei ihm.
+
+Heller brauchte nur, dass sie brauchbar wurden.
 
 Der Satz blieb zwischen ihnen liegen.
 
@@ -991,6 +1493,68 @@ Der kam aus dem Nebenraum.
 Daniel drehte ihm das Telefon hin.
 
 „Nur die beiden Dinge. Kennung und Fahrzeug. Der Rest existiert für dich nicht.“
+
+Daniel nahm einen Ausdruck und schrieb die Nachricht nicht ab.
+
+Er zerlegte sie.
+
+**Servicekette zwei.**
+
+**Interne Kennung.**
+
+**Fahrzeugbezug.**
+
+**Zugangserweiterung nur sichtbarer Teil.**
+
+**Vor Einlass nicht mehr korrigierbar.**
+
+Neben jede Zeile ließ er Platz.
+
+Jonas zeigte auf die letzte.
+
+„Was schreibe ich da hin?“
+
+„Nichts.“
+
+„Offen?“
+
+„Nicht prüfbar in dieser Form.“
+
+Lena sagte: „Druckbehauptung.“
+
+Daniel sah kurz zu ihr.
+
+„Als Arbeitskategorie, ja.“
+
+Er schrieb es nicht hin.
+
+Bei der Servicekette stand zunächst nur: **existiert**.
+
+Bei der Kennung: **existiert, Bedeutung offen**.
+
+Beim Fahrzeug: **Altbezug bekannt, aktuelle Relevanz offen**.
+
+Die Behauptung über die Zugangserweiterung bekam gar keinen Status. Zu weit. Zu dehnbar.
+
+„Wenn wir am Ende nur zwei wahre Nomen haben, haben wir keine Lage“, sagte Daniel.
+
+Jonas nickte.
+
+„Aber zwei wahre Nomen sind mehr als null.“
+
+„Deshalb prüfen wir.“
+
+Daniel legte Hellers letzte Zeile unter ein leeres Blatt.
+
+Nicht weil er sie vergessen wollte.
+
+Weil er sehen wollte, ob die nächsten Entscheidungen auch ohne sie dieselben blieben.
+
+Das Telefon blieb neben ihm liegen.
+
+Display nach unten.
+
+Trotzdem wusste Daniel genau, wo es lag.
 
 Jonas las.
 
@@ -1181,6 +1745,66 @@ Heller starke Quellenhypothese. Keine formale Überführung. Neue Nachricht. Zwe
 Berg sagte lange nichts.
 
 Dann: „Und wenn er recht hat?“
+
+Berg zog einen Stuhl heran, setzte sich aber nicht.
+
+„Ihr habt eine laufende Veranstaltung, einen realen Fahrzeugtreffer und eine Quelle, von der ihr glaubt, dass sie euch manipuliert. Ich frage noch einmal: Was ist die Konsequenz, wenn ihr zu sauber seid und er diesmal schlicht recht hat?“
+
+Daniel sah auf die Uhr.
+
+Noch genug Zeit, um nervös zu werden.
+
+Nicht genug, um sich mit Nervosität zu entschuldigen.
+
+„Die Konsequenz kann real sein“, sagte er.
+
+„Das war nicht meine Frage.“
+
+„Doch. Nur nicht die Antwort, die du willst.“
+
+Berg stützte beide Hände auf die Stuhllehne.
+
+„Ich will wissen, wie viel Unsicherheit du dir jetzt leisten willst.“
+
+Daniel kannte die Formulierung.
+
+Vor Wochen hätte er über Eingriffsschwellen gesprochen. Dann über vermiedenen Schaden. Zuletzt darüber, was passierte, wenn sie zu früh zurückbauten.
+
+Jetzt lag dieselbe Frage vor ihm, nur mit Heller darin.
+
+„So viel wie nötig, damit die nächste Maßnahme unsere ist“, sagte Daniel.
+
+Lena sah ihn an, sagte aber nichts.
+
+Berg antwortete: „Das kann Zeit kosten.“
+
+„Ja.“
+
+„Und wenn die Zeit fehlt?“
+
+Daniel deutete auf Jonas’ Bildschirm.
+
+„Dann soll mir das die unabhängige Lage zeigen. Nicht seine letzte Zeile.“
+
+Für einige Sekunden passierte nichts.
+
+Keine neue Erkenntnis.
+
+Nur das Summen der Lüftung und Jonas, der zwischen zwei Systemständen wechselte.
+
+Daniel merkte, wie schwer es war, Warten auszuhalten, nachdem er gelernt hatte, Warten als Risiko zu lesen.
+
+Genau darin lag Hellers stärkster Hebel.
+
+Nicht in einer Lüge.
+
+In Daniels eigener Erinnerung daran, was Verzögerung kosten konnte.
+
+Er ließ die Uhr laufen.
+
+Nicht passiv.
+
+Prüfend.
 
 Lena sah zu Daniel.
 
