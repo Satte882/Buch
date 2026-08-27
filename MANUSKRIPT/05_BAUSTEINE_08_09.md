@@ -1228,7 +1228,7 @@ Im Ohrhörer fragte die Einsatzführung erneut nach dem Status.
 
 Daniel antwortete: „Nicht bestätigt. Warten.“
 
-Heller hob das Terminal.
+Heller hob das Terminal in der linken Hand.
 
 Daniel sah die vorbereitete Meldung auf dem Display.
 
