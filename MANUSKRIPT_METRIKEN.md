@@ -4,10 +4,10 @@
 
 ## Gesamtstand
 
-- **Ist:** 55.396 Wörter
+- **Ist:** 55.603 Wörter
 - **Planungsziel:** 77.000 Wörter
-- **Lücke zum Planungsziel:** 21.604 Wörter
-- **Zielerreichung:** 71,9%
+- **Lücke zum Planungsziel:** 21.397 Wörter
+- **Zielerreichung:** 72,2%
 
 ## Bausteine – Ist gegen Ziel
 
@@ -18,7 +18,7 @@
 | 03 | Auslösendes Ereignis | 9.205 | 11.000 | +1.795 | 83.7% |
 | 04 | Erste Entscheidung | 7.100 | 8.500 | +1.400 | 83.5% |
 | 05 | Entdeckung & Eskalation | 10.076 | 12.000 | +1.924 | 84.0% |
-| 06 | Moralischer / psychologischer Kipppunkt | 11.234 | 13.400 | +2.166 | 83.8% |
+| 06 | Moralischer / psychologischer Kipppunkt | 11.441 | 13.400 | +1.959 | 85.4% |
 | 07 | Reversal / Umdeutung | 3.693 | 7.000 | +3.307 | 52.8% |
 | 08 | Finale Entscheidung & Konsequenz | 3.840 | 10.500 | +6.660 | 36.6% |
 | 09 | Nachhall / Schlussszene | 1.837 | 4.800 | +2.963 | 38.3% |
@@ -58,8 +58,8 @@
 | 06 | 28 | 1.270 |
 | 06 | 29 | 1.683 |
 | 06 | 30 | 1.305 |
-| 06 | 31 | 1.445 |
-| 06 | 32 | 1.208 |
+| 06 | 31 | 1.540 |
+| 06 | 32 | 1.320 |
 | 06 | 33 | 1.578 |
 | 07 | 34 | 858 |
 | 07 | 35 | 811 |
