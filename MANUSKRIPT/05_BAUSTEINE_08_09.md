@@ -3776,7 +3776,7 @@ Mara sah ihn kurz an.
 
 „Ja.“
 
-Mehr brauchte die Szene nicht.
+Mehr musste Daniel daraus nicht machen.
 
 Daniel fand den Tisch zu groß.
 
@@ -4164,7 +4164,7 @@ Jonas sagte sofort: „Geplante Kamerawartung. Seit Wochen dokumentiert.“
 
 Daniel nickte.
 
-Kein künstlicher Zufall.
+Kein Hinweis auf Manipulation.
 
 Nur ein offener Zugriff, der dadurch schwerer zu erklären war.
 

@@ -2902,7 +2902,7 @@ Der Fehler lag nicht darin, dass er keine Gegenhypothese gehabt hatte.
 
 Der Fehler lag darin, was sie in seiner Rechnung wert gewesen war.
 
-Daniel ging noch einmal zurück in den Arbeitsstand von Kapitel 23. Neben Weber standen zwei frühe Hinweise, die damals als **offen** markiert worden waren.
+Daniel ging noch einmal zurück in den Arbeitsstand vom Vortag. Neben Weber standen zwei frühe Hinweise, die damals als **offen** markiert worden waren.
 
 Er änderte die historische Bewertung nicht. Er setzte nur einen Kommentar daneben:
 
@@ -3472,7 +3472,7 @@ Daniel sah nicht vom Bildschirm auf.
 
 Sie kam herein und schloss die Tür.
 
-Daniel hatte den Vermerk aus Kapitel 25 noch offen. Nicht im breiten Quellenordner. Nur in seinem engsten Arbeitsstand.
+Daniel hatte den Vermerk zur Vor-Fall-Chronologie noch offen. Nicht im breiten Quellenordner. Nur in seinem engsten Arbeitsstand.
 
 **Privatbezug zeitlich vor Zuweisung Lagerkomplex. Auswahlzeitpunkt prüfen.**
 
@@ -3832,7 +3832,7 @@ Nicht Vertrauen in seine spätere Disziplin.
 
 Reibung gegen sich selbst.
 
-Seit der Erkenntnis aus Kapitel 25 hatte er den Impuls, jeden Informationsweg enger zu ziehen, jeden Zugriff zu kontrollieren, jeden möglichen Beobachter zu identifizieren. Kontrolle fühlte sich nach zurückgewonnener Autonomie an.
+Seit der Erkenntnis über seine mögliche Vorauswahl hatte er den Impuls, jeden Informationsweg enger zu ziehen, jeden Zugriff zu kontrollieren, jeden möglichen Beobachter zu identifizieren. Kontrolle fühlte sich nach zurückgewonnener Autonomie an.
 
 Diese vier Absätze waren etwas anderes.
 
@@ -4110,7 +4110,7 @@ Nicht einmal eine besonders seltene.
 
 „Ziehe ich.“
 
-Jonas öffnete die vorhandenen Projektinformationen. Der Lieferdienst war bisher nicht aufgefallen. Kein direkter Bezug zu Mika. Keine bekannte Verbindung zum Lagerraum aus Kapitel 23.
+Jonas öffnete die vorhandenen Projektinformationen. Der Lieferdienst war bisher nicht aufgefallen. Kein direkter Bezug zu Mika. Keine bekannte Verbindung zum zuletzt gefundenen Lagerraum.
 
 „Also bestätigt ist im Moment nur, dass die Kennung echt ist“, sagte Jonas.
 
@@ -4436,7 +4436,7 @@ Berg sah auf die Uhr.
 
 Niemand antwortete sofort.
 
-Daniel dachte an die vier Absätze aus Kapitel 26.
+Daniel dachte an die vier Absätze seiner selbst gesetzten Rückkehrgrenze.
 
 Keine automatische Ausweitung.
 
@@ -5152,7 +5152,7 @@ Sie wartete offenbar auf mehr.
 
 Daniel gab es ihr nicht.
 
-Er zog den Projektvermerk aus Kapitel 26 auf.
+Er zog den Projektvermerk mit seiner Rückkehrgrenze auf.
 
 **Keine automatische Fortführung oder Ausweitung. Fortführung nur nach erneuter dokumentierter Begründung und Freigabe.**
 
@@ -7178,7 +7178,7 @@ Die Quellenachricht.
 
 Den Projektstand zur neuen Lieferfreigabe.
 
-Daniels eigenen Vermerk aus Kapitel 26.
+Daniels eigenen Vermerk mit der Rückkehrgrenze.
 
 Daniel kannte jedes Dokument.
 
@@ -7220,7 +7220,7 @@ Berg nahm beide Seiten.
 
 Daniel sagte nichts.
 
-Er erinnerte sich an die drei Modelle aus Kapitel 27.
+Er erinnerte sich an die drei Modelle, die er nach der Nachricht notiert hatte.
 
 Reale Gefahr plus Druckmittel.
 
@@ -7312,7 +7312,7 @@ Nicht weil Berg ihm die Entscheidung zuschieben wollte.
 
 Weil Daniel die Grenze selbst formuliert hatte.
 
-Er öffnete den Entscheidungsvermerk aus Kapitel 29.
+Er öffnete den Entscheidungsvermerk zur breiteren Prüfung.
 
 **Gegenrisiko: Fehlzuordnung Weber; Korrelation beweist keine individuelle Beteiligung.**
 
@@ -7342,7 +7342,7 @@ Jonas hob die Hände. „Mehr weiß ich nicht.“
 
 Daniel nickte.
 
-In Kapitel 1 hätte ihm das gereicht.
+Zu Beginn hätte ihm das gereicht.
 
 Daniel zog den alten Ahrens-Vorgang nicht wirklich auf. Er brauchte nur die Bewegung, die er damals gemacht hatte.
 
@@ -7616,7 +7616,7 @@ Sie wurde ein Verfahren für den nächsten Morgen.
 
 Daniel öffnete die Versionshistorie.
 
-Oben stand seine alte Selbstbindung aus Kapitel 26.
+Oben stand seine alte selbst gesetzte Rückkehrgrenze.
 
 Darunter die neue Entscheidung.
 

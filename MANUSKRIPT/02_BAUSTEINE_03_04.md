@@ -3226,7 +3226,7 @@ Mehrere Frakturen. Keine Lebensgefahr.
 
 Auch das war wahr.
 
-Daniel öffnete die Zeitlinie von Kapitel zwölf nicht. Er brauchte sie nicht mehr.
+Daniel öffnete die Zeitlinie vom Betriebshof nicht. Er brauchte sie nicht mehr.
 
 Vierzig Minuten vermeidbare Reibung hatten sie dort gefunden.
 
@@ -5486,7 +5486,7 @@ Das war unangenehmer.
 
 Vorhersagbar war etwas anderes als kontrolliert.
 
-Daniel legte das Telefon noch einmal hin, bevor er Jonas anrief.
+Daniel legte das Telefon noch einmal hin. Erst sollten die Informationswege getrennt sein, bevor er Jonas wieder in die operative Arbeit zog.
 
 Er öffnete zwei getrennte Arbeitsstände.
 
@@ -5518,11 +5518,7 @@ Er wusste nicht, ob diese Trennung den Abfluss wirklich erschwerte.
 
 Aber sie zwang ihn wenigstens dazu, bei jeder Weitergabe zu entscheiden, welche Information er gerade aus welchem Grund bewegte.
 
-Er nahm das Telefon wieder.
-
-Erst jetzt rief er Jonas an.
-
-Daniel nahm sein Diensttelefon und rief Jonas an.
+Er nahm sein Diensttelefon wieder und rief Jonas an.
 
 „Schon wieder?“ sagte Jonas.
 
@@ -5656,7 +5652,7 @@ Der Satz klang laut schlechter als auf dem Bildschirm.
 
 Daniel antwortete nicht sofort.
 
-Das war die eigentliche Entscheidung der Szene.
+Genau dort lag die eigentliche Entscheidung.
 
 Er konnte den Kanal abbrechen.
 
