@@ -79,8 +79,8 @@ f2 = exact(f2,
 
 # K9 – Lena hat Daniel bereits entlarvt; danach nur noch Druck benennen, nicht die ganze Methode erklären.
 f2 = regex1(f2,
-    r'Lena sah nicht sofort auf den Ausdruck\. Sie sah Daniel an\.\n\n„Was wäre ein schlechter Grund, es mir nicht zu zeigen\?“.*?„Dann gehört genau das zu unserer Zusammenarbeit\.“',
-    'Lena sah Daniel an.\n\n„Beeinflusst der private Teil deine Bewertung?“\n\nDaniel sah auf die drei Spalten.\n\n„Er erhöht meinen Druck.“\n\nLena nickte.\n\n„Dann gehört genau das zu unserer Zusammenarbeit.“',
+    r'Lena sah nicht sofort auf den Ausdruck\. Sie sah Daniel an\.\n\n„Was wäre ein schlechter Grund, es mir nicht zu zeigen\?“.*?Daniel nickte\.\n\nDamit war die Privatzeile nicht plötzlich Teil des Falls\.',
+    'Lena sah Daniel an.\n\n„Beeinflusst der private Teil deine Bewertung?“\n\nDaniel sah auf die drei Spalten.\n\n„Er erhöht meinen Druck.“\n\nLena nickte.\n\n„Dann gehört genau das zu unserer Zusammenarbeit. Nicht als Beweis. Als mögliche Verzerrung deiner Schwelle.“\n\nDaniel nickte.\n\nDamit war die Privatzeile nicht plötzlich Teil des Falls.',
     'K9 Selbsterklärung nach Entlarvung kürzen')
 
 # Sicherheitschecks: Struktur und geschützte Anker.
