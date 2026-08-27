@@ -1960,6 +1960,8 @@ Sie durfte nicht schneller urteilen.
 
 Daniel ließ Jonas deshalb bei jeder neuen Meldung den Ursprung voranstellen.
 
+Nicht Hellers Nachricht entschied, welche Spur oben blieb. Die Reihenfolge kam aus den unabhängigen Rückmeldungen. Wenn eine davon wegbrach, musste auch die Lage kleiner werden – selbst jetzt, selbst kurz vor dem Zugriff. Kein Treffer durfte nur deshalb schwerer wiegen, weil er in die letzten Minuten passte.
+
 „Servicezufahrt?“
 
 „Unterlagen aus gestopptem Fahrzeug plus Bestätigung Veranstalter.“
