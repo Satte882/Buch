@@ -758,6 +758,66 @@ Der Servicebereich, den sie bis dahin als weitgehend frei von unbeteiligten Pers
 
 Ein kurzfristiger Personalwechsel. Acht Beschäftigte eines anderen Dienstleisters, die dort noch arbeiteten. Regulär. Nicht im alten Lagebild.
 
+Die neue Meldung hatte zunächst wie eine dieser Korrekturen geklungen, die in einer laufenden Lage ständig kamen.
+
+Ein Dienstleister später fertig.
+
+Eine Übergabe verschoben.
+
+Personal noch vor Ort.
+
+Dann die Zahl.
+
+Acht.
+
+Daniel ließ sich die Namen nicht vorlesen. Er brauchte zuerst nur den Status.
+
+„Bestätigt regulär?“
+
+„Vier eindeutig. Zwei über Schichtplan. Zwei noch in Klärung.“
+
+„Wo genau?“
+
+Die Antwort machte aus einer Nebeninformation eine operative Änderung.
+
+Nicht irgendwo auf dem Gelände.
+
+In dem Bereich, dessen fachliche Zuordnung aus Daniels Strang gerade in den nächsten Schritt einfloss.
+
+Er öffnete die Karte und legte die neue Personalspur darüber.
+
+Der alte Stand war nicht plötzlich falsch.
+
+Er war unvollständig geworden.
+
+Das reichte.
+
+„Bestätigung zurück“, sagte Daniel.
+
+Die Einsatzführung fragte nach, ob nur die Personenzuordnung oder der gesamte Bereich gemeint war.
+
+Daniel zwang sich, nicht schneller zu antworten als die Frage.
+
+„Bereich. Die Täterlage bleibt bestätigt. Die Freigabe für diesen Zugang nicht.“
+
+„Alternative Route?“
+
+„In Prüfung.“
+
+„Zeitfenster läuft.“
+
+„Weiß ich.“
+
+Er hörte, wie im Kanal mehrere Stimmen gleichzeitig kürzer wurden. Keine Panik. Nur die Art von Konzentration, die entstand, wenn ein vorbereiteter Ablauf plötzlich nicht mehr sauber auf seinem letzten Stand lag.
+
+Daniel bat um zwanzig Sekunden.
+
+Nicht weil zwanzig Sekunden sicher reichten.
+
+Weil zehn zu wenig waren und dreißig vielleicht schon zu viel.
+
+Zum ersten Mal in dieser Nacht spürte er den Regen im Nacken.
+
 Daniel hatte auf den Bildschirm gesehen und sofort gesagt: „Bestätigung zurück. Bereich nicht bestätigt.“
 
 Die Einsatzführung hatte nachgefragt.
@@ -828,21 +888,95 @@ Fast müde.
 
 Hellers Daumen lag über dem Sendefeld.
 
-Daniel war drei, vielleicht vier Meter entfernt.
+Daniel sah nicht nur Hellers Hand.
 
-Er hätte loslaufen können.
+Er sah auch den Weg zu ihm.
 
-Zwei Schritte, vielleicht drei.
+Drei Meter auf nassem Beton.
 
-Heller am Arm packen.
+Vielleicht weniger.
 
-Das Terminal aus der Hand schlagen.
+Ein Schritt unter das Vordach, zwei hinaus.
 
-Darauf vertrauen, dass die Einsatzführung Daniels Widerruf höher gewichtete als eine zweite Meldung.
+Wenn Heller stehen blieb, war die Entfernung lächerlich klein.
 
-Alles möglich.
+Wenn er den Vorgang mit einer Bewegung abschloss, war sie zu groß.
 
-Nichts sicher.
+Daniel konnte losgehen.
+
+Er konnte Heller am Unterarm greifen.
+
+Er konnte das Terminal wegschlagen.
+
+Er konnte gleichzeitig in den Kanal sagen, dass jede Meldung von Heller zu diesem Vorgang nicht Teil der aktuellen Ermittlungsbewertung war.
+
+Nichts davon war absurd.
+
+Genau deshalb blieb es später wichtig.
+
+Daniel machte einen Schritt.
+
+„Markus. Lass das Gerät unten.“
+
+Heller sah ihn an.
+
+„Du hältst den Zugriff wegen einer Personaländerung an.“
+
+„Ich halte eine alte Bewertung an.“
+
+„Mit demselben Ergebnis.“
+
+„Nein.“
+
+„Für die Leute draußen schon.“
+
+Daniel hörte im Ohr eine Rückfrage der Einsatzführung. Eine der acht Personen war lokalisiert worden. Noch nicht alle.
+
+Er drückte die Sprechtaste.
+
+„Widerruf bleibt.“
+
+Heller wartete, bis Daniel losließ.
+
+„Und wenn das Fahrzeug in der Zeit weg ist?“
+
+Daniel antwortete nicht sofort.
+
+Die Frage war berechtigt.
+
+Das machte sie gefährlicher.
+
+„Dann ist das der Preis dieser Korrektur.“
+
+„Acht möglicherweise Unbeteiligte gegen eine bestätigte Vorbereitung.“
+
+„Du machst aus ihnen eine Rechenaufgabe.“
+
+„Du auch.“
+
+Daniel spürte, wie der Satz saß.
+
+Nicht als Enthüllung.
+
+Als Tatsache.
+
+Jede Entscheidung in dieser Nacht war eine Gewichtung gewesen.
+
+Der Unterschied war nur, welche Unsicherheit man bereit war zu tragen.
+
+Heller senkte den Blick wieder auf das Terminal.
+
+Daniel machte den zweiten Schritt.
+
+Jetzt hätte er springen können.
+
+Vielleicht hätte es gereicht.
+
+Vielleicht hätte Heller nur den Daumen bewegen müssen.
+
+Daniel wusste nicht, welche Möglichkeit wahrscheinlicher war.
+
+Er wusste nur, dass beide real waren.
 
 Heller bewegte den Daumen.
 
@@ -860,17 +994,47 @@ Auf dem Display stand die vorbereitete Meldung noch offen.
 
 Nicht gesendet.
 
-Im Ohr hörte er Stimmen.
+Das offene Feld auf dem Terminal blieb vor Daniels Augen stehen.
 
-„Reuter? Wir haben einen Schuss. Status?“
+Nicht gesendet.
 
-Daniel atmete einmal ein.
+Er brauchte einen Moment, um zu verstehen, dass diese zwei Wörter jetzt wichtiger waren als alles andere an dem Gerät.
 
-„Alte Bestätigung bleibt zurückgezogen.“
+Im Kanal fragte die Einsatzführung nach dem Status.
 
-„Verstanden. Zugriff hält.“
+Daniel zwang seine Stimme in denselben Ton, den er vor dem Schuss gehabt hatte.
 
-„Unbeteiligte im Bereich. Neue Route.“
+„Alte Bewertung bleibt zurückgezogen. Neue Personalinformation ist bestätigt genug für die Korrektur. Andere Täteranker unverändert.“
+
+„Verstanden.“
+
+„Heller?“
+
+Daniel sah zu ihm.
+
+„Nicht Teil der Lagebewertung.“
+
+Mehr sagte er nicht.
+
+Die Frage nach Heller gehörte jetzt jemand anderem.
+
+Daniel ging zwei Schritte zurück, damit die Kräfte aus dem Gebäude Raum hatten.
+
+Er bemerkte erst dabei, dass seine rechte Hand zu fest geschlossen war.
+
+Er öffnete sie.
+
+Im Ohr liefen die Meldungen weiter.
+
+Eine weitere unbeteiligte Person lokalisiert.
+
+Neue Route in Prüfung.
+
+Fahrzeugstand unverändert.
+
+Der Fall hatte sich nicht dafür interessiert, dass gerade etwas Unumkehrbares passiert war.
+
+Daniel konnte es sich auch noch nicht erlauben.
 
 Heller machte ein Geräusch.
 
