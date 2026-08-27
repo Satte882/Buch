@@ -62,7 +62,7 @@ jobs:
               '08': [str(i) for i in range(38, 44)],
               '09': [str(i) for i in range(44, 48)],
           }
-          targets = {
+          references = {
               '01': 800,
               '02': 9000,
               '03': 11000,
@@ -87,32 +87,32 @@ jobs:
 
           btotals = {b: sum(sections[k] for k in ks) for b, ks in bausteine.items()}
           total = sum(btotals.values())
-          target_total = sum(targets.values())
+          reference_total = sum(references.values())
 
           lines = [
               '# Manuskript-Metriken',
               '',
               '> Automatisch aus `MANUSKRIPT/*.md` erzeugt. Diese Datei nicht manuell pflegen.',
+              '>',
+              '> **Steuerungsregel:** Wortzahl ist eine Messgröße, kein Qualitäts- oder Abnahmekriterium. Die 77.000 Wörter und Bausteinwerte sind nur historische Ausbau-Referenzen; es wird nicht auf sie hin gekürzt oder aufgefüllt.',
               '',
               '## Gesamtstand',
               '',
               f'- **Ist:** {total:,} Wörter'.replace(',', '.'),
-              f'- **Planungsziel:** {target_total:,} Wörter'.replace(',', '.'),
-              f'- **Lücke zum Planungsziel:** {target_total-total:,} Wörter'.replace(',', '.'),
-              f'- **Zielerreichung:** {total/target_total:.1%}'.replace('.', ','),
+              f'- **Historische Planungsreferenz:** {reference_total:,} Wörter'.replace(',', '.'),
+              f'- **Abweichung zur historischen Referenz:** {total-reference_total:+,} Wörter'.replace(',', '.'),
               '',
-              '## Bausteine – Ist gegen Ziel',
+              '## Bausteine – Ist gegen historische Ausbau-Referenz',
               '',
-              '| Baustein | Funktion | Ist Wörter | Ziel | Lücke | Ziel erreicht |',
-              '|---|---|---:|---:|---:|---:|',
+              '| Baustein | Funktion | Ist Wörter | historische Referenz | Abweichung |',
+              '|---|---|---:|---:|---:|',
           ]
           for b in bausteine:
               actual = btotals[b]
-              target = targets[b]
-              gap = target - actual
-              pct = actual / target
+              reference = references[b]
+              delta = actual - reference
               lines.append(
-                  f"| {b} | {names[b]} | {actual:,} | {target:,} | {gap:+,} | {pct:.1%} |"
+                  f"| {b} | {names[b]} | {actual:,} | {reference:,} | {delta:+,} |"
                   .replace(',', '.')
               )
 
@@ -131,9 +131,9 @@ jobs:
               '',
               '## Zählregel',
               '',
-              'Gezählt wird reproduzierbar aus dem Prosatext unter den Überschriften `## Prolog` und `## 1` bis `## 47`. Markdown-Überschriften selbst zählen nicht. Wörter mit Bindestrich oder Apostroph werden als ein Wort behandelt. Die Zahl kann geringfügig von Microsoft Word abweichen; für die Repo-Steuerung ist diese Zählung verbindlich.',
+              'Gezählt wird reproduzierbar aus dem Prosatext unter den Überschriften `## Prolog` und `## 1` bis `## 47`. Markdown-Überschriften selbst zählen nicht. Wörter mit Bindestrich oder Apostroph werden als ein Wort behandelt. Die Zahl kann geringfügig von Microsoft Word abweichen.',
               '',
-              'Die Baustein-Ziele stammen aus `UMFANG_UND_AUSBAUSTEUERUNG.md`; die Kapitel-Zielkorridore aus `AUSBAU_MATRIX.md`.',
+              'Die historischen Referenzwerte stammen aus der früheren Ausbauplanung in `UMFANG_UND_AUSBAUSTEUERUNG.md`. Für die aktuelle Manuskriptphase gilt: Umfang folgt Funktion.',
           ]
 
           Path('MANUSKRIPT_METRIKEN.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
