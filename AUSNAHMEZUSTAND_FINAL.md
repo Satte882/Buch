@@ -1,4 +1,14 @@
-# Ausnahmezustand
+# NORMALFALL
+
+*Psychothriller*
+
+---
+
+**Normalfall**
+
+Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.
+
+*Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.*
 
 ---
 

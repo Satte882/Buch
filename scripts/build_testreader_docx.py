@@ -148,7 +148,7 @@ def build_docx(source: Path, output: Path) -> None:
     chapters = parse_manuscript(source.read_text(encoding="utf-8"))
 
     doc = Document()
-    doc.core_properties.title = "Ausnahmezustand"
+    doc.core_properties.title = "Normalfall"
     doc.core_properties.subject = "Romanmanuskript – Testleserfassung"
     doc.core_properties.author = ""
     doc.core_properties.keywords = ""
@@ -172,14 +172,42 @@ def build_docx(source: Path, output: Path) -> None:
     title.alignment = WD_ALIGN_PARAGRAPH.CENTER
     title.paragraph_format.first_line_indent = Cm(0)
     title.paragraph_format.space_after = Pt(10)
-    run = title.add_run("AUSNAHMEZUSTAND")
+    run = title.add_run("NORMALFALL")
     run.bold = True
     set_run_font(run, size=24)
 
     subtitle = doc.add_paragraph()
     subtitle.alignment = WD_ALIGN_PARAGRAPH.CENTER
     subtitle.paragraph_format.first_line_indent = Cm(0)
-    run = subtitle.add_run("Roman")
+    run = subtitle.add_run("Psychothriller")
+    run.italic = True
+    set_run_font(run, size=12)
+
+    doc.add_page_break()
+    for _ in range(5):
+        doc.add_paragraph()
+
+    definition_title = doc.add_paragraph()
+    definition_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    definition_title.paragraph_format.first_line_indent = Cm(0)
+    definition_title.paragraph_format.space_after = Pt(6)
+    run = definition_title.add_run("Normalfall")
+    run.bold = True
+    set_run_font(run, size=13)
+
+    definition = doc.add_paragraph()
+    definition.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    definition.paragraph_format.first_line_indent = Cm(0)
+    definition.paragraph_format.space_after = Pt(30)
+    run = definition.add_run("Ein Vorgang, der nach den üblichen Regeln behandelt werden kann.")
+    set_run_font(run, size=12)
+
+    epigraph = doc.add_paragraph()
+    epigraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    epigraph.paragraph_format.first_line_indent = Cm(0)
+    epigraph.paragraph_format.left_indent = Cm(2.0)
+    epigraph.paragraph_format.right_indent = Cm(2.0)
+    run = epigraph.add_run("Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.")
     run.italic = True
     set_run_font(run, size=12)
 
