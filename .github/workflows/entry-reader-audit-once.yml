@@ -1,0 +1,53 @@
+name: Entry reader-pass audit
+on:
+  push:
+    paths:
+      - '.github/workflows/entry-reader-audit-once.yml'
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Print reader-pass windows
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          files = [Path('MANUSKRIPT/01_BAUSTEINE_01_02.md'), Path('MANUSKRIPT/02_BAUSTEINE_03_04.md')]
+          chapters = {}
+          for p in files:
+              text = p.read_text(encoding='utf-8')
+              ms = list(re.finditer(r'^##\s+(Prolog|\d+)\s*$', text, re.M))
+              for i,m in enumerate(ms):
+                  end = ms[i+1].start() if i+1 < len(ms) else len(text)
+                  chapters[m.group(1)] = text[m.end():end].strip()
+
+          for ch in ['4','5','6']:
+              print(f'===== CHAPTER {ch} FULL =====')
+              print(chapters[ch])
+
+          anchors = {
+              '8': ['20.11 Uhr.', 'Dann den Briefkasten.', 'Das bedeutete nichts.'],
+              '9': ['weil unten drei Zentimeter mehr Rand sind als oben', 'Was wäre ein schlechter Grund'],
+          }
+          for ch, needles in anchors.items():
+              text = chapters[ch]
+              print(f'===== CHAPTER {ch} WINDOWS =====')
+              for needle in needles:
+                  idx = text.find(needle)
+                  print(f'--- {needle!r} idx={idx} ---')
+                  if idx >= 0:
+                      print(text[max(0, idx-700):min(len(text), idx+1800)])
+          PY
+      - name: Self-remove audit workflow
+        shell: bash
+        run: |
+          git rm .github/workflows/entry-reader-audit-once.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Remove entry reader audit workflow'
+          git push
