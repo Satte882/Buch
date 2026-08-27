@@ -408,6 +408,58 @@ Weil sie für die nächste Entscheidung nicht mehr reichen musste.
 
 „Ab jetzt nur noch unser Stand“, sagte er.
 
+„Ab jetzt nur noch unser Stand“, sagte er.
+
+Daniel ließ Jonas die anonyme Nachricht aus dem Hauptfenster nehmen.
+
+Nicht löschen.
+
+Nur aus der Sicht, in der die nächste Entscheidung vorbereitet wurde.
+
+Dann stellte er eine letzte Frage.
+
+„Welcher unserer drei Anker fällt weg, wenn Heller die Nachricht nie geschickt hätte?“
+
+Jonas sah auf die Freigabe.
+
+„Keiner als Fakt. Wir hätten sie nur später zusammengeführt.“
+
+„Das Fahrzeug?“
+
+„Andere Dienststelle.“
+
+„Die Person?“
+
+„Temporärer Ausweis plus älterer Kontaktbestand.“
+
+„Zeitfenster?“
+
+„Veranstalter und Dienstleister widersprechen sich unabhängig von Heller.“
+
+Daniel nickte.
+
+„Und welcher Anker fällt weg, wenn einer der drei sich morgen als harmlos erklärt?“
+
+Lena antwortete: „Dann wird die Kette schwächer. Nicht automatisch falsch.“
+
+Daniel wollte genau das hören.
+
+Keine Beweiskette, die nur funktionierte, solange jeder einzelne Punkt maximal belastend gelesen wurde.
+
+Die Freigabe bewies keine Täteridentität.
+
+Das Fahrzeug bewies keinen finalen Auftrag.
+
+Die Person bewies keine konkrete Rolle.
+
+Zusammen reichten sie für die akute Lage, weil sie aus getrennten Wegen kamen und sich im aktuellen Zeitfenster berührten.
+
+Zum ersten Mal seit Hellers Enttarnung stand ein finales Lagebild vor Daniel, das nicht moralisch sauber war, aber fachlich ohne Hellers Autorität stehen konnte.
+
+Das war weniger Gewissheit als Hellers Geschichte.
+
+Und mehr Verantwortung.
+
 Daniel ließ das neue Fenster nicht sofort weiterreichen.
 
 „Jeder Punkt bekommt Herkunft und Grenze“, sagte er.
@@ -836,6 +888,50 @@ Der erste war nicht falsch gewesen.
 
 Er war nur langsamer.
 
+Der erste war nicht falsch gewesen.
+
+Er war nur langsamer.
+
+Daniel schrieb die beiden Risiken untereinander.
+
+**Enger Weg:** weniger Personen im Prüfkreis, höhere Wahrscheinlichkeit späterer Verbindung, bestätigtes Zeitfenster läuft weiter.
+
+**Projektstruktur:** schnellere Verbindung vorhandener Daten, mehr Banaltreffer und Fehlzuordnungsrisiko, zusätzliche Reichweite trotz Hellers Vorgeschichte.
+
+Keine Zeile sagte *alternativlos*.
+
+Daniel strich das Wort **schneller** im zweiten Satz nicht an. Er unterstrich stattdessen **mehr Banaltreffer**.
+
+„Schutzbegrenzungen noch einmal“, sagte er.
+
+Jonas zählte sie auf.
+
+Definierter aktueller Zugangskreis.
+
+Keine Erweiterung auf Kontakte von Kontakten.
+
+Treffer ohne unabhängigen Anker lösen keine Maßnahme aus.
+
+Jeder belastende Treffer bekommt eine Gegenhypothese.
+
+Verworfene Treffer bleiben im Nachbericht sichtbar.
+
+Lena ergänzte: „Und wenn die Grundlage für den aktuellen Kreis wegfällt, wird nicht still erweitert, um ihn zu retten.“
+
+Daniel nickte.
+
+Hellers Manipulation war damit nicht aus dem Instrument verschwunden. Sie blieb ein Grund, warum Daniel jeden Schritt enger begründen musste.
+
+Aber sie war auch kein Grund, so zu tun, als hätte die Struktur ihre realen Erfolge nie gehabt.
+
+Daniel sah auf die beiden Wege.
+
+Er wählte nicht zwischen sauber und unsauber.
+
+Er wählte zwischen zwei realen Risikoprofilen.
+
+Und diesmal konnte er später niemandem sagen, er habe die zweite Seite nicht gekannt.
+
 Daniel faltete ihn nicht zusammen.
 
 Er ließ ihn liegen.
@@ -1123,6 +1219,50 @@ Heller senkte den Blick wieder auf das Terminal.
 Daniel machte den zweiten Schritt.
 
 Jetzt hätte er springen können.
+
+Daniel machte den zweiten Schritt.
+
+Jetzt hätte er springen können.
+
+Der Regen machte den Beton glatt. Nicht so glatt, dass ein Sprung unmöglich gewesen wäre. Nur so, dass Daniel den ersten Schritt nicht als sichere Distanzverkürzung rechnen konnte.
+
+Heller stand nicht in einer Kampfhaltung.
+
+Er griff Daniel nicht an.
+
+Sein Körper war fast ruhig.
+
+Nur der Daumen war dort, wo eine Bewegung genügte.
+
+Daniel sah die Kante des Terminals in Hellers Hand, den Abstand zwischen ihnen und die offene Fläche dazwischen.
+
+Drei Meter.
+
+Vielleicht weniger.
+
+Ein schneller Schritt, ein Griff an den Unterarm, ein Schlag gegen das Gerät.
+
+Alles möglich.
+
+Nichts davon sicher rechtzeitig.
+
+Genauso möglich war, dass Daniels Widerruf im Kanal die vorbereitete Meldung überstimmte, selbst wenn Heller sie sendete.
+
+Daniel wusste nicht, wie die Einsatzführung zwei widersprüchliche fachliche Meldungen in genau diesen Sekunden behandeln würde.
+
+Er wusste nur, dass sein Widerruf bereits draußen war.
+
+Damit existierte auch die Möglichkeit, gar nichts Körperliches zu tun.
+
+Heller sah kurz auf das Display.
+
+Daniel hörte seinen eigenen Atem lauter als den Funk.
+
+Keine der Alternativen verschwand.
+
+Sie liefen nur gleichzeitig aus derselben Sekunde heraus.
+
+Dann bewegte Heller den Daumen.
 
 Vielleicht hätte es gereicht.
 
@@ -1702,6 +1842,56 @@ Sie durfte schneller sehen.
 
 Sie durfte nicht schneller urteilen.
 
+Sie durfte schneller sehen.
+
+Sie durfte nicht schneller urteilen.
+
+Daniel ließ Jonas deshalb bei jeder neuen Meldung den Ursprung voranstellen.
+
+„Servicezufahrt?“
+
+„Unterlagen aus gestopptem Fahrzeug plus Bestätigung Veranstalter.“
+
+„Person eins?“
+
+„Aktueller Zugang und unabhängig bestätigter Unterstützerkontakt.“
+
+„Person zwei?“
+
+„Nur gemeinsamer Dienstleister.“
+
+„Dann offen.“
+
+Jonas begann die Sätze selbst so zu bauen, bevor Daniel fragte.
+
+Nicht *wir haben noch jemanden*.
+
+Sondern *wir haben einen aktuellen Kontaktpunkt, Gegenhypothese beruflicher Zusammenhang*.
+
+Daniel merkte, dass er zweimal dieselbe Zeile lesen musste. Die Buchstaben waren nicht unscharf. Seine Konzentration sprang nur für Sekunden zurück unter das Vordach.
+
+Hellers Hand.
+
+Der Knall.
+
+Dann wieder der Bildschirm.
+
+Daniel presste die linke Hand unter die Tischkante, bis das Zittern kleiner wurde.
+
+„Weiter.“
+
+Lena sah es.
+
+Sie sagte nichts.
+
+Das half.
+
+Der Schuss durfte jetzt weder Hellers Hinweise plötzlich unglaubwürdig machen noch Daniels eigene Stränge plötzlich glaubwürdiger.
+
+Jede Meldung musste denselben Weg verdienen wie vor drei Minuten.
+
+Gerade weil Daniel selbst nicht mehr derselbe war wie vor drei Minuten.
+
 Wenige Sekunden später kam die erste belastbare Rückmeldung aus dem Servicebereich.
 
 Nicht alles passte zu Hellers Bild.
@@ -2065,6 +2255,52 @@ Jana nahm das Telefon nicht.
 Daniel steckte das Telefon wieder ein.
 
 „Was brauchst du von mir?“ fragte er.
+
+„Was brauchst du von mir?“ fragte er.
+
+Jana dachte länger nach, als Daniel erwartet hatte.
+
+„Eine Regel, die für Informationen gilt. Nicht für mich.“
+
+Daniel wartete.
+
+„Wenn ihr etwas Neues habt, das meine konkrete Gefährdung erhöht, sagst du mir genau was sich geändert hat.“
+
+„Soweit ich darf.“
+
+„Ja.“
+
+„Und wenn wir nur wieder eine neue Theorie haben?“
+
+„Dann sagst du nicht automatisch, ich soll mein Leben noch enger machen.“
+
+Daniel nickte.
+
+„Wenn die Beobachtung wieder auftaucht?“
+
+„Dann ist das eine neue Information.“
+
+„Wenn nur jemand intern sagt, es könnte sein?“
+
+„Dann ist es ein Jemand-sagt-es-könnte-sein.“
+
+Daniel musste kurz lächeln.
+
+„Fachbegriff?“
+
+„Solltest du einführen.“
+
+Jana wurde wieder ernst.
+
+„Ich will nicht weniger wissen. Ich will nur nicht, dass jede Unsicherheit bei mir als Anweisung ankommt.“
+
+Daniel sah auf ihr Telefon, den Kalender, die Praxis hinter ihr.
+
+„Verstanden.“
+
+Diesmal bedeutete Information geben nicht, Verantwortung abzugeben.
+
+Es bedeutete, Jana genug davon zu geben, damit die Entscheidung tatsächlich ihre bleiben konnte.
 
 Jana sah ihn an, als hätte sie mit der Frage nicht gerechnet.
 
@@ -2437,6 +2673,56 @@ Lena nicht.
 Die Leiterin fragte: „Welche?“
 
 „Distanz schließen. Ihn körperlich stoppen. Darauf vertrauen, dass die Einsatzführung meinen Widerruf rechtzeitig gegen seine Meldung hält.“
+
+„Distanz schließen. Ihn körperlich stoppen. Darauf vertrauen, dass die Einsatzführung meinen Widerruf rechtzeitig gegen seine Meldung hält.“
+
+Die Leiterin schrieb die drei Möglichkeiten getrennt auf.
+
+„Haben Sie eine davon damals für sicher erfolglos gehalten?“
+
+„Nein.“
+
+„Eine für sicher erfolgreich?“
+
+Daniel sah auf die Liste.
+
+„Auch nein.“
+
+„Dann haben Sie nicht zwischen möglich und unmöglich entschieden.“
+
+„Nein.“
+
+„Sondern zwischen Risiken unter Zeitdruck.“
+
+Daniel nickte.
+
+Berg bewegte sich auf seinem Stuhl.
+
+Die Leiterin sah nicht zu ihm.
+
+„Für die Aufarbeitung ist wichtig, dass wir aus dem Ausgang keine Gewissheit rückwärts erzeugen. Dass die Meldung nicht gesendet wurde, beweist nicht, dass Sie Heller sicher anders hätten stoppen können. Es beweist aber auch nicht, dass der Schuss die einzige Möglichkeit war.“
+
+„Ja.“
+
+Daniel mochte den Satz nicht.
+
+Er war trotzdem präzise.
+
+„Und bei der Projektstruktur?“, fragte sie.
+
+„Gleiche Frage“, sagte Daniel. „Der engere Weg existierte. Ich habe ihn wegen des Zeitrisikos nicht gewählt.“
+
+„Obwohl Sie Hellers Manipulation bereits kannten.“
+
+„Ja.“
+
+Damit lagen die beiden Entscheidungen nicht in derselben Mappe, aber sie hatten denselben unangenehmen Kern.
+
+Daniel hatte Alternativen gesehen.
+
+Er hatte gewichtet.
+
+Und er konnte die Verantwortung nicht dadurch verkleinern, dass die Ergebnisse später teilweise für ihn sprachen.
 
 „Warum haben Sie das nicht getan?“
 
