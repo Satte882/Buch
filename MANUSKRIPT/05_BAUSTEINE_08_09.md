@@ -840,6 +840,30 @@ Daniel faltete ihn nicht zusammen.
 
 Er ließ ihn liegen.
 
+Daniel nahm den engeren Weg noch einmal in die Hand.
+
+„Ich will, dass im Einsatzvermerk steht, dass wir diese Option hatten.“
+
+Berg sah ihn an.
+
+„Warum jetzt?“
+
+„Weil es morgen sonst aussieht, als hätte es nur eine vernünftige Möglichkeit gegeben.“
+
+Lena nickte.
+
+Daniel diktierte knapp: engerer Prüfweg möglich, erwartbar langsamer, höheres Risiko für das bestätigte Zeitfenster; erweiterte Struktur bewusst gewählt und begrenzt.
+
+Keine Rechtfertigung.
+
+Nur die Alternative, die existiert hatte.
+
+Er legte das Blatt zurück.
+
+Damit wurde seine Entscheidung nicht besser.
+
+Nur eindeutiger seine.
+
 Daniel sah noch einmal auf die Grenzen, die sie für die schnellere Prüfung gesetzt hatten.
 
 Sie waren nicht theoretisch geblieben.
@@ -1294,6 +1318,22 @@ Er nahm ihm eher welche.
 
 Was jetzt noch von ihm gebraucht wurde, war nicht die Entscheidung über Kräfte draußen, sondern der letzte saubere Stand seines Ermittlungsstrangs.
 
+Daniel gab den Stand Satz für Satz weiter.
+
+Er merkte, dass er langsamer sprach als sonst.
+
+Nicht wegen Unklarheit.
+
+Weil jedes Wort jetzt zwei Funktionen hatte: Die laufende Lage musste damit arbeiten können, und später musste nachvollziehbar bleiben, was Daniel in diesem Moment tatsächlich wusste.
+
+„Bestätigte Täteranker unverändert“, sagte er. „Bereichsbewertung zurückgezogen wegen neuer Unbeteiligtenlage. Hellers Gegenmeldung nicht Teil meiner Bewertung.“
+
+Die Einsatzführung bestätigte jeden Punkt einzeln.
+
+Daniel wartete auf das letzte „verstanden“.
+
+Erst dann wusste er, dass der Schuss nicht zusätzlich durch ein Kommunikationschaos weiterwirken würde.
+
 Er nannte noch einmal die bestätigten Täteranker und die zurückgezogene Bereichsbewertung.
 
 Keine Deutung Hellers.
@@ -1529,6 +1569,34 @@ Der große Schaden war sehr wahrscheinlich verhindert.
 Und die unbestätigten Teile blieben unbestätigt.
 
 Beides musste später in dieselbe Akte.
+
+Daniel ließ Jonas noch einen Punkt ergänzen.
+
+„Zeitstempel zu jeder verworfenen Spur.“
+
+„Wozu?“
+
+„Damit später niemand so tut, als hätten wir nur die richtigen Treffer gesehen.“
+
+Jonas verstand sofort.
+
+Der Bericht würde dadurch länger und unbequemer.
+
+Ein falscher Doppel-Ausweis.
+
+Ein plausibler Fahrer.
+
+Eine Person, deren Kontakt zunächst verdächtig wirkte und sich nicht trug.
+
+Daneben die wenigen Verbindungen, die tatsächlich Maßnahmen begründet hatten.
+
+Daniel sah die Liste entstehen.
+
+Die Arbeitsweise hatte funktioniert.
+
+Aber nur, weil Menschen mehrfach entschieden hatten, **nicht** auf das zu reagieren, was das System sichtbar machte.
+
+Auch das gehörte zum Erfolg.
 
 Nicht lange.
 
