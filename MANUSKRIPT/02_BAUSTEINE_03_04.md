@@ -372,7 +372,13 @@ Daniel drückte auf die Zwei.
 
 Die Türen schlossen sich wieder.
 
-Er las nur die erste Zeile.
+Daniel sah auf die letzte Zeile.
+
+Hausflur Ihrer Mutter.
+
+Sein Daumen lag noch auf der Taste. Er nahm ihn weg.
+
+Dann las er die Nachricht von oben.
 
 Nordtür.
 
@@ -1132,53 +1138,17 @@ Daniel lehnte sich zurück.
 
 Lena ließ sich mit der Antwort zufrieden geben. Vorerst.
 
-Lena sah nicht sofort auf den Ausdruck. Sie sah Daniel an.
+Lena sah Daniel an.
 
-„Was wäre ein schlechter Grund, es mir nicht zu zeigen?“
-
-Daniel dachte kurz nach.
-
-„Wenn ich die Information nur deshalb draußen halte, weil sie meine Bewertung beeinflusst und ich das nicht erklären will.“
-
-„Beeinflusst sie deine Bewertung?“
-
-Er hätte leicht Nein sagen können.
-
-Die operative Behauptung war dieselbe, egal wer seinen Briefkasten beobachtet hatte.
-
-„Sie erhöht meinen Druck“, sagte er.
-
-„Das war nicht die Frage.“
+„Beeinflusst der private Teil deine Bewertung?“
 
 Daniel sah auf die drei Spalten.
 
-„Sie darf die Beweislage nicht erhöhen.“
-
-„Darf?“
-
-„Tut sie fachlich nicht.“
-
-Lena ließ ihm den Satz nicht sofort durchgehen.
-
-„Und praktisch?“
-
-Daniel zog den Ausdruck ein Stück zu sich.
-
-„Praktisch will ich schneller wissen, ob die Quelle recht hat.“
+„Er erhöht meinen Druck.“
 
 Lena nickte.
 
-Kein Triumph. Nur Registrierung.
-
 „Dann gehört genau das zu unserer Zusammenarbeit. Nicht als Beweis. Als mögliche Verzerrung deiner Schwelle.“
-
-Daniel sah sie an.
-
-„Du willst den Wortlaut?“
-
-„Nicht, wenn du einen guten Grund hast, ihn eng zu halten. Ich will wissen, wenn er anfängt, deine Entscheidungen zu tragen.“
-
-Das war unangenehm präzise.
 
 Daniel nickte.
 

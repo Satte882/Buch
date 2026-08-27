@@ -256,12 +256,6 @@ Jonas blätterte in seinen Notizen. „Ob nach zwanzig Uhr noch Anlieferungen st
 
 Jonas atmete durch die Nase aus. Nicht genervt. Noch nicht.
 
-Daniel kannte den Impuls. Es gab einen Punkt in fast jeder Prüfung, an dem eine Geschichte begann, sich selbst zu helfen. Aus einem Foto wurde Ausspähung. Aus einer Frage wurde Interesse am Nachtbetrieb. Aus einem zweiten Vorbeifahren wurde Rückkehr zum Ziel.
-
-Manchmal war genau diese Geschichte richtig.
-
-Das war das Unangenehme daran.
-
 Daniel öffnete den Hinweis zum Transporter. Ein weißer Kastenwagen mit Firmenbeschriftung war am Donnerstagabend zwei Straßen weiter gesehen worden. Uhrzeit: 19.12 Uhr. Kein Foto. Das Kennzeichen hatte der Meldende nicht vollständig notiert.
 
 „Ist das sicher sein Wagen?“
@@ -391,10 +385,6 @@ Jonas hielt den Blick. Das gefiel Daniel an ihm. Er zog Einwände nicht zurück,
 „Oder zwei Stunden weniger.“
 
 Daniel ließ den Satz stehen.
-
-Er kannte die Rechnung. Ein falscher Eingriff hatte einen Preis, der selten in einer Lageübersicht stand. Ein unterlassener richtiger Eingriff konnte einen haben, der später überall stand.
-
-Das machte die zweite Möglichkeit nicht automatisch wahrscheinlicher.
 
 Auf dem Flur ging jemand vorbei und lachte zu laut. Eine Tür fiel ins Schloss. Auf Daniels Schreibtisch vibrierte das Diensttelefon, nur eine Terminerinnerung.
 
@@ -808,40 +798,6 @@ Mehr sagte er nicht.
 
 Daniel ging zum nächsten Termin.
 
-Als er später noch einmal in seine offene Liste sah, war Ahrens' Name verschwunden.
-
-Nur in der Versionshistorie blieb der Vorgang sichtbar.
-
-Daniel öffnete sie noch einmal. Eingang des Hinweises. Seine erste Bewertung. Die Prüfaufträge. Dann der Abschluss.
-
-Kein Warnmarker. Keine Wiedervorlage. Kein technischer Rest, der Ahrens bei der nächsten Routineabfrage wieder nach oben ziehen würde.
-
-Jonas stand hinter ihm.
-
-„Also wirklich weg.“
-
-„Aus der aktiven Prüfung.“
-
-„Und wenn jemand nur den ersten Vermerk liest?“
-
-Daniel zeigte auf die verknüpften Erklärungen.
-
-„Dann soll er weiterlesen.“
-
-„Tun Leute nicht immer.“
-
-„Deshalb steht die Korrektur direkt daneben.“
-
-Jonas nickte.
-
-Daniel schloss die Historie. Das System hatte nichts vergessen. Das musste es auch nicht.
-
-Der Unterschied lag darin, ob eine alte Vermutung als Geschichte gespeichert blieb oder als erledigte Prüfung mit ihrer Widerlegung.
-
-Ahrens war nicht dadurch geschützt, dass niemand je über ihn nachgedacht hatte.
-
-Sondern dadurch, dass aus diesem Nachdenken kein dauerhafter Anlass geworden war.
-
 ---
 
 ## 3
@@ -933,8 +889,6 @@ Daniel reagierte nicht.
 Er öffnete die Detailansicht der Zugänge. Die drei Datensätze sahen gleich aus. Leser-ID, Ausweisnummer, Zeit, Ergebnis: Zugang gewährt.
 
 Gleich aussehende Zeilen machten unterschiedliche Dinge gern ähnlicher, als sie waren.
-
-Daniel kannte dieses Gespräch. Nicht dieses konkrete, aber die Form. Lena widersprach selten mit einer Gegenbehauptung. Sie suchte lieber die Stelle, an der eine gute Geschichte am leichtesten zusammenbrechen konnte.
 
 „Welcher einzelne Befund würde deine Version am stärksten beschädigen?“, fragte sie.
 
@@ -1096,8 +1050,6 @@ Sie ließen sich die Videoaufnahme der Lieferzufahrt ziehen. Der Mann auf dem Bi
 
 Die Antwort kam vom Sicherheitsdienst. In einem Sammelfach lagen mehrere Karten für externe Firmen. Der Schichtleiter hatte die falsche genommen. Nicht erlaubt. Nicht ungewöhnlich genug, um daraus eine koordinierte Ausspähung zu machen.
 
-Die reguläre Klärung dauerte knapp eine Stunde. Ein Schichtleiter der Wartungsfirma hatte den falschen Ausweis aus einem Sammelfach genommen, um liegen gelassenes Werkzeug abzuholen. Die Videoaufzeichnung zeigte ihn mit einer Werkzeugtasche hinein- und zwölf Minuten später wieder herausgehen.
-
 Kein Ausspähen. Keine Gruppe. Keine vorbereitete Lage.
 
 Aber ein realer Verstoß gegen die Zutrittsregeln.
@@ -1138,79 +1090,9 @@ Daniel sah auf die drei ursprünglichen Zeilen. Elf Minuten. Drei Türen. Eine G
 
 „Wäre schlimmer, wenn es mich nicht stören würde.“
 
-Lena blieb noch an der Tür stehen.
-
-„Sag mir, wo deine Geschichte gekippt ist.“
-
-Daniel sah sie an.
-
-„Welche?“
-
-„Die Gruppe.“
-
-Jonas hörte sofort auf, seine Tasse einzupacken.
-
-Daniel drehte den ersten Ausdruck wieder zu sich.
-
-„Hier.“
-
-Er zeigte auf die drei Zeitstempel.
-
-„Nein“, sagte Lena. „Da hat sie angefangen.“
-
-Daniel schwieg.
-
-Dann nahm er den ungesendeten Entwurf.
-
-**Möglicherweise koordinierte Nutzung mehrerer externer Zugänge außerhalb der regulären Zeitfenster.**
-
-„Hier“, sagte er.
-
-„Warum?“
-
-„Weil ich aus zeitlicher Nähe Koordination gemacht habe, bevor ich geprüft hatte, ob die Zeiten überhaupt dasselbe bedeuten.“
-
-Lena nickte.
-
-Daniel ging weiter.
-
-„Dann habe ich nach dem gemeinsamen Auftraggeber gesucht.“
-
-„Vernünftig.“
-
-„Ja. Aber in meinem Kopf war das schon eine Suche nach dem Bindeglied. Nicht mehr nur eine Prüfung, ob es eines gibt.“
-
-Jonas sagte: „Das klingt jetzt sehr fein.“
-
-Daniel sah zu ihm.
-
-„Ist es auch. Genau deshalb merkt man es zu spät.“
-
-Er nahm den verbliebenen Nachtzugang.
-
-„Der hier war echt. Wenn ich die Gruppe retten wollte, hätte ich ihn jetzt als Rest eines größeren Musters beschrieben.“
-
-Lena sagte: „Und stattdessen?“
-
-„Ist es ein einzelner unzulässiger Ausweisgebrauch mit erklärtem Anlass.“
-
-„Weniger spannend.“
-
-„Leider.“
-
-Jonas grinste wieder.
-
-Lena nicht.
+Lena blieb noch einen Moment an der Tür.
 
 „Das ist die Arbeit“, sagte sie.
-
-Daniel sah auf seinen korrigierten Vermerk.
-
-Nicht das Finden des Musters.
-
-Auch das Aushalten, wenn es verschwand.
-
-Lena öffnete die Tür.
 
 „Damit kann ich arbeiten.“
 
@@ -1702,7 +1584,6 @@ Keine dieser Fragen war völlig absurd.
 
 Keine war im Moment stark genug, um aus dem schiefen Kunststoff mehr zu machen.
 
-Daniel merkte, dass beide Entscheidungen denselben unangenehmen Kern hatten: Beim Briefkasten ließ er etwas ungeklärt. Bei der Wohnung ließ Jana nicht zu, dass Ungeklärtheit automatisch Aufschub bedeutete.
 
 Er mochte den Vergleich nicht.
 
@@ -1756,327 +1637,83 @@ Dann lief er zur U-Bahn.
 
 ## 5
 
-Berg legte den Ausdruck auf Daniels Schreibtisch und sagte: „Einer von diesen Vorgängen, bei denen keiner weiß, warum er ihn nicht schließen will.“
+Zwölf Akkupakete für gewerbliche Funkgeräte standen in Daniels offener Liste.
 
-Daniel nahm das Blatt.
+Lieferadresse: eine Handelsfirma in Lagerhaus C, Einheit 17.
 
-„Klingt motivierend.“
+Jonas sah auf den Artikel. „Zwölf?“
 
-„Deshalb bist du ja da.“
-
-„Warum bei mir?“
-
-Berg zuckte mit einer Schulter. „Weil du Sachen auch zumachst. Und weil das hier seit zwei Wochen keiner tut.“
-
-Thomas Berg blieb stehen, während Daniel die erste Seite überflog.
-
-Keine Gefahrenmeldung. Kein konkreter Tatverdacht. Ein Lagefragment aus mehreren Stellen, das nach zwei Wochen noch immer keinen Besitzer gefunden hatte.
-
-Oben rechts standen drei interne Weiterleitungen. Jede hatte eine andere Kurzbewertung.
-
-**Kenntnis.**
-
-**Ggf. Abgleich.**
-
-**Bitte Zuständigkeit prüfen.**
-
-„Hat schon jemand was gemacht?“, fragte Daniel.
-
-„Genug, dass es herumliegt. Nicht genug, dass es weg ist.“
-
-„Hilfreich.“
-
-Berg deutete auf die zweite Seite. „Land hat den Namen einmal abgefragt. Keine aktuellen Maßnahmen. Der Rest ist Registerzeug.“
-
-Ein Name, der vor Jahren einmal am Rand einer Unterstützungsermittlung aufgetaucht war, hatte erneut eine Lieferadresse benutzt. Diesmal für zwölf Akkupakete für gewerbliche Funkgeräte.
-
-Die Adresse gehörte zu einem kleinen Lagerkomplex am Berliner Stadtrand.
-
-„Funkakkus?“, fragte Daniel.
-
-„Veranstaltungstechnik. Sicherheitsdienste. Baustellen. Halb Deutschland kauft die Dinger.“
-
-„Warum haben wir es?“
-
-„Weil der Name wieder aufgetaucht ist.“
-
-Daniel las weiter.
-
-Der Mann war nie Beschuldigter gewesen. Kein Gewaltbezug. Kein belastbarer Kontakt zu einer aktiven Struktur. Vier Jahre zuvor hatte er einem Bekannten ein Fahrzeug geliehen, der wiederum in einem Verfahren als Kontaktperson geführt worden war.
-
-Daniel öffnete die alte Vorgangsnotiz. Drei Absätze. Der Bekannte war später wegen eines anderen Delikts aufgefallen. Kein weiterer Bezug zum Mann aus der aktuellen Bestellung.
-
-„Vier Jahre“, sagte Daniel.
-
-„Ja.“
-
-„Seitdem nichts?“
-
-„Nichts, was hier steht.“
-
-„Dann ist vier Jahre auch eine Information.“
-
-Berg nickte. „Sag ich ja. Mach es zu, wenn es zu ist.“
-
-Zwei Ecken zu viel für Alarm. Eine Ecke zu wenig, um es ohne Blick wegzulegen.
-
-Jonas kam mit einer Tasse in der Hand herein.
-
-„Was haben wir?“
-
-„Zwölf Akkus“, sagte Berg.
-
-Jonas stellte die Tasse wieder ab. „Dann rufe ich das SEK.“
-
-Berg sah ihn an.
-
-Jonas hob die Tasse erneut. „War ein Witz.“
-
-„Mach bessere.“
-
-Berg ging.
-
-Jonas wartete, bis die Tür hinter ihm zu war.
-
-„Ist er heute gut drauf?“
-
-„Das war gut drauf.“
-
-„Oh.“
-
-Daniel blätterte zur Bestellung.
-
-Standardware. Normale Rechnung. Bezahlt von einem kleinen Handelsunternehmen, das seit sechs Jahren existierte. Die Lieferadresse war ein Lagerraum, offenbar regelmäßig genutzt.
-
-Er öffnete das Handelsregister. Geschäftszweck: technischer Groß- und Einzelhandel, Event- und Kommunikationszubehör. Geschäftsführer seit Gründung derselbe Mann. Zwei veröffentlichte Jahresabschlüsse. Nichts daran war interessant.
-
-Jonas sah mit.
-
-„Warum zwölf?“, fragte Jonas.
-
-„Weil sie in Zwölferpacks verkauft werden.“
-
-„Okay.“
+„Zwölferpack.“
 
 „Preis?“
 
-Jonas suchte den Artikel beim Hersteller. „Vierhundertachtzig netto.“
+„Vierhundertachtzig netto.“
 
-„Für alle?“
+„Das ist enttäuschend normal.“
 
-„Ja.“
+Daniel öffnete das Handelsregister. Technischer Groß- und Einzelhandel, Event- und Kommunikationszubehör. Geschäftsführer seit Gründung derselbe Mann. Zwei veröffentlichte Jahresabschlüsse.
 
-„Dann ist es nicht einmal besonders viel Ware.“
+Nichts daran war interessant.
 
-„Du nimmst mir jede Freude.“
+Dann sah Daniel die Adresse noch einmal an.
 
-Daniel öffnete die alte Verknüpfung. Der Name war tatsächlich nur am Rand aufgetaucht. Keine Folgeerkenntnisse. Nichts, was eine neue Maßnahme rechtfertigte.
-
-Dann sah er die Adresse noch einmal an.
-
-Nicht den Namen.
-
-Die Adresse.
+Nicht den Namen. Die Adresse.
 
 „Die hatten wir schon mal.“
 
 Jonas trat näher.
 
-Daniel suchte.
+Sie fanden den alten Vorgang nach wenigen Sekunden: dieselbe Lageranlage, sieben Monate zuvor. Ein Kleintransporter mit gefälschten Zulassungspapieren hatte dort zwei Nächte gestanden. Das Verfahren war als Betrugsfall geschlossen worden. Kein Terrorbezug.
 
-Nach wenigen Sekunden fand er den Treffer: dieselbe Lageranlage, anderer Gebäudeteil, sieben Monate zuvor. Damals hatte ein Landesamt eine Abfrage gestellt, weil ein Kleintransporter mit gefälschten Zulassungspapieren dort für zwei Nächte abgestellt gewesen war.
+Daniel öffnete den Lageplan.
 
-Daniel öffnete die Lagekarte der Anlage. Drei Gebäude, mehrere Dutzend Einheiten. Der damalige Transporter hatte laut Vermerk vor Gebäude A gestanden. Die aktuelle Lieferadresse lag in Gebäude C.
+„Wo stand der Wagen?“
 
-„Wie groß ist das Ding?“, fragte Jonas.
+„Gebäude A“, sagte Jonas.
 
-Daniel las. „Dreiundzwanzig Einheiten.“
+Daniel zeigte auf die aktuelle Lieferadresse. „Und das hier ist C.“
 
-„Also ungefähr dieselbe Adresse wie ein Parkhaus.“
+Drei Gebäude. Dreiundzwanzig Einheiten. Nicht einmal derselbe Eingang.
+
+„Also ungefähr dieselbe Adresse wie ein Parkhaus“, sagte Jonas.
 
 „Ungefähr.“
 
-Auch dieser Vorgang war ohne Terrorbezug geschlossen worden. Der Transporter gehörte zu einem Betrugsverfahren.
+Daniel ließ die Firma offen prüfen. Website, Telefonnummer, Geschäftszweck, Lieferanschrift. Keine Sonderabfrage, kein Antrag, keine Beobachtung.
 
-Jonas las mit.
+Vierzig Minuten später kam Jonas zurück.
 
-„Das ist dünn.“
+„Leider weiter langweilig.“
 
-„Sehr.“
+Die Website bestand seit Jahren. Telefonnummer und Impressum passten zum Register. Der Vermieter bestätigte, dass die Firma Einheit 17 seit gut zwei Jahren nutzte und dort regelmäßig Waren annahm. Der Versender führte die Akkus als Standardlieferung. Keine Barzahlung, kein Sonderwunsch.
 
-„Aber?“
+Daniel sah noch einmal auf den alten Fahrzeugvorgang.
 
-Daniel verglich die Hausnummern.
-
-Nicht einmal derselbe Eingang.
-
-„Kein Aber.“
-
-Er markierte die Adresse für einen späteren Abgleich und schrieb eine kurze Notiz dazu. Kein Antrag. Keine Eskalation. Nur die Verbindung, damit sie nicht noch einmal zufällig gefunden werden musste.
-
-Jonas nahm seine Tasse.
-
-„Soll ich irgendwas dazu machen?“
-
-„Die Firma einmal offen prüfen. Register, Geschäftszweck, normale Sachen.“
-
-„Hab ich gerade halb mitgemacht.“
-
-„Dann die andere Hälfte. Website, Telefonnummer, Lieferadresse. Ob das Unternehmen da wirklich sitzt oder nur Pakete hinschickt.“
-
-„Priorität?“
-
-Daniel sah auf die übrigen Vorgänge.
-
-Auf seinem Bildschirm blinkten zwei Rückfragen, die älter und konkreter waren als dieser Vorgang. Eine betraf eine Reisebewegung, die andere eine offene Identifizierung.
-
-„Wenn du heute dazu kommst.“
-
-Jonas nickte.
-
-„Und wenn nicht?“
-
-„Morgen.“
-
-„Mutig.“
-
-„Ich lerne von dir.“
-
-Jonas ging.
-
-Daniel zog den nächsten Vorgang in die Mitte.
-
-Vierzig Minuten später stand Jonas wieder in der Tür.
-
-„Die langweilige Hälfte.“
-
-Daniel sah auf.
-
-Jonas legte drei Ausdrucke auf den Tisch.
-
-„Website seit Jahren online. Telefonnummer passt zum Register. Rechnungsadresse und Lageranschrift sind unterschiedlich, aber der Vermieter bestätigt, dass die Firma Einheit siebzehn seit gut zwei Jahren nutzt.“
-
-„Bestätigt wie?“
-
-„Ich habe nicht gesagt, warum wir fragen. Nur, ob die Firma dort Mieter ist und Waren annimmt.“
-
-„Und?“
-
-„Ja. Regelmäßig.“
-
-Daniel nahm den ersten Ausdruck.
-
-Auf der Website standen dieselben Produktgruppen wie im Register. Funkzubehör, Kabel, Akkus, kleine technische Komponenten. Keine leere Platzhalterseite. Öffnungszeiten, Telefonnummer, Impressum.
-
-„Geschäftsführer?“
-
-„Derselbe. Keine neuen Treffer in unseren offenen Beständen.“
-
-„Lieferung?“
-
-„Versender sagt Standardversand. Kein Sonderwunsch, keine Barzahlung, nichts Komisches.“
-
-Daniel sah auf die zwölf Akkupakete.
-
-„Also normale Ware an eine reale Firma in einem echten Lagerraum.“
+„Andere Firma“, sagte Jonas.
 
 „Ja.“
-
-Jonas tippte auf die alte Fahrzeugspur. „Und sieben Monate vorher stand in derselben Anlage ein Wagen aus einem Betrugsverfahren.“
 
 „Anderes Gebäude.“
 
 „Ja.“
 
-„Andere Firma.“
+„Anderer Sachverhalt.“
 
 „Ja.“
 
-„Kein Terrorbezug.“
+„Dann zu?“
 
-„Ja.“
+Daniel schloss den Firmennamen und die Bestellung. Bei der Adresse ließ er eine Freitextnotiz stehen: **Lageranlage bereits in anderem, abgeschlossenem Sachverhalt aufgetaucht; anderer Gebäudeteil, kein gemeinsamer Gefahrenbezug. Bei neuen Erkenntnissen Adressbezug mitprüfen.**
 
-Daniel legte den Ausdruck weg.
+Das System bot ihm mehr an. Beobachtungspunkt. Wiedervorlage. Verknüpfungsrelevant.
 
-Jonas wartete.
+Er wählte nichts davon.
 
-„Was?“ fragte Daniel.
-
-„Nichts. Ich dachte, du sagst jetzt, wir machen es zu.“
-
-Daniel sah wieder auf die Adresse.
-
-„Den Namen können wir schließen. Die Bestellung auch.“
-
-„Und die Adresse?“
-
-„Bleibt als Markierung im Vorgang. Nicht als Verdacht.“
-
-„Unterschied?“
-
-Daniel drehte den Bildschirm zu ihm.
-
-In der Notiz stand nur: **Lageranlage bereits in anderem, abgeschlossenem Sachverhalt aufgetaucht; anderer Gebäudeteil, kein gemeinsamer Gefahrenbezug. Bei neuen Erkenntnissen Adressbezug mitprüfen.**
-
-„Das hier behauptet nichts über Einheit siebzehn.“
-
-Jonas las.
-
-„Und wenn nie was Neues kommt?“
+Jonas las die Notiz. „Wenn nie was Neues kommt?“
 
 „Dann bleibt es ein Satz, den niemand braucht.“
 
-„Auch irgendwie traurig.“
-
-Daniel schob die Ausdrucke zurück.
-
-„Gewöhn dich dran.“
-
-Daniel öffnete noch einmal die Optionen für die Adressmarkierung.
-
-Das System bot mehr an, als er brauchte.
-
-Beobachtungspunkt.
-
-Wiedervorlage.
-
-Verknüpfungsrelevant.
-
-Die Begriffe waren neutral genug, dass jeder davon vernünftig geklungen hätte.
-
-Er wählte keinen.
-
-Stattdessen blieb nur die Freitextnotiz im abgeschlossenen Vorgang.
-
-Jonas stand noch in der Tür.
-
-„Wenn später wirklich etwas mit der Anlage ist, findest du den Satz dann überhaupt wieder?“
-
-„Ja.“
-
-„Und wenn nicht?“
-
-„Dann war er offenbar nicht wichtig genug.“
-
-Jonas verzog das Gesicht.
-
-„Du hast ein erstaunlich entspanntes Verhältnis dazu, Dinge nicht wiederzufinden.“
-
-„Nur zu Dingen, für die wir keinen Anlass haben, sie absichtlich oben zu halten.“
-
-Daniel schloss die Maske.
-
-Die Adresse blieb vorhanden.
-
-Sie bekam nur kein Eigenleben.
-
-Jonas ging wieder.
-
-Daniel blieb noch einen Moment bei der Adresse.
-
-Er öffnete ein öffentliches Luftbild der Anlage. Flachdächer, Zufahrt, mehrere Rolltore. Nichts, das eine Geschichte erzählte.
-
-Dann schloss er die Karte und zog den nächsten Vorgang in die Mitte.
+Daniel schloss die Maske und zog den nächsten Vorgang in die Mitte.
 
 Zehn Minuten später hatte er die Lageradresse fast vergessen.
 
@@ -2370,8 +2007,6 @@ Mara schob den Teller ein Stück von sich weg.
 
 „Mach bessere.“
 
-Er dachte an Jonas und musste kurz grinsen.
-
 Mara bemerkte es. „Was?“
 
 „Nichts.“
@@ -2546,43 +2181,13 @@ Mara nickte.
 
 „Gut.“
 
-Mara nahm ihr Glas und drehte es langsam zwischen den Händen.
+Mara nahm ihr Glas.
 
-„Ich brauche Sonntag übrigens nicht von dir, dass du schon weißt, ob Hamburg funktioniert.“
-
-Daniel sah sie an.
-
-„Was dann?“
-
-„Dass du dich mit mir hinsetzt, bevor meine Frist die Entscheidung für uns übernimmt.“
-
-„Für uns?“
-
-„Für mich ist es meine Stelle. Für uns ist es trotzdem eine Veränderung.“
+„Sonntag reicht mir, wenn du dich mit mir hinsetzt, bevor meine Frist die Entscheidung für uns übernimmt.“
 
 Daniel nickte.
 
-„Und wenn du schon weißt, dass du willst?“
-
-Mara sah ihn einen Moment an.
-
-„Dann sage ich dir das auch.“
-
-Der Satz gefiel Daniel weniger, als er sollte.
-
-Nicht weil er wollte, dass Mara absagte.
-
-Weil er begriff, dass der Termin nicht dazu da war, ihm Entscheidungszeit zu geben.
-
-Er war dazu da, rechtzeitig Teil einer Entscheidung zu sein, die auch ohne ihn fallen konnte.
-
-„Du willst das schriftlich?“
-
-„Ich speichere es ab.“
-
-Diesmal war es ein Witz. Fast.
-
-Sie nahm ihren Teller wieder näher.
+Der Satz gefiel ihm weniger, als er sollte. Nicht weil er wollte, dass Mara absagte. Weil er begriff, dass der Termin nicht dazu da war, ihm mehr Entscheidungszeit zu geben.
 
 Der Konflikt war nicht weg. Aber der Abend musste deshalb nicht enden.
 
