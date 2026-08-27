@@ -109,13 +109,22 @@ jobs:
           if not sections['47'].rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“'):
               raise SystemExit('chapter 47 no longer ends before the decision')
 
-          # Detect accidental immediate paragraph duplication from patching.
+          # Detect accidental adjacent repetition from expansion patching.
+          # Check repeated blocks of 1-3 consecutive paragraphs, not only one long paragraph.
           for ch in expected:
               paras = [re.sub(r'\s+', ' ', p).strip() for p in re.split(r'\n\s*\n', sections[ch])]
               paras = [p for p in paras if p and p != '---']
-              for a, b in zip(paras, paras[1:]):
-                  if len(a) >= 50 and a == b:
-                      raise SystemExit(f'chapter {ch}: adjacent duplicate paragraph: {a[:80]}')
+              for span in (1, 2, 3):
+                  for i in range(0, len(paras) - 2 * span + 1):
+                      left = paras[i:i+span]
+                      right = paras[i+span:i+2*span]
+                      if left == right and len(' '.join(left)) >= 50:
+                          raise SystemExit(f'chapter {ch}: adjacent duplicate block span={span}: {" | ".join(left)[:120]}')
+
+          # Explicitly guard against the near-duplicate Ch27 pair found in reader QA.
+          if ('Die Tatsache, dass jemand wusste, welchen Ausgang sie benutzt hatte, bewies genau eine Sache: Jemand wusste es.' in sections['27']
+              and 'Die Tatsache, dass jemand wusste, welchen Ausgang Jana benutzt hatte, bewies genau eine Sache: Jemand wusste es.' in sections['27']):
+              raise SystemExit('chapter 27: redundant pronoun/name duplicate survived cleanup')
 
           total = sum(len(word_re.findall(sections[ch])) for ch in expected)
           if not 75000 <= total <= 80000:
@@ -141,7 +150,8 @@ jobs:
           print(f'PASS chapters={len(expected)} words={total}')
           print('PASS Cold Open/Heller continuity')
           print('PASS Reversal/finale/end invariants')
-          print('PASS no immediate duplicate paragraphs or temporary artifacts')
+          print('PASS adjacent 1-3 paragraph repetition scan')
+          print('PASS no temporary artifacts')
           print('PASS true consolidated manuscript generated')
           PY
 
