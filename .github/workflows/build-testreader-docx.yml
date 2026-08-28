@@ -1,4 +1,4 @@
-name: Build manuscript DOCX profiles
+name: Build Fitzek benchmark DOCX
 
 on:
   workflow_dispatch:
@@ -35,6 +35,7 @@ jobs:
           text = Path('AUSNAHMEZUSTAND_FINAL.md').read_text(encoding='utf-8')
           assert re.findall(r'^## (Prolog|\d+)$', text, re.M) == ['Prolog'] + [str(i) for i in range(1, 48)]
           assert text.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
+          assert '—' not in text
 
       - name: Audit semantic scene breaks
         run: python scripts/audit_scene_breaks.py AUSNAHMEZUSTAND_FINAL.md
@@ -45,130 +46,95 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno hyphen-de
 
-      - name: Build TESTLESER profile
+      - name: Build canonical Sebastian-Fitzek benchmark DOCX
         run: |
-          python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND_TESTLESER.docx
-          python scripts/polish_docx.py AUSNAHMEZUSTAND_TESTLESER.docx --profile testleser
-          /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND_TESTLESER.docx
-          unzip -t AUSNAHMEZUSTAND_TESTLESER.docx >/dev/null
-
-      - name: Build EINREICHUNG profile
-        run: |
-          python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND_EINREICHUNG.docx
-          python scripts/polish_docx.py AUSNAHMEZUSTAND_EINREICHUNG.docx --profile einreichung
-          /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND_EINREICHUNG.docx
-          unzip -t AUSNAHMEZUSTAND_EINREICHUNG.docx >/dev/null
-
-      - name: Build BUCHVORSCHAU profile
-        run: |
-          python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND_BUCHVORSCHAU.docx
-          python scripts/polish_docx.py AUSNAHMEZUSTAND_BUCHVORSCHAU.docx --profile buchvorschau
-          /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND_BUCHVORSCHAU.docx
-          # LibreOffice materializes the TOC but strips discretionary soft hyphens.
+          python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND.docx
+          python scripts/polish_docx.py AUSNAHMEZUSTAND.docx --profile buchvorschau
+          /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND.docx
+          # LibreOffice materializes the TOC but can strip discretionary soft hyphens.
           # Reapply the deterministic book-layout pass after TOC materialization.
-          python scripts/polish_docx.py AUSNAHMEZUSTAND_BUCHVORSCHAU.docx --profile buchvorschau
-          unzip -t AUSNAHMEZUSTAND_BUCHVORSCHAU.docx >/dev/null
+          python scripts/polish_docx.py AUSNAHMEZUSTAND.docx --profile buchvorschau
+          unzip -t AUSNAHMEZUSTAND.docx >/dev/null
 
-      - name: Set canonical test-reader document
-        run: cp AUSNAHMEZUSTAND_TESTLESER.docx AUSNAHMEZUSTAND.docx
-
-      - name: Validate source normalization
-        shell: python
-        run: |
-          from pathlib import Path
-          text = Path('AUSNAHMEZUSTAND_FINAL.md').read_text(encoding='utf-8')
-          expected = "# NORMALFALL\n\n*Eine Regel widersteht  \nallem,*\n\n*außer dem Beweis,*\n\n*dass es ohne sie  \nbesser geht.*\n\n---\n\n**Normalfall, der:**\n\nEin Fall, der nach den üblichen Regeln  \nbehandelt wird.\n\n*Eine Regel widersteht allem,*\n\n*außer dem Beweis,*\n\n*dass es ohne sie besser geht.*\n\n---\n\n## Prolog\n"
-          assert text.startswith(expected)
-          assert '—' not in text, 'Geviertstrich remains in source'
-
-      - name: Validate generated profiles
+      - name: Validate Fitzek benchmark layout
         shell: python
         run: |
           from docx import Document
           from docx.enum.text import WD_ALIGN_PARAGRAPH
           from docx.oxml.ns import qn
 
-          specs = {
-              'AUSNAHMEZUSTAND_TESTLESER.docx': (WD_ALIGN_PARAGRAPH.LEFT, 0.0, 4.0, 11.5, 1.15),
-              'AUSNAHMEZUSTAND_EINREICHUNG.docx': (WD_ALIGN_PARAGRAPH.LEFT, 0.75, 0.0, 12.0, 1.5),
-              'AUSNAHMEZUSTAND_BUCHVORSCHAU.docx': (WD_ALIGN_PARAGRAPH.JUSTIFY, 0.0, 0.0, 10.5, 1.05),
-          }
+          doc = Document('AUSNAHMEZUSTAND.docx')
+          section = doc.sections[-1]
+          assert abs(section.page_width.cm - 12.5) < 0.02
+          assert abs(section.page_height.cm - 18.7) < 0.02
+          assert abs(section.top_margin.cm - 0.65) < 0.02
+          assert abs(section.bottom_margin.cm - 0.65) < 0.02
+          assert abs(section.left_margin.cm - 1.35) < 0.02
+          assert abs(section.right_margin.cm - 1.15) < 0.02
 
-          for filename, (alignment, normal_indent, space_after, font_size, line_spacing) in specs.items():
-              doc = Document(filename)
-              story_started = False
-              after_boundary = False
-              checked = 0
-              headings = 0
-              soft_hyphens = 0
-              for paragraph in doc.paragraphs:
-                  style_name = paragraph.style.name if paragraph.style is not None else ''
-                  assert '—' not in paragraph.text, f'Geviertstrich in {filename}: {paragraph.text[:80]}'
-                  soft_hyphens += paragraph.text.count('\u00ad')
-                  if style_name == 'Heading 1':
-                      story_started = True
-                      after_boundary = True
-                      headings += 1
-                      continue
-                  if not story_started:
-                      continue
-                  if style_name == 'Scene Break':
-                      assert paragraph.text.strip() == '*'
-                      after_boundary = True
-                      continue
-                  if style_name != 'Normal' or not paragraph.text.strip():
-                      continue
+          story_started = False
+          headings = 0
+          checked = 0
+          soft_hyphens = 0
+          guillemets = 0
 
-                  checked += 1
-                  fmt = paragraph.paragraph_format
-                  assert paragraph.alignment == alignment, (filename, paragraph.text[:60])
-                  expected_indent = 0.0 if after_boundary else normal_indent
-                  actual_indent = 0.0 if fmt.first_line_indent is None else fmt.first_line_indent.cm
-                  assert abs(actual_indent - expected_indent) < 0.01, (filename, actual_indent, expected_indent)
-                  actual_after = 0.0 if fmt.space_after is None else fmt.space_after.pt
-                  assert abs(actual_after - space_after) < 0.01, (filename, actual_after, space_after)
-                  actual_spacing = float(fmt.line_spacing)
-                  assert abs(actual_spacing - line_spacing) < 0.01, (filename, actual_spacing, line_spacing)
-                  sizes = [r.font.size.pt for r in paragraph.runs if r.font.size is not None]
-                  if sizes:
-                      assert all(abs(size - font_size) < 0.01 for size in sizes)
-                  after_boundary = False
+          for paragraph in doc.paragraphs:
+              style_name = paragraph.style.name if paragraph.style is not None else ''
+              assert '—' not in paragraph.text
+              soft_hyphens += paragraph.text.count('\u00ad')
+              guillemets += paragraph.text.count('»') + paragraph.text.count('«')
 
-              assert headings == 48, (filename, headings)
-              assert checked > 1000, (filename, checked)
+              if style_name == 'Heading 1':
+                  story_started = True
+                  headings += 1
+                  assert paragraph.paragraph_format.page_break_before is True
+                  continue
+              if not story_started or style_name != 'Normal' or not paragraph.text.strip():
+                  continue
 
-              if filename.endswith('BUCHVORSCHAU.docx'):
-                  settings = doc.settings._element
-                  assert settings.find(qn('w:autoHyphenation')) is not None
-                  assert settings.find(qn('w:mirrorMargins')) is not None
-                  assert settings.find(qn('w:evenAndOddHeaders')) is not None
-                  assert soft_hyphens > 1000, soft_hyphens
-                  story = doc.sections[-1]
-                  assert story.footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.RIGHT
-                  assert story.even_page_footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.LEFT
-                  assert all(not p.text.strip() for p in story.header.paragraphs)
+              checked += 1
+              fmt = paragraph.paragraph_format
+              assert paragraph.alignment == WD_ALIGN_PARAGRAPH.JUSTIFY
+              indent = 0.0 if fmt.first_line_indent is None else fmt.first_line_indent.cm
+              assert abs(indent) < 0.01
+              after = 0.0 if fmt.space_after is None else fmt.space_after.pt
+              assert abs(after) < 0.01
+              assert abs(float(fmt.line_spacing) - 1.05) < 0.01
+              sizes = [r.font.size.pt for r in paragraph.runs if r.font.size is not None]
+              assert sizes and all(abs(size - 12.5) < 0.01 for size in sizes)
+              assert all((r.font.name or '') == 'Garamond' for r in paragraph.runs)
+              assert '„' not in paragraph.text and '“' not in paragraph.text
 
-              print(f'Validated {filename}: headings={headings}, paragraphs={checked}, soft_hyphens={soft_hyphens}')
+          assert headings == 48
+          assert checked == 10522
+          assert soft_hyphens > 1000
+          assert guillemets > 4000
 
-      - name: Upload DOCX profiles
+          settings = doc.settings._element
+          assert settings.find(qn('w:autoHyphenation')) is not None
+          assert settings.find(qn('w:mirrorMargins')) is not None
+          assert settings.find(qn('w:evenAndOddHeaders')) is not None
+          assert section.footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.RIGHT
+          assert section.even_page_footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.LEFT
+          assert all(not p.text.strip() for p in section.header.paragraphs)
+
+          print(f'Validated Fitzek benchmark: headings={headings}, paragraphs={checked}, soft_hyphens={soft_hyphens}, guillemets={guillemets}')
+
+      - name: Upload canonical DOCX
         uses: actions/upload-artifact@v4
         with:
-          name: ausnahmezustand-docx-profiles
-          path: |
-            AUSNAHMEZUSTAND.docx
-            AUSNAHMEZUSTAND_TESTLESER.docx
-            AUSNAHMEZUSTAND_EINREICHUNG.docx
-            AUSNAHMEZUSTAND_BUCHVORSCHAU.docx
+          name: ausnahmezustand-fitzek-benchmark
+          path: AUSNAHMEZUSTAND.docx
           retention-days: 7
 
       - name: Commit canonical manuscript
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND.docx
+          git add AUSNAHMEZUSTAND.docx
           if git diff --cached --quiet; then
             echo "Canonical manuscript unchanged"
             exit 0
           fi
-          git commit -m "Normalize manuscript and refresh canonical DOCX"
+          git commit -m "Refresh Fitzek benchmark DOCX"
           git push
