@@ -1,30 +1,29 @@
 # Manuskript-Metriken
 
-> Automatisch aus `MANUSKRIPT/*.md` erzeugt. Diese Datei nicht manuell pflegen.
+> Automatisch aus `AUSNAHMEZUSTAND_FINAL.md` erzeugt. Diese Datei nicht manuell pflegen.
 >
-> **Steuerungsregel:** Wortzahl ist eine Messgröße, kein Qualitäts- oder Abnahmekriterium. Die 77.000 Wörter und Bausteinwerte sind nur historische Ausbau-Referenzen; es wird nicht auf sie hin gekürzt oder aufgefüllt.
+> **Steuerungsregel:** Wortzahl ist ausschließlich eine Messgröße. Historische Ausbauziele sind kein Qualitäts- oder Abnahmekriterium.
 
 ## Gesamtstand
 
 - **Ist:** 70.810 Wörter
-- **Historische Planungsreferenz:** 77.000 Wörter
-- **Abweichung zur historischen Referenz:** -6.190 Wörter
+- **Quelle:** `AUSNAHMEZUSTAND_FINAL.md`
 
-## Bausteine – Ist gegen historische Ausbau-Referenz
+## Bausteine – aktuelle Ist-Wortzahl
 
-| Baustein | Funktion | Ist Wörter | historische Referenz | Abweichung |
-|---|---|---:|---:|---:|
-| 01 | Cold Open | 450 | 800 | -350 |
-| 02 | Ausgangswelt Daniel | 7.500 | 9.000 | -1.500 |
-| 03 | Auslösendes Ereignis | 11.062 | 11.000 | +62 |
-| 04 | Erste Entscheidung | 8.482 | 8.500 | -18 |
-| 05 | Entdeckung & Eskalation | 10.022 | 12.000 | -1.978 |
-| 06 | Moralischer / psychologischer Kipppunkt | 12.892 | 13.400 | -508 |
-| 07 | Reversal / Umdeutung | 6.165 | 7.000 | -835 |
-| 08 | Finale Entscheidung & Konsequenz | 10.416 | 10.500 | -84 |
-| 09 | Nachhall / Schlussszene | 3.821 | 4.800 | -979 |
+| Baustein | Funktion | Ist Wörter |
+|---|---|---:|
+| 01 | Cold Open | 450 |
+| 02 | Ausgangswelt Daniel | 7.500 |
+| 03 | Auslösendes Ereignis | 11.062 |
+| 04 | Erste Entscheidung | 8.482 |
+| 05 | Entdeckung & Eskalation | 10.022 |
+| 06 | Moralischer / psychologischer Kipppunkt | 12.892 |
+| 07 | Reversal / Umdeutung | 6.165 |
+| 08 | Finale Entscheidung & Konsequenz | 10.416 |
+| 09 | Nachhall / Schlussszene | 3.821 |
 
-## Kapitel – Ist-Wortzahl
+## Kapitel – aktuelle Ist-Wortzahl
 
 | Baustein | Kapitel | Ist Wörter |
 |---|---|---:|
@@ -79,6 +78,6 @@
 
 ## Zählregel
 
-Gezählt wird reproduzierbar aus dem Prosatext unter den Überschriften `## Prolog` und `## 1` bis `## 47`. Markdown-Überschriften selbst zählen nicht. Wörter mit Bindestrich oder Apostroph werden als ein Wort behandelt. Die Zahl kann geringfügig von Microsoft Word abweichen.
+Gezählt wird reproduzierbar ausschließlich aus dem Prosatext unter `## Prolog` und `## 1` bis `## 47` im finalen Markdown-Master. Markdown-Überschriften selbst zählen nicht. Wörter mit Bindestrich oder Apostroph werden als ein Wort behandelt. Microsoft Word kann geringfügig anders zählen.
 
-Die historischen Referenzwerte stammen aus der früheren Ausbauplanung in `UMFANG_UND_AUSBAUSTEUERUNG.md`. Für die aktuelle Manuskriptphase gilt: Umfang folgt Funktion.
+Historische Wortziele aus der Ausbauphase sind über Git nachvollziehbar, werden aber nicht mehr als aktive Steuerungslogik geführt.
