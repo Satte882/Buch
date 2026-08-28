@@ -145,12 +145,14 @@ def polish_docx(path: Path) -> None:
     heading1.paragraph_format.keep_together = True
 
     seen: list[int] = []
+    story_started = False
     first_body_after_heading = False
 
     for paragraph in doc.paragraphs:
         style_name = paragraph.style.name if paragraph.style is not None else ""
 
         if style_name == "Heading 1":
+            story_started = True
             text = paragraph.text.strip()
             if text == "Prolog":
                 display = "Prolog"
@@ -174,7 +176,7 @@ def polish_docx(path: Path) -> None:
             first_body_after_heading = True
             continue
 
-        if style_name == "Normal" and paragraph.text.strip():
+        if story_started and style_name == "Normal" and paragraph.text.strip():
             paragraph.alignment = WD_ALIGN_PARAGRAPH.LEFT
             paragraph.paragraph_format.line_spacing = 1.15
             paragraph.paragraph_format.space_before = Pt(0)
