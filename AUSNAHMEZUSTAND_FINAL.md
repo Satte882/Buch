@@ -15172,8 +15172,6 @@ Nicht für die Frage, die ihn interessierte.
 
 Daniel ließ das Vielleicht stehen.
 
-Daniel strich das Wort nicht weg.
-
 Es war unbequem, weil es weder Entlastung noch Anklage lieferte.
 
 Nur eine reale Möglichkeit.
