@@ -162,3 +162,5 @@ jobs:
           # before pushing instead of failing on a harmless non-fast-forward.
           git pull --rebase origin main
           git push
+
+# Refresh generated book after the final style-formula audit.
