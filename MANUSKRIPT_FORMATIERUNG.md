@@ -1,184 +1,95 @@
 # Manuskript-Formatierung
 
-Diese Datei definiert die verbindliche Format- und Ausgabe-Logik für `AUSNAHMEZUSTAND_FINAL.md` und die daraus erzeugten Word-Dateien.
+Diese Datei definiert die verbindliche Ausgabe-Logik für `AUSNAHMEZUSTAND_FINAL.md` und `AUSNAHMEZUSTAND.docx`.
 
-## Grundentscheidung
+## Verbindliches Ziel: Sebastian-Fitzek-Benchmark
 
-Der Roman hat **einen inhaltlichen Mastertext**, aber nicht nur eine universelle Word-Formatierung. Testlesen, Einreichung bei Verlag/Lektorat und Buchsatz haben unterschiedliche Ziele und brauchen deshalb getrennte Ausgabeprofile.
+Für die veröffentlichungsnahe Word-Fassung ist eine reale Roman-Doppelseite von Sebastian Fitzek der **visuelle Benchmark**. Ziel ist nicht nur, einzelne Word-Parameter zu übernehmen, sondern das Gesamtbild möglichst nah zu treffen: kompakter Thriller-Buchsatz, dichter Satzspiegel, ruhige Absatzkante und klassische Buchtypografie.
 
-Der Mastertext wird nicht für ein bestimmtes Layout umgeschrieben. Layout, Seitenformat, Absatzlogik, Kopf-/Fußzeilen und Silbentrennung entstehen reproduzierbar im Build.
+Die Referenz hat die früheren Zwischenlösungen verworfen:
 
-`AUSNAHMEZUSTAND.docx` bleibt aus Kompatibilitätsgründen die kanonische **TESTLESER**-Fassung.
+- `0 cm Einzug + 4 pt Absatzabstand` war zwar ruhig, wirkte bei vielen kurzen Dialogabsätzen aber zu listen-/protokollartig.
+- `Erstzeileneinzug + 0 pt Absatzabstand` erzeugte bei diesem Roman durch die vielen kurzen Absätze das störende Zickzack mehrerer linker Ebenen.
+- `Times New Roman` ließ die Ausgabe trotz Buchparametern weiterhin wie ein Word-Manuskript wirken.
+- Zu große Seitenränder und ein zu großes Seitenformat machten den Satzspiegel deutlich luftiger als die Referenz.
 
-## Sebastian-Fitzek-Benchmark für den Buchsatz
+Daraus folgt für die kanonische Ausgabe:
 
-Für die **BUCHVORSCHAU** dient eine veröffentlichte Sebastian-Fitzek-Romanseite als visueller Benchmark. Gemeint ist ausdrücklich die **Satz- und Seitenlogik**, nicht eine Kopie von Text, Cover, konkreter Verlagsschrift oder sonstiger Gestaltung.
+> **Garamond + kompaktes Buchformat + Blocksatz + deutsche Silbentrennung + 0 cm Erstzeileneinzug + 0 pt Absatzabstand + kompakter Zeilenrhythmus.**
 
-Aus dem Benchmark werden folgende belastbare Merkmale übernommen:
+## Kanonische Datei
 
-- kompakter Buchsatz statt A4-Manuskriptbild
-- Blocksatz mit funktionierender deutscher Silbentrennung
-- **kein Erstzeileneinzug** bei normalen Absätzen
-- **kein zusätzlicher Absatzabstand** zwischen normalen Absätzen
-- dadurch eine ruhige, durchgehende linke Satzkante ohne Zickzack und ohne listenartige 4-pt-Lücken
-- relativ kompakter Zeilenrhythmus
-- keine laufende Kopfzeile auf normalen Romanseiten
-- Seitenzahlen unten **außen**: gerade/linke Seite links, ungerade/rechte Seite rechts
-- gespiegelte Seitenränder für linke und rechte Buchseiten
+`AUSNAHMEZUSTAND.docx` ist ab jetzt die **Sebastian-Fitzek-Benchmark-Fassung** und die einzige DOCX, die der Standard-Workflow als Artefakt ausliefert und ins Repository zurückschreibt.
 
-Der Benchmark löst damit die beiden zuvor beobachteten Probleme gleichzeitig:
+Die früheren Profile `TESTLESER` und `EINREICHUNG` bleiben im Formatierungsskript als optionale manuelle Profile erhalten, werden aber nicht mehr standardmäßig gebaut oder ausgeliefert. Damit entstehen für den normalen Build nicht mehr vier ähnlich benannte Word-Dateien.
 
-1. `Erstzeileneinzug + 0 pt Abstand` erzeugte bei den vielen kurzen Thrillerabsätzen optisch zu viele horizontale Ebenen.
-2. `0 cm Einzug + 4 pt Abstand` war ruhig an der linken Kante, wirkte auf dialogreichen Seiten aber teilweise listen-/protokollartig.
+## Konkrete Satzparameter
 
-Die Zielkombination für die Buchvorschau lautet deshalb:
+### Seite und Satzspiegel
 
-> **Blocksatz + deutsche Silbentrennung + 0 cm Erstzeileneinzug + 0 pt Absatzabstand.**
-
-Nicht übernommen werden Merkmale, die nur Verlagshausstil oder aus dem Screenshot nicht sicher bestimmbar sind:
-
-- Die Dialogzeichen bleiben `„…“`; Fitzeks verwendete Guillemets `»…«` werden nicht allein aus Benchmark-Gründen übernommen.
-- Die konkrete Fitzek-Buchschrift wird nicht behauptet oder kopiert. Solange keine endgültige Produktionsschrift feststeht, bleibt Times New Roman als portable Vorschau-Schrift gesetzt.
-- Zusätzliche Szenentrenner werden nicht erfunden; die bestehende Romanarchitektur bleibt maßgeblich.
-
-## Ausgabeprofile
-
-### 1. TESTLESER
-
-Zweck: ruhige Lesefassung für Autor und Testleser. Sie soll schnell lesbar sein und den stark rhythmischen Thrillertext nicht durch klassischen Buchsatz überformen.
-
-- A4
-- Times New Roman, 11,5 pt
-- linksbündig, kein Blocksatz
-- Zeilenabstand 1,15
-- kein Erstzeileneinzug
-- alle normalen Absätze beginnen an derselben linken Kante
-- 0 pt Abstand vor, 4 pt Abstand nach jedem normalen Absatz
-- keine echten Leerzeilen zwischen normalen Absätzen
-- Witwen-/Waisenkontrolle aktiv
-- keine laufende Kopfzeile
-- Seitenzahl in der Fußzeile
-
-Diese Fassung ist bewusst **keine Normseite und kein Buchsatz**.
-
-### 2. EINREICHUNG
-
-Zweck: robuste Manuskriptfassung für Verlag, Agentur, Lektorat oder professionelle Textarbeit. Empfängerspezifische Vorgaben haben immer Vorrang.
-
-- A4
-- Times New Roman, 12 pt
-- linksbündig
-- Zeilenabstand 1,5
-- Erstzeileneinzug 0,75 cm
-- 0 pt Absatzabstand vor/nach
-- erster Absatz nach Kapitelüberschrift oder Szenenbruch ohne Einzug
-- dezente Kopfzeile mit `NORMALFALL`
-- Seitenzahl in der Fußzeile
-
-Das Profil orientiert sich an einer klassischen Einreichungsfassung, behauptet aber nicht, für jeden Verlag eine verbindliche deutsche „Normseite“ zu sein.
-
-### 3. BUCHVORSCHAU – Sebastian-Fitzek-Stil
-
-Zweck: prüfen, wie der Text nach dem oben dokumentierten Thriller-Benchmark in einem echten Buchsatz-Prinzip wirkt. Dieses Profil ist **keine druckfertige Produktionsdatei**, solange Veröffentlichungsweg, Endformat, Papier, Beschnitt, Bindung und endgültige Schrift nicht feststehen.
-
-Verbindliche Vorschau:
-
-- kompaktes Buchformat 13,5 × 21,5 cm
-- Times New Roman, 10,5 pt als portable Vorschau-Schrift
-- Blocksatz
-- automatische deutsche Silbentrennung aktiviert
-- **kein Erstzeileneinzug: 0 cm**
-- **kein Absatzabstand: 0 pt vor/nach**
-- kompakter Zeilenabstand 1,05
+- Endformat: **12,5 × 18,7 cm**
 - gespiegelte Seitenränder
+- Innenrand: **1,35 cm**
+- Außenrand: **1,15 cm**
+- oberer Rand: **0,65 cm**
+- unterer Rand: **0,65 cm**
 - keine laufende Kopfzeile
-- Seitenzahl unten außen: gerade Seiten links, ungerade Seiten rechts
-- keine künstlichen Szenentrenner; nur semantisch bestätigte Szenenbrüche werden dargestellt
+- Seitenzahlen unten außen: gerade/linke Seite links, ungerade/rechte Seite rechts
 
-Vor einer Veröffentlichung wird dieses Profil auf die technischen Vorgaben von Verlag/KDP/BoD/etc. angepasst.
+Die Maße sind kein behauptetes Originalformat eines Fitzek-Titels. Sie sind die für `NORMALFALL` kalibrierte Einstellung, die den gelieferten Referenz-Screenshot hinsichtlich Textdichte, Zeilenlänge und Satzspiegel deutlich näher trifft als die vorige 13,5-×-21,5-cm-Fassung.
 
-## Kapitelüberschriften
+### Fließtext
 
-Für alle Profile:
+- Schrift: **Garamond** (Microsoft/Office-Schrift)
+- Schriftgröße: **12,5 pt**
+- Blocksatz
+- Zeilenabstand: **1,05**
+- 0 cm Erstzeileneinzug
+- 0 pt Abstand vor und nach normalen Absätzen
+- keine künstlichen Leerzeilen zwischen normalen Absätzen
+- deutsche Silbentrennung
+- zusätzlich deterministische optionale Trennstellen im erzeugten DOCX, damit Word/LibreOffice den engen Blocksatz reproduzierbar umbrechen
+- Witwen-/Waisenkontrolle in dieser Buchfassung deaktiviert, damit kurze Thrillerabsätze den Satzspiegel nicht unnötig aufreißen
+
+### Dialogtypografie
+
+Für die Buchfassung werden die im Markdown-Master vorhandenen deutschen Anführungszeichen nur bei der Ausgabe typografisch umgestellt:
+
+- Master bleibt: `„Dialog.“`
+- Buchsatz wird: `»Dialog.«`
+
+Der Mastertext wird dadurch nicht semantisch geändert. Die Umstellung ist rein typografisch und orientiert sich am sichtbaren Fitzek-Benchmark.
+
+### Kapitelüberschriften
 
 - echte Word-Formatvorlage `Heading 1` / `Überschrift 1`
-- schwarz, fett
-- jedes Kapitel beginnt auf einer neuen Seite
-- Format: `Kapitel N – Titel`
-- der Prolog bleibt schlicht `Prolog`
-- Überschriften sind Grundlage für Navigation und Inhaltsverzeichnis
-
-Größe, Abstand und konkrete Ausrichtung dürfen je Ausgabeprofil variieren.
+- Garamond, **14,5 pt**, fett, schwarz, zentriert
+- Format: `Kapitel N – Titel`; Prolog bleibt `Prolog`
+- jedes Kapitel beginnt zwingend auf einer neuen Seite (`page_break_before`)
+- 14 pt Abstand nach der Überschrift
 
 ## Szenenwechsel
 
-Ein Szenenbruch ist **semantisch**, nicht nur typografisch. Er wird nur gesetzt, wenn innerhalb eines Kapitels ein echter Sprung vorliegt, zum Beispiel:
+`ROMAN_MAP.md` definiert weiterhin: **eine Szenenkarte entspricht zunächst einem Kapitel**. Der aktuelle Master enthält daher keine zusätzlichen internen Szenentrenner. Es werden keine Sternchen oder Leerraum-Trenner heuristisch erfunden.
 
-- deutlicher Ortswechsel
-- relevanter Zeitsprung
-- Perspektiv-/POV-Wechsel
-- Wechsel auf eine andere Handlungsebene, bei dem ein normaler Absatzwechsel den Leser über den Sprung täuschen würde
+Falls später innerhalb eines Kapitels ein echter semantischer Szenenwechsel entsteht, bleibt `---` im Markdown der explizite Marker und wird in Word als dezentes `*` dargestellt.
 
-Kein Szenenbruch nur wegen eines neuen Gedankens, Sprecherwechsels oder kurzen Absatzes.
-
-### Aktueller Befund
-
-`ROMAN_MAP.md` definiert ausdrücklich: **Eine Szenenkarte entspricht zunächst einem Kapitel.** Daraus entstehen Prolog + 47 Kapitel und damit aktuell 48 getrennte Story-/Szeneneinheiten.
-
-Der technische Audit des aktuellen Masters bestätigt dazu passend: **0 explizite Szenenbrüche innerhalb laufender Kapitel.** Das ist deshalb im jetzigen Stand kein Formatierungsfehler, sondern entspricht der gesetzten Romanarchitektur. Die pauschale Annahme, innerhalb der bestehenden Kapitel müssten zusätzliche Szenentrenner eingefügt werden, wird nicht übernommen.
-
-Szenentrenner werden erst relevant, wenn später zwei Szenenkarten bewusst zu einem Kapitel zusammengelegt werden oder ein tatsächlich bestätigter interner Orts-/Zeit-/POV-Sprung entsteht.
-
-Technische Regel für diesen Fall:
-
-- `---` innerhalb eines laufenden Kapitels gilt als expliziter Szenenbruch, sofern danach **nicht** unmittelbar die nächste Kapitelüberschrift folgt.
-- `---` direkt vor einer neuen Kapitelüberschrift ist nur ein Kapiteltrenner und erzeugt keinen zusätzlichen Stern.
-- sichtbarer Szenentrenner in Word: ein dezentes, zentriertes `*`
-- der erste Fließtextabsatz nach einem Szenenbruch gilt typografisch wie der erste Absatz nach einer Kapitelüberschrift
-
-Damit bleibt die Szenenstruktur unabhängig vom jeweiligen Word-Profil erhalten, ohne künstliche Brüche zu erfinden.
-
-## Satzzeichen und Gedankenstriche
-
-Für den deutschsprachigen Romantext gilt:
+## Satzzeichen
 
 - Gedankenstrich = Halbgeviertstrich `–`
-- der Geviertstrich `—` wird im Romantext nicht verwendet
-- auch bei abrupt abgebrochener Rede wird kein Geviertstrich verwendet; falls ein Gedankenstrich nötig ist, wird `–` verwendet
-- Bindestrich `-`, Halbgeviertstrich `–` und Auslassungspunkte `…` werden funktional getrennt eingesetzt
-- der Build normalisiert eventuell verbliebene Geviertstriche deterministisch auf `–`
+- Geviertstrich `—` wird nicht verwendet
+- der Build normalisiert verbliebene Geviertstriche deterministisch auf `–`
+- Bindestrich `-`, Halbgeviertstrich `–` und Auslassungspunkte `…` bleiben funktional getrennt
 
-Ziel ist ein unauffälliges, natürliches deutschsprachiges Schriftbild und keine typografische Eigenheit, die unnötig nach LLM-/KI-Prosa aussieht.
+## Vorsatz und Inhaltsverzeichnis
 
-## Vorsatzseiten
-
-Die beiden Vorsatzseiten sind Teil der Buchidentität und werden nicht von den Fließtextregeln überschrieben:
-
-1. `NORMALFALL` mit dem Eingangszitat
-2. Definition `Normalfall, der:` mit wiederholtem Zitat
-
-Diese Elemente bleiben zentriert.
-
-## Inhaltsverzeichnis
-
-Das Inhaltsverzeichnis wird aus den echten Word-Überschriften erzeugt und im Build materialisiert. Es enthält `Prolog` sowie Kapitel 1–47 mit ihren Kapiteltiteln und Seitenzahlen.
+Die beiden `NORMALFALL`-Vorsatzseiten bleiben eigenständig und zentriert. Das Inhaltsverzeichnis wird weiterhin aus den echten Kapitelüberschriften erzeugt und materialisiert.
 
 ## Source of Truth
 
-- Inhaltlicher Master: `AUSNAHMEZUSTAND_FINAL.md`
-- kanonische Lesefassung: `AUSNAHMEZUSTAND.docx` = Profil `TESTLESER`
-- weitere Word-Fassungen werden aus demselben Master erzeugt und sollen nicht manuell gepflegt werden
-- keine dauerhaften manuellen Formatkorrekturen direkt in generierten DOCX-Dateien
+- Inhalt: `AUSNAHMEZUSTAND_FINAL.md`
+- kanonische Word-Ausgabe: `AUSNAHMEZUSTAND.docx`
+- Formatlogik: `scripts/polish_docx.py`
+- Build: `.github/workflows/build-testreader-docx.yml`
 
-## Technische Umsetzung
-
-- `scripts/build_testreader_docx.py` liest den Master, normalisiert den Vorspann und Satzzeichen und übernimmt explizite Szenenmarker.
-- `scripts/polish_docx.py` setzt Kapiteltitel und das gewählte Ausgabeprofil.
-- `scripts/audit_scene_breaks.py` prüft die im Master vorhandenen Szenenmarker und meldet ihre Verteilung.
-- `scripts/update_docx_toc.py` aktualisiert/materialisiert das Inhaltsverzeichnis.
-- `.github/workflows/build-testreader-docx.yml` erzeugt die Profile reproduzierbar, validiert sie und committed nur die kanonische Testleserfassung sowie notwendige deterministische Master-Normalisierungen.
-- Für die CI-Qualitätsprüfung der Buchvorschau muss ein deutsches Silbentrennungsmuster (`hyphen-de`) installiert sein; nur das Word-Flag `autoHyphenation` reicht in einem nackten LibreOffice-Runner nicht für eine belastbare visuelle Prüfung.
-
-## Änderungsregel
-
-Formatentscheidungen werden zuerst hier dokumentiert und danach im Build umgesetzt. Inhaltliche Änderungen am Roman werden davon getrennt behandelt. Insbesondere werden keine neuen Szenenbrüche automatisch aus Namenswechseln, Leerzeilen oder heuristischen Vermutungen erfunden.
+Generierte DOCX-Dateien werden nicht manuell gepflegt. Änderungen an der Typografie werden zuerst hier dokumentiert und danach reproduzierbar im Build umgesetzt.
