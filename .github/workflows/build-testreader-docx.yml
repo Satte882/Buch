@@ -41,7 +41,7 @@ jobs:
 
       - name: Install DOCX dependencies
         run: |
-          python -m pip install python-docx
+          python -m pip install python-docx pyphen
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno hyphen-de
 
@@ -97,9 +97,11 @@ jobs:
               after_boundary = False
               checked = 0
               headings = 0
+              soft_hyphens = 0
               for paragraph in doc.paragraphs:
                   style_name = paragraph.style.name if paragraph.style is not None else ''
                   assert '—' not in paragraph.text, f'Geviertstrich in {filename}: {paragraph.text[:80]}'
+                  soft_hyphens += paragraph.text.count('\u00ad')
                   if style_name == 'Heading 1':
                       story_started = True
                       after_boundary = True
@@ -137,12 +139,13 @@ jobs:
                   assert settings.find(qn('w:autoHyphenation')) is not None
                   assert settings.find(qn('w:mirrorMargins')) is not None
                   assert settings.find(qn('w:evenAndOddHeaders')) is not None
+                  assert soft_hyphens > 1000, soft_hyphens
                   story = doc.sections[-1]
                   assert story.footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.RIGHT
                   assert story.even_page_footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.LEFT
                   assert all(not p.text.strip() for p in story.header.paragraphs)
 
-              print(f'Validated {filename}: headings={headings}, paragraphs={checked}')
+              print(f'Validated {filename}: headings={headings}, paragraphs={checked}, soft_hyphens={soft_hyphens}')
 
       - name: Upload DOCX profiles
         uses: actions/upload-artifact@v4
