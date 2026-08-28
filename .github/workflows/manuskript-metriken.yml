@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'MANUSKRIPT/**'
+      - 'AUSNAHMEZUSTAND_FINAL.md'
       - '.github/workflows/manuskript-metriken.yml'
   workflow_dispatch:
 
@@ -17,39 +17,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Wortzahlen je Kapitel und Baustein berechnen
+      - name: Wortzahlen aus finalem Master berechnen
         shell: python
         run: |
           from pathlib import Path
           import re
 
-          files = [
-              Path('MANUSKRIPT/01_BAUSTEINE_01_02.md'),
-              Path('MANUSKRIPT/02_BAUSTEINE_03_04.md'),
-              Path('MANUSKRIPT/03_BAUSTEINE_05_06.md'),
-              Path('MANUSKRIPT/04_BAUSTEIN_07.md'),
-              Path('MANUSKRIPT/05_BAUSTEINE_08_09.md'),
-          ]
-
-          sections = {}
+          path = Path('AUSNAHMEZUSTAND_FINAL.md')
+          text = path.read_text(encoding='utf-8')
           heading_re = re.compile(r'^##\s+(Prolog|\d+)\s*$', re.MULTILINE)
           word_re = re.compile(r"\b[\wÄÖÜäöüß]+(?:[-’'][\wÄÖÜäöüß]+)*\b", re.UNICODE)
 
-          for path in files:
-              text = path.read_text(encoding='utf-8')
-              matches = list(heading_re.finditer(text))
-              for i, match in enumerate(matches):
-                  name = match.group(1)
-                  start = match.end()
-                  end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-                  body = text[start:end]
-                  sections[name] = len(word_re.findall(body))
+          matches = list(heading_re.finditer(text))
+          sections = {}
+          for i, match in enumerate(matches):
+              name = match.group(1)
+              start = match.end()
+              end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+              sections[name] = len(word_re.findall(text[start:end]))
 
           expected = ['Prolog'] + [str(i) for i in range(1, 48)]
-          missing = [x for x in expected if x not in sections]
-          extra = [x for x in sections if x not in expected]
-          if missing or extra:
-              raise SystemExit(f'Kapitelstruktur fehlerhaft. Fehlend={missing}, zusätzlich={extra}')
+          if list(sections) != expected:
+              raise SystemExit(f'Kapitelstruktur fehlerhaft: {list(sections)}')
 
           bausteine = {
               '01': ['Prolog'],
@@ -61,17 +50,6 @@ jobs:
               '07': [str(i) for i in range(34, 38)],
               '08': [str(i) for i in range(38, 44)],
               '09': [str(i) for i in range(44, 48)],
-          }
-          references = {
-              '01': 800,
-              '02': 9000,
-              '03': 11000,
-              '04': 8500,
-              '05': 12000,
-              '06': 13400,
-              '07': 7000,
-              '08': 10500,
-              '09': 4800,
           }
           names = {
               '01': 'Cold Open',
@@ -86,39 +64,31 @@ jobs:
           }
 
           btotals = {b: sum(sections[k] for k in ks) for b, ks in bausteine.items()}
-          total = sum(btotals.values())
-          reference_total = sum(references.values())
+          total = sum(sections.values())
 
           lines = [
               '# Manuskript-Metriken',
               '',
-              '> Automatisch aus `MANUSKRIPT/*.md` erzeugt. Diese Datei nicht manuell pflegen.',
+              '> Automatisch aus `AUSNAHMEZUSTAND_FINAL.md` erzeugt. Diese Datei nicht manuell pflegen.',
               '>',
-              '> **Steuerungsregel:** Wortzahl ist eine Messgröße, kein Qualitäts- oder Abnahmekriterium. Die 77.000 Wörter und Bausteinwerte sind nur historische Ausbau-Referenzen; es wird nicht auf sie hin gekürzt oder aufgefüllt.',
+              '> **Steuerungsregel:** Wortzahl ist ausschließlich eine Messgröße. Historische Ausbauziele sind kein Qualitäts- oder Abnahmekriterium.',
               '',
               '## Gesamtstand',
               '',
               f'- **Ist:** {total:,} Wörter'.replace(',', '.'),
-              f'- **Historische Planungsreferenz:** {reference_total:,} Wörter'.replace(',', '.'),
-              f'- **Abweichung zur historischen Referenz:** {total-reference_total:+,} Wörter'.replace(',', '.'),
+              '- **Quelle:** `AUSNAHMEZUSTAND_FINAL.md`',
               '',
-              '## Bausteine – Ist gegen historische Ausbau-Referenz',
+              '## Bausteine – aktuelle Ist-Wortzahl',
               '',
-              '| Baustein | Funktion | Ist Wörter | historische Referenz | Abweichung |',
-              '|---|---|---:|---:|---:|',
+              '| Baustein | Funktion | Ist Wörter |',
+              '|---|---|---:|',
           ]
           for b in bausteine:
-              actual = btotals[b]
-              reference = references[b]
-              delta = actual - reference
-              lines.append(
-                  f"| {b} | {names[b]} | {actual:,} | {reference:,} | {delta:+,} |"
-                  .replace(',', '.')
-              )
+              lines.append(f"| {b} | {names[b]} | {btotals[b]:,} |".replace(',', '.'))
 
           lines += [
               '',
-              '## Kapitel – Ist-Wortzahl',
+              '## Kapitel – aktuelle Ist-Wortzahl',
               '',
               '| Baustein | Kapitel | Ist Wörter |',
               '|---|---|---:|',
@@ -131,9 +101,9 @@ jobs:
               '',
               '## Zählregel',
               '',
-              'Gezählt wird reproduzierbar aus dem Prosatext unter den Überschriften `## Prolog` und `## 1` bis `## 47`. Markdown-Überschriften selbst zählen nicht. Wörter mit Bindestrich oder Apostroph werden als ein Wort behandelt. Die Zahl kann geringfügig von Microsoft Word abweichen.',
+              'Gezählt wird reproduzierbar ausschließlich aus dem Prosatext unter `## Prolog` und `## 1` bis `## 47` im finalen Markdown-Master. Markdown-Überschriften selbst zählen nicht. Wörter mit Bindestrich oder Apostroph werden als ein Wort behandelt. Microsoft Word kann geringfügig anders zählen.',
               '',
-              'Die historischen Referenzwerte stammen aus der früheren Ausbauplanung in `UMFANG_UND_AUSBAUSTEUERUNG.md`. Für die aktuelle Manuskriptphase gilt: Umfang folgt Funktion.',
+              'Historische Wortziele aus der Ausbauphase sind über Git nachvollziehbar, werden aber nicht mehr als aktive Steuerungslogik geführt.',
           ]
 
           Path('MANUSKRIPT_METRIKEN.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
