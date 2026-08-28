@@ -151,15 +151,7 @@ Jonas sah in seine Notizen. „Dienstag. Kurz nach elf.“
 
 „Und das zweite Mal?“
 
-„Donnerstag, halb vier.“
-
-„Jeweils wie lange?“
-
-„Wissen wir nicht.“
-
-„Video?“
-
-„Nur vom Donnerstag. Eingangskamera. Vier Minuten sichtbar.“
+„Donnerstag, halb vier. Wie lange er jeweils dort war, wissen wir nicht. Video gibt es nur vom Donnerstag – Eingangskamera, vier Minuten sichtbar.“
 
 Daniel öffnete die Sequenz.
 
@@ -215,17 +207,7 @@ Der Sicherheitsmitarbeiter hatte seine Beobachtung am nächsten Morgen protokoll
 
 „Schichtwechsel. Er hat mit einem Kollegen gesprochen, der meinte, sie sollen es melden.“
 
-„Hat Ahrens versucht reinzukommen?“
-
-„Nein.“
-
-„Hat er die Kamera verdeckt?“
-
-„Nein.“
-
-„Hat er irgendwen nach Sicherheitsmaßnahmen gefragt?“
-
-Jonas sah wieder auf den Vermerk. „Nicht laut dem Text.“
+Daniel ging die nächsten Punkte selbst durch. Ahrens hatte weder versucht reinzukommen noch die Kamera verdeckt. Im Vermerk stand auch keine Frage nach Sicherheitsmaßnahmen.
 
 „Wer hat gesagt, dass er nach Nachtbetrieb gefragt hat?“
 
@@ -269,11 +251,7 @@ Die Zustimmung brachte Jonas kurz aus dem Takt.
 
 „Und das reicht dir nicht?“
 
-„Fürs Prüfen schon.“
-
-„Für die Kontrolle nicht.“
-
-„Noch nicht.“
+„Fürs Prüfen schon. Für die Kontrolle noch nicht.“
 
 Jonas trommelte einmal mit dem Finger auf den Tisch.
 
@@ -331,7 +309,7 @@ Daniel schrieb **Fahrzeugdisposition** darunter.
 
 „Vielleicht ist der Wagen nicht seiner.“
 
-„Gut.“
+Daniel schrieb den Punkt dazu.
 
 „Das spricht aber nicht automatisch für harmlos.“
 
@@ -349,11 +327,7 @@ Daniel schob ihm den Zettel hin.
 
 „Dann prüfen wir das.“
 
-„Das dauert.“
-
-„Ja.“
-
-„Wie lange?“
+Jonas verzog den Mund. „Das dauert. Wie lange?“
 
 „Firma ist offen. Sicherheitsdienst ist da. Fahrzeugdisposition sollte kein Staatsgeheimnis sein.“
 
@@ -507,13 +481,7 @@ Daniel tippte auf die Mails.
 
 „Die hat dir die Firma geschickt?“
 
-„Ja.“
-
-„Mit vollständigen Headern?“
-
-„Weiterleitung aus ihrem System. Originalzeitstempel sichtbar.“
-
-„Gut.“
+„Ja. Weiterleitung aus ihrem System, vollständige Header, Originalzeitstempel sichtbar.“
 
 Jonas setzte sich auf die Tischkante.
 
@@ -537,13 +505,7 @@ Daniel legte das Tablet auf den Tisch.
 
 „Veranstaltungskoordination. Die Liste für nächste Woche war noch nicht in den normalen Tagesbestand übernommen.“
 
-„Also konnte der Pförtner sie übersehen.“
-
-„Ja.“
-
-„Oder gar nicht sehen.“
-
-„Ja.“
+Daniel nickte. Der Pförtner konnte sie übersehen haben – oder gar nicht sehen.
 
 Daniel nahm sein Telefon und rief die hinterlegte Nummer der Veranstaltungskoordination an. Eine Frau meldete sich, die erst nach der Projektnummer fragte und dann nach Ahrens' Namen.
 
@@ -587,11 +549,7 @@ Daniel sah auf das Kennzeichen.
 
 „Ist das sein Wagen?“
 
-„Einer von neun identischen Firmenwagen.“
-
-„Und welcher war zwei Straßen weiter?“
-
-„Seiner.“
+„Einer von neun identischen Firmenwagen. Der Wagen zwei Straßen weiter war seiner.“
 
 „Belegt?“
 
@@ -1766,17 +1724,7 @@ Mara setzte sich.
 
 „Ich würde das Team selbst aufbauen. Acht Leute, eigene Kunden. Nicht wieder erst in Projekte einsteigen, wenn sie schon halb festgefahren sind.“
 
-„Direkte Berichtslinie?“
-
-„An die Bereichsleitung.“
-
-„Budgetverantwortung?“
-
-„Teilweise.“
-
-„Einstellungen selbst?“
-
-„Mit HR, aber ja. Fachlich meine Entscheidung.“
+Daniel fragte nach Berichtslinie, Budget und Einstellungen. Mara antwortete ohne zu zögern: direkt an die Bereichsleitung, teilweise Budgetverantwortung, Einstellungen mit HR – fachlich ihre Entscheidung.
 
 Daniel sah sie an. „Das willst du.“
 
@@ -2282,17 +2230,9 @@ Das war der Satz, der sofort größer klang als der gelbe Streifen selbst.
 
 Daniel blieb bei der Tür.
 
-„Hat jemand heute einen offenen Zugang gemeldet?“
+„Hat jemand heute oder gestern einen offenen Zugang gemeldet?“
 
-„Nein.“
-
-„Gestern?“
-
-„Nein.“
-
-„Fehlermeldung vom Schloss?“
-
-„Nicht dass ich wüsste.“
+„Nein. Auch keine Fehlermeldung vom Schloss, nicht dass ich wüsste.“
 
 Der Verwalter wirkte inzwischen weniger gelangweilt. Noch nicht beunruhigt. Eher so, als hätte die Tür begonnen, ihm persönlich unangenehm zu werden.
 
@@ -2508,11 +2448,7 @@ Daniel dachte kurz nach.
 
 Jonas nickte.
 
-„Also ein zweiter Anker.“
-
-„Ja.“
-
-„Und wenn der morgen kommt?“
+„Also ein zweiter Anker. Und wenn der morgen kommt?“
 
 „Dann haben wir morgen mehr.“
 
@@ -2940,15 +2876,7 @@ Lena schob das Blatt zurück.
 
 „Nicht: Was klingt plausibel. Was können wir prüfen?“
 
-„Die Abholung.“
-
-„Gut.“
-
-„Den Zusammenhang der Lieferadresse mit dem grauen Wagen, falls wir ihn identifizieren.“
-
-„Gut.“
-
-„Und ob Einheit 17 mit einem Dienstleister für die Veranstaltung verbunden ist.“
+Jonas zählte auf: die Abholung; den Zusammenhang der Lieferadresse mit dem grauen Wagen, falls sie ihn identifizierten; und ob Einheit 17 mit einem Dienstleister für die Veranstaltung verbunden war.
 
 Lena hob den Blick.
 
@@ -3078,13 +3006,7 @@ Das war besser.
 
 „Im Auftrag steht: Zugang Rampe Nord, Kunde Einheit 16. Rechnungsempfänger ist aber die Handelsfirma aus 17.“
 
-„Fehler?“
-
-„Kann sein.“
-
-„Absicht?“
-
-„Kann auch sein.“
+Daniel ließ beide Lesarten stehen: Fehler oder Absicht.
 
 „Was sagt der Kurier?“
 
@@ -3156,15 +3078,9 @@ Mit jedem bestätigten Detail wurde der Absender schwerer zu ignorieren.
 
 Jonas sah auf die Uhrzeiten.
 
-„Die Nachricht kam zweiunddreißig Minuten nach der Buchung.“
+„Die Nachricht kam zweiunddreißig Minuten nach der Buchung. Also nicht vorher.“
 
-„Ja.“
-
-„Also nicht vor der Buchung.“
-
-„Nein.“
-
-„Heißt, die Quelle muss den Auftrag nicht vorher geplant haben. Sie kann ihn einfach sehr schnell gesehen haben.“
+„Nein. Die Quelle muss den Auftrag nicht vorher geplant haben. Sie kann ihn einfach sehr schnell gesehen haben.“
 
 Daniel nickte.
 
@@ -3432,21 +3348,7 @@ Daniel zeigte sie mit den Händen ungefähr an.
 
 Heller sah nicht beeindruckt aus.
 
-„Kann Werkzeug sein.“
-
-„Ja.“
-
-„Messtechnik.“
-
-„Ja.“
-
-„Ersatzteile.“
-
-„Ja.“
-
-„Oder etwas Gefährliches.“
-
-„Ja.“
+Werkzeug, Messtechnik, Ersatzteile – alles war möglich. Etwas Gefährliches auch.
 
 Heller blätterte weiter.
 
@@ -3508,15 +3410,7 @@ Heller blätterte zurück zur Lieferadresse.
 
 Daniel schwieg einen Moment.
 
-„Nein.“
-
-„Ist der Koffer geöffnet worden?“
-
-„Nein.“
-
-„Ist er weitergegeben worden?“
-
-„Noch nicht.“
+„Nein. Der Koffer ist weder geöffnet noch weitergegeben worden.“
 
 „Hat die Quelle behauptet, der Koffer sei gefährlich?“
 
@@ -3918,17 +3812,7 @@ Daniel telefonierte noch einmal mit der Stelle, die den Veranstaltungszugang ver
 
 „Änderungen heute?“
 
-„Müsste ich prüfen.“
-
-„Wie lange?“
-
-„Ich melde mich.“
-
-„Noch heute?“
-
-Kurze Pause.
-
-„Ja.“
+„Müsste ich prüfen. Ich melde mich noch heute.“
 
 Daniel bedankte sich. Er wusste, dass er sie nicht schneller machen würde, indem er ihr seine Ungeduld erklärte.
 
@@ -4162,23 +4046,7 @@ Er stellte sich an den zweiten Monitor.
 
 „Was verbindet den Fahrer mit Einheit 17?“ fragte er.
 
-Jonas schüttelte den Kopf. „Noch nichts.“
-
-„Mit dem Kurier?“
-
-„Noch nichts.“
-
-„Mit dem Dienstleister?“
-
-„Der Wagen war heute dort. Mehr haben wir nicht.“
-
-„Wie lange?“
-
-„Knapp zwanzig Minuten.“
-
-„Wer hatte ihn?“
-
-„Mietvertrag läuft auf falsche Kontaktdaten. Identität des Abholers offen.“
+Jonas schüttelte den Kopf. „Noch nichts. Mit dem Kurier auch nicht. Beim Dienstleister stand der Wagen heute knapp zwanzig Minuten. Mietvertrag auf falsche Kontaktdaten, Identität des Abholers offen.“
 
 „Also nicht der Mitarbeiter, der den Koffer angenommen hat.“
 
@@ -4704,11 +4572,7 @@ Daniel lehnte sich zurück.
 
 „Ja“, sagte Lena.
 
-„Das Ergebnis macht sie nicht rückwirkend schlecht.“
-
-„Ja.“
-
-„Und trotzdem ändere ich den Ablauf.“
+„Das Ergebnis macht sie nicht rückwirkend schlecht. Und trotzdem ändere ich den Ablauf.“
 
 „Dagegen habe ich nichts.“
 
@@ -4918,21 +4782,7 @@ Um 18.51 Uhr rief Jonas zurück.
 
 „Kennzeichen existiert. Mietfahrzeug. Seit gestern an eine kleine Kurierfirma ausgegeben.“
 
-„Verbindungen?“
-
-„Offen nichts. Firma ist real. Drei Fahrer, acht Fahrzeuge, macht alles von Medikamente bis Ersatzteile.“
-
-„Seit wann?“
-
-„Sieben Jahre im Register. Website passt. Keine auffällige Änderung.“
-
-„Wer hat den Wagen übernommen?“
-
-„Vertrag auf Firmenkonto. Fahrer nicht eindeutig zugeordnet.“
-
-„Zahlung?“
-
-„Normal über das Geschäftskonto.“
+Jonas ging die Stammdaten gleich mit durch. Reale Firma, sieben Jahre im Register, drei Fahrer, acht Fahrzeuge, unauffällige Website. Vertrag und Zahlung liefen über das Geschäftskonto; der Fahrer war nicht eindeutig zugeordnet.
 
 „Aktuelle Bewegung?“
 
@@ -5000,11 +4850,7 @@ Daniel sah auf Janas Nachricht.
 
 „Keine belegbare.“
 
-„Dann bleibt sie draußen.“
-
-„Ja.“
-
-„Ich prüfe die Freigabeseite.“
+„Dann bleibt sie draußen. Ich prüfe die Freigabeseite.“
 
 Daniel legte auf.
 
@@ -5038,15 +4884,7 @@ Daniel rief die Mietwagenfirma über ihre Zentrale an. Der Vertrag existierte, d
 
 „Gab es eine Rückgabezeit?“
 
-„Morgen Vormittag.“
-
-„Geplante Kilometer?“
-
-„Nein.“
-
-„Zusatzfahrer?“
-
-„Das kann ich Ihnen so nicht geben.“
+„Morgen Vormittag. Geplante Kilometer gibt es nicht. Zusatzfahrer kann ich Ihnen ohne weitere Grundlage nicht nennen.“
 
 Daniel bedankte sich.
 
@@ -5104,17 +4942,9 @@ Heller schwieg kurz.
 
 Daniel hörte zum ersten Mal seinen Vornamen von ihm.
 
-„Verstanden.“
+„Verstanden. Kannst du priorisieren?“
 
-„Ich ziehe, was ich ziehen kann.“
-
-„Kannst du priorisieren?“
-
-„Habe ich schon.“
-
-„Mehr?“
-
-„Nicht ohne etwas vorzugeben, das wir nicht haben.“
+„Habe ich schon. Ich ziehe, was ich ziehen kann. Mehr ginge nur, wenn ich etwas vorgebe, das wir nicht haben.“
 
 Daniel sagte nichts.
 
@@ -5716,11 +5546,7 @@ Jonas deutete auf Daniels Notiz.
 
 „Also noch mal. B-QV 4172 zweimal in zeitlicher Nähe zu einem weißen Lieferwagen aus dem alten Vorgang.“
 
-„Ja.“
-
-„Der alte Wagen hing an einem Mann aus einem Unterstützerumfeld.“
-
-„War zugeordnet. Nicht automatisch Täter.“
+„Der alte Wagen hing an einem Mann aus einem Unterstützerumfeld – zugeordnet, nicht automatisch Täter.“
 
 „Und wir dürfen jetzt nicht einfach die Personenkette ziehen.“
 
@@ -6084,17 +5910,9 @@ Lena auch nicht.
 
 „Kennzeichentreffer und vorhandene Zuordnungen. Drei Treffer. Einen Parkverstoß. Zwei gemeinsame Zeit-/Ortsbezüge mit einem Fahrzeug aus einem alten Vorgang.“
 
-„Personen?“
+„Personen, Kontakte, Bewegungsdaten?“
 
-„Nicht erweitert.“
-
-„Kontakte?“
-
-„Nein.“
-
-„Bewegungsdaten?“
-
-„Nein.“
+„Nicht erweitert. Keine Kontakte, keine Bewegungsdaten.“
 
 Lena sah ihn lange an.
 
@@ -6306,11 +6124,7 @@ Daniel sah ihn an.
 
 „Warum?“
 
-„Weil die Seiteneinfahrt ab morgen für Aufbaupersonal offen ist. Heute ist sie zu.“
-
-„Quelle?“
-
-„Veranstaltungsplan. Öffentlich.“
+„Weil die Seiteneinfahrt ab morgen für Aufbaupersonal offen ist. Heute ist sie zu. Veranstaltungsplan, öffentlich.“
 
 „Aktueller Status der Tür?“
 
@@ -6750,23 +6564,11 @@ Daniel hörte draußen Schritte im Flur.
 
 Jemand blieb kurz vor der Tür stehen und ging weiter.
 
-„Du hast auf das Kennzeichen begrenzt.“
-
-„Ja.“
-
-„Keine Personen erweitert?“
-
-„Nein.“
-
-„Keine weiteren Daten gezogen?“
+„Du hast auf das Kennzeichen begrenzt. Keine Personen erweitert, keine weiteren Daten gezogen?“
 
 „Nur die Trefferzuordnung und die beiden Zeitpunkte.“
 
-„Keinen Screenshot?“
-
-„Nein.“
-
-„Export?“
+„Kein Screenshot, kein Export?“
 
 „Nein.“
 
@@ -7166,15 +6968,9 @@ Daniel bemerkte die Datei auf ihrem Bildschirm nicht. Nur, dass sie ihre Notizen
 
 Lena sah ihn an.
 
-„Dokumentation.“
+„Dokumentation?“
 
-„Wo?“
-
-„Getrennt.“
-
-„Warum?“
-
-„Weil Berg gerade gesagt hat, die Bewertung läuft getrennt.“
+„Getrennt. Berg hat gerade gesagt, die Bewertung läuft getrennt.“
 
 Daniel hielt ihren Blick.
 
@@ -7604,13 +7400,9 @@ Aber sie zwang ihn wenigstens dazu, bei jeder Weitergabe zu entscheiden, welche 
 
 Er nahm sein Diensttelefon wieder und rief Jonas an.
 
-„Schon wieder?“ sagte Jonas.
+„Schon wieder?“, sagte Jonas.
 
-„Ja.“
-
-„Quelle?“
-
-„Ja.“
+„Ja. Die Quelle.“
 
 „Was will sie?“
 
@@ -7640,19 +7432,7 @@ Jonas war kurz still.
 
 „Das wusste ich nachher auch.“
 
-„Ja.“
-
-„Lena.“
-
-„Ja.“
-
-„Berg.“
-
-„Ja.“
-
-„Und wahrscheinlich die Leute, die den Zugriff technisch sehen.“
-
-„Genau.“
+Sie gingen die naheliegenden Empfänger durch: Lena, Berg und wahrscheinlich die Leute, die den Zugriff technisch sehen konnten.
 
 „Heller?“
 
@@ -7674,13 +7454,7 @@ Jonas atmete aus.
 
 „Ja.“
 
-„Das wird nervig.“
-
-„Ja.“
-
-„Und fehleranfällig.“
-
-„Auch.“
+Die Nachteile lagen auf der Hand: nervig, fehleranfällig.
 
 Daniel öffnete während des Gesprächs die bisherige Verteilerliste. Vier Personen bekamen derzeit denselben vollständigen Quellenstand. Er setzte keinen Namen einfach heraus. Stattdessen trennte er zwei Verteiler: operative Behauptungen an die Lage; Quellenwissen nur an den kleinen Prüfkreis, soweit für die jeweilige Prüfung nötig.
 
@@ -7688,9 +7462,7 @@ Daniel öffnete während des Gesprächs die bisherige Verteilerliste. Vier Perso
 
 „Dann ist das der Preis.“
 
-„Schlechter Preis.“
-
-„Ja.“
+„Ein schlechter.“
 
 „Und wenn die Quelle merkt, dass wir anders reagieren?“
 
@@ -8392,13 +8164,9 @@ Sie löste die Arme.
 
 Jonas setzte Häkchen neben die Versionen.
 
-„Trefferzahl?“
+„Trefferzahl und Begrenzung?“
 
 „Im ursprünglichen Vermerk.“
-
-„Begrenzung?“
-
-„Dort ebenfalls.“
 
 „In der Lagefassung?“
 
@@ -9028,15 +8796,7 @@ Berg nannte das Datum.
 
 „Danach?“
 
-„Ende oder neue Begründung.“
-
-„Daten?“
-
-„Rückführung nach den definierten Regeln. Kein stiller Dauerbestand.“
-
-„Protokolle?“
-
-„Bleiben.“
+„Ende oder neue Begründung. Daten zurück nach den definierten Regeln, kein stiller Dauerbestand. Protokolle bleiben.“
 
 Daniel las die sechs Punkte noch einmal.
 
@@ -9638,11 +9398,7 @@ Jonas schob ihr die Zuordnung zu.
 
 „Auf Weber registriert.“
 
-„Heißt nicht, dass nur Weber es benutzt.“
-
-„Nein.“
-
-„Und der Zugang?“
+„Heißt nicht, dass nur Weber es benutzt. Und der Zugang?“
 
 „Er koordiniert die Abendschichten beim Subunternehmer. Hat legitimen Zugriff.“
 
@@ -9680,21 +9436,11 @@ Weber war als Schichtverantwortlicher hinterlegt.
 
 „War er eingeteilt?“
 
-„Nein.“
-
-„Urlaub?“
-
-„Frei.“
+„Nein. Frei.“
 
 Lena sah Daniel an.
 
-„Das ist besser als der Anruf.“
-
-„Ja.“
-
-„Nicht gut.“
-
-„Nein.“
+„Das ist besser als der Anruf. Nicht gut – aber besser.“
 
 Auf dem zweiten Bildschirm liefen die übrigen Treffer aus der neuen Projektstruktur ein.
 
@@ -10800,25 +10546,13 @@ Jetzt setzte sie sich.
 
 „Sicher?“
 
-„Ja.“
-
-„Wie weit?“
-
-„Die Beobachtung im Haus meiner Mutter war abends. Berg hat mir den Lagerkomplex erst am nächsten Vormittag gegeben.“
+„Ja. Die Beobachtung im Haus meiner Mutter war abends. Berg hat mir den Lagerkomplex erst am nächsten Vormittag gegeben.“
 
 Lena sah auf den Monitor, den Daniel ihr noch immer nicht zugedreht hatte.
 
 „Und die Uhrzeit?“
 
-„Mit Jana gegengeprüft.“
-
-„Interne Vorbefassung?“
-
-„In meinen Unterlagen keine. Übergabeliste erst am nächsten Morgen.“
-
-„Mündlich?“
-
-„Nicht ausgeschlossen.“
+„Mit Jana gegengeprüft. In meinen Unterlagen keine interne Vorbefassung; Übergabeliste erst am nächsten Morgen. Mündlich nicht ausgeschlossen.“
 
 Lena nickte.
 
@@ -10900,13 +10634,7 @@ Er ging zum Fenster. Draußen schob jemand einen Aktenwagen über den Hof. Eine 
 
 „Ja.“
 
-„Der Sicherheitsmann wäre vielleicht nicht der Letzte gewesen.“
-
-„Ja.“
-
-„Der breite Prüfkreis hat einen realen Vorbereitungsschritt sichtbar gemacht.“
-
-„Ja.“
+Der Sicherheitsmann wäre vielleicht nicht der Letzte gewesen. Der breite Prüfkreis hatte einen realen Vorbereitungsschritt sichtbar gemacht. Daniel widersprach keinem der beiden Punkte.
 
 Daniel drehte sich zu ihr um.
 
@@ -10938,11 +10666,7 @@ Daniel las die Zeile zweimal.
 
 „Berg?“
 
-„Hat geliefert.“
-
-„Heller?“
-
-„Im Verteiler.“
+„Hat geliefert. Heller war im Verteiler.“
 
 „Du?“
 
@@ -11384,19 +11108,7 @@ Sie las die Nachricht bis zur Leerzeile.
 
 „Kennung bestätigt?“
 
-„Ja.“
-
-„Bedeutung?“
-
-„Offen.“
-
-„Firma?“
-
-„Bis jetzt unauffällig.“
-
-„Zeitfenster?“
-
-„‚Morgiger Aufbau‘. Kein genauer Zeitpunkt.“
+„Ja. Bedeutung offen, Firma bis jetzt unauffällig. Zeitfenster nur ‚morgiger Aufbau‘, kein genauer Zeitpunkt.“
 
 Lena sah ihn an.
 
@@ -12552,11 +12264,7 @@ Daniel sah sie an.
 
 „Dann dauert es.“
 
-„Du weißt, was morgen läuft.“
-
-„Ja.“
-
-„Und du gibst mir trotzdem nichts?“
+„Du weißt, was morgen läuft – und gibst mir trotzdem nichts?“
 
 Lena lehnte sich zurück.
 
@@ -12714,11 +12422,7 @@ Daniel stand ihr gegenüber.
 
 „Dann dauert es.“
 
-„Du weißt, was gerade läuft.“
-
-„Ja.“
-
-„Und du akzeptierst, dass du bis dahin draußen bleibst?“
+„Du weißt, was gerade läuft. Akzeptierst du trotzdem, dass du bis dahin draußen bleibst?“
 
 Lena sah ihn an.
 
@@ -12740,11 +12444,7 @@ Lena drehte sich zu ihm.
 
 „Warum?“
 
-„Eine Rückfrage liegt in deinem gesperrten Bereich. Ich sehe nur, dass sie da ist.“
-
-„Dann formal umhängen lassen.“
-
-„Hab ich angestoßen.“
+„Eine Rückfrage liegt in deinem gesperrten Bereich. Ich sehe nur, dass sie da ist. Das formale Umhängen habe ich angestoßen.“
 
 „Wie lange?“
 
@@ -13024,13 +12724,9 @@ Sie drückte auf einen Kaffee und nahm den Becher nicht heraus.
 
 Daniel blieb neben ihr stehen.
 
-„Du bist wieder drin.“
+„Du bist wieder drin. Die interne Bewertung gegen dich wird korrigiert.“
 
 „Ich weiß.“
-
-„Die interne Bewertung gegen dich wird korrigiert.“
-
-„Gut.“
 
 „Es tut mir leid.“
 
@@ -13274,17 +12970,9 @@ Die Person war mit einem Fahrzeug unterwegs gewesen, das in einer früheren Unte
 
 Jonas zog das Foto auf den Bildschirm.
 
-„Kennzeichen?“
+„Kennzeichen, Halter, Person?“
 
-„Passt.“
-
-„Fahrzeughalter?“
-
-„Dienstleister.“
-
-„Person?“
-
-„Nicht die aus unserem Treffer.“
+„Kennzeichen passt. Halter ist der Dienstleister. Person nicht die aus unserem Treffer.“
 
 Lena sagte: „Dann ist das noch kein zweiter Anker für die Adresse.“
 
@@ -13392,15 +13080,7 @@ Eine zweite Person aus dem Dienstleisterumfeld war am Vortag an derselben Adress
 
 „Foto?“
 
-„Ja.“
-
-„Zeit?“
-
-„17.26 Uhr.“
-
-„Bestätigt?“
-
-„Ja.“
+„Ja. 17.26 Uhr, bestätigt.“
 
 Daniel sah zu Lena.
 
@@ -14360,13 +14040,9 @@ Aber das zweite hatte Gewicht bekommen.
 
 „Nein“, sagte Lena.
 
-„Die Fahrerlisten waren unvollständig.“
+„Die Fahrerlisten waren unvollständig. Und der breitere Abgleich hat einen realen Gefahrenstrang sichtbar gemacht.“
 
-„Ja.“
-
-„Und der breitere Abgleich hat einen realen Gefahrenstrang sichtbar gemacht.“
-
-„Ja.“
+„Beides stimmt.“
 
 Daniel sah sie an.
 
@@ -14514,7 +14190,7 @@ Daniel sah auf die Gefahrenmeldung.
 
 „Und zwei reale Fehlbelastungen.“
 
-„Ja.“
+Daniel nickte.
 
 „Also wieder keine eindeutige Bilanz.“
 
@@ -15446,13 +15122,9 @@ Daniel nickte.
 
 „Dann wäre die Verbindung zum bekannten Umfeld prüfbar gewesen“, sagte Lena. „Danach hätten wir entscheiden müssen, ob eine gezielte Beobachtung oder eine engere Abklärung rechtlich trägt.“
 
-„Also wieder Entscheidung.“
+„Also wieder Entscheidung. Kein Knopf, den man drückt und der Betriebshof ist sicher.“
 
-„Natürlich wieder Entscheidung.“
-
-„Kein Knopf, den man drückt und der Betriebshof ist sicher.“
-
-„Nein.“
+„Natürlich nicht.“
 
 Daniel nahm einen Stift und setzte neben jeden Schritt eine kleine Markierung.
 
@@ -15498,9 +15170,7 @@ Nicht für die Frage, die ihn interessierte.
 
 „Vielleicht. Wenn die Kette schnell genug trägt und der Betriebshof als möglicher Kontaktpunkt sichtbar wird.“
 
-„Vielleicht.“
-
-„Ja.“
+Daniel ließ das Vielleicht stehen.
 
 Daniel strich das Wort nicht weg.
 
@@ -15550,13 +15220,9 @@ Daniel legte die Hände flach auf den Tisch.
 
 „Ja“, sagte Lena.
 
-„Ich hätte zu langsam sein können.“
+„Ich hätte zu langsam sein können. Oder wir hätten geprüft und nichts Belastbares gefunden.“
 
-„Ja.“
-
-„Oder wir hätten geprüft und nichts Belastbares gefunden.“
-
-„Ja.“
+„Beides.“
 
 Er sah sie an.
 
@@ -16044,9 +15710,7 @@ Daniel starrte darauf.
 
 „Mehrere Leute.“
 
-„Also wieder kein Beweis.“
-
-„Nein.“
+Daniel strich den Punkt gedanklich aus der Beweisspalte.
 
 „Wer hat die Liste der Personen geliefert?“
 
@@ -16824,9 +16488,9 @@ Daniel ging zu ihm.
 
 „Ja.“
 
-„Sicher?“
+Daniel wartete.
 
-„Ja.“
+„Sicher.“
 
 Daniel sah zuerst auf die Herkunft.
 
@@ -17336,17 +17000,9 @@ Jonas sah auf die Freigabe.
 
 „Keiner als Fakt. Wir hätten sie nur später zusammengeführt.“
 
-„Das Fahrzeug?“
+„Fahrzeug, Person, Zeitfenster?“
 
-„Andere Dienststelle.“
-
-„Die Person?“
-
-„Temporärer Ausweis plus älterer Kontaktbestand.“
-
-„Zeitfenster?“
-
-„Veranstalter und Dienstleister widersprechen sich unabhängig von Heller.“
+„Fahrzeug bei anderer Dienststelle. Person: temporärer Ausweis plus älterer Kontaktbestand. Zeitfenster: Veranstalter und Dienstleister widersprechen sich unabhängig von Heller.“
 
 Daniel nickte.
 
@@ -17732,11 +17388,7 @@ Berg legte das Telefon wieder hin.
 
 „Fahrzeug sichern. Personen darin feststellen. Verbindung klären.“
 
-„Nicht den gesamten Subunternehmerkreis.“
-
-„Nein.“
-
-„Nicht jede Person, die in den letzten Tagen Kontakt hatte.“
+„Nicht den gesamten Subunternehmerkreis. Nicht jede Person, die in den letzten Tagen Kontakt hatte.“
 
 „Nein.“
 
@@ -18376,11 +18028,7 @@ Daniel hob den Blick.
 
 Eine Stimme nannte den zuständigen Ansprechpartner.
 
-„Meine letzte bestätigte Grundlage liegt dort vollständig?“
-
-„Ja.“
-
-„Mit dem Widerruf?“
+„Meine letzte bestätigte Grundlage liegt dort vollständig – mit dem Widerruf?“
 
 „Ja.“
 
@@ -18712,11 +18360,7 @@ Lange genug, dass Daniel jede Sekunde hörte.
 
 „Bestätigt?“
 
-„Ja.“
-
-„Personen?“
-
-„Zwei am Fahrzeug, mindestens eine weitere im Servicebereich. Noch keine vollständige Lage.“
+„Ja. Zwei am Fahrzeug, mindestens eine weitere im Servicebereich. Noch keine vollständige Lage.“
 
 Daniel blickte durch den Regen auf die Lichter des Geländes.
 
@@ -18768,11 +18412,7 @@ Jonas sagte: „Verbindung steht.“
 
 „Welche?“
 
-„Fahrzeug zu Servicezufahrt. Zugangsdokumente zum Material aus dem Lagerstrang. Person eins zu dem unabhängig bestätigten Unterstützerkontakt.“
-
-„Person zwei?“
-
-„Noch offen.“
+„Fahrzeug zu Servicezufahrt. Zugangsdokumente zum Material aus dem Lagerstrang. Person eins zu dem unabhängig bestätigten Unterstützerkontakt. Person zwei ist noch offen.“
 
 „Dann offen lassen.“
 
@@ -18786,11 +18426,7 @@ Daniel schloss kurz die Augen.
 
 „Ein aktueller Kontaktpunkt.“
 
-„Das ist nicht direkt.“
-
-„Nein.“
-
-„Gegenhypothese?“
+„Also nicht direkt. Gegenhypothese?“
 
 „Beruflicher Kontakt über den Dienstleister.“
 
@@ -18812,17 +18448,9 @@ Daniel ließ Jonas deshalb bei jeder neuen Meldung den Ursprung voranstellen.
 
 Nicht Hellers Nachricht entschied, welche Spur oben blieb. Die Reihenfolge kam aus den unabhängigen Rückmeldungen. Wenn eine davon wegbrach, musste auch die Lage kleiner werden – selbst jetzt, selbst kurz vor dem Zugriff. Kein Treffer durfte nur deshalb schwerer wiegen, weil er in die letzten Minuten passte.
 
-„Servicezufahrt?“
+„Servicezufahrt, Person eins, Person zwei?“
 
-„Unterlagen aus gestopptem Fahrzeug plus Bestätigung Veranstalter.“
-
-„Person eins?“
-
-„Aktueller Zugang und unabhängig bestätigter Unterstützerkontakt.“
-
-„Person zwei?“
-
-„Nur gemeinsamer Dienstleister.“
+„Servicezufahrt: Unterlagen aus gestopptem Fahrzeug plus Bestätigung Veranstalter. Person eins: aktueller Zugang und unabhängig bestätigter Unterstützerkontakt. Person zwei: nur gemeinsamer Dienstleister.“
 
 „Dann offen.“
 
@@ -19108,11 +18736,7 @@ Daniel legte die Hände auf den Tisch.
 
 „Dass die Information über dich echt war. Dass jemand wusste, wann du das Haus verlassen hast und welche Wege du genommen hast.“
 
-„Das wusste ich.“
-
-„Ja.“
-
-„Und was ist neu?“
+„Das wusste ich. Und was ist neu?“
 
 „Dass wir keinen belastbaren Hinweis haben, dass die Leute hinter der äußeren Gefahr dich als eigenes Ziel ausgewählt hatten.“
 
@@ -19652,11 +19276,7 @@ Die Entscheidung, den Rückbau auszusetzen.
 
 Der Schuss.
 
-„Sie wussten gestern vor der erweiterten Prüfung, dass Herr Heller die Drucklage wahrscheinlich gezielt mit aufgebaut hatte?“
-
-„Ja.“
-
-„Und haben die Struktur trotzdem genutzt?“
+„Sie wussten gestern vor der erweiterten Prüfung, dass Herr Heller die Drucklage wahrscheinlich gezielt mit aufgebaut hatte – und haben die Struktur trotzdem genutzt?“
 
 „Ja.“
 
@@ -19752,11 +19372,7 @@ Daniel sah auf die zweite Mappe.
 
 „In dem Moment: ja.“
 
-„Das ist Ihre damalige Bewertung.“
-
-„Ja.“
-
-„Nicht unsere heutige.“
+„Das ist Ihre damalige Bewertung, nicht unsere heutige.“
 
 „Nein.“
 
@@ -20098,11 +19714,7 @@ Er sagte nichts.
 
 „Dann kann die Prüfung parallel laufen. Aber die Abweichung wird protokolliert und nachträglich zwingend überprüft.“
 
-„Das kostet Zeit.“
-
-„Ja.“
-
-„Im falschen Moment kann das relevant sein.“
+„Das kostet Zeit. Im falschen Moment kann das relevant sein.“
 
 „Ja.“
 
@@ -20278,11 +19890,7 @@ Daniel nickte.
 
 „Wie lange?“
 
-„Zunächst sechs Monate.“
-
-„Und danach?“
-
-„Neuentscheidung.“
+„Zunächst sechs Monate. Danach Neuentscheidung.“
 
 Er hätte ablehnen können.
 
@@ -20698,15 +20306,7 @@ Daniel las die Zeiten.
 
 „Dienstlicher Grund für die Nachtzugriffe?“
 
-„Noch offen.“
-
-„Wer hat den Zugang technisch freigegeben?“
-
-„Reguläre Berechtigung. Nur die Uhrzeit ist ungewöhnlich.“
-
-„Kontakt wie alt?“
-
-„Zwei Jahre.“
+„Noch offen. Technisch reguläre Berechtigung, nur die Uhrzeit ist ungewöhnlich. Der Kontakt ist zwei Jahre alt.“
 
 „Dann ist er erst mal zwei Jahre alt.“
 
@@ -20972,15 +20572,7 @@ Kein Wartungsauftrag im regulären System.
 
 „Ausweis eindeutig?“
 
-„Personengebundene Karte.“
-
-„Kann sie weitergegeben worden sein?“
-
-„Technisch ja. Verboten, aber möglich.“
-
-„Video?“
-
-„Der Gang selbst nicht. Außenkamera hat in dem Zeitraum eine Lücke durch Wartung.“
+„Personengebundene Karte. Weitergabe technisch möglich, aber verboten. Kein Video vom Gang; die Außenkamera hat in dem Zeitraum eine Lücke durch Wartung.“
 
 Berg hob die Augenbrauen.
 
@@ -20994,11 +20586,7 @@ Nur ein offener Zugriff, der dadurch schwerer zu erklären war.
 
 „Dienstplan?“
 
-„Person offiziell frei.“
-
-„Tausch?“
-
-„Noch nicht geklärt.“
+„Person offiziell frei. Tausch noch nicht geklärt.“
 
 Daniel zeigte auf den alten Kontakt.
 
