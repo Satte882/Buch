@@ -125,14 +125,16 @@ def polish_docx(path: Path) -> None:
     normal = style_by_name(doc, "Normal")
     heading1 = style_by_name(doc, "Heading 1")
 
-    # Readable test-reader/manuscript layout. Full justification creates large
-    # word gaps in the many short thriller paragraphs, especially in Word.
+    # Binding manuscript layout for the story body:
+    # one left edge for every paragraph, no first-line indent, and a small
+    # vertical paragraph gap instead of full blank lines. This avoids the
+    # zig-zag left edge that is especially distracting in short thriller prose.
     configure_style_font(normal, name="Times New Roman", size=11.5)
     normal.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
     normal.paragraph_format.line_spacing = 1.15
     normal.paragraph_format.space_before = Pt(0)
-    normal.paragraph_format.space_after = Pt(0)
-    normal.paragraph_format.first_line_indent = Cm(0.4)
+    normal.paragraph_format.space_after = Pt(4)
+    normal.paragraph_format.first_line_indent = Cm(0)
     normal.paragraph_format.widow_control = True
 
     configure_style_font(heading1, name="Times New Roman", size=15, color=RGBColor(0, 0, 0))
@@ -146,7 +148,6 @@ def polish_docx(path: Path) -> None:
 
     seen: list[int] = []
     story_started = False
-    first_body_after_heading = False
 
     for paragraph in doc.paragraphs:
         style_name = paragraph.style.name if paragraph.style is not None else ""
@@ -173,19 +174,17 @@ def polish_docx(path: Path) -> None:
             paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
             paragraph.paragraph_format.first_line_indent = Cm(0)
             paragraph.paragraph_format.space_after = Pt(20)
-            first_body_after_heading = True
             continue
 
         if story_started and style_name == "Normal" and paragraph.text.strip():
             paragraph.alignment = WD_ALIGN_PARAGRAPH.LEFT
             paragraph.paragraph_format.line_spacing = 1.15
             paragraph.paragraph_format.space_before = Pt(0)
-            paragraph.paragraph_format.space_after = Pt(0)
+            paragraph.paragraph_format.space_after = Pt(4)
             paragraph.paragraph_format.widow_control = True
-            paragraph.paragraph_format.first_line_indent = Cm(0 if first_body_after_heading else 0.4)
+            paragraph.paragraph_format.first_line_indent = Cm(0)
             for run in paragraph.runs:
                 set_run_font(run, name="Times New Roman", size=11.5)
-            first_body_after_heading = False
 
     if seen != list(range(1, 48)):
         raise SystemExit(f"Chapter headings mismatch after polish: {seen}")
