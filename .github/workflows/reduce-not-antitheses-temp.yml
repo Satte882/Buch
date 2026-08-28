@@ -11,16 +11,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Tighten one ambiguous replacement
+      - name: Tighten ambiguous replacements
         shell: python
         run: |
           from pathlib import Path
           p = Path('scripts/reduce_not_antitheses_temp.py')
           s = p.read_text(encoding='utf-8')
-          old = '("Nicht direkt.", "Jedenfalls nicht direkt."),'
-          new = '("Aber er hatte sie auch nicht hierher geführt.\\n\\nNicht direkt.\\n\\nTrotzdem fühlte sich der Erfolg wie eine Bestätigung der Entscheidung an, den Kreis breiter zu prüfen.", "Aber er hatte sie auch nicht direkt hierher geführt. Trotzdem fühlte sich der Erfolg wie eine Bestätigung der Entscheidung an, den Kreis breiter zu prüfen."),'
-          assert s.count(old) == 1
-          p.write_text(s.replace(old, new), encoding='utf-8')
+          patches = [
+              (
+                  '("Nicht direkt.", "Jedenfalls nicht direkt."),',
+                  '("Aber er hatte sie auch nicht hierher geführt.\\n\\nNicht direkt.\\n\\nTrotzdem fühlte sich der Erfolg wie eine Bestätigung der Entscheidung an, den Kreis breiter zu prüfen.", "Aber er hatte sie auch nicht direkt hierher geführt. Trotzdem fühlte sich der Erfolg wie eine Bestätigung der Entscheidung an, den Kreis breiter zu prüfen."),'
+              ),
+              (
+                  '("Nicht vollständig.", "Vollständig war er trotzdem nicht."),',
+                  '("Der neue Weg war schneller gewesen.\\n\\nNicht vollständig.\\n\\n„Wo ist Weber?“", "Der neue Weg war schneller gewesen, aber nicht vollständig.\\n\\n„Wo ist Weber?“"),'
+              ),
+              (
+                  '("Nicht lange.", "Der Blick dauerte nur einen Moment."),',
+                  '("Er sah Daniel an.\\n\\nNicht lange.\\n\\nDann setzte er sich.", "Er sah Daniel nur einen Moment an. Dann setzte er sich."),'
+              ),
+          ]
+          for old, new in patches:
+              assert s.count(old) == 1, old
+              s = s.replace(old, new)
+          p.write_text(s, encoding='utf-8')
       - name: Apply targeted reductions
         run: python scripts/reduce_not_antitheses_temp.py
       - name: Validate manuscript invariants
