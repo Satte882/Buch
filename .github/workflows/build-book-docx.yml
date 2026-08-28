@@ -44,6 +44,7 @@ jobs:
           assert re.findall(r'^## (Prolog|\d+)$', text, re.M) == ['Prolog'] + [str(i) for i in range(1, 48)]
           assert text.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
           assert '—' not in text
+          assert re.search(r'\bsondern\b', text, re.I) is None
 
       - name: Audit semantic scene breaks
         run: python scripts/audit_scene_breaks.py AUSNAHMEZUSTAND_FINAL.md
