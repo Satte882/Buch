@@ -5,7 +5,6 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 
-import pyphen
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
@@ -13,8 +12,6 @@ from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
 
 CHAPTER_RE = re.compile(r"^Kapitel\s+(\d+)(?:\s*[:\-–—].*)?$")
-GERMAN_WORD_RE = re.compile(r"[A-Za-zÄÖÜäöüß]{7,}")
-GERMAN_HYPHENATOR = pyphen.Pyphen(lang="de_DE")
 SOFT_HYPHEN = "\u00ad"
 
 CHAPTER_TITLES = {
@@ -58,7 +55,6 @@ class Profile:
     scene_before_pt: float
     scene_after_pt: float
     auto_hyphenation: bool = False
-    deterministic_hyphenation: bool = False
     mirror_margins: bool = False
     header_title: bool = False
     page_number_outside: bool = False
@@ -83,8 +79,7 @@ PROFILES = {
         12.0, 18.7, 0.65, 0.65, 1.35, 1.15,
         12.5, WD_ALIGN_PARAGRAPH.JUSTIFY, 1.12, 0.0, 0.0,
         14.5, WD_ALIGN_PARAGRAPH.CENTER, 14.0, 8.0, 8.0,
-        auto_hyphenation=True, deterministic_hyphenation=True,
-        mirror_margins=True, page_number_outside=True,
+        auto_hyphenation=True, mirror_margins=True, page_number_outside=True,
     ),
 }
 
@@ -143,17 +138,13 @@ def set_doc_setting(doc: Document, tag: str, enabled: bool) -> None:
         settings.remove(node)
 
 
-def add_discretionary_hyphens(text: str) -> str:
-    """Insert invisible German soft hyphens for deterministic book line breaking."""
-    text = text.replace(SOFT_HYPHEN, "")
-
-    def replace_word(match: re.Match[str]) -> str:
-        word = match.group(0)
-        if word.isupper():
-            return word
-        return GERMAN_HYPHENATOR.inserted(word, hyphen=SOFT_HYPHEN)
-
-    return GERMAN_WORD_RE.sub(replace_word, text)
+def set_doc_setting_value(doc: Document, tag: str, value: int) -> None:
+    settings = doc.settings._element
+    node = settings.find(qn(f"w:{tag}"))
+    if node is None:
+        node = OxmlElement(f"w:{tag}")
+        settings.append(node)
+    node.set(qn("w:val"), str(value))
 
 
 def convert_book_quotes(text: str) -> str:
@@ -225,6 +216,13 @@ def configure_sections(doc: Document, profile: Profile, *, font_name: str) -> No
     set_doc_setting(doc, "autoHyphenation", profile.auto_hyphenation)
     set_doc_setting(doc, "mirrorMargins", profile.mirror_margins)
 
+    if profile.name == "buchvorschau":
+        # Use Word's real automatic German hyphenation. Do not inject optional
+        # hyphens into words; some Word/LibreOffice paths render those visibly.
+        set_doc_setting(doc, "doNotHyphenateCaps", True)
+        set_doc_setting_value(doc, "hyphenationZone", 230)
+        set_doc_setting_value(doc, "consecutiveHyphenLimit", 2)
+
     for section in doc.sections:
         if section.header.paragraphs:
             section.header.paragraphs[0].clear()
@@ -288,7 +286,6 @@ def polish_docx(path: Path, profile: Profile) -> None:
     story_started = False
     after_boundary = False
     scene_count = 0
-    soft_hyphen_count = 0
 
     for paragraph in doc.paragraphs:
         style_name = paragraph.style.name if paragraph.style is not None else ""
@@ -330,7 +327,7 @@ def polish_docx(path: Path, profile: Profile) -> None:
                 paragraph.clear()
                 paragraph.add_run("*")
             for run in paragraph.runs:
-                run.text = run.text.replace("—", "–")
+                run.text = run.text.replace("—", "–").replace(SOFT_HYPHEN, "")
                 set_run_font(run, name=font_name, size=max(9.0, profile.body_size - 1.0))
             after_boundary = True
             continue
@@ -344,25 +341,20 @@ def polish_docx(path: Path, profile: Profile) -> None:
             indent = 0.0 if after_boundary else profile.first_indent_cm
             paragraph.paragraph_format.first_line_indent = Cm(indent)
             for run in paragraph.runs:
-                text = run.text.replace("—", "–")
+                text = run.text.replace("—", "–").replace(SOFT_HYPHEN, "")
                 if profile.name == "buchvorschau":
                     text = convert_book_quotes(text)
-                if profile.deterministic_hyphenation:
-                    text = add_discretionary_hyphens(text)
                 run.text = text
-                soft_hyphen_count += text.count(SOFT_HYPHEN)
                 set_run_font(run, name=font_name, size=profile.body_size)
             after_boundary = False
 
     if seen != list(range(1, 48)):
         raise SystemExit(f"Chapter headings mismatch after polish: {seen}")
-    if profile.deterministic_hyphenation and soft_hyphen_count < 1000:
-        raise SystemExit(f"Too few discretionary hyphens for book preview: {soft_hyphen_count}")
 
     doc.save(path)
     print(
         f"Polished {path} as {profile.name}; chapters={len(seen)}, "
-        f"scene_breaks={scene_count}, soft_hyphens={soft_hyphen_count}, font={font_name}"
+        f"scene_breaks={scene_count}, font={font_name}, automatic_hyphenation={profile.auto_hyphenation}"
     )
 
 
