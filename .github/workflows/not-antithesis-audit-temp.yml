@@ -13,3 +13,4 @@ jobs:
       - uses: actions/checkout@v4
       - name: Audit conspicuous short Nicht antitheses
         run: python scripts/not_antithesis_audit_temp.py
+# post-reduction verification
