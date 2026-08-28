@@ -35,6 +35,18 @@ Damit wird die Absatzstruktur vertikal sichtbar, ohne den Text mit ganzen Leerze
 
 Die Kapitelueberschriften werden fuer Navigation und Inhaltsverzeichnis verwendet.
 
+## Satzzeichen und Gedankenstriche
+
+Fuer den deutschsprachigen Romantext gilt:
+
+- Gedankenstriche werden als Halbgeviertstrich `–` gesetzt
+- der Geviertstrich `—` wird im Romantext nicht verwendet
+- Einschuebe und gedankliche Unterbrechungen verwenden bei Bedarf `–`
+- auch bei abrupt abgebrochener Rede wird kein Geviertstrich verwendet; wenn ein Gedankenstrich erforderlich ist, wird `–` verwendet
+- Bindestrich `-`, Halbgeviertstrich `–` und Auslassungspunkte `…` werden nach ihrer jeweiligen Funktion eingesetzt
+
+Ziel ist ein unauffaelliges, natuerliches deutschsprachiges Schriftbild.
+
 ## Vorsatzseiten
 
 Die beiden Vorsatzseiten werden separat formatiert und duerfen von der Fliesstext-Regel nicht veraendert werden:
