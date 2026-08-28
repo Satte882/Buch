@@ -1,0 +1,32 @@
+name: Temporary aggressive not-antithesis reduction
+on:
+  push:
+    paths:
+      - scripts/reduce_not_antitheses_temp.py
+      - .github/workflows/reduce-not-antitheses-temp.yml
+permissions:
+  contents: write
+jobs:
+  reduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply targeted reductions
+        run: python scripts/reduce_not_antitheses_temp.py
+      - name: Validate manuscript invariants
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          text = Path('AUSNAHMEZUSTAND_FINAL.md').read_text(encoding='utf-8')
+          assert re.findall(r'^## (Prolog|\d+)$', text, re.M) == ['Prolog'] + [str(i) for i in range(1,48)]
+          assert text.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
+          assert '—' not in text
+      - name: Commit manuscript
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AUSNAHMEZUSTAND_FINAL.md
+          git commit -m "Reduce repetitive Nicht antitheses"
+          git pull --rebase origin main
+          git push
