@@ -42,7 +42,7 @@ jobs:
 
       - name: Install DOCX dependencies
         run: |
-          python -m pip install python-docx
+          python -m pip install python-docx pyphen
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno hyphen-de
 
@@ -51,8 +51,8 @@ jobs:
           python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND.docx
           python scripts/polish_docx.py AUSNAHMEZUSTAND.docx --profile buchvorschau
           /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND.docx
-          # Reapply layout after TOC materialization; this pass also guarantees
-          # that no optional soft-hyphen characters survive in the DOCX.
+          # Reapply after TOC materialization so the final file contains proper
+          # Word optional-hyphen elements, never literal U+00AD text characters.
           python scripts/polish_docx.py AUSNAHMEZUSTAND.docx --profile buchvorschau
           unzip -t AUSNAHMEZUSTAND.docx >/dev/null
 
@@ -75,13 +75,15 @@ jobs:
           story_started = False
           headings = 0
           checked = 0
-          soft_hyphens = 0
+          literal_soft_hyphens = 0
+          word_soft_hyphens = 0
           guillemets = 0
 
           for paragraph in doc.paragraphs:
               style_name = paragraph.style.name if paragraph.style is not None else ''
               assert '—' not in paragraph.text
-              soft_hyphens += paragraph.text.count('\u00ad')
+              literal_soft_hyphens += paragraph.text.count('\u00ad')
+              word_soft_hyphens += len(paragraph._p.xpath('.//w:softHyphen'))
               guillemets += paragraph.text.count('»') + paragraph.text.count('«')
 
               if style_name == 'Heading 1':
@@ -107,7 +109,8 @@ jobs:
 
           assert headings == 48
           assert checked == 10522
-          assert soft_hyphens == 0, soft_hyphens
+          assert literal_soft_hyphens == 0, literal_soft_hyphens
+          assert word_soft_hyphens > 1000, word_soft_hyphens
           assert guillemets > 4000
 
           settings = doc.settings._element
@@ -121,7 +124,11 @@ jobs:
           assert section.even_page_footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.LEFT
           assert all(not p.text.strip() for p in section.header.paragraphs)
 
-          print(f'Validated Fitzek benchmark: headings={headings}, paragraphs={checked}, soft_hyphens={soft_hyphens}, guillemets={guillemets}')
+          print(
+              f'Validated Fitzek benchmark: headings={headings}, paragraphs={checked}, '
+              f'literal_soft_hyphens={literal_soft_hyphens}, word_soft_hyphens={word_soft_hyphens}, '
+              f'guillemets={guillemets}'
+          )
 
       - name: Upload canonical DOCX
         uses: actions/upload-artifact@v4
