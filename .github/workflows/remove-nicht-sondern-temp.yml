@@ -1,0 +1,23 @@
+name: Temporary Nicht-sondern rewrite
+on:
+  push:
+    paths:
+      - scripts/remove_nicht_sondern_temp.py
+      - .github/workflows/remove-nicht-sondern-temp.yml
+permissions:
+  contents: write
+jobs:
+  rewrite:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite all Nicht-sondern constructions
+        run: python scripts/remove_nicht_sondern_temp.py
+      - name: Commit manuscript
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AUSNAHMEZUSTAND_FINAL.md
+          git commit -m "Remove Nicht-sondern constructions"
+          git pull --rebase origin main
+          git push
