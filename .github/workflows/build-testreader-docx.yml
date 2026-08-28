@@ -55,33 +55,7 @@ jobs:
         run: |
           from pathlib import Path
           text = Path('AUSNAHMEZUSTAND_FINAL.md').read_text(encoding='utf-8')
-          expected = '''# NORMALFALL
-
-*Eine Regel widersteht  
-allem,*
-
-*außer dem Beweis,*
-
-*dass es ohne sie  
-besser geht.*
-
----
-
-**Normalfall, der:**
-
-Ein Fall, der nach den üblichen Regeln  
-behandelt wird.
-
-*Eine Regel widersteht allem,*
-
-*außer dem Beweis,*
-
-*dass es ohne sie besser geht.*
-
----
-
-## Prolog
-'''
+          expected = "# NORMALFALL\n\n*Eine Regel widersteht  \nallem,*\n\n*außer dem Beweis,*\n\n*dass es ohne sie  \nbesser geht.*\n\n---\n\n**Normalfall, der:**\n\nEin Fall, der nach den üblichen Regeln  \nbehandelt wird.\n\n*Eine Regel widersteht allem,*\n\n*außer dem Beweis,*\n\n*dass es ohne sie besser geht.*\n\n---\n\n## Prolog\n"
           assert text.startswith(expected)
 
       - name: Upload DOCX artifact
