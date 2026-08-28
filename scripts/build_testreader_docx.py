@@ -130,15 +130,26 @@ def configure_section(section) -> None:
     section.footer_distance = Cm(1.25)
 
 
-def normalize_front_matter(source: Path) -> None:
+def normalize_source(source: Path) -> None:
     text = source.read_text(encoding="utf-8")
     idx = text.find(PROLOG_MARKER)
     if idx < 0:
-        raise SystemExit("Cannot normalize front matter: '## Prolog' not found")
+        raise SystemExit("Cannot normalize manuscript: '## Prolog' not found")
+
     normalized = FRONT_MATTER + text[idx:]
+    normalized = normalized.replace("—", "–")
+
     if normalized != text:
         source.write_text(normalized, encoding="utf-8")
-        print(f"Normalized front matter in {source}")
+        print(f"Normalized front matter/punctuation in {source}")
+
+
+def next_meaningful(lines: list[str], start: int) -> str | None:
+    for idx in range(start, len(lines)):
+        value = lines[idx].strip()
+        if value:
+            return value
+    return None
 
 
 def parse_manuscript(text: str):
@@ -146,6 +157,7 @@ def parse_manuscript(text: str):
     current_title: str | None = None
     current_blocks: list[tuple[str, str]] = []
     paragraph_lines: list[str] = []
+    lines = text.splitlines()
 
     def flush_paragraph() -> None:
         nonlocal paragraph_lines
@@ -162,9 +174,10 @@ def parse_manuscript(text: str):
             chapters.append((current_title, current_blocks))
         current_blocks = []
 
-    for raw_line in text.splitlines():
+    for idx, raw_line in enumerate(lines):
         line = raw_line.rstrip()
-        match = CHAPTER_RE.match(line.strip())
+        stripped = line.strip()
+        match = CHAPTER_RE.match(stripped)
         if match:
             flush_chapter()
             current_title = match.group(1)
@@ -173,12 +186,17 @@ def parse_manuscript(text: str):
         if current_title is None:
             continue
 
-        if not line.strip():
+        if not stripped:
             flush_paragraph()
             continue
 
-        if line.strip() == "---":
+        if stripped == "---":
             flush_paragraph()
+            following = next_meaningful(lines, idx + 1)
+            if following and CHAPTER_RE.match(following):
+                continue
+            if current_blocks and current_blocks[-1][0] != "scene_break":
+                current_blocks.append(("scene_break", "*"))
             continue
 
         if line.lstrip().startswith("#"):
@@ -235,12 +253,12 @@ def add_centered_lines(doc: Document, lines: list[str], *, italic: bool = False,
 
 
 def build_docx(source: Path, output: Path) -> None:
-    normalize_front_matter(source)
+    normalize_source(source)
     chapters = parse_manuscript(source.read_text(encoding="utf-8"))
 
     doc = Document()
-    doc.core_properties.title = "Normalfall"
-    doc.core_properties.subject = "Romanmanuskript – Testleserfassung"
+    doc.core_properties.title = "NORMALFALL"
+    doc.core_properties.subject = "Romanmanuskript – generierte Fassung"
     doc.core_properties.author = ""
     doc.core_properties.keywords = ""
     doc.core_properties.comments = ""
@@ -252,11 +270,11 @@ def build_docx(source: Path, output: Path) -> None:
 
     normal = doc.styles["Normal"]
     set_style_font(normal, "Times New Roman", 12)
-    normal.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+    normal.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
     normal.paragraph_format.line_spacing = 1.15
     normal.paragraph_format.space_before = Pt(0)
     normal.paragraph_format.space_after = Pt(0)
-    normal.paragraph_format.first_line_indent = Cm(0.55)
+    normal.paragraph_format.first_line_indent = Cm(0)
     normal.paragraph_format.widow_control = True
 
     heading1 = doc.styles["Heading 1"]
@@ -269,7 +287,8 @@ def build_docx(source: Path, output: Path) -> None:
     heading1.paragraph_format.keep_together = True
     heading1.font.color.rgb = RGBColor(0, 0, 0)
 
-    if "Front Matter" not in [style.name for style in doc.styles]:
+    style_names = [style.name for style in doc.styles]
+    if "Front Matter" not in style_names:
         front_style = doc.styles.add_style("Front Matter", WD_STYLE_TYPE.PARAGRAPH)
     else:
         front_style = doc.styles["Front Matter"]
@@ -277,7 +296,17 @@ def build_docx(source: Path, output: Path) -> None:
     front_style.paragraph_format.first_line_indent = Cm(0)
     front_style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
 
-    # Title page
+    if "Scene Break" not in style_names:
+        scene_style = doc.styles.add_style("Scene Break", WD_STYLE_TYPE.PARAGRAPH)
+    else:
+        scene_style = doc.styles["Scene Break"]
+    set_style_font(scene_style, "Times New Roman", 10)
+    scene_style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    scene_style.paragraph_format.first_line_indent = Cm(0)
+    scene_style.paragraph_format.space_before = Pt(8)
+    scene_style.paragraph_format.space_after = Pt(8)
+    scene_style.paragraph_format.keep_with_next = True
+
     for _ in range(5):
         doc.add_paragraph(style="Front Matter")
     title = doc.add_paragraph(style="Front Matter")
@@ -294,7 +323,6 @@ def build_docx(source: Path, output: Path) -> None:
     spacer.paragraph_format.space_after = Pt(4)
     add_centered_lines(doc, ["dass es ohne sie", "besser geht."], italic=True, size=12)
 
-    # Definition / epigraph page
     doc.add_page_break()
     for _ in range(6):
         doc.add_paragraph(style="Front Matter")
@@ -315,7 +343,6 @@ def build_docx(source: Path, output: Path) -> None:
     gap.paragraph_format.space_after = Pt(4)
     add_centered_lines(doc, ["dass es ohne sie besser geht."], italic=True, size=12)
 
-    # TOC page
     doc.add_page_break()
     toc_title = doc.add_paragraph(style="Front Matter")
     toc_title.paragraph_format.space_after = Pt(24)
@@ -326,7 +353,6 @@ def build_docx(source: Path, output: Path) -> None:
     toc.alignment = WD_ALIGN_PARAGRAPH.LEFT
     add_toc_field(toc)
 
-    # Story starts in its own numbered section.
     manuscript_section = doc.add_section(WD_SECTION.NEW_PAGE)
     configure_section(manuscript_section)
     manuscript_section.different_first_page_header_footer = False
@@ -335,6 +361,7 @@ def build_docx(source: Path, output: Path) -> None:
     footer_p = manuscript_section.footer.paragraphs[0]
     add_page_number(footer_p)
 
+    scene_breaks = 0
     for chapter_index, (chapter_title, blocks) in enumerate(chapters):
         display = "Prolog" if chapter_title == "Prolog" else f"Kapitel {chapter_title}"
         heading = doc.add_paragraph(style="Heading 1")
@@ -344,11 +371,21 @@ def build_docx(source: Path, output: Path) -> None:
 
         first_body = True
         for block_type, value in blocks:
+            if block_type == "scene_break":
+                p = doc.add_paragraph(style="Scene Break")
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                run = p.add_run("*")
+                set_run_font(run, size=10)
+                scene_breaks += 1
+                first_body = True
+                continue
+
             if block_type != "paragraph":
                 continue
+
             p = doc.add_paragraph(style="Normal")
-            p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-            p.paragraph_format.first_line_indent = Cm(0 if first_body else 0.55)
+            p.alignment = WD_ALIGN_PARAGRAPH.LEFT
+            p.paragraph_format.first_line_indent = Cm(0)
             add_inline_markdown(p, value)
             first_body = False
 
@@ -356,7 +393,10 @@ def build_docx(source: Path, output: Path) -> None:
     doc.save(output)
     if output.stat().st_size < 100_000:
         raise SystemExit(f"DOCX unexpectedly small: {output.stat().st_size} bytes")
-    print(f"Built {output} ({output.stat().st_size} bytes, {len(chapters)} story units)")
+    print(
+        f"Built {output} ({output.stat().st_size} bytes, {len(chapters)} story units, "
+        f"{scene_breaks} semantic scene breaks)"
+    )
 
 
 def main() -> None:
