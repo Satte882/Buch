@@ -1,0 +1,14 @@
+name: Temporary post-pass style audit
+
+on:
+  push:
+    paths:
+      - .github/workflows/style-depth-audit-post-temp.yml
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit final style formula distribution
+        run: python scripts/style_depth_audit_temp.py
