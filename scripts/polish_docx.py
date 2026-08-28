@@ -56,6 +56,7 @@ class Profile:
     auto_hyphenation: bool = False
     mirror_margins: bool = False
     header_title: bool = False
+    page_number_outside: bool = False
 
 
 PROFILES = {
@@ -73,11 +74,11 @@ PROFILES = {
         header_title=True,
     ),
     "buchvorschau": Profile(
-        "buchvorschau", "Romanmanuskript – Buchsatz-Vorschau",
+        "buchvorschau", "Romanmanuskript – Buchsatz-Vorschau im Sebastian-Fitzek-Benchmark",
         13.5, 21.5, 1.8, 1.8, 2.0, 1.7,
-        10.5, WD_ALIGN_PARAGRAPH.JUSTIFY, 1.1, 0.45, 0.0,
+        10.5, WD_ALIGN_PARAGRAPH.JUSTIFY, 1.05, 0.0, 0.0,
         14.0, WD_ALIGN_PARAGRAPH.CENTER, 18.0, 10.0, 10.0,
-        auto_hyphenation=True, mirror_margins=True,
+        auto_hyphenation=True, mirror_margins=True, page_number_outside=True,
     ),
 }
 
@@ -132,6 +133,49 @@ def set_doc_setting(doc: Document, tag: str, enabled: bool) -> None:
         settings.remove(node)
 
 
+def add_page_number_field(paragraph, alignment: int, size: float = 9.0) -> None:
+    paragraph.clear()
+    paragraph.alignment = alignment
+    paragraph.paragraph_format.space_before = Pt(0)
+    paragraph.paragraph_format.space_after = Pt(0)
+    run = paragraph.add_run()
+    set_run_font(run, name="Times New Roman", size=size)
+    begin = OxmlElement("w:fldChar")
+    begin.set(qn("w:fldCharType"), "begin")
+    instr = OxmlElement("w:instrText")
+    instr.set(qn("xml:space"), "preserve")
+    instr.text = " PAGE "
+    end = OxmlElement("w:fldChar")
+    end.set(qn("w:fldCharType"), "end")
+    run._r.extend([begin, instr, end])
+
+
+def clear_footer(footer) -> None:
+    for paragraph in footer.paragraphs:
+        paragraph.clear()
+
+
+def configure_outside_page_numbers(doc: Document) -> None:
+    """Book convention: even/left pages left, odd/right pages right."""
+    set_doc_setting(doc, "evenAndOddHeaders", True)
+
+    for section in doc.sections:
+        clear_footer(section.footer)
+        clear_footer(section.even_page_footer)
+        clear_footer(section.first_page_footer)
+
+    if len(doc.sections) < 2:
+        return
+
+    story = doc.sections[-1]
+    story.footer.is_linked_to_previous = False
+    story.even_page_footer.is_linked_to_previous = False
+    story.first_page_footer.is_linked_to_previous = False
+
+    add_page_number_field(story.footer.paragraphs[0], WD_ALIGN_PARAGRAPH.RIGHT)
+    add_page_number_field(story.even_page_footer.paragraphs[0], WD_ALIGN_PARAGRAPH.LEFT)
+
+
 def configure_sections(doc: Document, profile: Profile) -> None:
     for section in doc.sections:
         section.page_width = Cm(profile.page_width_cm)
@@ -155,6 +199,11 @@ def configure_sections(doc: Document, profile: Profile) -> None:
         p.alignment = WD_ALIGN_PARAGRAPH.RIGHT
         run = p.add_run("NORMALFALL")
         set_run_font(run, name="Times New Roman", size=9)
+
+    if profile.page_number_outside:
+        configure_outside_page_numbers(doc)
+    else:
+        set_doc_setting(doc, "evenAndOddHeaders", False)
 
 
 def validate_titles() -> None:
