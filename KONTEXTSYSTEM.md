@@ -103,10 +103,10 @@ Zusätzlich:
 
 Inhalt nicht verändern. Maßgeblich sind:
 - `MANUSKRIPT_FORMATIERUNG.md`
-- `scripts/build_testreader_docx.py`
+- `scripts/build_book_docx.py`
 - `scripts/polish_docx.py`
 - `scripts/update_docx_toc.py`
-- `.github/workflows/build-testreader-docx.yml`
+- `.github/workflows/build-book-docx.yml`
 
 ---
 
