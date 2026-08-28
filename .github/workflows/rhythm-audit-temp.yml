@@ -1,0 +1,16 @@
+name: Temporary rhythm audit
+
+on:
+  push:
+    paths:
+      - scripts/rhythm_audit_temp.py
+      - .github/workflows/rhythm-audit-temp.yml
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit rhythm candidates
+        run: python scripts/rhythm_audit_temp.py
