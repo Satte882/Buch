@@ -47,25 +47,29 @@ Die Maße sind kein behauptetes Originalformat eines Fitzek-Titels. Sie sind die
 - 0 cm Erstzeileneinzug
 - 0 pt Abstand vor und nach normalen Absätzen
 - keine künstlichen Leerzeilen zwischen normalen Absätzen
-- deutsche automatische Silbentrennung
+- deutsche Silbentrennung
 - Witwen-/Waisenkontrolle in dieser Buchfassung deaktiviert, damit kurze Thrillerabsätze den Satzspiegel nicht unnötig aufreißen
 
 ### Silbentrennung – verbindliche Regel
 
-Die Silbentrennung erfolgt **ausschließlich automatisch durch Word/LibreOffice auf Basis der Sprache `de-DE`**.
+Die Trennung muss wie im gedruckten Buch aussehen: **ein Trennstrich darf nur sichtbar werden, wenn das Wort tatsächlich am Zeilenende umbrochen wird.**
 
-Nicht zulässig sind dauerhaft in den Text eingefügte Soft-Hyphens/optionale Trennzeichen. Der frühere Versuch, mit Pyphen in alle möglichen Silbengrenzen optionale Trennstellen einzufügen, wurde verworfen: In bestimmten Word-/LibreOffice-Pfaden wurden diese Zeichen sichtbar materialisiert und erzeugten unakzeptable Formen wie `Ver-schluss`, `Pis-to-le` oder `sam-mel-te` mitten in einer Zeile.
+Der verworfene Ansatz bestand darin, `U+00AD` direkt als Textzeichen an allen möglichen Silbengrenzen einzufügen. In bestimmten Word-/LibreOffice-Pfaden wurden diese Zeichen sichtbar materialisiert und erzeugten unakzeptable Formen wie `Ver-schluss`, `Pis-to-le` oder `sam-mel-te` mitten in einer Zeile.
 
-Für die Buchfassung gelten deshalb:
+Die endgültige Lösung verwendet deshalb echte Word-OOXML-Elemente `w:softHyphen` an gültigen deutschen Trennstellen. Diese Stellen sind im normalen Wort **unsichtbar** und werden nur dann als `-` dargestellt, wenn Word/LibreOffice genau dort einen Zeilenumbruch benötigt.
 
-- `autoHyphenation = true`
+Für die Buchfassung gelten:
+
 - Sprache der Runs: `de-DE`
+- Word-Autohyphenation aktiviert
+- gültige Trennstellen nach deutschem Wörterbuchmuster
 - keine Trennung von Wörtern in Versalien
 - Hyphenation-Zone ca. 0,4 cm
 - maximal 2 aufeinanderfolgende Zeilen mit Trennung
-- **0 Soft-Hyphens (`U+00AD`) im erzeugten DOCX**
+- **0 literal `U+00AD`-Zeichen im erzeugten DOCX**
+- optionale Trennstellen ausschließlich als echte `w:softHyphen`-Elemente
 
-Eine sichtbare Trennung darf damit nur dort entstehen, wo das Satzprogramm ein Wort tatsächlich **am Zeilenende** trennt.
+Damit bleibt der Blocksatz kompakt, ohne dass mitten in einer normalen Zeile künstliche Bindestriche sichtbar sind.
 
 ### Dialogtypografie
 
