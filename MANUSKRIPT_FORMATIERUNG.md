@@ -4,11 +4,42 @@ Diese Datei definiert die verbindliche Format- und Ausgabe-Logik für `AUSNAHMEZ
 
 ## Grundentscheidung
 
-Der Roman hat **einen inhaltlichen Mastertext**, aber nicht mehr nur eine universelle Word-Formatierung. Testlesen, Einreichung bei Verlag/Lektorat und Buchsatz haben unterschiedliche Ziele und brauchen deshalb getrennte Ausgabeprofile.
+Der Roman hat **einen inhaltlichen Mastertext**, aber nicht nur eine universelle Word-Formatierung. Testlesen, Einreichung bei Verlag/Lektorat und Buchsatz haben unterschiedliche Ziele und brauchen deshalb getrennte Ausgabeprofile.
 
 Der Mastertext wird nicht für ein bestimmtes Layout umgeschrieben. Layout, Seitenformat, Absatzlogik, Kopf-/Fußzeilen und Silbentrennung entstehen reproduzierbar im Build.
 
 `AUSNAHMEZUSTAND.docx` bleibt aus Kompatibilitätsgründen die kanonische **TESTLESER**-Fassung.
+
+## Sebastian-Fitzek-Benchmark für den Buchsatz
+
+Für die **BUCHVORSCHAU** dient eine veröffentlichte Sebastian-Fitzek-Romanseite als visueller Benchmark. Gemeint ist ausdrücklich die **Satz- und Seitenlogik**, nicht eine Kopie von Text, Cover, konkreter Verlagsschrift oder sonstiger Gestaltung.
+
+Aus dem Benchmark werden folgende belastbare Merkmale übernommen:
+
+- kompakter Buchsatz statt A4-Manuskriptbild
+- Blocksatz mit funktionierender deutscher Silbentrennung
+- **kein Erstzeileneinzug** bei normalen Absätzen
+- **kein zusätzlicher Absatzabstand** zwischen normalen Absätzen
+- dadurch eine ruhige, durchgehende linke Satzkante ohne Zickzack und ohne listenartige 4-pt-Lücken
+- relativ kompakter Zeilenrhythmus
+- keine laufende Kopfzeile auf normalen Romanseiten
+- Seitenzahlen unten **außen**: gerade/linke Seite links, ungerade/rechte Seite rechts
+- gespiegelte Seitenränder für linke und rechte Buchseiten
+
+Der Benchmark löst damit die beiden zuvor beobachteten Probleme gleichzeitig:
+
+1. `Erstzeileneinzug + 0 pt Abstand` erzeugte bei den vielen kurzen Thrillerabsätzen optisch zu viele horizontale Ebenen.
+2. `0 cm Einzug + 4 pt Abstand` war ruhig an der linken Kante, wirkte auf dialogreichen Seiten aber teilweise listen-/protokollartig.
+
+Die Zielkombination für die Buchvorschau lautet deshalb:
+
+> **Blocksatz + deutsche Silbentrennung + 0 cm Erstzeileneinzug + 0 pt Absatzabstand.**
+
+Nicht übernommen werden Merkmale, die nur Verlagshausstil oder aus dem Screenshot nicht sicher bestimmbar sind:
+
+- Die Dialogzeichen bleiben `„…“`; Fitzeks verwendete Guillemets `»…«` werden nicht allein aus Benchmark-Gründen übernommen.
+- Die konkrete Fitzek-Buchschrift wird nicht behauptet oder kopiert. Solange keine endgültige Produktionsschrift feststeht, bleibt Times New Roman als portable Vorschau-Schrift gesetzt.
+- Zusätzliche Szenentrenner werden nicht erfunden; die bestehende Romanarchitektur bleibt maßgeblich.
 
 ## Ausgabeprofile
 
@@ -46,22 +77,23 @@ Zweck: robuste Manuskriptfassung für Verlag, Agentur, Lektorat oder professione
 
 Das Profil orientiert sich an einer klassischen Einreichungsfassung, behauptet aber nicht, für jeden Verlag eine verbindliche deutsche „Normseite“ zu sein.
 
-### 3. BUCHVORSCHAU
+### 3. BUCHVORSCHAU – Sebastian-Fitzek-Stil
 
-Zweck: prüfen, wie der Text in einem echten Buchsatz-Prinzip wirkt. Dieses Profil ist **keine druckfertige Produktionsdatei**, solange Veröffentlichungsweg, Endformat, Papier, Beschnitt und Bindung nicht feststehen.
+Zweck: prüfen, wie der Text nach dem oben dokumentierten Thriller-Benchmark in einem echten Buchsatz-Prinzip wirkt. Dieses Profil ist **keine druckfertige Produktionsdatei**, solange Veröffentlichungsweg, Endformat, Papier, Beschnitt, Bindung und endgültige Schrift nicht feststehen.
 
-Vorläufige Vorschau:
+Verbindliche Vorschau:
 
 - kompaktes Buchformat 13,5 × 21,5 cm
-- Times New Roman, ca. 10,5 pt als neutral verfügbare Vorschau-Schrift
+- Times New Roman, 10,5 pt als portable Vorschau-Schrift
 - Blocksatz
 - automatische deutsche Silbentrennung aktiviert
-- Erstzeileneinzug 0,45 cm
-- 0 pt Absatzabstand
-- erster Absatz nach Kapitelüberschrift oder Szenenbruch ohne Einzug
+- **kein Erstzeileneinzug: 0 cm**
+- **kein Absatzabstand: 0 pt vor/nach**
+- kompakter Zeilenabstand 1,05
 - gespiegelte Seitenränder
-- dezenter Szenentrenner, falls ein Kapitel künftig mehrere Szenen enthält
-- Seitenzahl in der Fußzeile
+- keine laufende Kopfzeile
+- Seitenzahl unten außen: gerade Seiten links, ungerade Seiten rechts
+- keine künstlichen Szenentrenner; nur semantisch bestätigte Szenenbrüche werden dargestellt
 
 Vor einer Veröffentlichung wird dieses Profil auf die technischen Vorgaben von Verlag/KDP/BoD/etc. angepasst.
 
