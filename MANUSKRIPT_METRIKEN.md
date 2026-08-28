@@ -6,7 +6,7 @@
 
 ## Gesamtstand
 
-- **Ist:** 70.774 Wörter
+- **Ist:** 70.779 Wörter
 - **Quelle:** `AUSNAHMEZUSTAND_FINAL.md`
 
 ## Bausteine – aktuelle Ist-Wortzahl
@@ -14,14 +14,14 @@
 | Baustein | Funktion | Ist Wörter |
 |---|---|---:|
 | 01 | Cold Open | 450 |
-| 02 | Ausgangswelt Daniel | 7.514 |
-| 03 | Auslösendes Ereignis | 11.028 |
-| 04 | Erste Entscheidung | 8.479 |
-| 05 | Entdeckung & Eskalation | 10.019 |
-| 06 | Moralischer / psychologischer Kipppunkt | 12.895 |
-| 07 | Reversal / Umdeutung | 6.163 |
-| 08 | Finale Entscheidung & Konsequenz | 10.416 |
-| 09 | Nachhall / Schlussszene | 3.810 |
+| 02 | Ausgangswelt Daniel | 7.519 |
+| 03 | Auslösendes Ereignis | 11.031 |
+| 04 | Erste Entscheidung | 8.487 |
+| 05 | Entdeckung & Eskalation | 10.022 |
+| 06 | Moralischer / psychologischer Kipppunkt | 12.881 |
+| 07 | Reversal / Umdeutung | 6.161 |
+| 08 | Finale Entscheidung & Konsequenz | 10.410 |
+| 09 | Nachhall / Schlussszene | 3.818 |
 
 ## Kapitel – aktuelle Ist-Wortzahl
 
@@ -33,48 +33,48 @@
 | 02 | 3 | 1.186 |
 | 02 | 4 | 1.829 |
 | 02 | 5 | 326 |
-| 02 | 6 | 1.506 |
+| 02 | 6 | 1.511 |
 | 03 | 7 | 1.444 |
-| 03 | 8 | 1.738 |
+| 03 | 8 | 1.744 |
 | 03 | 9 | 1.375 |
 | 03 | 10 | 1.801 |
 | 03 | 11 | 1.685 |
 | 03 | 12 | 1.449 |
-| 03 | 13 | 1.536 |
+| 03 | 13 | 1.533 |
 | 04 | 14 | 1.667 |
 | 04 | 15 | 1.485 |
 | 04 | 16 | 1.746 |
-| 04 | 17 | 1.898 |
-| 04 | 18 | 1.683 |
+| 04 | 17 | 1.902 |
+| 04 | 18 | 1.687 |
 | 05 | 19 | 1.767 |
 | 05 | 20 | 1.376 |
 | 05 | 21 | 1.349 |
-| 05 | 22 | 1.444 |
+| 05 | 22 | 1.447 |
 | 05 | 23 | 1.375 |
 | 05 | 24 | 1.555 |
 | 05 | 25 | 1.153 |
 | 06 | 26 | 1.200 |
-| 06 | 27 | 1.606 |
+| 06 | 27 | 1.608 |
 | 06 | 28 | 1.438 |
 | 06 | 29 | 1.764 |
 | 06 | 30 | 1.604 |
 | 06 | 31 | 1.883 |
-| 06 | 32 | 1.619 |
+| 06 | 32 | 1.603 |
 | 06 | 33 | 1.781 |
 | 07 | 34 | 1.459 |
-| 07 | 35 | 1.626 |
+| 07 | 35 | 1.624 |
 | 07 | 36 | 1.774 |
 | 07 | 37 | 1.304 |
 | 08 | 38 | 1.858 |
 | 08 | 39 | 1.918 |
 | 08 | 40 | 1.739 |
-| 08 | 41 | 1.718 |
-| 08 | 42 | 1.489 |
+| 08 | 41 | 1.711 |
+| 08 | 42 | 1.490 |
 | 08 | 43 | 1.694 |
 | 09 | 44 | 1.030 |
-| 09 | 45 | 939 |
-| 09 | 46 | 828 |
-| 09 | 47 | 1.013 |
+| 09 | 45 | 937 |
+| 09 | 46 | 837 |
+| 09 | 47 | 1.014 |
 
 ## Zählregel
 
