@@ -147,4 +147,8 @@ jobs:
             exit 0
           fi
           git commit -m "Refresh Fitzek benchmark DOCX"
+          # Documentation/metrics may have advanced main while this relatively
+          # long DOCX build was running. Rebase this single generated-file commit
+          # before pushing instead of failing on a harmless non-fast-forward.
+          git pull --rebase origin main
           git push
