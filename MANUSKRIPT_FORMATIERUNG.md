@@ -55,12 +55,12 @@ Vorläufige Vorschau:
 - kompaktes Buchformat 13,5 × 21,5 cm
 - Times New Roman, ca. 10,5 pt als neutral verfügbare Vorschau-Schrift
 - Blocksatz
-- automatische Silbentrennung aktiviert
+- automatische deutsche Silbentrennung aktiviert
 - Erstzeileneinzug 0,45 cm
 - 0 pt Absatzabstand
 - erster Absatz nach Kapitelüberschrift oder Szenenbruch ohne Einzug
 - gespiegelte Seitenränder
-- dezenter Szenentrenner
+- dezenter Szenentrenner, falls ein Kapitel künftig mehrere Szenen enthält
 - Seitenzahl in der Fußzeile
 
 Vor einer Veröffentlichung wird dieses Profil auf die technischen Vorgaben von Verlag/KDP/BoD/etc. angepasst.
@@ -89,14 +89,22 @@ Ein Szenenbruch ist **semantisch**, nicht nur typografisch. Er wird nur gesetzt,
 
 Kein Szenenbruch nur wegen eines neuen Gedankens, Sprecherwechsels oder kurzen Absatzes.
 
-Technische Regel:
+### Aktueller Befund
+
+`ROMAN_MAP.md` definiert ausdrücklich: **Eine Szenenkarte entspricht zunächst einem Kapitel.** Daraus entstehen Prolog + 47 Kapitel und damit aktuell 48 getrennte Story-/Szeneneinheiten.
+
+Der technische Audit des aktuellen Masters bestätigt dazu passend: **0 explizite Szenenbrüche innerhalb laufender Kapitel.** Das ist deshalb im jetzigen Stand kein Formatierungsfehler, sondern entspricht der gesetzten Romanarchitektur. Die pauschale Annahme, innerhalb der bestehenden Kapitel müssten zusätzliche Szenentrenner eingefügt werden, wird nicht übernommen.
+
+Szenentrenner werden erst relevant, wenn später zwei Szenenkarten bewusst zu einem Kapitel zusammengelegt werden oder ein tatsächlich bestätigter interner Orts-/Zeit-/POV-Sprung entsteht.
+
+Technische Regel für diesen Fall:
 
 - `---` innerhalb eines laufenden Kapitels gilt als expliziter Szenenbruch, sofern danach **nicht** unmittelbar die nächste Kapitelüberschrift folgt.
 - `---` direkt vor einer neuen Kapitelüberschrift ist nur ein Kapiteltrenner und erzeugt keinen zusätzlichen Stern.
 - sichtbarer Szenentrenner in Word: ein dezentes, zentriertes `*`
 - der erste Fließtextabsatz nach einem Szenenbruch gilt typografisch wie der erste Absatz nach einer Kapitelüberschrift
 
-Damit bleibt die Szenenstruktur unabhängig vom jeweiligen Word-Profil erhalten.
+Damit bleibt die Szenenstruktur unabhängig vom jeweiligen Word-Profil erhalten, ohne künstliche Brüche zu erfinden.
 
 ## Satzzeichen und Gedankenstriche
 
@@ -137,6 +145,7 @@ Das Inhaltsverzeichnis wird aus den echten Word-Überschriften erzeugt und im Bu
 - `scripts/audit_scene_breaks.py` prüft die im Master vorhandenen Szenenmarker und meldet ihre Verteilung.
 - `scripts/update_docx_toc.py` aktualisiert/materialisiert das Inhaltsverzeichnis.
 - `.github/workflows/build-testreader-docx.yml` erzeugt die Profile reproduzierbar, validiert sie und committed nur die kanonische Testleserfassung sowie notwendige deterministische Master-Normalisierungen.
+- Für die CI-Qualitätsprüfung der Buchvorschau muss ein deutsches Silbentrennungsmuster (`hyphen-de`) installiert sein; nur das Word-Flag `autoHyphenation` reicht in einem nackten LibreOffice-Runner nicht für eine belastbare visuelle Prüfung.
 
 ## Änderungsregel
 
