@@ -17,7 +17,8 @@ permissions:
 
 # A DOCX build is comparatively slow. If several relevant commits arrive in
 # quick succession, only the newest main-branch build should finish and write
-# the canonical generated document.
+# the canonical generated document. Manual and content-triggered builds share
+# the same lock.
 concurrency:
   group: canonical-book-${{ github.ref }}
   cancel-in-progress: true
