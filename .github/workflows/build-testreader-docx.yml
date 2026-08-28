@@ -1,4 +1,4 @@
-name: Build test-reader DOCX
+name: Build manuscript DOCX profiles
 
 on:
   workflow_dispatch:
@@ -8,6 +8,7 @@ on:
       - MANUSKRIPT_FORMATIERUNG.md
       - scripts/build_testreader_docx.py
       - scripts/polish_docx.py
+      - scripts/audit_scene_breaks.py
       - scripts/update_docx_toc.py
       - .github/workflows/build-testreader-docx.yml
 
@@ -35,80 +36,119 @@ jobs:
           assert re.findall(r'^## (Prolog|\d+)$', text, re.M) == ['Prolog'] + [str(i) for i in range(1, 48)]
           assert text.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
 
+      - name: Audit semantic scene breaks
+        run: python scripts/audit_scene_breaks.py AUSNAHMEZUSTAND_FINAL.md
+
       - name: Install DOCX dependencies
         run: |
           python -m pip install python-docx
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno
 
-      - name: Build DOCX
+      - name: Build TESTLESER profile
         run: |
-          python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND.docx
-          test -s AUSNAHMEZUSTAND.docx
+          python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND_TESTLESER.docx
+          python scripts/polish_docx.py AUSNAHMEZUSTAND_TESTLESER.docx --profile testleser
+          /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND_TESTLESER.docx
+          unzip -t AUSNAHMEZUSTAND_TESTLESER.docx >/dev/null
 
-      - name: Apply chapter titles and manuscript layout
+      - name: Build EINREICHUNG profile
         run: |
-          python scripts/polish_docx.py AUSNAHMEZUSTAND.docx
-          test -s AUSNAHMEZUSTAND.docx
-          unzip -t AUSNAHMEZUSTAND.docx >/dev/null
+          python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND_EINREICHUNG.docx
+          python scripts/polish_docx.py AUSNAHMEZUSTAND_EINREICHUNG.docx --profile einreichung
+          /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND_EINREICHUNG.docx
+          unzip -t AUSNAHMEZUSTAND_EINREICHUNG.docx >/dev/null
 
-      - name: Validate manuscript layout
-        shell: python
+      - name: Build BUCHVORSCHAU profile
         run: |
-          from docx import Document
-          from docx.enum.text import WD_ALIGN_PARAGRAPH
+          python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND_BUCHVORSCHAU.docx
+          python scripts/polish_docx.py AUSNAHMEZUSTAND_BUCHVORSCHAU.docx --profile buchvorschau
+          /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND_BUCHVORSCHAU.docx
+          unzip -t AUSNAHMEZUSTAND_BUCHVORSCHAU.docx >/dev/null
 
-          doc = Document('AUSNAHMEZUSTAND.docx')
-          story_started = False
-          checked = 0
+      - name: Set canonical test-reader document
+        run: cp AUSNAHMEZUSTAND_TESTLESER.docx AUSNAHMEZUSTAND.docx
 
-          for paragraph in doc.paragraphs:
-              style_name = paragraph.style.name if paragraph.style is not None else ''
-              if style_name == 'Heading 1':
-                  story_started = True
-                  continue
-              if not story_started or style_name != 'Normal' or not paragraph.text.strip():
-                  continue
-
-              checked += 1
-              fmt = paragraph.paragraph_format
-              assert paragraph.alignment == WD_ALIGN_PARAGRAPH.LEFT
-              assert fmt.first_line_indent is None or abs(fmt.first_line_indent.cm) < 0.001
-              assert fmt.space_after is not None and abs(fmt.space_after.pt - 4.0) < 0.01
-              assert fmt.space_before is None or abs(fmt.space_before.pt) < 0.01
-
-          assert checked > 1000, checked
-          print(f'Validated {checked} story paragraphs')
-
-      - name: Materialize table of contents
-        run: |
-          /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND.docx
-          test -s AUSNAHMEZUSTAND.docx
-          unzip -t AUSNAHMEZUSTAND.docx >/dev/null
-
-      - name: Validate normalized opening
+      - name: Validate source normalization
         shell: python
         run: |
           from pathlib import Path
           text = Path('AUSNAHMEZUSTAND_FINAL.md').read_text(encoding='utf-8')
           expected = "# NORMALFALL\n\n*Eine Regel widersteht  \nallem,*\n\n*außer dem Beweis,*\n\n*dass es ohne sie  \nbesser geht.*\n\n---\n\n**Normalfall, der:**\n\nEin Fall, der nach den üblichen Regeln  \nbehandelt wird.\n\n*Eine Regel widersteht allem,*\n\n*außer dem Beweis,*\n\n*dass es ohne sie besser geht.*\n\n---\n\n## Prolog\n"
           assert text.startswith(expected)
+          assert '—' not in text, 'Geviertstrich remains in source'
 
-      - name: Upload DOCX artifact
+      - name: Validate generated profiles
+        shell: python
+        run: |
+          from docx import Document
+          from docx.enum.text import WD_ALIGN_PARAGRAPH
+
+          specs = {
+              'AUSNAHMEZUSTAND_TESTLESER.docx': (WD_ALIGN_PARAGRAPH.LEFT, 0.0, 4.0, 11.5),
+              'AUSNAHMEZUSTAND_EINREICHUNG.docx': (WD_ALIGN_PARAGRAPH.LEFT, 0.75, 0.0, 12.0),
+              'AUSNAHMEZUSTAND_BUCHVORSCHAU.docx': (WD_ALIGN_PARAGRAPH.JUSTIFY, 0.45, 0.0, 10.5),
+          }
+
+          for filename, (alignment, normal_indent, space_after, font_size) in specs.items():
+              doc = Document(filename)
+              story_started = False
+              after_boundary = False
+              checked = 0
+              headings = 0
+              for paragraph in doc.paragraphs:
+                  style_name = paragraph.style.name if paragraph.style is not None else ''
+                  assert '—' not in paragraph.text, f'Geviertstrich in {filename}: {paragraph.text[:80]}'
+                  if style_name == 'Heading 1':
+                      story_started = True
+                      after_boundary = True
+                      headings += 1
+                      continue
+                  if not story_started:
+                      continue
+                  if style_name == 'Scene Break':
+                      assert paragraph.text.strip() == '*'
+                      after_boundary = True
+                      continue
+                  if style_name != 'Normal' or not paragraph.text.strip():
+                      continue
+
+                  checked += 1
+                  fmt = paragraph.paragraph_format
+                  assert paragraph.alignment == alignment, (filename, paragraph.text[:60])
+                  expected_indent = 0.0 if after_boundary else normal_indent
+                  actual_indent = 0.0 if fmt.first_line_indent is None else fmt.first_line_indent.cm
+                  assert abs(actual_indent - expected_indent) < 0.01, (filename, actual_indent, expected_indent)
+                  actual_after = 0.0 if fmt.space_after is None else fmt.space_after.pt
+                  assert abs(actual_after - space_after) < 0.01, (filename, actual_after, space_after)
+                  sizes = [r.font.size.pt for r in paragraph.runs if r.font.size is not None]
+                  if sizes:
+                      assert all(abs(size - font_size) < 0.01 for size in sizes)
+                  after_boundary = False
+
+              assert headings == 48, (filename, headings)
+              assert checked > 1000, (filename, checked)
+              print(f'Validated {filename}: headings={headings}, paragraphs={checked}')
+
+      - name: Upload DOCX profiles
         uses: actions/upload-artifact@v4
         with:
-          name: ausnahmezustand-docx
-          path: AUSNAHMEZUSTAND.docx
+          name: ausnahmezustand-docx-profiles
+          path: |
+            AUSNAHMEZUSTAND.docx
+            AUSNAHMEZUSTAND_TESTLESER.docx
+            AUSNAHMEZUSTAND_EINREICHUNG.docx
+            AUSNAHMEZUSTAND_BUCHVORSCHAU.docx
           retention-days: 7
 
-      - name: Commit formatted manuscript
+      - name: Commit canonical manuscript
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND.docx
           if git diff --cached --quiet; then
-            echo "Manuscript unchanged"
+            echo "Canonical manuscript unchanged"
             exit 0
           fi
-          git commit -m "Format manuscript and refresh Word TOC"
+          git commit -m "Normalize manuscript and refresh canonical DOCX"
           git push
