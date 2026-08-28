@@ -336,11 +336,10 @@ def build_docx(source: Path, output: Path) -> None:
     add_page_number(footer_p)
 
     for chapter_index, (chapter_title, blocks) in enumerate(chapters):
-        if chapter_index > 0:
-            doc.add_page_break()
-
         display = "Prolog" if chapter_title == "Prolog" else f"Kapitel {chapter_title}"
         heading = doc.add_paragraph(style="Heading 1")
+        if chapter_index > 0:
+            heading.paragraph_format.page_break_before = True
         heading.add_run(display)
 
         first_body = True
