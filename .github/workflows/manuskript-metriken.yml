@@ -33,6 +33,7 @@ jobs:
 
           path = Path('AUSNAHMEZUSTAND_FINAL.md')
           text = path.read_text(encoding='utf-8')
+          assert re.search(r'\bsondern\b', text, re.I) is None
           heading_re = re.compile(r'^##\s+(Prolog|\d+)\s*$', re.MULTILINE)
           word_re = re.compile(r"\b[\wÄÖÜäöüß]+(?:[-’'][\wÄÖÜäöüß]+)*\b", re.UNICODE)
 
