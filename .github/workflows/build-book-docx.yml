@@ -15,6 +15,13 @@ on:
 permissions:
   contents: write
 
+# A DOCX build is comparatively slow. If several relevant commits arrive in
+# quick succession, only the newest main-branch build should finish and write
+# the canonical generated document.
+concurrency:
+  group: canonical-book-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -108,7 +115,9 @@ jobs:
               assert '„' not in paragraph.text and '“' not in paragraph.text
 
           assert headings == 48
-          assert checked == 10522
+          # Exact paragraph count is intentionally not frozen: legitimate prose
+          # edits may merge/split paragraphs while chapter structure remains fixed.
+          assert checked > 10000
           assert literal_soft_hyphens == 0, literal_soft_hyphens
           assert word_soft_hyphens > 1000, word_soft_hyphens
           assert guillemets > 4000
