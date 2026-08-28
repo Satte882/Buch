@@ -11,6 +11,8 @@ on:
 permissions:
   contents: write
 
+# Keep the derived metric file aligned with the newest prose state when edits
+# land close together.
 concurrency:
   group: manuscript-metrics-${{ github.ref }}
   cancel-in-progress: true
