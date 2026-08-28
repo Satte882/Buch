@@ -6,19 +6,61 @@ from pathlib import Path
 
 from docx import Document
 from docx.enum.section import WD_SECTION
+from docx.enum.style import WD_STYLE_TYPE
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
-from docx.shared import Cm, Pt
+from docx.shared import Cm, Pt, RGBColor
 
 CHAPTER_RE = re.compile(r"^##\s+(Prolog|\d+)\s*$")
 INLINE_RE = re.compile(r"(\*\*\*.+?\*\*\*|\*\*.+?\*\*|(?<!\*)\*[^*]+?\*(?!\*))")
+PROLOG_MARKER = "## Prolog\n"
+FRONT_MATTER = """# NORMALFALL
+
+*Eine Regel widersteht  
+allem,*
+
+*außer dem Beweis,*
+
+*dass es ohne sie  
+besser geht.*
+
+---
+
+**Normalfall, der:**
+
+Ein Fall, der nach den üblichen Regeln  
+behandelt wird.
+
+*Eine Regel widersteht allem,*
+
+*außer dem Beweis,*
+
+*dass es ohne sie besser geht.*
+
+---
+
+"""
 
 
 def set_run_font(run, name: str = "Times New Roman", size: float = 12.0) -> None:
     run.font.name = name
     run.font.size = Pt(size)
     rpr = run._element.get_or_add_rPr()
+    rfonts = rpr.rFonts
+    if rfonts is None:
+        rfonts = OxmlElement("w:rFonts")
+        rpr.insert(0, rfonts)
+    for attr in ("ascii", "hAnsi", "eastAsia", "cs"):
+        rfonts.set(qn(f"w:{attr}"), name)
+
+
+def set_style_font(style, name: str, size: float, bold: bool | None = None) -> None:
+    style.font.name = name
+    style.font.size = Pt(size)
+    if bold is not None:
+        style.font.bold = bold
+    rpr = style.element.get_or_add_rPr()
     rfonts = rpr.rFonts
     if rfonts is None:
         rfonts = OxmlElement("w:rFonts")
@@ -43,6 +85,31 @@ def add_page_number(paragraph) -> None:
     run._r.append(fld_char2)
 
 
+def add_toc_field(paragraph) -> None:
+    run = paragraph.add_run()
+    begin = OxmlElement("w:fldChar")
+    begin.set(qn("w:fldCharType"), "begin")
+    instr = OxmlElement("w:instrText")
+    instr.set(qn("xml:space"), "preserve")
+    instr.text = ' TOC \\o "1-1" \\h \\z \\u '
+    separate = OxmlElement("w:fldChar")
+    separate.set(qn("w:fldCharType"), "separate")
+    placeholder = OxmlElement("w:t")
+    placeholder.text = "Inhaltsverzeichnis in Word mit Strg+A, F9 aktualisieren."
+    end = OxmlElement("w:fldChar")
+    end.set(qn("w:fldCharType"), "end")
+    run._r.extend([begin, instr, separate, placeholder, end])
+
+
+def request_field_update(doc: Document) -> None:
+    settings = doc.settings._element
+    update = settings.find(qn("w:updateFields"))
+    if update is None:
+        update = OxmlElement("w:updateFields")
+        settings.append(update)
+    update.set(qn("w:val"), "true")
+
+
 def set_page_number_start(section, start: int = 1) -> None:
     sect_pr = section._sectPr
     pg_num_type = sect_pr.find(qn("w:pgNumType"))
@@ -57,10 +124,21 @@ def configure_section(section) -> None:
     section.page_height = Cm(29.7)
     section.top_margin = Cm(2.5)
     section.bottom_margin = Cm(2.5)
-    section.left_margin = Cm(2.5)
-    section.right_margin = Cm(2.5)
+    section.left_margin = Cm(2.6)
+    section.right_margin = Cm(2.4)
     section.header_distance = Cm(1.2)
     section.footer_distance = Cm(1.25)
+
+
+def normalize_front_matter(source: Path) -> None:
+    text = source.read_text(encoding="utf-8")
+    idx = text.find(PROLOG_MARKER)
+    if idx < 0:
+        raise SystemExit("Cannot normalize front matter: '## Prolog' not found")
+    normalized = FRONT_MATTER + text[idx:]
+    if normalized != text:
+        source.write_text(normalized, encoding="utf-8")
+        print(f"Normalized front matter in {source}")
 
 
 def parse_manuscript(text: str):
@@ -144,7 +222,20 @@ def add_inline_markdown(paragraph, text: str) -> None:
         set_run_font(run)
 
 
+def add_centered_lines(doc: Document, lines: list[str], *, italic: bool = False, size: float = 12.0, space_after: float = 0) -> None:
+    for line in lines:
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p.paragraph_format.first_line_indent = Cm(0)
+        p.paragraph_format.space_before = Pt(0)
+        p.paragraph_format.space_after = Pt(space_after)
+        run = p.add_run(line)
+        run.italic = italic
+        set_run_font(run, size=size)
+
+
 def build_docx(source: Path, output: Path) -> None:
+    normalize_front_matter(source)
     chapters = parse_manuscript(source.read_text(encoding="utf-8"))
 
     doc = Document()
@@ -153,56 +244,89 @@ def build_docx(source: Path, output: Path) -> None:
     doc.core_properties.author = ""
     doc.core_properties.keywords = ""
     doc.core_properties.comments = ""
+    request_field_update(doc)
 
     first_section = doc.sections[0]
     configure_section(first_section)
     first_section.different_first_page_header_footer = True
 
     normal = doc.styles["Normal"]
-    normal.font.name = "Times New Roman"
-    normal.font.size = Pt(12)
+    set_style_font(normal, "Times New Roman", 12)
+    normal.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
     normal.paragraph_format.line_spacing = 1.15
     normal.paragraph_format.space_before = Pt(0)
     normal.paragraph_format.space_after = Pt(0)
-    normal.paragraph_format.first_line_indent = Cm(0.65)
+    normal.paragraph_format.first_line_indent = Cm(0.55)
+    normal.paragraph_format.widow_control = True
 
-    for _ in range(6):
-        doc.add_paragraph()
-    title = doc.add_paragraph()
-    title.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    title.paragraph_format.first_line_indent = Cm(0)
-    title.paragraph_format.space_after = Pt(10)
+    heading1 = doc.styles["Heading 1"]
+    set_style_font(heading1, "Times New Roman", 16, bold=True)
+    heading1.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    heading1.paragraph_format.first_line_indent = Cm(0)
+    heading1.paragraph_format.space_before = Pt(0)
+    heading1.paragraph_format.space_after = Pt(18)
+    heading1.paragraph_format.keep_with_next = True
+    heading1.paragraph_format.keep_together = True
+    heading1.font.color.rgb = RGBColor(0, 0, 0)
+
+    if "Front Matter" not in [style.name for style in doc.styles]:
+        front_style = doc.styles.add_style("Front Matter", WD_STYLE_TYPE.PARAGRAPH)
+    else:
+        front_style = doc.styles["Front Matter"]
+    set_style_font(front_style, "Times New Roman", 12)
+    front_style.paragraph_format.first_line_indent = Cm(0)
+    front_style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+
+    # Title page
+    for _ in range(5):
+        doc.add_paragraph(style="Front Matter")
+    title = doc.add_paragraph(style="Front Matter")
+    title.paragraph_format.space_after = Pt(28)
     run = title.add_run("NORMALFALL")
     run.bold = True
     set_run_font(run, size=24)
 
-    subtitle = doc.add_paragraph()
-    subtitle.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    subtitle.paragraph_format.first_line_indent = Cm(0)
-    run = subtitle.add_run("Psychothriller")
-    run.italic = True
-    set_run_font(run, size=12)
+    add_centered_lines(doc, ["Eine Regel widersteht", "allem,"], italic=True, size=12)
+    spacer = doc.add_paragraph(style="Front Matter")
+    spacer.paragraph_format.space_after = Pt(4)
+    add_centered_lines(doc, ["außer dem Beweis,"], italic=True, size=12)
+    spacer = doc.add_paragraph(style="Front Matter")
+    spacer.paragraph_format.space_after = Pt(4)
+    add_centered_lines(doc, ["dass es ohne sie", "besser geht."], italic=True, size=12)
 
+    # Definition / epigraph page
     doc.add_page_break()
-    for _ in range(5):
-        doc.add_paragraph()
+    for _ in range(6):
+        doc.add_paragraph(style="Front Matter")
 
-    definition = doc.add_paragraph()
-    definition.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    definition.paragraph_format.first_line_indent = Cm(0)
-    definition.paragraph_format.space_after = Pt(30)
-    run = definition.add_run("Normalfall, der: Ein Fall, der nach den üblichen Regeln behandelt wird.")
+    definition_head = doc.add_paragraph(style="Front Matter")
+    definition_head.paragraph_format.space_after = Pt(14)
+    run = definition_head.add_run("Normalfall, der:")
     set_run_font(run, size=12)
 
-    epigraph = doc.add_paragraph()
-    epigraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    epigraph.paragraph_format.first_line_indent = Cm(0)
-    epigraph.paragraph_format.left_indent = Cm(2.0)
-    epigraph.paragraph_format.right_indent = Cm(2.0)
-    run = epigraph.add_run("Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.")
-    run.italic = True
-    set_run_font(run, size=12)
+    add_centered_lines(doc, ["Ein Fall, der nach den üblichen Regeln", "behandelt wird."], size=12)
+    gap = doc.add_paragraph(style="Front Matter")
+    gap.paragraph_format.space_after = Pt(20)
+    add_centered_lines(doc, ["Eine Regel widersteht allem,"], italic=True, size=12)
+    gap = doc.add_paragraph(style="Front Matter")
+    gap.paragraph_format.space_after = Pt(4)
+    add_centered_lines(doc, ["außer dem Beweis,"], italic=True, size=12)
+    gap = doc.add_paragraph(style="Front Matter")
+    gap.paragraph_format.space_after = Pt(4)
+    add_centered_lines(doc, ["dass es ohne sie besser geht."], italic=True, size=12)
 
+    # TOC page
+    doc.add_page_break()
+    toc_title = doc.add_paragraph(style="Front Matter")
+    toc_title.paragraph_format.space_after = Pt(24)
+    run = toc_title.add_run("INHALT")
+    run.bold = True
+    set_run_font(run, size=18)
+    toc = doc.add_paragraph(style="Front Matter")
+    toc.alignment = WD_ALIGN_PARAGRAPH.LEFT
+    add_toc_field(toc)
+
+    # Story starts in its own numbered section.
     manuscript_section = doc.add_section(WD_SECTION.NEW_PAGE)
     configure_section(manuscript_section)
     manuscript_section.different_first_page_header_footer = False
@@ -215,28 +339,17 @@ def build_docx(source: Path, output: Path) -> None:
         if chapter_index > 0:
             doc.add_page_break()
 
-        heading = doc.add_paragraph()
-        heading.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        heading.paragraph_format.first_line_indent = Cm(0)
-        heading.paragraph_format.space_before = Pt(0)
-        heading.paragraph_format.space_after = Pt(18)
-        heading.paragraph_format.keep_with_next = True
-        heading.paragraph_format.keep_together = True
         display = "Prolog" if chapter_title == "Prolog" else f"Kapitel {chapter_title}"
-        run = heading.add_run(display)
-        run.bold = True
-        set_run_font(run, size=16)
+        heading = doc.add_paragraph(style="Heading 1")
+        heading.add_run(display)
 
         first_body = True
         for block_type, value in blocks:
             if block_type != "paragraph":
                 continue
-            p = doc.add_paragraph()
-            p.paragraph_format.line_spacing = 1.15
-            p.paragraph_format.space_before = Pt(0)
-            p.paragraph_format.space_after = Pt(0)
-            p.paragraph_format.widow_control = True
-            p.paragraph_format.first_line_indent = Cm(0 if first_body else 0.65)
+            p = doc.add_paragraph(style="Normal")
+            p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            p.paragraph_format.first_line_indent = Cm(0 if first_body else 0.55)
             add_inline_markdown(p, value)
             first_body = False
 
