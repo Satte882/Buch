@@ -11,11 +11,17 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: manuscript-metrics-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Wortzahlen aus finalem Master berechnen
         shell: python
@@ -118,4 +124,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add MANUSKRIPT_METRIKEN.md
           git commit -m "Update manuscript metrics"
+          git pull --rebase origin main
           git push
