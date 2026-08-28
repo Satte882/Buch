@@ -251,7 +251,7 @@ Der Standard-Build muss in dieser Reihenfolge laufen:
 
 1. `AUSNAHMEZUSTAND_FINAL.md` strukturell validieren.
 2. Semantische Szenenbrüche prüfen.
-3. Basis-DOCX mit `scripts/build_testreader_docx.py` erzeugen.
+3. Basis-DOCX mit `scripts/build_book_docx.py` erzeugen.
 4. `scripts/polish_docx.py --profile buchvorschau` anwenden.
 5. Inhaltsverzeichnis mit `scripts/update_docx_toc.py` materialisieren.
 6. `scripts/polish_docx.py --profile buchvorschau` **erneut** anwenden.
@@ -314,9 +314,9 @@ Ohne neue bewusste Layoutentscheidung nicht verändern:
 - **Inhalt:** `AUSNAHMEZUSTAND_FINAL.md`
 - **Formatierungsvertrag:** `MANUSKRIPT_FORMATIERUNG.md`
 - **Formatierungsimplementierung:** `scripts/polish_docx.py`
-- **DOCX-Basisgenerator:** `scripts/build_testreader_docx.py`
+- **DOCX-Basisgenerator:** `scripts/build_book_docx.py`
 - **TOC-Materialisierung:** `scripts/update_docx_toc.py`
-- **Build/Regression:** `.github/workflows/build-testreader-docx.yml`
+- **Build/Regression:** `.github/workflows/build-book-docx.yml`
 - **kanonische Ausgabe:** `AUSNAHMEZUSTAND.docx`
 
 Generierte DOCX-Dateien werden **nicht manuell** gepflegt. Änderungen an der Typografie werden zuerst in diesem Dokument als neue bewusste Entscheidung festgehalten und anschließend reproduzierbar im Build umgesetzt und visuell geprüft.
