@@ -625,7 +625,7 @@ Daniel sah ihn an.
 
 „Wahrscheinlich.“
 
-„Ich meine nur—“
+„Ich meine nur–“
 
 „Ich weiß, was du meinst.“
 
@@ -1469,7 +1469,7 @@ Sie nahm den Ordner wieder an sich.
 
 Jana nickte. „Mache ich.“
 
-„Und wenn ich nicht reagieren kann—“
+„Und wenn ich nicht reagieren kann–“
 
 „Dann entscheide ich.“
 
@@ -1948,7 +1948,7 @@ Mara lächelte kurz, ohne Freude.
 
 „Genau.“
 
-„Fernbeziehung wäre erstmal möglich. Ich bin ohnehin öfter unterwegs. Du wärst zwei Tage hier, ich könnte—“
+„Fernbeziehung wäre erstmal möglich. Ich bin ohnehin öfter unterwegs. Du wärst zwei Tage hier, ich könnte–“
 
 „Stopp.“
 
@@ -7982,7 +7982,7 @@ Mika beobachtete den Stift.
 
 Daniel sah nicht hoch. „Das habe ich nicht gefragt.“
 
-„Ja, aber ihr tut so, als hätte ich—“
+„Ja, aber ihr tut so, als hätte ich–“
 
 „Ich tue gerade gar nichts.“
 
@@ -9192,7 +9192,7 @@ Sie klang nicht wütend.
 
 Das machte es schwieriger.
 
-„Dienstag Abend“, sagte er. „Ich versuche—“
+„Dienstag Abend“, sagte er. „Ich versuche–“
 
 „Nein.“
 
@@ -9224,7 +9224,7 @@ Noch drei Minuten.
 
 „Das habe ich verstanden.“
 
-„Dann weißt du doch, warum—“
+„Dann weißt du doch, warum–“
 
 „Ja.“
 
@@ -9430,7 +9430,7 @@ Der Satz war weniger anklagend, als Daniel erwartet hatte.
 
 Deshalb traf er genauer.
 
-„Ich könnte heute Nacht—“
+„Ich könnte heute Nacht–“
 
 „Nein.“
 
@@ -10302,11 +10302,11 @@ Daniel ließ ihn reden.
 
 „Meine Frau denkt jetzt, ich hätte irgendeinen Scheiß gemacht, weil mein Chef mir nicht sagen darf, was los ist. Ich darf ihr also erklären, dass alles okay ist, während ich zu Hause sitze.“
 
-„Herr Weber—“
+„Herr Weber–“
 
 „Lassen Sie das.“
 
-„Ich wollte nur—“
+„Ich wollte nur–“
 
 „Was? Sich entschuldigen?“
 
@@ -11820,7 +11820,7 @@ Kurze Stille.
 
 „Was?“
 
-„Falls du das Handy—“
+„Falls du das Handy–“
 
 „Daniel.“
 
@@ -11922,7 +11922,7 @@ Daniel lachte einmal ohne Humor.
 
 „Weiß ich auch.“
 
-„Dann—“
+„Dann–“
 
 „Hör auf.“
 
@@ -12052,7 +12052,7 @@ Er konnte sie nicht vernünftig als unvernünftig bezeichnen.
 
 Das war der Teil, der ihm am meisten Kontrolle nahm.
 
-„Und wenn ich dir später mehr sagen kann—“
+„Und wenn ich dir später mehr sagen kann–“
 
 „Dann sagst du mir mehr.“
 
@@ -12636,7 +12636,7 @@ Sie sah ihn an.
 
 „Für den Ausschluss? Ja.“
 
-„Ich meinte—“
+„Ich meinte–“
 
 „Ich weiß, was du meintest.“
 
@@ -13806,7 +13806,7 @@ Eher eine kurze Leere, in der sein Kopf sofort anfing zu rechnen.
 
 „Eine davon.“
 
-„Pendeln am Anfang wäre trotzdem—“
+„Pendeln am Anfang wäre trotzdem–“
 
 Mara sagte nichts.
 
@@ -13882,7 +13882,7 @@ Mara sagte: „Keine Rechnung.“
 
 Er schloss ihn wieder.
 
-„Ich wollte nur—“
+„Ich wollte nur–“
 
 „Ich weiß.“
 
@@ -13962,7 +13962,7 @@ Daniel merkte, wie sofort wieder ein Kalender in seinem Kopf aufging.
 
 „Keine Ahnung.“
 
-„Danach jedes zweite—“
+„Danach jedes zweite–“
 
 Er stoppte selbst.
 
@@ -19196,7 +19196,7 @@ Daniel nickte langsam.
 
 Sie saßen einen Moment schweigend da.
 
-Dann sagte er: „Für die nächsten Tage würde ich trotzdem—“
+Dann sagte er: „Für die nächsten Tage würde ich trotzdem–“
 
 Er stoppte.
 
