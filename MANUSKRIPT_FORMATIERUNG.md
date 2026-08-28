@@ -19,9 +19,9 @@ Daraus folgt für die kanonische Ausgabe:
 
 ## Kanonische Datei
 
-`AUSNAHMEZUSTAND.docx` ist ab jetzt die **Sebastian-Fitzek-Benchmark-Fassung** und die einzige DOCX, die der Standard-Workflow als Artefakt ausliefert und ins Repository zurückschreibt.
+`AUSNAHMEZUSTAND.docx` ist die **Sebastian-Fitzek-Benchmark-Fassung** und die einzige DOCX, die der Standard-Workflow als Artefakt ausliefert und ins Repository zurückschreibt.
 
-Die früheren Profile `TESTLESER` und `EINREICHUNG` bleiben im Formatierungsskript als optionale manuelle Profile erhalten, werden aber nicht mehr standardmäßig gebaut oder ausgeliefert. Damit entstehen für den normalen Build nicht mehr vier ähnlich benannte Word-Dateien.
+Die früheren Profile `TESTLESER` und `EINREICHUNG` bleiben im Formatierungsskript als optionale manuelle Profile erhalten, werden aber nicht mehr standardmäßig gebaut oder ausgeliefert.
 
 ## Konkrete Satzparameter
 
@@ -36,7 +36,7 @@ Die früheren Profile `TESTLESER` und `EINREICHUNG` bleiben im Formatierungsskri
 - keine laufende Kopfzeile
 - Seitenzahlen unten außen: gerade/linke Seite links, ungerade/rechte Seite rechts
 
-Die Maße sind kein behauptetes Originalformat eines Fitzek-Titels. Sie sind die für `NORMALFALL` anhand der gelieferten Referenzseite kalibrierte Einstellung. Die Seitenproportion 12,0 × 18,7 cm, die nutzbare Zeilenbreite und der nachfolgende Zeilenrhythmus treffen Textdichte und Zeilenlänge der Referenz deutlich näher als die vorige 13,5-×-21,5-cm-Fassung.
+Die Maße sind kein behauptetes Originalformat eines Fitzek-Titels. Sie sind die für `NORMALFALL` anhand der gelieferten Referenzseite kalibrierte Einstellung. Die Seitenproportion, die nutzbare Zeilenbreite und der Zeilenrhythmus treffen Textdichte und Zeilenlänge der Referenz deutlich näher als die frühere A4-/13,5-×-21,5-cm-Fassung.
 
 ### Fließtext
 
@@ -47,9 +47,25 @@ Die Maße sind kein behauptetes Originalformat eines Fitzek-Titels. Sie sind die
 - 0 cm Erstzeileneinzug
 - 0 pt Abstand vor und nach normalen Absätzen
 - keine künstlichen Leerzeilen zwischen normalen Absätzen
-- deutsche Silbentrennung
-- zusätzlich deterministische optionale Trennstellen im erzeugten DOCX, damit Word/LibreOffice den engen Blocksatz reproduzierbar umbrechen
+- deutsche automatische Silbentrennung
 - Witwen-/Waisenkontrolle in dieser Buchfassung deaktiviert, damit kurze Thrillerabsätze den Satzspiegel nicht unnötig aufreißen
+
+### Silbentrennung – verbindliche Regel
+
+Die Silbentrennung erfolgt **ausschließlich automatisch durch Word/LibreOffice auf Basis der Sprache `de-DE`**.
+
+Nicht zulässig sind dauerhaft in den Text eingefügte Soft-Hyphens/optionale Trennzeichen. Der frühere Versuch, mit Pyphen in alle möglichen Silbengrenzen optionale Trennstellen einzufügen, wurde verworfen: In bestimmten Word-/LibreOffice-Pfaden wurden diese Zeichen sichtbar materialisiert und erzeugten unakzeptable Formen wie `Ver-schluss`, `Pis-to-le` oder `sam-mel-te` mitten in einer Zeile.
+
+Für die Buchfassung gelten deshalb:
+
+- `autoHyphenation = true`
+- Sprache der Runs: `de-DE`
+- keine Trennung von Wörtern in Versalien
+- Hyphenation-Zone ca. 0,4 cm
+- maximal 2 aufeinanderfolgende Zeilen mit Trennung
+- **0 Soft-Hyphens (`U+00AD`) im erzeugten DOCX**
+
+Eine sichtbare Trennung darf damit nur dort entstehen, wo das Satzprogramm ein Wort tatsächlich **am Zeilenende** trennt.
 
 ### Dialogtypografie
 
