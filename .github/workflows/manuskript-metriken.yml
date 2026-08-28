@@ -128,3 +128,5 @@ jobs:
           git commit -m "Update manuscript metrics"
           git pull --rebase origin main
           git push
+
+# Refresh derived metrics after the final style-formula audit.
