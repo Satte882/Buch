@@ -79,10 +79,10 @@ PROFILES = {
         header_title=True,
     ),
     "buchvorschau": Profile(
-        "buchvorschau", "Romanmanuskript – Buchsatz-Vorschau im Sebastian-Fitzek-Benchmark",
-        13.5, 21.5, 1.8, 1.8, 2.0, 1.7,
-        10.5, WD_ALIGN_PARAGRAPH.JUSTIFY, 1.05, 0.0, 0.0,
-        14.0, WD_ALIGN_PARAGRAPH.CENTER, 18.0, 10.0, 10.0,
+        "buchvorschau", "NORMALFALL – Buchsatz im Sebastian-Fitzek-Benchmark",
+        12.5, 18.7, 0.65, 0.65, 1.35, 1.15,
+        12.5, WD_ALIGN_PARAGRAPH.JUSTIFY, 1.05, 0.0, 0.0,
+        14.5, WD_ALIGN_PARAGRAPH.CENTER, 14.0, 8.0, 8.0,
         auto_hyphenation=True, deterministic_hyphenation=True,
         mirror_margins=True, page_number_outside=True,
     ),
@@ -91,6 +91,10 @@ PROFILES = {
 
 def style_by_name(doc: Document, name: str):
     return next(style for style in doc.styles if style.name == name)
+
+
+def profile_font(profile: Profile) -> str:
+    return "Garamond" if profile.name == "buchvorschau" else "Times New Roman"
 
 
 def set_run_font(run, *, name: str, size: float, color: RGBColor | None = None) -> None:
@@ -140,7 +144,7 @@ def set_doc_setting(doc: Document, tag: str, enabled: bool) -> None:
 
 
 def add_discretionary_hyphens(text: str) -> str:
-    """Insert invisible German soft hyphens for deterministic book-preview line breaking."""
+    """Insert invisible German soft hyphens for deterministic book line breaking."""
     text = text.replace(SOFT_HYPHEN, "")
 
     def replace_word(match: re.Match[str]) -> str:
@@ -152,21 +156,34 @@ def add_discretionary_hyphens(text: str) -> str:
     return GERMAN_WORD_RE.sub(replace_word, text)
 
 
-def add_page_number_field(paragraph, alignment: int, size: float = 9.0) -> None:
+def convert_book_quotes(text: str) -> str:
+    """Match the visual benchmark without changing the Markdown master."""
+    return text.replace("„", "»").replace("“", "«")
+
+
+def add_page_number_field(paragraph, alignment: int, *, font_name: str, size: float = 9.0) -> None:
+    """Add a PAGE field with cached text so Word and LibreOffice both render it."""
     paragraph.clear()
     paragraph.alignment = alignment
     paragraph.paragraph_format.space_before = Pt(0)
     paragraph.paragraph_format.space_after = Pt(0)
-    run = paragraph.add_run()
-    set_run_font(run, name="Times New Roman", size=size)
-    begin = OxmlElement("w:fldChar")
-    begin.set(qn("w:fldCharType"), "begin")
-    instr = OxmlElement("w:instrText")
-    instr.set(qn("xml:space"), "preserve")
-    instr.text = " PAGE "
-    end = OxmlElement("w:fldChar")
-    end.set(qn("w:fldCharType"), "end")
-    run._r.extend([begin, instr, end])
+
+    field = OxmlElement("w:fldSimple")
+    field.set(qn("w:instr"), " PAGE ")
+    run = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    rfonts = OxmlElement("w:rFonts")
+    for attr in ("ascii", "hAnsi", "eastAsia", "cs"):
+        rfonts.set(qn(f"w:{attr}"), font_name)
+    size_node = OxmlElement("w:sz")
+    size_node.set(qn("w:val"), str(int(round(size * 2))))
+    rpr.extend([rfonts, size_node])
+    run.append(rpr)
+    text = OxmlElement("w:t")
+    text.text = "1"
+    run.append(text)
+    field.append(run)
+    paragraph._p.append(field)
 
 
 def clear_footer(footer) -> None:
@@ -174,7 +191,7 @@ def clear_footer(footer) -> None:
         paragraph.clear()
 
 
-def configure_outside_page_numbers(doc: Document) -> None:
+def configure_outside_page_numbers(doc: Document, *, font_name: str) -> None:
     """Book convention: even/left pages left, odd/right pages right."""
     set_doc_setting(doc, "evenAndOddHeaders", True)
 
@@ -182,20 +199,18 @@ def configure_outside_page_numbers(doc: Document) -> None:
         clear_footer(section.footer)
         clear_footer(section.even_page_footer)
         clear_footer(section.first_page_footer)
-
-    if len(doc.sections) < 2:
-        return
+        section.footer_distance = Cm(0.35)
 
     story = doc.sections[-1]
     story.footer.is_linked_to_previous = False
     story.even_page_footer.is_linked_to_previous = False
     story.first_page_footer.is_linked_to_previous = False
 
-    add_page_number_field(story.footer.paragraphs[0], WD_ALIGN_PARAGRAPH.RIGHT)
-    add_page_number_field(story.even_page_footer.paragraphs[0], WD_ALIGN_PARAGRAPH.LEFT)
+    add_page_number_field(story.footer.paragraphs[0], WD_ALIGN_PARAGRAPH.RIGHT, font_name=font_name)
+    add_page_number_field(story.even_page_footer.paragraphs[0], WD_ALIGN_PARAGRAPH.LEFT, font_name=font_name)
 
 
-def configure_sections(doc: Document, profile: Profile) -> None:
+def configure_sections(doc: Document, profile: Profile, *, font_name: str) -> None:
     for section in doc.sections:
         section.page_width = Cm(profile.page_width_cm)
         section.page_height = Cm(profile.page_height_cm)
@@ -203,6 +218,9 @@ def configure_sections(doc: Document, profile: Profile) -> None:
         section.bottom_margin = Cm(profile.bottom_cm)
         section.left_margin = Cm(profile.left_cm)
         section.right_margin = Cm(profile.right_cm)
+        if profile.name == "buchvorschau":
+            section.header_distance = Cm(0.35)
+            section.footer_distance = Cm(0.35)
 
     set_doc_setting(doc, "autoHyphenation", profile.auto_hyphenation)
     set_doc_setting(doc, "mirrorMargins", profile.mirror_margins)
@@ -217,10 +235,10 @@ def configure_sections(doc: Document, profile: Profile) -> None:
         p = story.header.paragraphs[0]
         p.alignment = WD_ALIGN_PARAGRAPH.RIGHT
         run = p.add_run("NORMALFALL")
-        set_run_font(run, name="Times New Roman", size=9)
+        set_run_font(run, name=font_name, size=9)
 
     if profile.page_number_outside:
-        configure_outside_page_numbers(doc)
+        configure_outside_page_numbers(doc, font_name=font_name)
     else:
         set_doc_setting(doc, "evenAndOddHeaders", False)
 
@@ -234,21 +252,22 @@ def polish_docx(path: Path, profile: Profile) -> None:
     validate_titles()
     doc = Document(path)
     doc.core_properties.subject = profile.subject
-    configure_sections(doc, profile)
+    font_name = profile_font(profile)
+    configure_sections(doc, profile, font_name=font_name)
 
     normal = style_by_name(doc, "Normal")
     heading1 = style_by_name(doc, "Heading 1")
     scene = style_by_name(doc, "Scene Break")
 
-    configure_style_font(normal, name="Times New Roman", size=profile.body_size)
+    configure_style_font(normal, name=font_name, size=profile.body_size)
     normal.paragraph_format.alignment = profile.alignment
     normal.paragraph_format.line_spacing = profile.line_spacing
     normal.paragraph_format.space_before = Pt(0)
     normal.paragraph_format.space_after = Pt(profile.space_after_pt)
     normal.paragraph_format.first_line_indent = Cm(profile.first_indent_cm)
-    normal.paragraph_format.widow_control = True
+    normal.paragraph_format.widow_control = profile.name != "buchvorschau"
 
-    configure_style_font(heading1, name="Times New Roman", size=profile.heading_size, color=RGBColor(0, 0, 0))
+    configure_style_font(heading1, name=font_name, size=profile.heading_size, color=RGBColor(0, 0, 0))
     heading1.font.bold = True
     heading1.paragraph_format.alignment = profile.heading_align
     heading1.paragraph_format.first_line_indent = Cm(0)
@@ -256,8 +275,9 @@ def polish_docx(path: Path, profile: Profile) -> None:
     heading1.paragraph_format.space_after = Pt(profile.heading_after_pt)
     heading1.paragraph_format.keep_with_next = True
     heading1.paragraph_format.keep_together = True
+    heading1.paragraph_format.page_break_before = True
 
-    configure_style_font(scene, name="Times New Roman", size=max(9.0, profile.body_size - 1.0))
+    configure_style_font(scene, name=font_name, size=max(9.0, profile.body_size - 1.0))
     scene.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     scene.paragraph_format.first_line_indent = Cm(0)
     scene.paragraph_format.space_before = Pt(profile.scene_before_pt)
@@ -289,10 +309,11 @@ def polish_docx(path: Path, profile: Profile) -> None:
             paragraph.clear()
             run = paragraph.add_run(display)
             run.bold = True
-            set_run_font(run, name="Times New Roman", size=profile.heading_size, color=RGBColor(0, 0, 0))
+            set_run_font(run, name=font_name, size=profile.heading_size, color=RGBColor(0, 0, 0))
             paragraph.alignment = profile.heading_align
             paragraph.paragraph_format.first_line_indent = Cm(0)
             paragraph.paragraph_format.space_after = Pt(profile.heading_after_pt)
+            paragraph.paragraph_format.page_break_before = True
             after_boundary = True
             continue
 
@@ -310,7 +331,7 @@ def polish_docx(path: Path, profile: Profile) -> None:
                 paragraph.add_run("*")
             for run in paragraph.runs:
                 run.text = run.text.replace("—", "–")
-                set_run_font(run, name="Times New Roman", size=max(9.0, profile.body_size - 1.0))
+                set_run_font(run, name=font_name, size=max(9.0, profile.body_size - 1.0))
             after_boundary = True
             continue
 
@@ -319,16 +340,18 @@ def polish_docx(path: Path, profile: Profile) -> None:
             paragraph.paragraph_format.line_spacing = profile.line_spacing
             paragraph.paragraph_format.space_before = Pt(0)
             paragraph.paragraph_format.space_after = Pt(profile.space_after_pt)
-            paragraph.paragraph_format.widow_control = True
+            paragraph.paragraph_format.widow_control = profile.name != "buchvorschau"
             indent = 0.0 if after_boundary else profile.first_indent_cm
             paragraph.paragraph_format.first_line_indent = Cm(indent)
             for run in paragraph.runs:
                 text = run.text.replace("—", "–")
+                if profile.name == "buchvorschau":
+                    text = convert_book_quotes(text)
                 if profile.deterministic_hyphenation:
                     text = add_discretionary_hyphens(text)
                 run.text = text
                 soft_hyphen_count += text.count(SOFT_HYPHEN)
-                set_run_font(run, name="Times New Roman", size=profile.body_size)
+                set_run_font(run, name=font_name, size=profile.body_size)
             after_boundary = False
 
     if seen != list(range(1, 48)):
@@ -339,14 +362,14 @@ def polish_docx(path: Path, profile: Profile) -> None:
     doc.save(path)
     print(
         f"Polished {path} as {profile.name}; chapters={len(seen)}, "
-        f"scene_breaks={scene_count}, soft_hyphens={soft_hyphen_count}"
+        f"scene_breaks={scene_count}, soft_hyphens={soft_hyphen_count}, font={font_name}"
     )
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("docx", nargs="?", default="AUSNAHMEZUSTAND.docx")
-    parser.add_argument("--profile", choices=sorted(PROFILES), default="testleser")
+    parser.add_argument("--profile", choices=sorted(PROFILES), default="buchvorschau")
     args = parser.parse_args()
     polish_docx(Path(args.docx), PROFILES[args.profile])
 
