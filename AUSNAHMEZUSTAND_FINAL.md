@@ -5182,7 +5182,7 @@ Nur vierzig Minuten, die ihnen gehört hätten, wenn sie früher parallel gearbe
 
 Das half ihm jetzt nicht.
 
-Vielleicht hatte die Quelle nicht die Gefahr gebaut, sondern genau diesen Moment.
+Vielleicht hatte die Quelle genau diesen Moment gebaut. Die Gefahr selbst konnte unabhängig davon real sein.
 
 Ein reales verletztes Opfer.
 
@@ -6098,7 +6098,7 @@ Er ließ los.
 
 Eine neue Meldung kam.
 
-Eine Person verließ den Kleinbus und ging nicht zur Seiteneinfahrt, sondern zu einem Nebengebäude.
+Eine Person verließ den Kleinbus, ließ die Seiteneinfahrt links liegen und ging zu einem Nebengebäude.
 
 „Passt nicht“, sagte Berg.
 
@@ -6694,7 +6694,7 @@ Daniel hatte mit dem Satz gerechnet.
 
 Trotzdem fühlte er sich falsch an.
 
-Er hatte sich auf die Konsequenz vorbereitet, ohne es bewusst zu beschließen. Seit Beginn des Gesprächs saß er mit beiden Füßen fest auf dem Boden, als müsste er gleich aufstehen. Sein Dienstausweis lag nicht wie sonst in der Jackentasche, sondern auf dem Tisch. Er hatte ihn herausgenommen, bevor Berg gekommen war.
+Er hatte sich auf die Konsequenz vorbereitet, ohne es bewusst zu beschließen. Seit Beginn des Gesprächs saß er mit beiden Füßen fest auf dem Boden, als müsste er gleich aufstehen. Sein Dienstausweis lag auf dem Tisch. Sonst trug er ihn in der Jackentasche. Er hatte ihn herausgenommen, bevor Berg gekommen war.
 
 Jetzt sah er darauf.
 
@@ -6788,7 +6788,7 @@ Lena sagte: „Soweit die Zeit es zulässt ist eine ziemlich große Tür.“
 
 Lena antwortete nicht.
 
-Berg zog Daniels Vermerk wieder zu sich und schrieb oben rechts eine kurze Notiz. Nicht für Daniel, sondern für die Akte.
+Berg zog Daniels Vermerk wieder zu sich und schrieb oben rechts eine kurze Notiz für die Akte.
 
 „Fortführung in der Lage aus Gründen operativer Kontinuität“, las Lena.
 
@@ -6914,7 +6914,7 @@ Niemand sagte etwas.
 
 Lena schloss ihr Notebook.
 
-Daniel bemerkte die Datei auf ihrem Bildschirm nicht. Nur, dass sie ihre Notizen nicht in den normalen gemeinsamen Vorgang legte, sondern in einen anderen Arbeitsbereich wechselte, bevor sie den Rechner sperrte.
+Daniel bemerkte die Datei auf ihrem Bildschirm nicht. Nur, dass sie den normalen gemeinsamen Vorgang ausließ und mit ihren Notizen in einen anderen Arbeitsbereich wechselte, bevor sie den Rechner sperrte.
 
 „Was war das?“ fragte er.
 
@@ -7498,7 +7498,7 @@ Bei A stand nur: keine neue operative Behauptung.
 
 Daniel ergänzte einen neuen Punkt.
 
-**Beobachtungsgegenstand möglicherweise nicht nur Lage, sondern Entscheidungsverhalten.**
+**Beobachtungsgegenstand möglicherweise: Lage und Entscheidungsverhalten.**
 
 Er las den Satz.
 
@@ -7522,9 +7522,7 @@ Keine neue Nachricht.
 
 Zum ersten Mal an diesem Abend war das keine Erleichterung.
 
-Die Frage war nicht mehr nur, woher die Quelle etwas wusste.
-
-Sondern was sie wollte, dass Daniel mit diesem Wissen tat.
+Die Frage war nicht mehr nur, woher die Quelle etwas wusste. Ebenso wichtig war, was sie wollte, dass Daniel mit diesem Wissen tat.
 
 ---
 
@@ -7938,7 +7936,7 @@ Daniel nahm Jonas den Zettel ab.
 
 „Wir prüfen seine beiden Kontakte komplett im zulässigen Rahmen. Aber nicht, weil er sie zum Zentrum macht.“
 
-„Sondern?“
+„Warum dann?“
 
 „Weil sie seine Grenze sind.“
 
@@ -7956,7 +7954,7 @@ Daniel steckte den Zettel ein.
 
 Jonas nickte.
 
-„Sondern?“
+„Was dann?“
 
 „Nach dem, was er nicht weiß.“
 
@@ -8012,7 +8010,7 @@ Nur nicht größer, als die überprüfbaren Dinge ihn machten.
 
 ## 20
 
-Das Problem lag weder im Kennzeichen noch im Altbestand, sondern in der Zahl der Treffer.
+Das Problem lag in der Zahl der Treffer, nicht im Kennzeichen oder im Altbestand.
 
 Daniel hatte sie in seinem Vermerk festgehalten, nachdem er B-QV 4172 gegen den geschützten Bestand geprüft hatte. Drei Treffer. Eingrenzung auf Kennzeichen und vorhandene Zuordnungen. Keine Personenerweiterung.
 
@@ -9300,7 +9298,7 @@ Zusammen sahen sie besser aus.
 
 Zu gut, dachte Daniel.
 
-Jonas hatte auf dem großen Bildschirm nicht nur Weber geöffnet, sondern den definierten Kreis um dieselben Zugänge.
+Jonas hatte auf dem großen Bildschirm Weber geöffnet und gleich den definierten Kreis um dieselben Zugänge dazu.
 
 Achtzehn Personen.
 
@@ -10462,7 +10460,7 @@ Lena nickte.
 
 „Nein.“
 
-„Sondern: Jemand hatte dich vorher im Blick.“
+„Jemand hatte dich vorher im Blick.“
 
 „So weit gehe ich.“
 
@@ -10480,7 +10478,7 @@ Daniel sah sie an.
 
 „Welche dann?“
 
-„Was machst du mit der Tatsache, dass du vielleicht nicht nur informiert, sondern ausgewählt wurdest?“
+„Was machst du mit der Tatsache, dass du vielleicht ausgewählt wurdest und die Information nur das Mittel dazu war?“
 
 Daniel lehnte sich zurück.
 
@@ -10516,7 +10514,7 @@ Lena atmete aus.
 
 Daniel schwieg.
 
-„Sondern weil du glaubwürdig bist“, sagte sie. „Weil du normalerweise Grenzen ernst nimmst. Weil deine Entscheidungen Gewicht haben, gerade wenn du eine Grenze trotzdem überschreitest.“
+„Weil du glaubwürdig bist“, sagte sie. „Weil du normalerweise Grenzen ernst nimmst. Weil deine Entscheidungen Gewicht haben, gerade wenn du eine Grenze trotzdem überschreitest.“
 
 „Das ist eine ziemlich große Theorie für eine Uhrzeit im Hausflur.“
 
@@ -10680,7 +10678,7 @@ Daniel sah sie an.
 
 Wieder nahm sie ihm die bequeme Gegenposition.
 
-Daniel ging zum Tisch zurück und öffnete nicht seinen privaten Block, sondern den formalen Projektvermerk.
+Daniel ging zum Tisch zurück, ließ seinen privaten Block liegen und öffnete den formalen Projektvermerk.
 
 Er schrieb:
 
@@ -11096,7 +11094,7 @@ Berg sah zu Daniel.
 
 „Aufbau beginnt früh. Exakten Gefahrenzeitpunkt haben wir nicht.“
 
-„Dann ist die operative Frage nicht, ob die Quelle glaubwürdig ist“, sagte Berg. „Sondern was wir heute noch ausschließen können, ohne morgen blind zu sein.“
+„Die operative Frage lautet, was wir heute noch ausschließen können, ohne morgen blind zu sein“, sagte Berg. „Die Glaubwürdigkeit der Quelle steht dahinter zurück.“
 
 Daniel nickte.
 
@@ -11196,7 +11194,7 @@ Und desto mehr Handlung konnte man aus ihm ableiten.
 
 Das war neu genug, um ihn zu stören.
 
-Er markierte im Arbeitsstand deshalb nicht nur, was bestätigt war, sondern auch, was die Quelle gerade **nicht** geliefert hatte: kein konkreter Gefahrenzeitpunkt, keine benannte Person, kein unabhängiger Beleg für eine Manipulation der Lieferfreigabe.
+Er markierte im Arbeitsstand deshalb beides: was bestätigt war und was die Quelle gerade **nicht** geliefert hatte: kein konkreter Gefahrenzeitpunkt, keine benannte Person, kein unabhängiger Beleg für eine Manipulation der Lieferfreigabe.
 
 Berg las die Ergänzung und nickte.
 
@@ -12306,7 +12304,7 @@ Lena sah ihn an.
 
 „Ich akzeptiere, dass ihr die Regel angewandt habt. Ich akzeptiere nicht, dass der Kontrollweg wertlos wird, sobald er unbequem wird.“
 
-Daniel spürte Ärger. Der galt nicht ihrer Position, sondern der Tatsache, dass sie seine Zeit benutzte.
+Daniel spürte Ärger darüber, dass sie seine Zeit benutzte. Ihre Position war nicht das Problem.
 
 Oder weil er das so empfand.
 
@@ -12870,7 +12868,7 @@ Still war dieses Warten nicht. Andere Treffer liefen parallel. Zwei wurden gesch
 
 Dann kam ein Foto aus der Kontrolle.
 
-Das Foto zeigte nicht den Fahrer, sondern den Fahrzeugstandort.
+Auf dem Foto war der Fahrzeugstandort zu sehen; der Fahrer fehlte.
 
 Im Hintergrund war die Zufahrt zu einem Gewerbehof zu sehen.
 
@@ -12960,7 +12958,7 @@ Berg kam näher.
 
 Die weitere Prüfung lief schnell.
 
-Schnell war die Prüfung nicht wegen zusätzlicher Befugnisse, sondern weil die Kontakte bereits standen, die Zuständigkeiten klar waren und dieselben rechtmäßig vorhandenen Informationen im Projekt nicht mehr nacheinander durch mehrere Stellen wandern mussten.
+Die Prüfung lief so schnell, weil die Kontakte bereits standen, die Zuständigkeiten klar waren und dieselben rechtmäßig vorhandenen Informationen im Projekt nicht mehr nacheinander durch mehrere Stellen wandern mussten. Zusätzliche Befugnisse hatten damit nichts zu tun.
 
 Der tatsächliche Nutzer des Lagerbereichs wurde bestätigt.
 
@@ -13158,7 +13156,7 @@ Daniel sah auf die offenen und geschlossenen Treffer.
 
 „Nicht: hat funktioniert.“
 
-„Sondern?“
+„Wie dann?“
 
 „Dass er den Strang sichtbar gemacht hat. Und dass die Maßnahme erst nach unabhängiger Bestätigung kam.“
 
@@ -13440,7 +13438,7 @@ Sie schwieg kurz.
 
 „Nein.“
 
-„Dann wahrscheinlich auf das Team. Dass ich nicht in eine fertige Struktur komme und nur repariere, sondern selbst entscheide, wie wir arbeiten.“
+„Dann wahrscheinlich auf das Team. Dass ich die Struktur selbst mit aufbaue und entscheide, wie wir arbeiten, statt nur in etwas Fertiges zu kommen und zu reparieren.“
 
 Daniel hörte das Wort *entscheide* und ließ es diesmal einfach stehen.
 
@@ -13706,7 +13704,7 @@ Keine einfache alternative Vergangenheit.
 
 „Genau.“
 
-„Sondern wie wir damit umgehen.“
+„Entscheidend ist, wie wir damit umgehen.“
 
 „Ja.“
 
@@ -14416,9 +14414,7 @@ Kein Treffer.
 
 So arbeiteten sie seit fast zwei Stunden.
 
-Nicht: Was passte zur Theorie?
-
-Sondern: Was hielt ihr stand?
+Daniel formulierte die prüfende Frage anders: Was hielt der Theorie stand?
 
 Bei einer Nachricht hatte Daniel geglaubt, einen ausgelassenen Ort gefunden zu haben. Jonas wies nach, dass der Ort intern erst sieben Minuten nach Eingang der Warnung belastbar geworden war.
 
@@ -14594,7 +14590,7 @@ Lena schob ihm einen Ausdruck hin.
 
 „Deshalb suchen wir nicht nach verdächtigen Stellen.“
 
-„Sondern?“
+„Wonach dann?“
 
 „Nach Stellen, an denen die weggelassene Information die Entscheidung verändert hätte.“
 
@@ -15736,7 +15732,7 @@ Daniel hatte gewartet.
 
 Der Mann war unschuldig gewesen.
 
-Damals hatte sich die Regel nicht wie Feigheit angefühlt, sondern wie Arbeit.
+Damals war die Regel für ihn schlicht Arbeit gewesen. Feigheit hatte er darin nicht gesehen.
 
 Später hatte derselbe Daniel eine Grenze überschritten.
 
@@ -15788,7 +15784,7 @@ Das war keine Entlastung.
 
 Es war schlimmer.
 
-Wenn Heller ihn nicht gesteuert hatte wie eine Figur, sondern nur Bedingungen gebaut hatte, unter denen Daniel selbst vernünftige Entscheidungen traf, dann konnte Daniel nichts davon an ihn zurückgeben.
+Wenn Heller lediglich Bedingungen gebaut hatte, unter denen Daniel selbst vernünftige Entscheidungen traf, ohne ihn wie eine Figur zu steuern, dann konnte Daniel nichts davon an ihn zurückgeben.
 
 Das galt für Lena, Weber und den Nicht-Rückbau gleichermaßen.
 
@@ -16340,7 +16336,7 @@ Lena stand hinter ihm.
 
 „Auch nicht als Geschichte“, sagte Daniel. „Nur die Teile.“
 
-Der Raum war inzwischen zu voll. Nicht mit Menschen, sondern mit Dingen, die gleichzeitig stimmten und trotzdem noch nichts bewiesen.
+Der Raum war inzwischen zu voll mit Dingen, die gleichzeitig stimmten und trotzdem noch nichts bewiesen. Menschen waren nicht das Problem.
 
 Die interne Kennung aus der anonymen Nachricht existierte.
 
@@ -16472,9 +16468,7 @@ Berg beendete das Gespräch.
 
 Daniel legte die Freigabe in die linke Spalte.
 
-Nicht: Gefahr bestätigt.
-
-Sondern: Änderung nicht vom benannten Dienstleister veranlasst.
+Die belastbare Formulierung lautete: Änderung nicht vom benannten Dienstleister veranlasst.
 
 Mehr war es noch nicht.
 
@@ -16658,7 +16652,7 @@ Fahrzeugbezug.
 
 Aktueller Ausweis einer Person mit realer Altverbindung.
 
-Daneben schrieb er nicht Hellers Deutung, sondern die jeweils schwächste plausible Gegenlesart.
+Daneben schrieb er jeweils die schwächste plausible Gegenlesart. Hellers Deutung ließ er außen vor.
 
 **Fehlerhaft zugeordnete Änderung.**
 
@@ -17286,7 +17280,7 @@ Jonas prüfte die Reihenfolge.
 
 „Nein.“
 
-„Sondern zwischen zwei unterschiedlichen Risiken.“
+„Zwischen zwei unterschiedlichen Risiken.“
 
 Lena sagte: „Und beide bleiben echte Optionen.“
 
@@ -17834,7 +17828,7 @@ Der Schuss gab ihm keine zusätzliche Autorität.
 
 Er nahm ihm eher welche.
 
-Was jetzt noch von ihm gebraucht wurde, war nicht die Entscheidung über Kräfte draußen, sondern der letzte saubere Stand seines Ermittlungsstrangs.
+Was jetzt noch von ihm gebraucht wurde, war der letzte saubere Stand seines Ermittlungsstrangs. Über die Kräfte draußen entschied er nicht.
 
 Daniel gab den Stand Satz für Satz weiter.
 
@@ -18210,9 +18204,7 @@ Nicht Hellers Nachricht entschied, welche Spur oben blieb. Die Reihenfolge kam a
 
 Jonas begann die Sätze selbst so zu bauen, bevor Daniel fragte.
 
-Nicht *wir haben noch jemanden*.
-
-Sondern *wir haben einen aktuellen Kontaktpunkt, Gegenhypothese beruflicher Zusammenhang*.
+Jonas formulierte es enger: *Wir haben einen aktuellen Kontaktpunkt, Gegenhypothese beruflicher Zusammenhang*.
 
 Daniel las dieselbe Zeile zweimal. Die Buchstaben waren scharf, nur sein Kopf war für zwei Sekunden wieder unter dem Vordach: Hellers Hand, der Knall, nasser Beton. Dann zwang ihn der Bildschirm zurück.
 
@@ -18300,13 +18292,7 @@ Eine Tür.
 
 Dann setzte er ihn wieder ein.
 
-Der große Schaden war nach jetzigem Stand verhindert.
-
-Nicht durch Hellers letzte Meldung.
-
-Nicht trotz jeder problematischen Entscheidung.
-
-Sondern durch eine Arbeitsweise, die Daniel selbst weitergeführt und begrenzt hatte.
+Der große Schaden war nach jetzigem Stand verhindert. Den Ausschlag hatte die Arbeitsweise gegeben, die Daniel selbst weitergeführt und begrenzt hatte. Hellers letzte Meldung erklärte das Ergebnis ebenso wenig wie bloßes Glück angesichts der problematischen Entscheidungen.
 
 Er hatte keine Formel dafür.
 
@@ -19042,7 +19028,7 @@ Daniel sah auf die Liste.
 
 „Nein.“
 
-„Sondern zwischen Risiken unter Zeitdruck.“
+„Zwischen Risiken unter Zeitdruck.“
 
 Daniel nickte.
 
@@ -19348,7 +19334,7 @@ Schon die Reihenfolge verhinderte, dass daraus ein einziger sauberer Ursache-Wir
 
 Daniel schrieb sich nichts dazu auf.
 
-Zum ersten Mal reichte ihm, dass die Trennung nicht nur eine methodische Forderung war, sondern im tatsächlichen Verlauf stand.
+Zum ersten Mal reichte ihm, dass die Trennung im tatsächlichen Verlauf sichtbar war und damit über eine bloße methodische Forderung hinausging.
 
 Wer später alles zu einer Geschichte machen wollte, musste diese Unterschiede aktiv übergehen.
 
@@ -19674,7 +19660,7 @@ Die Zahl war unspektakulär, aber hoch genug, dass Daniel sofort verstand, wie a
 
 Daniel setzte daneben seinen ersten eigenen Haken.
 
-Sein Haken galt nicht der Verbundprüfung, sondern der Forderung, auch ihren **Nicht-Einsatz** messbar zu halten.
+Sein Haken galt der Forderung, auch ihren **Nicht-Einsatz** messbar zu halten. Die Verbundprüfung selbst markierte er damit nicht.
 
 Dann gingen sie zur nächsten offenen Formulierung.
 
@@ -20012,7 +19998,7 @@ Berg folgte ihr.
 
 Jonas sagte: „Ob wir früh eine Verbundprüfung ziehen.“
 
-Daniel sah zu ihm. Der Vorschlag störte ihn nicht, weil er falsch klang, sondern weil er so normal klang.
+Daniel sah zu ihm. Gerade dass der Vorschlag so normal klang, störte ihn. Falsch klang er keineswegs.
 
 Berg fragte: „Kreis?“
 
