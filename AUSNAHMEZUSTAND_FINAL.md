@@ -1,12 +1,25 @@
 # NORMALFALL
 
-*Psychothriller*
+*Eine Regel widersteht  
+allem,*
+
+*außer dem Beweis,*
+
+*dass es ohne sie  
+besser geht.*
 
 ---
 
-**Normalfall, der:** Ein Fall, der nach den üblichen Regeln behandelt wird.
+**Normalfall, der:**
 
-*Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.*
+Ein Fall, der nach den üblichen Regeln  
+behandelt wird.
+
+*Eine Regel widersteht allem,*
+
+*außer dem Beweis,*
+
+*dass es ohne sie besser geht.*
 
 ---
 
