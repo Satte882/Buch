@@ -27,7 +27,7 @@ Die früheren Profile `TESTLESER` und `EINREICHUNG` bleiben im Formatierungsskri
 
 ### Seite und Satzspiegel
 
-- Endformat: **12,5 × 18,7 cm**
+- Endformat: **12,0 × 18,7 cm**
 - gespiegelte Seitenränder
 - Innenrand: **1,35 cm**
 - Außenrand: **1,15 cm**
@@ -36,14 +36,14 @@ Die früheren Profile `TESTLESER` und `EINREICHUNG` bleiben im Formatierungsskri
 - keine laufende Kopfzeile
 - Seitenzahlen unten außen: gerade/linke Seite links, ungerade/rechte Seite rechts
 
-Die Maße sind kein behauptetes Originalformat eines Fitzek-Titels. Sie sind die für `NORMALFALL` kalibrierte Einstellung, die den gelieferten Referenz-Screenshot hinsichtlich Textdichte, Zeilenlänge und Satzspiegel deutlich näher trifft als die vorige 13,5-×-21,5-cm-Fassung.
+Die Maße sind kein behauptetes Originalformat eines Fitzek-Titels. Sie sind die für `NORMALFALL` anhand der gelieferten Referenzseite kalibrierte Einstellung. Die Seitenproportion 12,0 × 18,7 cm, die nutzbare Zeilenbreite und der nachfolgende Zeilenrhythmus treffen Textdichte und Zeilenlänge der Referenz deutlich näher als die vorige 13,5-×-21,5-cm-Fassung.
 
 ### Fließtext
 
 - Schrift: **Garamond** (Microsoft/Office-Schrift)
 - Schriftgröße: **12,5 pt**
 - Blocksatz
-- Zeilenabstand: **1,05**
+- Zeilenabstand: **1,12**
 - 0 cm Erstzeileneinzug
 - 0 pt Abstand vor und nach normalen Absätzen
 - keine künstlichen Leerzeilen zwischen normalen Absätzen
