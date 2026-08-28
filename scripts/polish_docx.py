@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import re
+from dataclasses import dataclass
 from pathlib import Path
 
 from docx import Document
@@ -13,53 +14,71 @@ from docx.shared import Cm, Pt, RGBColor
 CHAPTER_RE = re.compile(r"^Kapitel\s+(\d+)(?:\s*[:\-–—].*)?$")
 
 CHAPTER_TITLES = {
-    1: "Komisch reicht nicht",
-    2: "Die harmlose Erklärung",
-    3: "Drei Türen",
-    4: "Ein Millimeter",
-    5: "Lagerhaus C",
-    6: "Hamburg",
-    7: "Der gelbe Streifen",
-    8: "Privat",
-    9: "Nur Wahrheit",
-    10: "Zwei Risiken",
-    11: "Richtig genug",
-    12: "Die Uhr",
-    13: "Parkebene 3",
-    14: "Noch nicht",
-    15: "Unabhängig",
-    16: "Der Zugriff",
-    17: "Vor der Suche",
-    18: "Was die Quelle will",
-    19: "Nicht größer",
-    20: "Drei Treffer",
-    21: "Der Sonderweg",
-    22: "Dienstag",
-    23: "Zu oft",
-    24: "Die bessere Frage",
-    25: "Vor dem Fall",
-    26: "Zurückhalten",
-    27: "Außerhalb des Falls",
-    28: "Eigene Entscheidung",
-    29: "Die Regel bleibt",
-    30: "Gefährlich vernünftig",
-    31: "Leerlauf",
-    32: "Die alte Version",
-    33: "Die alte Grenze",
-    34: "Ohne Heller",
-    35: "Der blaue Transporter",
-    36: "Die einfache Geschichte",
-    37: "Die Uhr läuft",
-    38: "Drei Anker",
-    39: "Verworfene Namen",
-    40: "Der Schuss",
-    41: "Was habt ihr selbst?",
-    42: "Nicht weil er es sagte",
-    43: "5.18 Uhr",
-    44: "Verbundprüfung",
-    45: "So ist es jetzt",
-    46: "Schlechtes Bauchgefühl",
-    47: "Die Gegenhypothese",
+    1: "Komisch reicht nicht", 2: "Die harmlose Erklärung", 3: "Drei Türen",
+    4: "Ein Millimeter", 5: "Lagerhaus C", 6: "Hamburg",
+    7: "Der gelbe Streifen", 8: "Privat", 9: "Nur Wahrheit",
+    10: "Zwei Risiken", 11: "Richtig genug", 12: "Die Uhr",
+    13: "Parkebene 3", 14: "Noch nicht", 15: "Unabhängig",
+    16: "Der Zugriff", 17: "Vor der Suche", 18: "Was die Quelle will",
+    19: "Nicht größer", 20: "Drei Treffer", 21: "Der Sonderweg",
+    22: "Dienstag", 23: "Zu oft", 24: "Die bessere Frage",
+    25: "Vor dem Fall", 26: "Zurückhalten", 27: "Außerhalb des Falls",
+    28: "Eigene Entscheidung", 29: "Die Regel bleibt", 30: "Gefährlich vernünftig",
+    31: "Leerlauf", 32: "Die alte Version", 33: "Die alte Grenze",
+    34: "Ohne Heller", 35: "Der blaue Transporter", 36: "Die einfache Geschichte",
+    37: "Die Uhr läuft", 38: "Drei Anker", 39: "Verworfene Namen",
+    40: "Der Schuss", 41: "Was habt ihr selbst?", 42: "Nicht weil er es sagte",
+    43: "5.18 Uhr", 44: "Verbundprüfung", 45: "So ist es jetzt",
+    46: "Schlechtes Bauchgefühl", 47: "Die Gegenhypothese",
+}
+
+
+@dataclass(frozen=True)
+class Profile:
+    name: str
+    subject: str
+    page_width_cm: float
+    page_height_cm: float
+    top_cm: float
+    bottom_cm: float
+    left_cm: float
+    right_cm: float
+    body_size: float
+    alignment: int
+    line_spacing: float
+    first_indent_cm: float
+    space_after_pt: float
+    heading_size: float
+    heading_align: int
+    heading_after_pt: float
+    scene_before_pt: float
+    scene_after_pt: float
+    auto_hyphenation: bool = False
+    mirror_margins: bool = False
+    header_title: bool = False
+
+
+PROFILES = {
+    "testleser": Profile(
+        "testleser", "Romanmanuskript – Testleserfassung",
+        21.0, 29.7, 2.5, 2.5, 2.6, 2.4,
+        11.5, WD_ALIGN_PARAGRAPH.LEFT, 1.15, 0.0, 4.0,
+        15.0, WD_ALIGN_PARAGRAPH.CENTER, 20.0, 8.0, 8.0,
+    ),
+    "einreichung": Profile(
+        "einreichung", "Romanmanuskript – Einreichungsfassung",
+        21.0, 29.7, 2.5, 2.5, 3.0, 2.5,
+        12.0, WD_ALIGN_PARAGRAPH.LEFT, 1.5, 0.75, 0.0,
+        14.0, WD_ALIGN_PARAGRAPH.CENTER, 20.0, 12.0, 12.0,
+        header_title=True,
+    ),
+    "buchvorschau": Profile(
+        "buchvorschau", "Romanmanuskript – Buchsatz-Vorschau",
+        13.5, 21.5, 1.8, 1.8, 2.0, 1.7,
+        10.5, WD_ALIGN_PARAGRAPH.JUSTIFY, 1.1, 0.45, 0.0,
+        14.0, WD_ALIGN_PARAGRAPH.CENTER, 18.0, 10.0, 10.0,
+        auto_hyphenation=True, mirror_margins=True,
+    ),
 }
 
 
@@ -83,9 +102,8 @@ def set_run_font(run, *, name: str, size: float, color: RGBColor | None = None) 
     if lang is None:
         lang = OxmlElement("w:lang")
         rpr.append(lang)
-    lang.set(qn("w:val"), "de-DE")
-    lang.set(qn("w:eastAsia"), "de-DE")
-    lang.set(qn("w:bidi"), "de-DE")
+    for attr in ("val", "eastAsia", "bidi"):
+        lang.set(qn(f"w:{attr}"), "de-DE")
 
 
 def configure_style_font(style, *, name: str, size: float, color: RGBColor | None = None) -> None:
@@ -100,54 +118,88 @@ def configure_style_font(style, *, name: str, size: float, color: RGBColor | Non
         rpr.insert(0, rfonts)
     for attr in ("ascii", "hAnsi", "eastAsia", "cs"):
         rfonts.set(qn(f"w:{attr}"), name)
-    lang = rpr.find(qn("w:lang"))
-    if lang is None:
-        lang = OxmlElement("w:lang")
-        rpr.append(lang)
-    lang.set(qn("w:val"), "de-DE")
-    lang.set(qn("w:eastAsia"), "de-DE")
-    lang.set(qn("w:bidi"), "de-DE")
+
+
+def set_doc_setting(doc: Document, tag: str, enabled: bool) -> None:
+    settings = doc.settings._element
+    node = settings.find(qn(f"w:{tag}"))
+    if enabled:
+        if node is None:
+            node = OxmlElement(f"w:{tag}")
+            settings.append(node)
+        node.set(qn("w:val"), "true")
+    elif node is not None:
+        settings.remove(node)
+
+
+def configure_sections(doc: Document, profile: Profile) -> None:
+    for section in doc.sections:
+        section.page_width = Cm(profile.page_width_cm)
+        section.page_height = Cm(profile.page_height_cm)
+        section.top_margin = Cm(profile.top_cm)
+        section.bottom_margin = Cm(profile.bottom_cm)
+        section.left_margin = Cm(profile.left_cm)
+        section.right_margin = Cm(profile.right_cm)
+
+    set_doc_setting(doc, "autoHyphenation", profile.auto_hyphenation)
+    set_doc_setting(doc, "mirrorMargins", profile.mirror_margins)
+
+    for section in doc.sections:
+        if section.header.paragraphs:
+            section.header.paragraphs[0].clear()
+
+    if profile.header_title and len(doc.sections) > 1:
+        story = doc.sections[-1]
+        story.header.is_linked_to_previous = False
+        p = story.header.paragraphs[0]
+        p.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+        run = p.add_run("NORMALFALL")
+        set_run_font(run, name="Times New Roman", size=9)
 
 
 def validate_titles() -> None:
-    expected = set(range(1, 48))
-    actual = set(CHAPTER_TITLES)
-    if actual != expected:
-        missing = sorted(expected - actual)
-        extra = sorted(actual - expected)
-        raise SystemExit(f"Chapter title map mismatch; missing={missing}, extra={extra}")
+    if set(CHAPTER_TITLES) != set(range(1, 48)):
+        raise SystemExit("Chapter title map must contain exactly chapters 1–47")
 
 
-def polish_docx(path: Path) -> None:
+def polish_docx(path: Path, profile: Profile) -> None:
     validate_titles()
     doc = Document(path)
+    doc.core_properties.subject = profile.subject
+    configure_sections(doc, profile)
 
     normal = style_by_name(doc, "Normal")
     heading1 = style_by_name(doc, "Heading 1")
+    scene = style_by_name(doc, "Scene Break")
 
-    # Binding manuscript layout for the story body:
-    # one left edge for every paragraph, no first-line indent, and a small
-    # vertical paragraph gap instead of full blank lines. This avoids the
-    # zig-zag left edge that is especially distracting in short thriller prose.
-    configure_style_font(normal, name="Times New Roman", size=11.5)
-    normal.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
-    normal.paragraph_format.line_spacing = 1.15
+    configure_style_font(normal, name="Times New Roman", size=profile.body_size)
+    normal.paragraph_format.alignment = profile.alignment
+    normal.paragraph_format.line_spacing = profile.line_spacing
     normal.paragraph_format.space_before = Pt(0)
-    normal.paragraph_format.space_after = Pt(4)
-    normal.paragraph_format.first_line_indent = Cm(0)
+    normal.paragraph_format.space_after = Pt(profile.space_after_pt)
+    normal.paragraph_format.first_line_indent = Cm(profile.first_indent_cm)
     normal.paragraph_format.widow_control = True
 
-    configure_style_font(heading1, name="Times New Roman", size=15, color=RGBColor(0, 0, 0))
+    configure_style_font(heading1, name="Times New Roman", size=profile.heading_size, color=RGBColor(0, 0, 0))
     heading1.font.bold = True
-    heading1.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    heading1.paragraph_format.alignment = profile.heading_align
     heading1.paragraph_format.first_line_indent = Cm(0)
     heading1.paragraph_format.space_before = Pt(0)
-    heading1.paragraph_format.space_after = Pt(20)
+    heading1.paragraph_format.space_after = Pt(profile.heading_after_pt)
     heading1.paragraph_format.keep_with_next = True
     heading1.paragraph_format.keep_together = True
 
+    configure_style_font(scene, name="Times New Roman", size=max(9.0, profile.body_size - 1.0))
+    scene.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    scene.paragraph_format.first_line_indent = Cm(0)
+    scene.paragraph_format.space_before = Pt(profile.scene_before_pt)
+    scene.paragraph_format.space_after = Pt(profile.scene_after_pt)
+    scene.paragraph_format.keep_with_next = True
+
     seen: list[int] = []
     story_started = False
+    after_boundary = False
+    scene_count = 0
 
     for paragraph in doc.paragraphs:
         style_name = paragraph.style.name if paragraph.style is not None else ""
@@ -162,42 +214,63 @@ def polish_docx(path: Path) -> None:
                 if not match:
                     raise SystemExit(f"Unexpected Heading 1 text: {text!r}")
                 number = int(match.group(1))
-                if number not in CHAPTER_TITLES:
-                    raise SystemExit(f"Missing title for chapter {number}")
                 seen.append(number)
-                display = f"Kapitel {number} - {CHAPTER_TITLES[number]}"
+                display = f"Kapitel {number} – {CHAPTER_TITLES[number]}"
 
             paragraph.clear()
             run = paragraph.add_run(display)
             run.bold = True
-            set_run_font(run, name="Times New Roman", size=15, color=RGBColor(0, 0, 0))
-            paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            set_run_font(run, name="Times New Roman", size=profile.heading_size, color=RGBColor(0, 0, 0))
+            paragraph.alignment = profile.heading_align
             paragraph.paragraph_format.first_line_indent = Cm(0)
-            paragraph.paragraph_format.space_after = Pt(20)
+            paragraph.paragraph_format.space_after = Pt(profile.heading_after_pt)
+            after_boundary = True
             continue
 
-        if story_started and style_name == "Normal" and paragraph.text.strip():
-            paragraph.alignment = WD_ALIGN_PARAGRAPH.LEFT
-            paragraph.paragraph_format.line_spacing = 1.15
-            paragraph.paragraph_format.space_before = Pt(0)
-            paragraph.paragraph_format.space_after = Pt(4)
-            paragraph.paragraph_format.widow_control = True
+        if not story_started:
+            continue
+
+        if style_name == "Scene Break":
+            scene_count += 1
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
             paragraph.paragraph_format.first_line_indent = Cm(0)
+            paragraph.paragraph_format.space_before = Pt(profile.scene_before_pt)
+            paragraph.paragraph_format.space_after = Pt(profile.scene_after_pt)
+            if paragraph.text.strip() != "*":
+                paragraph.clear()
+                paragraph.add_run("*")
             for run in paragraph.runs:
-                set_run_font(run, name="Times New Roman", size=11.5)
+                run.text = run.text.replace("—", "–")
+                set_run_font(run, name="Times New Roman", size=max(9.0, profile.body_size - 1.0))
+            after_boundary = True
+            continue
+
+        if style_name == "Normal" and paragraph.text.strip():
+            paragraph.alignment = profile.alignment
+            paragraph.paragraph_format.line_spacing = profile.line_spacing
+            paragraph.paragraph_format.space_before = Pt(0)
+            paragraph.paragraph_format.space_after = Pt(profile.space_after_pt)
+            paragraph.paragraph_format.widow_control = True
+            indent = 0.0 if after_boundary else profile.first_indent_cm
+            paragraph.paragraph_format.first_line_indent = Cm(indent)
+            for run in paragraph.runs:
+                run.text = run.text.replace("—", "–")
+                set_run_font(run, name="Times New Roman", size=profile.body_size)
+            after_boundary = False
 
     if seen != list(range(1, 48)):
         raise SystemExit(f"Chapter headings mismatch after polish: {seen}")
 
     doc.save(path)
-    print(f"Polished {path} with {len(seen)} chapter titles")
+    print(f"Polished {path} as {profile.name}; chapters={len(seen)}, scene_breaks={scene_count}")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("docx", nargs="?", default="AUSNAHMEZUSTAND.docx")
+    parser.add_argument("--profile", choices=sorted(PROFILES), default="testleser")
     args = parser.parse_args()
-    polish_docx(Path(args.docx))
+    polish_docx(Path(args.docx), PROFILES[args.profile])
 
 
 if __name__ == "__main__":
