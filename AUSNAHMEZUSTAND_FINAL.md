@@ -1858,7 +1858,7 @@ Daniel blickte zum Kalender an der Wand, obwohl dort nur ein Foto vom Meer hing 
 
 Mara sah ihn an.
 
-Daniel merkte den Fehler, bevor sie etwas sagte.
+Er hörte seinen eigenen Satz noch einmal, diesmal mit Maras Ohren.
 
 „So meinte ich das nicht.“
 
@@ -2010,7 +2010,7 @@ Daniel sah sie an.
 
 Sie wich seinem Blick nicht aus.
 
-Er ging im Kopf die nächsten Tage durch. Zwei Termine am Samstag. Sonntagvormittag frei. Montag wieder voll. Er bemerkte, was er tat, und hörte damit auf.
+Schon lief in seinem Kopf die nächste Woche an: zwei Termine am Samstag, Sonntagvormittag frei, Montag wieder voll. Als er bei Montag ankam, brach er die Rechnung ab.
 
 „Sonntag“, sagte er.
 
@@ -2546,9 +2546,7 @@ Eine Uhrzeit konnte geraten sein. Ein Hausflur konnte beobachtet werden. Das Nam
 
 Aber niemand aus Lagerhaus C hatte mit seinem Briefkasten zu tun.
 
-Daniel merkte, dass er den Atem angehalten hatte.
-
-Er ließ die Luft langsam aus.
+Erst als die Brust spannte, fiel ihm auf, dass er den Atem anhielt. Langsam ließ er die Luft wieder aus.
 
 Der Aufzug öffnete sich wieder im zweiten Stock.
 
@@ -4788,11 +4786,7 @@ Jonas ging die Stammdaten gleich mit durch. Reale Firma, sieben Jahre im Registe
 
 „Nicht ohne mehr.“
 
-Daniel wusste es.
-
-Die sauberen Wege lieferten ihm einen echten Wagen und eine echte Firma.
-
-Nicht die Bedeutung.
+Die sauberen Wege lieferten ihm einen echten Wagen und eine echte Firma, aber keine Bedeutung.
 
 „Was ist mit dem alten Bestand?“ fragte Jonas.
 
@@ -6738,11 +6732,7 @@ Daniel hatte mit dem Satz gerechnet.
 
 Trotzdem fühlte er sich falsch an.
 
-Er hatte sich auf die Konsequenz vorbereitet.
-
-Nicht bewusst. Sein Körper hatte es getan.
-
-Seit Beginn des Gesprächs saß er mit beiden Füßen fest auf dem Boden, als müsste er gleich aufstehen. Sein Dienstausweis lag nicht wie sonst in der Jackentasche, sondern auf dem Tisch. Er hatte ihn herausgenommen, bevor Berg gekommen war.
+Er hatte sich auf die Konsequenz vorbereitet, ohne es bewusst zu beschließen. Seit Beginn des Gesprächs saß er mit beiden Füßen fest auf dem Boden, als müsste er gleich aufstehen. Sein Dienstausweis lag nicht wie sonst in der Jackentasche, sondern auf dem Tisch. Er hatte ihn herausgenommen, bevor Berg gekommen war.
 
 Jetzt sah er darauf.
 
@@ -6860,7 +6850,7 @@ Berg sah zu Lena, dann zurück zu Daniel.
 
 „Sobald die Lage es zulässt.“
 
-Daniel merkte, wie er fast lachte. Derselbe Satz wie bei der Meldepflicht. Alles hing inzwischen an Zeit.
+Ein Lachen stieg ihm hoch und blieb irgendwo vor dem Mund stecken. Derselbe Satz wie bei der Meldepflicht. Alles hing inzwischen an Zeit.
 
 „Und bis dahin?“
 
@@ -7170,9 +7160,7 @@ Später ein Export in die gesicherte interne Bewertung.
 
 Nicht Hellers Name.
 
-Daniel merkte, wie sofort Erleichterung aufkam.
-
-Er hielt dagegen.
+Die Erleichterung kam zu schnell. Daniel hielt dagegen, bevor sie zur Schlussfolgerung wurde.
 
 Hellers Bereich konnte über die Lagezusammenfassung andere Informationen bekommen haben. Ein Name musste nicht in dieser einen Liste stehen, um den Inhalt zu kennen.
 
@@ -7284,11 +7272,7 @@ Er löschte keinen Namen.
 
 Er sortierte sie nur hinter die Zeitfrage.
 
-Das war sein Doppelspiel ab jetzt:
-
-Was die Quelle über den Fall wusste, wurde geprüft wie jeder andere Hinweis.
-
-Was sie über Daniel und den internen Ablauf wusste, wurde separat gegen mögliche Informationswege geprüft.
+Von jetzt an liefen zwei Prüfungen nebeneinander: Was die Quelle über den Fall wusste, wurde geprüft wie jeder andere Hinweis. Was sie über Daniel und den internen Ablauf wusste, lief separat gegen mögliche Informationswege.
 
 Keine der beiden Spuren durfte die andere automatisch bestätigen.
 
@@ -9216,11 +9200,7 @@ Nur **Hamburg. Nicht irgendwann.** und ein roter Balken, weil die Zeit vorbei wa
 
 Er dachte an den Moment am Sonntagabend. Um 18.07 Uhr hatte Mara geschrieben. Um 18.12 Uhr hatte er die Nachricht im Lagebereich gesehen und sich gesagt, er antworte nach der nächsten Rückmeldung. Dann war ein neuer Fahrzeugtreffer gekommen.
 
-Um 18.40 Uhr hatte er nicht mehr daran gedacht.
-
-Nicht entschieden, den Termin abzusagen.
-
-Einfach etwas anderes höher gewichtet.
+Um 18.40 Uhr hatte er nicht mehr daran gedacht. Er hatte den Termin nicht bewusst abgesagt; etwas anderes hatte schlicht höher gewogen.
 
 „Ich habe Sonntag nicht mal abgesagt“, sagte Daniel.
 
@@ -11088,9 +11068,7 @@ Daniel sah ihn an.
 
 „Und wenn sie gerade unterwegs ist?“
 
-Das war ein guter Einwand.
-
-Daniel mochte ihn nicht.
+Der Einwand war gut genug, dass Daniel ihn nicht mochte.
 
 Er wählte trotzdem noch nicht.
 
@@ -11118,7 +11096,7 @@ Lena sah ihn an.
 
 „Weil du wieder stehst.“
 
-Daniel merkte erst jetzt, dass er noch immer nicht saß.
+Er stand tatsächlich noch immer. Erst jetzt fiel es ihm auf.
 
 Er zeigte ihr die letzte Zeile.
 
@@ -13452,9 +13430,7 @@ Dann wurde es wieder still.
 
 „Wann musst du Hamburg endgültig sagen, ob du kommst?“
 
-Mara antwortete nicht sofort.
-
-Daniel wusste es, bevor sie sprach.
+Mara antwortete nicht sofort. Die Pause reichte.
 
 „Heute.“
 
@@ -13636,7 +13612,7 @@ Mehr machte sie daraus nicht.
 
 „Ich weiß noch nicht, wie oft ich am Anfang nach Berlin komme“, sagte Mara.
 
-Daniel merkte, wie sofort wieder ein Kalender in seinem Kopf aufging.
+In seinem Kopf sprang sofort wieder der Kalender auf.
 
 „Die ersten zwei Wochen gar nicht?“
 
@@ -13686,11 +13662,9 @@ Mehr Sicherheit hatten sie gerade nicht.
 
 Diesmal versuchte Daniel nicht, sie durch einen Termin zu ersetzen.
 
-Daniel ließ den Kalender im Kopf geschlossen.
+Diesmal blieb der Kalender zu. Die Pause bekam Raum.
 
-Das war ungewohnt genug, dass er die Pause hörte.
-
-Mara auch.
+Mara hörte sie ebenfalls.
 
 „Du rechnest nicht?“
 
@@ -13720,15 +13694,7 @@ Daniel sah auf die dunkle Windschutzscheibe.
 
 Daniel nickte.
 
-Er merkte, wie sehr er sonst versucht hätte, Unsicherheit durch einen Rhythmus zu ersetzen.
-
-Freitagabend Zug.
-
-Sonntag zurück.
-
-Jedes zweite Wochenende.
-
-Ein Plan, der schon durch seine Existenz beruhigend aussah.
+Normalerweise hätte er die Unsicherheit sofort in einen Rhythmus gezwängt: Freitagabend Zug, Sonntag zurück, jedes zweite Wochenende. Ein Plan, der schon durch seine Existenz beruhigend aussah.
 
 Mara wollte etwas anderes.
 
@@ -14992,7 +14958,7 @@ Der Zeitstempel lag davor.
 
 Deutlich davor.
 
-Neben dem Kennzeichen stand ein knapper Orts- und Zeitbezug aus einem anderen Lagefragment. Das Fahrzeug war im Umfeld eines bereits bekannten Randkontakts aufgefallen. Nicht lange. Nicht bei einer Straftat. Aber genug, um es bei einer gezielten Prüfung nicht einfach wegzulassen.
+Neben dem Kennzeichen stand ein knapper Orts- und Zeitbezug aus einem anderen Lagefragment. Das Fahrzeug war im Umfeld eines bereits bekannten Randkontakts aufgefallen, nur kurz und ohne Straftat. Aber lange genug, um es bei einer gezielten Prüfung nicht einfach wegzulassen.
 
 Daniel sah auf die Uhrzeit.
 
@@ -15016,9 +14982,7 @@ Jonas schüttelte den Kopf.
 
 „So sauber ist es nicht. Der Verarbeitungsschritt läuft über den damaligen Arbeitsbereich. Mehrere Leute hatten Zugriff.“
 
-Daniel merkte, dass ihn die Antwort erleichterte.
-
-Nur kurz.
+Die Antwort erleichterte ihn. Für einen Moment.
 
 „Also wissen wir nicht, wer es gesehen hat.“
 
@@ -16418,9 +16382,7 @@ Keine neue Erkenntnis.
 
 Nur das Summen der Lüftung und Jonas, der zwischen zwei Systemständen wechselte.
 
-Daniel merkte, wie schwer es war, Warten auszuhalten, nachdem er gelernt hatte, Warten als Risiko zu lesen.
-
-Genau darin lag Hellers stärkster Hebel.
+Seit Daniel Warten als Risiko zu lesen gelernt hatte, fühlte sich jede Minute Stillstand wie eine Entscheidung an. Darin lag Hellers stärkster Hebel.
 
 Nicht in einer Lüge.
 
@@ -18458,13 +18420,7 @@ Nicht *wir haben noch jemanden*.
 
 Sondern *wir haben einen aktuellen Kontaktpunkt, Gegenhypothese beruflicher Zusammenhang*.
 
-Daniel merkte, dass er zweimal dieselbe Zeile lesen musste. Die Buchstaben waren nicht unscharf. Seine Konzentration sprang nur für Sekunden zurück unter das Vordach.
-
-Hellers Hand.
-
-Der Knall.
-
-Dann wieder der Bildschirm.
+Daniel las dieselbe Zeile zweimal. Die Buchstaben waren scharf, nur sein Kopf war für zwei Sekunden wieder unter dem Vordach: Hellers Hand, der Knall, nasser Beton. Dann zwang ihn der Bildschirm zurück.
 
 Daniel presste die linke Hand unter die Tischkante, bis das Zittern kleiner wurde.
 
@@ -18492,11 +18448,9 @@ Ein Teil der angenommenen Verbindung fehlte.
 
 Aber das gesicherte Material, die realen Zugänge und das veränderte Zeitfenster reichten, um den Gefahrenkern zu tragen.
 
-Daniel merkte, wie wenig Erleichterung das brachte.
+Erleichterung blieb aus. Fast schlimmer war, dass die Wirklichkeit wieder nicht sauber genug war, um irgendeine Seite moralisch zu retten.
 
-Es war fast schlimmer, dass die Wirklichkeit wieder nicht sauber genug war, um irgendeine Seite moralisch zu retten.
-
-Daniel merkte erst da, dass seine linke Hand leicht zitterte.
+Unter der Tischkante zitterte seine linke Hand leicht.
 
 Berg kam in den Kanal.
 
@@ -18952,13 +18906,7 @@ Sie schob das Blatt zu ihm, zog es aber sofort wieder zurück.
 
 Daniel nickte.
 
-Er merkte, dass der Unterschied klein aussah und trotzdem groß war.
-
-Er gab Jana keine Liste mehr, die sie abarbeiten sollte.
-
-Er gab ihr den Stand.
-
-Was sie daraus machte, blieb bei ihr.
+Der Unterschied sah klein aus und reichte doch bis in jede ihrer nächsten Entscheidungen: keine Liste mehr zum Abarbeiten, nur der Stand. Was Jana daraus machte, blieb bei ihr.
 
 Sie stand auf und öffnete den kleinen Kalender an der Wand.
 
@@ -19084,19 +19032,7 @@ Daniel musste lachen, obwohl er nicht damit gerechnet hatte.
 
 Jana nahm die Tasse und spülte sie aus.
 
-Die Wohnung der Mutter hatte weiter existiert, während Daniel glaubte, der Fall verschlinge jede verfügbare Wirklichkeit.
-
-Makler.
-
-Fotos.
-
-Vollmacht.
-
-Ein nächster Termin.
-
-Nicht dramatisch.
-
-Nur Leben, das keine Freigabe von seiner Lage brauchte.
+Die Wohnung der Mutter hatte weiter existiert, während Daniel geglaubt hatte, der Fall verschlinge jede verfügbare Wirklichkeit: Makler, Fotos, Vollmacht, ein nächster Termin. Nichts daran war dramatisch. Es war einfach Leben, das keine Freigabe von seiner Lage brauchte.
 
 Jana stellte die Tasse ins Becken.
 
@@ -19986,11 +19922,7 @@ Daniel stand in ihrer Küche in Hamburg und sah auf einen kleinen Filterhalter a
 
 Sie stellte den Wasserkocher an.
 
-Die Wohnung war kleiner als ihre alte gemeinsame in Berlin.
-
-Nicht provisorisch.
-
-Das hatte Daniel beim ersten Besuch überrascht.
+Die Wohnung war kleiner als ihre alte gemeinsame in Berlin, aber sie wirkte nicht provisorisch. Das hatte Daniel beim ersten Besuch überrascht.
 
 Bilder an der Wand. Bücher im Regal. Schuhe im Flur. Ein Pflanzenständer am Fenster, den Mara niemals in Berlin gekauft hätte, weil dort kein Platz dafür gewesen war.
 
@@ -20132,13 +20064,9 @@ Ob es überhaupt sein Problem war.
 
 Mara sagte nichts dazu.
 
-Als der Ständer gerade stand, stellte Daniel den Schraubenzieher zurück in die Schublade, in der Mara ihn inzwischen aufbewahrte.
+Als der Ständer gerade stand, stellte Daniel den Schraubenzieher zurück in die Schublade, in der Mara ihn inzwischen aufbewahrte. Beim dritten Besuch wusste er bereits, wo sie war.
 
-Er wusste, wo sie war, weil er zum dritten Mal hier war.
-
-Das war nicht Zuhause.
-
-Aber auch nicht mehr Besuch bei einer Fremden.
+Noch nicht Zuhause. Aber längst mehr als Besuch bei einer Fremden.
 
 „Wie läuft die Wohnungssuche für dein Team?“ fragte er.
 
@@ -20150,11 +20078,7 @@ Aber auch nicht mehr Besuch bei einer Fremden.
 
 Daniel nickte.
 
-Es gab inzwischen viele Menschen in Maras Alltag, die er nur aus halben Sätzen kannte.
-
-Nicht weil sie sie ihm verschwieg.
-
-Weil er nicht dabei gewesen war, als sie wichtig geworden waren.
+Es gab inzwischen viele Menschen in Maras Alltag, die er nur aus halben Sätzen kannte. Sie verschwieg sie ihm nicht; er war nur nicht dabei gewesen, als sie wichtig geworden waren.
 
 „Nächste Woche komme ich Samstag“, sagte er.
 
@@ -20318,11 +20242,7 @@ Berg folgte ihr.
 
 Jonas sagte: „Ob wir früh eine Verbundprüfung ziehen.“
 
-Daniel sah zu ihm.
-
-Nicht weil der Vorschlag falsch war.
-
-Weil er so normal klang.
+Daniel sah zu ihm. Der Vorschlag störte ihn nicht, weil er falsch klang, sondern weil er so normal klang.
 
 Berg fragte: „Kreis?“
 
@@ -20368,25 +20288,9 @@ Das Gespräch dauerte kaum zwanzig Sekunden.
 
 Daniel erinnerte sich daran, wie viel Reibung schon der Gedanke an seinen ersten Zugriff ausgelöst hatte.
 
-Jetzt war die Reibung nicht verschwunden.
+Die Reibung war nicht verschwunden; sie hatte Formulare, Rollen, Schwellen und Zuständigkeiten bekommen. Das machte die Arbeit besser als Improvisation und zeigte zugleich, dass das Instrument längst keine Improvisation mehr war.
 
-Sie hatte Formulare bekommen.
-
-Rollen.
-
-Schwellen.
-
-Zuständigkeiten.
-
-Das war besser als Improvisation.
-
-Und zugleich der Beweis, dass das Instrument nicht mehr improvisiert war.
-
-Niemand im Raum fragte, ob eine solche Verknüpfung grundsätzlich in Ordnung war.
-
-Sie diskutierten nur den Kreis.
-
-Daniel merkte es, während Lena einen der Nachtzugriffe markierte.
+Erst während Lena einen der Nachtzugriffe markierte, fiel Daniel auf, dass niemand im Raum noch fragte, ob eine solche Verknüpfung grundsätzlich in Ordnung war. Sie diskutierten nur den Kreis.
 
 „Hier ist ein Wartungsfenster im Gebäude“, sagte sie.
 
@@ -20664,9 +20568,7 @@ Lena sah ihn an.
 
 Daniel hörte beide Sätze.
 
-Keiner war falsch.
-
-Das war der gefährliche Teil.
+Beide Sätze konnten gleichzeitig stimmen. Darin lag die Gefahr.
 
 Jonas hatte nicht vergessen, dass Fehlzuordnungen existierten.
 
