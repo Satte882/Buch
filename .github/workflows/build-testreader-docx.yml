@@ -83,14 +83,15 @@ jobs:
         run: |
           from docx import Document
           from docx.enum.text import WD_ALIGN_PARAGRAPH
+          from docx.oxml.ns import qn
 
           specs = {
-              'AUSNAHMEZUSTAND_TESTLESER.docx': (WD_ALIGN_PARAGRAPH.LEFT, 0.0, 4.0, 11.5),
-              'AUSNAHMEZUSTAND_EINREICHUNG.docx': (WD_ALIGN_PARAGRAPH.LEFT, 0.75, 0.0, 12.0),
-              'AUSNAHMEZUSTAND_BUCHVORSCHAU.docx': (WD_ALIGN_PARAGRAPH.JUSTIFY, 0.45, 0.0, 10.5),
+              'AUSNAHMEZUSTAND_TESTLESER.docx': (WD_ALIGN_PARAGRAPH.LEFT, 0.0, 4.0, 11.5, 1.15),
+              'AUSNAHMEZUSTAND_EINREICHUNG.docx': (WD_ALIGN_PARAGRAPH.LEFT, 0.75, 0.0, 12.0, 1.5),
+              'AUSNAHMEZUSTAND_BUCHVORSCHAU.docx': (WD_ALIGN_PARAGRAPH.JUSTIFY, 0.0, 0.0, 10.5, 1.05),
           }
 
-          for filename, (alignment, normal_indent, space_after, font_size) in specs.items():
+          for filename, (alignment, normal_indent, space_after, font_size, line_spacing) in specs.items():
               doc = Document(filename)
               story_started = False
               after_boundary = False
@@ -121,6 +122,8 @@ jobs:
                   assert abs(actual_indent - expected_indent) < 0.01, (filename, actual_indent, expected_indent)
                   actual_after = 0.0 if fmt.space_after is None else fmt.space_after.pt
                   assert abs(actual_after - space_after) < 0.01, (filename, actual_after, space_after)
+                  actual_spacing = float(fmt.line_spacing)
+                  assert abs(actual_spacing - line_spacing) < 0.01, (filename, actual_spacing, line_spacing)
                   sizes = [r.font.size.pt for r in paragraph.runs if r.font.size is not None]
                   if sizes:
                       assert all(abs(size - font_size) < 0.01 for size in sizes)
@@ -128,6 +131,17 @@ jobs:
 
               assert headings == 48, (filename, headings)
               assert checked > 1000, (filename, checked)
+
+              if filename.endswith('BUCHVORSCHAU.docx'):
+                  settings = doc.settings._element
+                  assert settings.find(qn('w:autoHyphenation')) is not None
+                  assert settings.find(qn('w:mirrorMargins')) is not None
+                  assert settings.find(qn('w:evenAndOddHeaders')) is not None
+                  story = doc.sections[-1]
+                  assert story.footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.RIGHT
+                  assert story.even_page_footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.LEFT
+                  assert all(not p.text.strip() for p in story.header.paragraphs)
+
               print(f'Validated {filename}: headings={headings}, paragraphs={checked}')
 
       - name: Upload DOCX profiles
