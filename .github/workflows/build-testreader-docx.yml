@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - AUSNAHMEZUSTAND_FINAL.md
+      - MANUSKRIPT_FORMATIERUNG.md
       - scripts/build_testreader_docx.py
       - scripts/polish_docx.py
       - scripts/update_docx_toc.py
@@ -50,6 +51,34 @@ jobs:
           python scripts/polish_docx.py AUSNAHMEZUSTAND.docx
           test -s AUSNAHMEZUSTAND.docx
           unzip -t AUSNAHMEZUSTAND.docx >/dev/null
+
+      - name: Validate manuscript layout
+        shell: python
+        run: |
+          from docx import Document
+          from docx.enum.text import WD_ALIGN_PARAGRAPH
+
+          doc = Document('AUSNAHMEZUSTAND.docx')
+          story_started = False
+          checked = 0
+
+          for paragraph in doc.paragraphs:
+              style_name = paragraph.style.name if paragraph.style is not None else ''
+              if style_name == 'Heading 1':
+                  story_started = True
+                  continue
+              if not story_started or style_name != 'Normal' or not paragraph.text.strip():
+                  continue
+
+              checked += 1
+              fmt = paragraph.paragraph_format
+              assert paragraph.alignment == WD_ALIGN_PARAGRAPH.LEFT
+              assert fmt.first_line_indent is None or abs(fmt.first_line_indent.cm) < 0.001
+              assert fmt.space_after is not None and abs(fmt.space_after.pt - 4.0) < 0.01
+              assert fmt.space_before is None or abs(fmt.space_before.pt) < 0.01
+
+          assert checked > 1000, checked
+          print(f'Validated {checked} story paragraphs')
 
       - name: Materialize table of contents
         run: |
