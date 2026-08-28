@@ -5,6 +5,7 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 
+import pyphen
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
@@ -12,6 +13,8 @@ from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
 
 CHAPTER_RE = re.compile(r"^Kapitel\s+(\d+)(?:\s*[:\-–—].*)?$")
+GERMAN_WORD_RE = re.compile(r"[A-Za-zÄÖÜäöüß]{7,}")
+GERMAN_HYPHENATOR = pyphen.Pyphen(lang="de_DE")
 SOFT_HYPHEN = "\u00ad"
 
 CHAPTER_TITLES = {
@@ -147,6 +150,45 @@ def set_doc_setting_value(doc: Document, tag: str, value: int) -> None:
     node.set(qn("w:val"), str(value))
 
 
+def append_text_node(run_element, text: str) -> None:
+    if not text:
+        return
+    node = OxmlElement("w:t")
+    if text[0].isspace() or text[-1].isspace():
+        node.set(qn("xml:space"), "preserve")
+    node.text = text
+    run_element.append(node)
+
+
+def rewrite_run_with_word_soft_hyphens(run, text: str) -> int:
+    """Insert real OOXML optional hyphens, invisible unless a line breaks there."""
+    text = text.replace(SOFT_HYPHEN, "")
+    run_element = run._r
+
+    # Body runs in this manuscript contain text only. Preserve run properties
+    # (bold/italic/font) and rebuild the text with proper w:softHyphen elements.
+    for child in list(run_element):
+        if child.tag != qn("w:rPr"):
+            run_element.remove(child)
+
+    count = 0
+    pos = 0
+    for match in GERMAN_WORD_RE.finditer(text):
+        append_text_node(run_element, text[pos:match.start()])
+        word = match.group(0)
+        positions = [] if word.isupper() else GERMAN_HYPHENATOR.positions(word)
+        last = 0
+        for split in positions:
+            append_text_node(run_element, word[last:split])
+            run_element.append(OxmlElement("w:softHyphen"))
+            count += 1
+            last = split
+        append_text_node(run_element, word[last:])
+        pos = match.end()
+    append_text_node(run_element, text[pos:])
+    return count
+
+
 def convert_book_quotes(text: str) -> str:
     """Match the visual benchmark without changing the Markdown master."""
     return text.replace("„", "»").replace("“", "«")
@@ -217,8 +259,6 @@ def configure_sections(doc: Document, profile: Profile, *, font_name: str) -> No
     set_doc_setting(doc, "mirrorMargins", profile.mirror_margins)
 
     if profile.name == "buchvorschau":
-        # Use Word's real automatic German hyphenation. Do not inject optional
-        # hyphens into words; some Word/LibreOffice paths render those visibly.
         set_doc_setting(doc, "doNotHyphenateCaps", True)
         set_doc_setting_value(doc, "hyphenationZone", 230)
         set_doc_setting_value(doc, "consecutiveHyphenLimit", 2)
@@ -286,6 +326,7 @@ def polish_docx(path: Path, profile: Profile) -> None:
     story_started = False
     after_boundary = False
     scene_count = 0
+    optional_hyphen_count = 0
 
     for paragraph in doc.paragraphs:
         style_name = paragraph.style.name if paragraph.style is not None else ""
@@ -344,17 +385,22 @@ def polish_docx(path: Path, profile: Profile) -> None:
                 text = run.text.replace("—", "–").replace(SOFT_HYPHEN, "")
                 if profile.name == "buchvorschau":
                     text = convert_book_quotes(text)
-                run.text = text
                 set_run_font(run, name=font_name, size=profile.body_size)
+                if profile.name == "buchvorschau":
+                    optional_hyphen_count += rewrite_run_with_word_soft_hyphens(run, text)
+                else:
+                    run.text = text
             after_boundary = False
 
     if seen != list(range(1, 48)):
         raise SystemExit(f"Chapter headings mismatch after polish: {seen}")
+    if profile.name == "buchvorschau" and optional_hyphen_count < 1000:
+        raise SystemExit(f"Too few OOXML optional hyphens: {optional_hyphen_count}")
 
     doc.save(path)
     print(
         f"Polished {path} as {profile.name}; chapters={len(seen)}, "
-        f"scene_breaks={scene_count}, font={font_name}, automatic_hyphenation={profile.auto_hyphenation}"
+        f"scene_breaks={scene_count}, optional_hyphens={optional_hyphen_count}, font={font_name}"
     )
 
 
