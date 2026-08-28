@@ -27,14 +27,12 @@ Diese Dateien dürfen den finalen Romantext nicht stillschweigend überschreiben
 
 ## Technik
 
-- `scripts/build_testreader_docx.py` – erzeugt die DOCX-Grundstruktur aus dem Markdown-Master
+- `scripts/build_book_docx.py` – erzeugt die DOCX-Grundstruktur aus dem Markdown-Master
 - `scripts/polish_docx.py` – setzt den verbindlichen Buchsatz um
 - `scripts/update_docx_toc.py` – materialisiert das Inhaltsverzeichnis
 - `scripts/audit_scene_breaks.py` – prüft semantische Szenenbrüche
-- `.github/workflows/build-testreader-docx.yml` – erzeugt und validiert `AUSNAHMEZUSTAND.docx`
+- `.github/workflows/build-book-docx.yml` – erzeugt und validiert `AUSNAHMEZUSTAND.docx`
 - `.github/workflows/manuskript-metriken.yml` – misst den aktuellen finalen Markdown-Master
-
-Die historisch gewachsenen Dateinamen `build_testreader_docx.py` / `build-testreader-docx.yml` sind nur technische Namen; ihr aktueller Zweck ist der **kanonische Buch-Build**.
 
 ## Historische Unterlagen
 
