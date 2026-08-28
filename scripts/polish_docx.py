@@ -80,8 +80,8 @@ PROFILES = {
     ),
     "buchvorschau": Profile(
         "buchvorschau", "NORMALFALL – Buchsatz im Sebastian-Fitzek-Benchmark",
-        12.5, 18.7, 0.65, 0.65, 1.35, 1.15,
-        12.5, WD_ALIGN_PARAGRAPH.JUSTIFY, 1.05, 0.0, 0.0,
+        12.0, 18.7, 0.65, 0.65, 1.35, 1.15,
+        12.5, WD_ALIGN_PARAGRAPH.JUSTIFY, 1.12, 0.0, 0.0,
         14.5, WD_ALIGN_PARAGRAPH.CENTER, 14.0, 8.0, 8.0,
         auto_hyphenation=True, deterministic_hyphenation=True,
         mirror_margins=True, page_number_outside=True,
