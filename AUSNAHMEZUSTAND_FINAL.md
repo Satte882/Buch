@@ -13722,9 +13722,7 @@ Er sah auf das dunkle Gebäude vor sich.
 
 Mara schwieg kurz.
 
-Daniel merkte, dass er sich schon erklären wollte.
-
-Tat er nicht.
+Die Erklärung stand schon bereit. Er sagte sie nicht.
 
 „Dann weißt du es nicht“, sagte sie.
 
