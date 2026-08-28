@@ -6,6 +6,7 @@ on:
     paths:
       - AUSNAHMEZUSTAND_FINAL.md
       - scripts/build_testreader_docx.py
+      - scripts/update_docx_toc.py
       - .github/workflows/build-testreader-docx.yml
 
 permissions:
@@ -23,25 +24,65 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Validate consolidated manuscript source
+      - name: Validate manuscript structure
         shell: python
         run: |
           from pathlib import Path
           import re
           text = Path('AUSNAHMEZUSTAND_FINAL.md').read_text(encoding='utf-8')
-          assert text.startswith('# NORMALFALL\n')
-          assert 'Normalfall, der:** Ein Fall, der nach den üblichen Regeln behandelt wird.' in text
-          assert 'Eine Regel widersteht allem, außer dem Beweis, dass es ohne sie besser geht.' in text
           assert re.findall(r'^## (Prolog|\d+)$', text, re.M) == ['Prolog'] + [str(i) for i in range(1, 48)]
           assert text.rstrip().endswith('„Wie belastbar ist deine Gegenhypothese?“')
 
-      - name: Install DOCX dependency
-        run: python -m pip install python-docx
+      - name: Install DOCX dependencies
+        run: |
+          python -m pip install python-docx
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno
 
       - name: Build DOCX
         run: |
           python scripts/build_testreader_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND.docx
           test -s AUSNAHMEZUSTAND.docx
+
+      - name: Materialize table of contents
+        run: |
+          /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND.docx
+          test -s AUSNAHMEZUSTAND.docx
+          unzip -t AUSNAHMEZUSTAND.docx >/dev/null
+
+      - name: Validate normalized opening
+        shell: python
+        run: |
+          from pathlib import Path
+          text = Path('AUSNAHMEZUSTAND_FINAL.md').read_text(encoding='utf-8')
+          expected = '''# NORMALFALL
+
+*Eine Regel widersteht  
+allem,*
+
+*außer dem Beweis,*
+
+*dass es ohne sie  
+besser geht.*
+
+---
+
+**Normalfall, der:**
+
+Ein Fall, der nach den üblichen Regeln  
+behandelt wird.
+
+*Eine Regel widersteht allem,*
+
+*außer dem Beweis,*
+
+*dass es ohne sie besser geht.*
+
+---
+
+## Prolog
+'''
+          assert text.startswith(expected)
 
       - name: Upload DOCX artifact
         uses: actions/upload-artifact@v4
@@ -50,14 +91,14 @@ jobs:
           path: AUSNAHMEZUSTAND.docx
           retention-days: 7
 
-      - name: Commit Word manuscript
+      - name: Commit formatted manuscript
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add AUSNAHMEZUSTAND.docx
+          git add AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND.docx
           if git diff --cached --quiet; then
-            echo "DOCX unchanged"
+            echo "Manuscript unchanged"
             exit 0
           fi
-          git commit -m "Build Word test-reader manuscript"
+          git commit -m "Format manuscript and refresh Word TOC"
           git push
