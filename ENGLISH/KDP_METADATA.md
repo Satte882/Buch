@@ -114,15 +114,19 @@ Not part of the first English release package unless explicitly opened later. If
 
 ### Paperback
 
-- interior: READY (`ENGLISH/NORMALFALL.docx`)
+- interior: **READY / CI VALIDATED** (`ENGLISH/NORMALFALL.docx`)
+- approved title inside production file: `REASONABLE MEASURES`
 - CI page-count guard: 568 pages
-- cover: BLOCKED until final KDP interior page count / Cover Calculator template
+- cover: **BLOCKED** until final KDP interior page count / Cover Calculator template
 
 ### Kindle eBook
 
-- print DOCX must not be reused as the final Kindle layout
-- target format: reflowable EPUB (or KPF if later produced with Kindle Create)
-- eBook production remains open until a dedicated reflowable file is built and previewed
+- eBook artifact: **READY FOR KDP PREVIEW** (`ENGLISH/REASONABLE_MEASURES.epub`)
+- format: reflowable EPUB 3
+- CI validation: PASS
+- structure: title page + definition page + Prologue + Chapters 1–47 + navigation TOC
+- print DOCX is not the Kindle source; EPUB has its own reflowable production pipeline
+- final gate: inspect the uploaded file in KDP/Kindle Previewer before publication
 
 ## Metadata consistency rules
 
@@ -135,11 +139,12 @@ Not part of the first English release package unless explicitly opened later. If
 
 ## Status
 
-Ready for KDP detail entry. Remaining release gates:
+Repository-side English release package is ready for KDP entry. Operational field-by-field instructions are in `ENGLISH/KDP_SUBMISSION.md`.
 
-1. translator contributor handling in the live KDP form
-2. format-specific ISBN assignment for print
-3. paperback interior upload and final KDP page count
+Remaining external/live release gates:
+
+1. translator contributor handling in the current KDP form
+2. Kindle front cover and Kindle Previewer pass
+3. paperback interior upload and final KDP-rendered page count
 4. final paperback cover PDF from the exact KDP Cover Calculator template
-5. dedicated reflowable eBook file and Kindle preview
-6. final pricing / royalty / territory confirmation in KDP
+5. final pricing / royalty / territory confirmation in KDP
