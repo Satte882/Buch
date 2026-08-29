@@ -13,7 +13,7 @@ Das Glossary wächst nur bei wiederkehrenden oder institutionell relevanten Ents
 | BKA | Germany's Federal Criminal Police Office (BKA) | bei erster erklärungsbedürftiger Nennung; danach `BKA` | approved |
 | Bundestag | Bundestag | falls nötig funktional als `German parliament` erklären; niemals `Congress` | approved |
 | Bundesgebäude | federal government building | kein US-spezifisches `Federal Building` als Eigenbegriff erzeugen | approved |
-| Verkehrskontrolle | traffic stop | nicht `traffic control` | approved |
+| Verkehrskontrolle | traffic stop | nicht `traffic control` oder `traffic check` | approved |
 | Streife | patrol / patrol officers | nach Satzfunktion; keine US-Dienstbezeichnung erfinden | approved |
 | Sicherheitsdienst | security / security staff / security service | nach Kontext; möglichst natürlich statt institutionell aufzublähen | approved |
 | Pförtner | security guard / gatehouse guard | `doorman` vermeiden | approved |
@@ -36,6 +36,16 @@ Das Glossary wächst nur bei wiederkehrenden oder institutionell relevanten Ents
 | Maßnahme | measure / action / operational step | nach Kontext | approved |
 | Hinweis | tip / report / information | anonyme/operative Meldung meist `tip`; Aktenkontext ggf. `report` | approved |
 | Verdacht / Verdachtsannahme | suspicion / working suspicion / grounds for suspicion | nach Grad und Register | approved |
+| Gegenhypothese | counterhypothesis | analytische Alternativhypothese; als wiederkehrender Fachbegriff konsistent | approved |
+| Gegenlesart | alternative explanation | keine wörtlichen Konstruktionen wie `counter-reading` / `counter-read` | approved |
+| Gegenprüfung | independent check / check of the alternative explanation | nach Satzfunktion; `counter-review` vermeiden | approved |
+| Verbundprüfung | integrated review | regulär gewordener Verfahrensbegriff ab Kapitel 44; vor der expliziten Einführung nicht vorwegnehmen | approved |
+| Täterstruktur | perpetrator network / operational network | nach Kontext; `offender structure` vermeiden | approved |
+| Unterstützerumfeld | support network | keine wörtliche `support environment`-Konstruktion | approved |
+| Unterstützerkontakt | support-network contact | wiederkehrender funktionaler Begriff | approved |
+| Fehlbelastung | wrongful implication / adverse consequence | Personenzuordnung vs. organisatorische Folge unterscheiden; `wrongful burden` vermeiden | approved |
+| Fachaufsicht | responsible supervisory authority / subject-matter oversight | nach institutionellem Kontext; keine US-Behördenstruktur erfinden | approved |
+| Kontrollstelle | oversight office | interne Kontrollfunktion; `control office` vermeiden | approved |
 
 ## Figuren, Orte und Eigennamen
 
@@ -84,3 +94,4 @@ Das Glossary wächst nur bei wiederkehrenden oder institutionell relevanten Ents
 |---|---|---|
 | 2026-08-29 | initiale Pilot-Terminologie angelegt | Prolog + Kapitel 1–3 |
 | 2026-08-29 | Status nach Pilot freigegeben; Register-/Systembegriffe aus Kapitel 5 ergänzt | Fortsetzung der English Edition |
+| 2026-08-30 | Terminologie aus Global-QA ergänzt: Gegenlesart/Gegenprüfung, Verbundprüfung, Täter-/Unterstützernetzwerk, Fehlbelastung und Oversight-Begriffe | Beseitigung wiederkehrender Germanismen und institutioneller Drift |
