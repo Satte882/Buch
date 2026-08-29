@@ -8,6 +8,8 @@ source_blob: 26b755fddf84d8dcdd86dc44420c5c0d3ce476ce
 source_language: German
 source_status: final / published
 working_title: NORMALFALL
+global_qa_status: COMPLETE
+global_qa_date: 2026-08-30
 
 ## Target
 
@@ -108,19 +110,30 @@ voice_freeze: 2026-08-29
 
 Ab jetzt gilt der freigegebene Pilot zusammen mit `STYLE_GUIDE.md` als Kalibrierungsreferenz. Änderungen an der Grundstimme erfolgen nur bei einem wiederkehrenden, im weiteren Manuskript belegten Problem — nicht kapitelweise nach Geschmack.
 
-## Noch zu beobachtende Qualitätsrisiken
+## Global QA
 
-- institutionelle BKA-/Behördenterminologie in komplexeren Szenen,
-- Daniels innere Stimme unter höherem Zeit- und Entscheidungsdruck,
-- Wiederholung knapper Reaktionskonstruktionen, die im Deutschen tragen, im Englischen aber bei zu hoher Frequenz als Muster auffallen könnten.
+Der vollständige englische Text (Prolog + Kapitel 1–47) wurde nach Abschluss der Übersetzung als Gesamtmanuskript auf wiederkehrende Übersetzungsartefakte und Konsistenz geprüft.
 
-Diese Punkte blockieren die Fortsetzung nicht; sie werden beim Auftreten geprüft.
+Geprüft und bereinigt wurden insbesondere:
+
+- wiederkehrende analytische Begriffe (`counterhypothesis`, `alternative explanation`, unabhängige Gegenprüfung),
+- institutionelles und administratives Englisch ohne US-Amerikanisierung,
+- `source/project picture`-Lehnübersetzungen,
+- Täter-/Unterstützernetzwerk-Terminologie,
+- Fehlzuordnungs-/Folgewirkungs-Sprache,
+- Zeitfenster-/Freigabeformulierungen im Finale,
+- die Verfahrenssprache der späteren `integrated review`,
+- bekannte False Friends und wörtliche deutsche Satzkonstruktionen,
+- die Benennungskontinuität zwischen Kapitel 43 und 44.
+
+Ergebnis: keine erkannte Plot-, Figuren-, Informations- oder Ambiguitätsabweichung durch den QA-Pass. Die englische Fassung gilt auf Textebene als **editorially complete**. Offene Publishing-Entscheidungen betreffen Titel/Metadaten, nicht mehr die Romanübersetzung.
 
 ## Dokumentierte Source-Abweichungen
 
 | Kapitel | Source | English Edition | Grund |
 |---|---|---|---|
 | 4 | Daniel zieht innerhalb derselben fortlaufenden Wohnungsszene zweimal die Jacke aus. | Zweite redundante Jacken-Handlung ausgelassen. | offensichtlicher mechanischer Kontinuitätsfehler; keine Story-/Bedeutungsänderung |
+| 43/44 | Kapitel 43 verwendet bereits `Verbundprüfung`, obwohl Kapitel 44 elf Wochen später ausdrücklich einführt, dass die bisherige `Projektstruktur` nun `Verbundprüfung` heißt. | Kapitel 43 bleibt bei `working structure`; `integrated review` wird erstmals in Kapitel 44 eingeführt. | mechanische Benennungskontinuität; erhält den beabsichtigten Naming-Reveal ohne Story-/Bedeutungsänderung |
 
 ## Offene Entscheidungen
 
@@ -136,3 +149,4 @@ Diese Punkte blockieren die Fortsetzung nicht; sie werden beim Auftreten geprüf
 | 2026-08-29 | Profil angelegt, Source auf Commit `f0aa559...` eingefroren, English (US) als Pilotvariante gesetzt | Start der englischen Edition |
 | 2026-08-29 | Pilot-Voice freigegeben; Localization-Linie eingefroren | Human Review Prolog + Kapitel 1–3 |
 | 2026-08-29 | transparente Regel für offensichtliche mechanische Source-Fehler ergänzt; Kapitel-4-Duplikat dokumentiert | Editorial Review Kapitel 4 |
+| 2026-08-30 | Global-QA-Pass Prolog + Kapitel 1–47 abgeschlossen; Terminologie, institutionelles Englisch, wiederkehrende Germanismen und Kapitel-43/44-Benennungskontinuität bereinigt | English manuscript editorial completion |
