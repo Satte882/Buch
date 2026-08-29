@@ -8,7 +8,14 @@
   "trim_size": "5.06 x 7.81 in",
   "metadata_file": "ENGLISH/KDP_METADATA.md",
   "metadata_status": "approved-for-submission",
+  "submission_file": "ENGLISH/KDP_SUBMISSION.md",
+  "paperback_file": "ENGLISH/NORMALFALL.docx",
+  "paperback_status": "built-ci-validated",
+  "paperback_ci_page_count": 568,
+  "paperback_cover_status": "blocked-until-kdp-page-count-and-template",
+  "ebook_file": "ENGLISH/REASONABLE_MEASURES.epub",
+  "ebook_status": "built-ci-validated-ready-for-kdp-preview",
   "ai_generated_translation_disclosure": true,
   "translator_contributor_status": "open-submission-gate",
-  "production_rule": "The approved market_title and KDP metadata are authoritative for the English edition; working_title remains the internal/source reference only."
+  "production_rule": "The approved market_title and KDP metadata are authoritative for the English edition; working_title remains the internal/source reference only. Final paperback cover dimensions require the live KDP-rendered page count and Cover Calculator template."
 }
