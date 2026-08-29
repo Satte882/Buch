@@ -81,8 +81,8 @@ jobs:
               assert abs(section.page_height.cm - 19.84) < 0.02
               assert abs(section.top_margin.cm - 1.22) < 0.02
               assert abs(section.bottom_margin.cm - 1.22) < 0.02
-              assert abs(section.left_margin.cm - 1.78) < 0.02
-              assert abs(section.right_margin.cm - 1.57) < 0.02
+              assert abs(section.left_margin.cm - 1.95) < 0.02
+              assert abs(section.right_margin.cm - 1.40) < 0.02
               assert abs(section.footer_distance.cm - 0.75) < 0.02
 
               text_width = section.page_width.cm - section.left_margin.cm - section.right_margin.cm
@@ -152,7 +152,7 @@ jobs:
               f'guillemets={guillemets}'
           )
 
-      - name: Check KDP page-count margin band
+      - name: Check KDP page-count gutter band
         run: |
           mkdir -p build/kdp-preview
           libreoffice --headless --convert-to pdf --outdir build/kdp-preview AUSNAHMEZUSTAND.docx >/dev/null
@@ -161,8 +161,11 @@ jobs:
             echo "Could not determine rendered page count"
             exit 1
           fi
-          if [ "$PAGES" -lt 24 ] || [ "$PAGES" -gt 500 ]; then
-            echo "Rendered page count $PAGES is outside the approved KDP band 24-500"
+          # The canonical gutter is 19.5 mm, covering KDP's 501-700 page band.
+          # LibreOffice provides a reproducible CI guard; KDP Previewer remains
+          # the final production check because pagination can vary by renderer.
+          if [ "$PAGES" -lt 24 ] || [ "$PAGES" -gt 700 ]; then
+            echo "Rendered page count $PAGES is outside the approved KDP band 24-700"
             exit 1
           fi
           echo "LibreOffice KDP preview page count: $PAGES"
