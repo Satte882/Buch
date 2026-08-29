@@ -17,6 +17,10 @@ from polish_docx import PROFILES, polish_docx
 # instead of simply enlarging the text block. This keeps line length, density
 # and the approved thriller typesetting visually stable while moving the trim
 # to a KDP-supported size.
+#
+# The CI preview currently renders above 500 pages. KDP requires a 19.1 mm
+# inside margin for 501-700 pages. We use 19.5 mm for a small rounding reserve
+# and compensate on the outside so the approved 9.50 cm text width is unchanged.
 KDP_PROFILE = replace(
     PROFILES["buchvorschau"],
     subject="NORMALFALL – KDP Paperback 5.06 x 7.81 in",
@@ -24,8 +28,8 @@ KDP_PROFILE = replace(
     page_height_cm=19.84,
     top_cm=1.22,
     bottom_cm=1.22,
-    left_cm=1.78,   # inside margin with mirrorMargins enabled
-    right_cm=1.57,  # outside margin
+    left_cm=1.95,   # inside margin with mirrorMargins enabled
+    right_cm=1.40,  # outside margin; preserves 9.50 cm live text width
 )
 
 # Page numbers are printable content as well. Keep them safely farther from
@@ -59,7 +63,7 @@ def main() -> None:
     apply_kdp_layout(args.document)
     print(
         "Applied KDP layout: 12.85 x 19.84 cm, "
-        "margins 1.78/1.57/1.22/1.22 cm, footer 0.75 cm"
+        "margins 1.95/1.40/1.22/1.22 cm, footer 0.75 cm"
     )
 
 
