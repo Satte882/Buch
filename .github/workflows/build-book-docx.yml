@@ -8,6 +8,7 @@ on:
       - MANUSKRIPT_FORMATIERUNG.md
       - scripts/build_book_docx.py
       - scripts/polish_docx.py
+      - scripts/kdp_book_layout.py
       - scripts/audit_scene_breaks.py
       - scripts/update_docx_toc.py
       - .github/workflows/build-book-docx.yml
@@ -53,19 +54,20 @@ jobs:
         run: |
           python -m pip install python-docx pyphen
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno hyphen-de
+          sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno hyphen-de poppler-utils
 
-      - name: Build canonical Sebastian-Fitzek benchmark DOCX
+      - name: Build canonical KDP paperback DOCX
         run: |
           python scripts/build_book_docx.py AUSNAHMEZUSTAND_FINAL.md AUSNAHMEZUSTAND.docx
-          python scripts/polish_docx.py AUSNAHMEZUSTAND.docx --profile buchvorschau
+          python scripts/kdp_book_layout.py AUSNAHMEZUSTAND.docx
           /usr/bin/python3 scripts/update_docx_toc.py AUSNAHMEZUSTAND.docx
-          # Reapply after TOC materialization so the final file contains proper
-          # Word optional-hyphen elements, never literal U+00AD text characters.
-          python scripts/polish_docx.py AUSNAHMEZUSTAND.docx --profile buchvorschau
+          # Reapply after TOC materialization so the final file contains the
+          # canonical KDP geometry and proper Word optional-hyphen elements,
+          # never literal U+00AD text characters.
+          python scripts/kdp_book_layout.py AUSNAHMEZUSTAND.docx
           unzip -t AUSNAHMEZUSTAND.docx >/dev/null
 
-      - name: Validate Fitzek benchmark layout
+      - name: Validate KDP paperback layout
         shell: python
         run: |
           from docx import Document
@@ -73,13 +75,20 @@ jobs:
           from docx.oxml.ns import qn
 
           doc = Document('AUSNAHMEZUSTAND.docx')
-          section = doc.sections[-1]
-          assert abs(section.page_width.cm - 12.0) < 0.02
-          assert abs(section.page_height.cm - 18.7) < 0.02
-          assert abs(section.top_margin.cm - 0.65) < 0.02
-          assert abs(section.bottom_margin.cm - 0.65) < 0.02
-          assert abs(section.left_margin.cm - 1.35) < 0.02
-          assert abs(section.right_margin.cm - 1.15) < 0.02
+
+          for section in doc.sections:
+              assert abs(section.page_width.cm - 12.85) < 0.02
+              assert abs(section.page_height.cm - 19.84) < 0.02
+              assert abs(section.top_margin.cm - 1.22) < 0.02
+              assert abs(section.bottom_margin.cm - 1.22) < 0.02
+              assert abs(section.left_margin.cm - 1.78) < 0.02
+              assert abs(section.right_margin.cm - 1.57) < 0.02
+              assert abs(section.footer_distance.cm - 0.75) < 0.02
+
+              text_width = section.page_width.cm - section.left_margin.cm - section.right_margin.cm
+              text_height = section.page_height.cm - section.top_margin.cm - section.bottom_margin.cm
+              assert abs(text_width - 9.50) < 0.03
+              assert abs(text_height - 17.40) < 0.03
 
           story_started = False
           headings = 0
@@ -131,20 +140,37 @@ jobs:
           assert settings.find(qn('w:consecutiveHyphenLimit')) is not None
           assert settings.find(qn('w:mirrorMargins')) is not None
           assert settings.find(qn('w:evenAndOddHeaders')) is not None
-          assert section.footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.RIGHT
-          assert section.even_page_footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.LEFT
-          assert all(not p.text.strip() for p in section.header.paragraphs)
+
+          story = doc.sections[-1]
+          assert story.footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.RIGHT
+          assert story.even_page_footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.LEFT
+          assert all(not p.text.strip() for p in story.header.paragraphs)
 
           print(
-              f'Validated Fitzek benchmark: headings={headings}, paragraphs={checked}, '
+              f'Validated KDP layout: headings={headings}, paragraphs={checked}, '
               f'literal_soft_hyphens={literal_soft_hyphens}, word_soft_hyphens={word_soft_hyphens}, '
               f'guillemets={guillemets}'
           )
 
+      - name: Check KDP page-count margin band
+        run: |
+          mkdir -p build/kdp-preview
+          libreoffice --headless --convert-to pdf --outdir build/kdp-preview AUSNAHMEZUSTAND.docx >/dev/null
+          PAGES=$(pdfinfo build/kdp-preview/AUSNAHMEZUSTAND.pdf | awk '/^Pages:/ {print $2}')
+          if [ -z "$PAGES" ]; then
+            echo "Could not determine rendered page count"
+            exit 1
+          fi
+          if [ "$PAGES" -lt 24 ] || [ "$PAGES" -gt 500 ]; then
+            echo "Rendered page count $PAGES is outside the approved KDP band 24-500"
+            exit 1
+          fi
+          echo "LibreOffice KDP preview page count: $PAGES"
+
       - name: Upload canonical DOCX
         uses: actions/upload-artifact@v4
         with:
-          name: ausnahmezustand-fitzek-benchmark
+          name: normalfall-kdp-5-06x7-81
           path: AUSNAHMEZUSTAND.docx
           retention-days: 7
 
@@ -157,11 +183,9 @@ jobs:
             echo "Canonical manuscript unchanged"
             exit 0
           fi
-          git commit -m "Refresh Fitzek benchmark DOCX"
+          git commit -m "Refresh KDP paperback DOCX"
           # Documentation/metrics may have advanced main while this relatively
           # long DOCX build was running. Rebase this single generated-file commit
           # before pushing instead of failing on a harmless non-fast-forward.
           git pull --rebase origin main
           git push
-
-# Refresh generated book after the final style-formula audit.
