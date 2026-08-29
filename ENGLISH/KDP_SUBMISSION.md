@@ -67,6 +67,8 @@ If the live picker uses different wording, select the closest semantic equivalen
 
 - manuscript file: `ENGLISH/REASONABLE_MEASURES.epub`
 - format: reflowable EPUB 3
+- CI package validation: PASS
+- W3C EPUBCheck 5.3.0 / EPUB 3.3: **PASS — 0 errors, 0 warnings**
 - ISBN: not required for KDP eBook
 - cover: English front cover with exact title `REASONABLE MEASURES`
 
@@ -96,7 +98,7 @@ In Kindle Previewer / KDP preview verify:
 - title inside file: `REASONABLE MEASURES`
 - trim size: **5.06 × 7.81 in (12.85 × 19.84 cm)**
 - bleed: **No bleed**
-- interior: black ink
+- interior: **black ink on white paper**
 - CI render guard: **568 pages**
 - KDP Previewer page count: **OPEN — authoritative for cover/spine production**
 
@@ -119,7 +121,7 @@ Required sequence:
 
 1. create the paperback project in KDP
 2. upload `ENGLISH/NORMALFALL.docx`
-3. set trim size / ink / paper / bleed exactly as intended
+3. set **black ink, white paper, 5.06 × 7.81 in, no bleed**
 4. run KDP Previewer and record the final KDP page count
 5. generate/download the exact KDP Cover Calculator template for those settings
 6. build the one-page full-wrap PDF against that template
