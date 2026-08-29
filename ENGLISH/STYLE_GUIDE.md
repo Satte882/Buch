@@ -1,6 +1,6 @@
 # Style Guide – NORMALFALL English Edition
 
-status: pilot
+status: approved
 source_commit: f0aa559c27accfb136f1277e569adfb6dd9dfb96
 target_variant: English (US)
 
@@ -31,6 +31,17 @@ Ziel ist schnelle, unmittelbare, kommerziell zugängliche Thriller-Prosa.
 - Natürliche Wiederholung darf bestehen bleiben.
 
 Der englische Text darf flüssiger gebaut sein als die deutsche Syntax, aber nicht glatter als die Figur oder Situation.
+
+### Wiederholungsmuster im Englischen
+
+Knappe Konstruktionen wie `Jonas waited for more. Daniel gave him nothing.` funktionieren punktuell und dürfen stehen bleiben. Sie dürfen aber nicht als wiederkehrender Ersatz für Reaktion, Schweigen oder Perspektivführung über viele Kapitel hinweg automatisiert werden.
+
+Prüfung bei Wiederholung:
+
+- trägt die Konstruktion hier tatsächlich Daniels kontrollierte Zurückhaltung,
+- oder wurde nur ein deutsches Kurzsatzmuster erneut gespiegelt?
+
+Wenn Letzteres: Reaktion funktional variieren, ohne künstliche Synonymvariation oder zusätzliche Erklärung zu erzeugen.
 
 ## 3. Spannung
 
@@ -168,6 +179,8 @@ Gezielt vermeiden:
 - turning German institutional terms into US agencies or job titles,
 - semantically accurate but non-idiomatic collocations.
 
+Auch technisch korrekte Kollokationen werden idiomatisch geprüft. Beispiel aus dem Pilot: `gathered at the front sight` wurde zu `pooled at the front sight` geändert, weil die zweite Fassung im konkreten Bild natürlicheres englisches Prosa-Englisch erzeugt.
+
 ### Preferred principle
 
 **Translate function and force, not sentence architecture.**
@@ -206,15 +219,18 @@ Ein deutscher Begriff darf je nach Funktion unterschiedliche englische Wörter b
 - Keine stärkere politische Kommentierung als im Source.
 - Kein permanentes Stakkato als Thriller-Simulation.
 
-## Pilot-Abnahmefrage
+## Pilot-Abnahme
 
-Der Pilot besteht nur, wenn beide Aussagen gleichzeitig wahr sind:
+Der Pilot wurde am 2026-08-29 menschlich freigegeben. Beide Kriterien gelten als erfüllt:
 
-1. Ein englischsprachiger Thriller-Leser würde den Text nicht spontan als deutsche Übersetzung erkennen.
-2. Ein Vergleich mit dem deutschen Source zeigt keine relevante Verschiebung von Bedeutung, Informationsstand, Figurenstimme oder moralischer Ambiguität.
+1. Der englische Text wirkt nicht spontan wie eine deutsche Übersetzung.
+2. Der Vergleich mit dem deutschen Source zeigt keine relevante Verschiebung von Bedeutung, Informationsstand, Figurenstimme oder moralischer Ambiguität.
+
+Die Pilot-Voice ist damit **eingefrorene Kalibrierungsreferenz**. Weitere Kapitel werden daran ausgerichtet; einzelne Geschmackspräferenzen führen nicht zu einer laufenden Neujustierung der Grundstimme.
 
 ## Änderungsverlauf
 
 | Datum | Änderung | Grund |
 |---|---|---|
 | 2026-08-29 | Pilot-Style-Guide aus finalem Manuskript, `STILREFERENZ.md` und Figurenlogik abgeleitet | Start English Edition |
+| 2026-08-29 | Pilot freigegeben; Kollokations- und Wiederholungsmuster-Regel ergänzt; Voice eingefroren | Human Review des Piloten |
