@@ -6,6 +6,7 @@ from pathlib import Path
 
 import pyphen
 from docx import Document
+from docx.enum.style import WD_STYLE_TYPE
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
@@ -49,6 +50,13 @@ def set_doc_setting_value(doc: Document, tag: str, value: int) -> None:
     node.set(qn("w:val"), str(value))
 
 
+def get_or_create_paragraph_style(doc: Document, name: str):
+    for style in doc.styles:
+        if style.name == name:
+            return style
+    return doc.styles.add_style(name, WD_STYLE_TYPE.PARAGRAPH)
+
+
 def set_run_font(run, *, name: str = "Garamond", size: float = BODY_SIZE) -> None:
     run.font.name = name
     run.font.size = Pt(size)
@@ -67,8 +75,8 @@ def set_run_font(run, *, name: str = "Garamond", size: float = BODY_SIZE) -> Non
         lang.set(qn(f"w:{attr}"), "en-US")
 
 
-def configure_style_font(style, *, name: str, size: float, bold: bool = False) -> None:
-    style.font.name = name
+def configure_style_font(style, *, size: float, bold: bool = False) -> None:
+    style.font.name = "Garamond"
     style.font.size = Pt(size)
     style.font.bold = bold
     rpr = style.element.get_or_add_rPr()
@@ -77,7 +85,7 @@ def configure_style_font(style, *, name: str, size: float, bold: bool = False) -
         rfonts = OxmlElement("w:rFonts")
         rpr.insert(0, rfonts)
     for attr in ("ascii", "hAnsi", "eastAsia", "cs"):
-        rfonts.set(qn(f"w:{attr}"), name)
+        rfonts.set(qn(f"w:{attr}"), "Garamond")
     lang = rpr.find(qn("w:lang"))
     if lang is None:
         lang = OxmlElement("w:lang")
@@ -125,6 +133,7 @@ def add_page_number_field(paragraph, alignment: int, *, size: float = 9.0) -> No
     paragraph.alignment = alignment
     paragraph.paragraph_format.space_before = Pt(0)
     paragraph.paragraph_format.space_after = Pt(0)
+
     field = OxmlElement("w:fldSimple")
     field.set(qn("w:instr"), " PAGE ")
     run = OxmlElement("w:r")
@@ -132,11 +141,11 @@ def add_page_number_field(paragraph, alignment: int, *, size: float = 9.0) -> No
     rfonts = OxmlElement("w:rFonts")
     for attr in ("ascii", "hAnsi", "eastAsia", "cs"):
         rfonts.set(qn(f"w:{attr}"), "Garamond")
-    sz = OxmlElement("w:sz")
-    sz.set(qn("w:val"), str(int(round(size * 2))))
+    size_node = OxmlElement("w:sz")
+    size_node.set(qn("w:val"), str(int(round(size * 2))))
     lang = OxmlElement("w:lang")
     lang.set(qn("w:val"), "en-US")
-    rpr.extend([rfonts, sz, lang])
+    rpr.extend([rfonts, size_node, lang])
     run.append(rpr)
     text = OxmlElement("w:t")
     text.text = "1"
@@ -166,6 +175,10 @@ def configure_outside_page_numbers(doc: Document) -> None:
     add_page_number_field(story.even_page_footer.paragraphs[0], WD_ALIGN_PARAGRAPH.LEFT)
 
 
+def is_story_heading(text: str) -> bool:
+    return text == "Prologue" or CHAPTER_RE.match(text) is not None
+
+
 def apply_layout(path: Path) -> None:
     doc = Document(path)
     doc.core_properties.subject = f"{doc.core_properties.title} – English KDP Paperback 5.06 x 7.81 in"
@@ -189,10 +202,11 @@ def apply_layout(path: Path) -> None:
     set_doc_setting_value(doc, "consecutiveHyphenLimit", 2)
     configure_outside_page_numbers(doc)
 
-    normal = doc.styles["Normal"]
-    heading1 = doc.styles["Heading 1"]
-    scene = doc.styles["Scene Break"]
-    configure_style_font(normal, name="Garamond", size=BODY_SIZE)
+    normal = get_or_create_paragraph_style(doc, "Normal")
+    heading1 = get_or_create_paragraph_style(doc, "Heading 1")
+    scene = get_or_create_paragraph_style(doc, "Scene Break")
+
+    configure_style_font(normal, size=BODY_SIZE)
     normal.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
     normal.paragraph_format.line_spacing = LINE_SPACING
     normal.paragraph_format.space_before = Pt(0)
@@ -200,7 +214,7 @@ def apply_layout(path: Path) -> None:
     normal.paragraph_format.first_line_indent = Cm(0)
     normal.paragraph_format.widow_control = False
 
-    configure_style_font(heading1, name="Garamond", size=HEADING_SIZE, bold=True)
+    configure_style_font(heading1, size=HEADING_SIZE, bold=True)
     heading1.font.color.rgb = RGBColor(0, 0, 0)
     heading1.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     heading1.paragraph_format.first_line_indent = Cm(0)
@@ -210,7 +224,7 @@ def apply_layout(path: Path) -> None:
     heading1.paragraph_format.keep_together = True
     heading1.paragraph_format.page_break_before = True
 
-    configure_style_font(scene, name="Garamond", size=11.5)
+    configure_style_font(scene, size=11.5)
     scene.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     scene.paragraph_format.first_line_indent = Cm(0)
     scene.paragraph_format.space_before = Pt(8)
@@ -220,15 +234,19 @@ def apply_layout(path: Path) -> None:
     seen: list[int] = []
     story_started = False
     optional_hyphen_count = 0
+
     for paragraph in doc.paragraphs:
-        style_name = paragraph.style.name if paragraph.style is not None else ""
-        if style_name == "Heading 1":
+        text = paragraph.text.strip()
+
+        # LibreOffice may rename or drop Word's built-in Heading 1 style when
+        # materializing the TOC. Identify story headings by their controlled
+        # text, then restore the semantic Word style on the second layout pass.
+        if is_story_heading(text):
             story_started = True
-            text = paragraph.text.strip()
+            paragraph.style = heading1
             if text != "Prologue":
                 match = CHAPTER_RE.match(text)
-                if not match:
-                    raise SystemExit(f"Unexpected Heading 1 text: {text!r}")
+                assert match is not None
                 seen.append(int(match.group(1)))
             paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
             paragraph.paragraph_format.page_break_before = True
@@ -237,24 +255,29 @@ def apply_layout(path: Path) -> None:
                 set_run_font(run, size=HEADING_SIZE)
                 run.bold = True
             continue
-        if not story_started:
+
+        if not story_started or not text:
             continue
-        if style_name == "Scene Break":
+
+        if text == "*":
+            paragraph.style = scene
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
             for run in paragraph.runs:
                 run.text = run.text.replace(SOFT_HYPHEN, "")
                 set_run_font(run, size=11.5)
             continue
-        if style_name == "Normal" and paragraph.text.strip():
-            paragraph.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-            paragraph.paragraph_format.line_spacing = LINE_SPACING
-            paragraph.paragraph_format.space_before = Pt(0)
-            paragraph.paragraph_format.space_after = Pt(0)
-            paragraph.paragraph_format.first_line_indent = Cm(0)
-            paragraph.paragraph_format.widow_control = False
-            for run in paragraph.runs:
-                text = run.text.replace(SOFT_HYPHEN, "")
-                set_run_font(run)
-                optional_hyphen_count += rewrite_run_with_soft_hyphens(run, text)
+
+        paragraph.style = normal
+        paragraph.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        paragraph.paragraph_format.line_spacing = LINE_SPACING
+        paragraph.paragraph_format.space_before = Pt(0)
+        paragraph.paragraph_format.space_after = Pt(0)
+        paragraph.paragraph_format.first_line_indent = Cm(0)
+        paragraph.paragraph_format.widow_control = False
+        for run in paragraph.runs:
+            run_text = run.text.replace(SOFT_HYPHEN, "")
+            set_run_font(run)
+            optional_hyphen_count += rewrite_run_with_soft_hyphens(run, run_text)
 
     if seen != list(range(1, 48)):
         raise SystemExit(f"Chapter headings mismatch after English KDP layout: {seen}")
@@ -266,7 +289,9 @@ def apply_layout(path: Path) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Apply the canonical NORMALFALL KDP geometry with English (US) typography/hyphenation.")
+    parser = argparse.ArgumentParser(
+        description="Apply the canonical KDP geometry with English (US) typography/hyphenation."
+    )
     parser.add_argument("document", type=Path)
     args = parser.parse_args()
     if not args.document.exists():
