@@ -1,6 +1,6 @@
 # Localization Profile – NORMALFALL English Edition
 
-status: pilot
+status: approved
 source_repository: Satte882/Buch
 source_file: AUSNAHMEZUSTAND_FINAL.md
 source_commit: f0aa559c27accfb136f1277e569adfb6dd9dfb96
@@ -99,19 +99,31 @@ Pilotumfang:
 - Kapitel 2
 - Kapitel 3
 
-Ziel des Piloten ist nicht die inhaltliche Freigabe des Plots – dieser ist Source of Truth –, sondern die Prüfung, ob die englische Stimme gleichzeitig natürlich, kommerziell lesbar und dem deutschen Roman treu ist.
+Der Pilot wurde nach Translation und getrenntem Editorial Review menschlich abgenommen. Die englische Voice trägt: Dialogmechanik, Rhythmus und Daniels kontrollierte Erkenntnislogik funktionieren im Zieltext ohne erkennbare Übersetzungsprosa.
 
-status_after_translation: pending human voice approval
+status_after_translation: APPROVED
+voice_freeze: 2026-08-29
+
+Ab jetzt gilt der freigegebene Pilot zusammen mit `STYLE_GUIDE.md` als Kalibrierungsreferenz. Änderungen an der Grundstimme erfolgen nur bei einem wiederkehrenden, im weiteren Manuskript belegten Problem — nicht kapitelweise nach Geschmack.
+
+## Noch zu beobachtende Qualitätsrisiken
+
+- institutionelle BKA-/Behördenterminologie in komplexeren Szenen,
+- Daniels innere Stimme unter höherem Zeit- und Entscheidungsdruck,
+- Wiederholung knapper Reaktionskonstruktionen, die im Deutschen tragen, im Englischen aber bei zu hoher Frequenz als Muster auffallen könnten.
+
+Diese Punkte blockieren die Fortsetzung nicht; sie werden beim Auftreten geprüft.
 
 ## Offene Entscheidungen
 
 | Thema | Entscheidung nötig bis | Status | Entscheidung |
 |---|---|---|---|
 | finaler englischer Buchtitel | vor KDP-Metadaten/Produktion | open | `NORMALFALL` bleibt Arbeitstitel |
-| finale englische KDP-Beschreibung | Publishing | open | nicht Teil des Piloten |
+| finale englische KDP-Beschreibung | Publishing | open | nicht Teil der Textlokalisierung |
 
 ## Änderungsverlauf
 
 | Datum | Änderung | Grund |
 |---|---|---|
 | 2026-08-29 | Profil angelegt, Source auf Commit `f0aa559...` eingefroren, English (US) als Pilotvariante gesetzt | Start der englischen Edition |
+| 2026-08-29 | Pilot-Voice freigegeben; Localization-Linie eingefroren | Human Review Prolog + Kapitel 1–3 |
