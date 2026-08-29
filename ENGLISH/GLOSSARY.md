@@ -1,6 +1,6 @@
 # Glossary – NORMALFALL English Edition
 
-status: pilot
+status: approved
 source_commit: f0aa559c27accfb136f1277e569adfb6dd9dfb96
 
 Das Glossary wächst nur bei wiederkehrenden oder institutionell relevanten Entscheidungen. Es ist kein vollständiges Wörterbuch.
@@ -22,6 +22,10 @@ Das Glossary wächst nur bei wiederkehrenden oder institutionell relevanten Ents
 | Fahrzeugdisposition | vehicle assignment records / vehicle dispatch | nach Kontext | approved |
 | Anlieferfenster | delivery window |  | approved |
 | Wiedervorlage | follow-up flag / scheduled review | Systemfunktion, nicht wörtlich `resubmission` | approved |
+| Beobachtungspunkt | observation flag | interne Systemoption; nicht automatisch tatsächliche physische Überwachung behaupten | approved |
+| verknüpfungsrelevant | relevant for linkage / linkage-relevant | als Systemlabel nach Satzform; kein künstlicher US-Fachbegriff | approved |
+| Antrag | formal request / application | konkrete Maßnahme entscheidet; keine richterliche Genehmigung oder warrant ergänzen, wenn Source das nicht sagt | approved |
+| Handelsregister | commercial register | deutsche Registerrealität erhalten; bei Bedarf `German commercial register`, nicht US `business registry` fingieren | approved |
 | Zutrittssystem | access-control system |  | approved |
 | Leser / Kartenleser | reader / badge reader | access-control context | approved |
 | Fremdfirmenausweis | contractor badge / contractor access badge | nicht `foreign-company badge` | approved |
@@ -58,6 +62,7 @@ Das Glossary wächst nur bei wiederkehrenden oder institutionell relevanten Ents
 | Die ursprüngliche Verdachtsannahme ist durch bestätigten Arbeitsauftrag, Veranstaltungsbezug und Fahrzeugdisposition erklärt. Keine weitere fallbezogene Prüfung. | The original grounds for suspicion are accounted for by the confirmed work order, event-related purpose, and vehicle assignment. No further case-specific review. | bewusst eindeutig abschließend |
 | Möglicherweise koordinierte Nutzung mehrerer externer Zugänge außerhalb der regulären Zeitfenster. | Possible coordinated use of multiple external access points outside normal operating hours. | Hypothese, nicht Fakt |
 | Zwei Zeitstempel falsch interpretiert. Ein realer unzulässiger Ausweisgebrauch ohne Gefahrenbezug. | Two timestamps misinterpreted. One genuine unauthorized badge use with no link to a security threat. | korrigierte Aktennotiz |
+| Lageranlage bereits in anderem, abgeschlossenem Sachverhalt aufgetaucht; anderer Gebäudeteil, kein gemeinsamer Gefahrenbezug. Bei neuen Erkenntnissen Adressbezug mitprüfen. | Warehouse complex appeared in a separate, closed matter; different section of the site, no shared threat connection. If new information emerges, include the address connection in the review. | Kapitel 5; Adressbezug bleibt Marker, kein Verdachtsupgrade |
 
 ## Bewusst nicht übersetzen oder nicht ersetzen
 
@@ -78,3 +83,4 @@ Das Glossary wächst nur bei wiederkehrenden oder institutionell relevanten Ents
 | Datum | Änderung | Grund |
 |---|---|---|
 | 2026-08-29 | initiale Pilot-Terminologie angelegt | Prolog + Kapitel 1–3 |
+| 2026-08-29 | Status nach Pilot freigegeben; Register-/Systembegriffe aus Kapitel 5 ergänzt | Fortsetzung der English Edition |
