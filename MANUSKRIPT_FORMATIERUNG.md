@@ -28,8 +28,8 @@ Die älteren Profile `testleser` und `einreichung` bleiben technisch als optiona
 | Seitenformat DOCX | **12,85 × 19,84 cm** |
 | Beschnittzugabe | **keine** |
 | Seitenränder | gespiegelt |
-| Innenrand | **1,78 cm** |
-| Außenrand | **1,57 cm** |
+| Innenrand | **1,95 cm** |
+| Außenrand | **1,40 cm** |
 | Oberer Rand | **1,22 cm** |
 | Unterer Rand | **1,22 cm** |
 | Nutzbarer Textbereich | **9,50 × 17,40 cm** |
@@ -64,7 +64,7 @@ Beim Wechsel auf das größere KDP-Format wird **nicht einfach mehr Text auf die
 
 Damit bleiben insbesondere Zeilenlänge, Textdichte, Umbruchcharakter und der visuell abgenommene Thriller-Satz weitgehend stabil.
 
-Der Innenrand von 1,78 cm liegt außerdem oberhalb der KDP-Mindestanforderung für Bücher bis 500 Seiten. Der Build muss deshalb sicherstellen, dass die kanonische Ausgabe **nicht mehr als 500 Seiten** umfasst. Falls diese Grenze später überschritten wird, muss der Innenrand bewusst neu festgelegt werden.
+Der erste CI-Render der KDP-Fassung ergab **591 Seiten**. Amazon KDP verlangt für **501 bis 700 Seiten** mindestens **19,1 mm Innenrand/Bundsteg**. Deshalb ist der kanonische Innenrand auf **1,95 cm** gesetzt. Die zusätzlichen 0,17 cm gegenüber der ersten KDP-Adaption werden vom Außenrand abgezogen; dadurch bleibt die Textbreite unverändert bei 9,50 cm. Der Build muss sicherstellen, dass die gerenderte Ausgabe **nicht mehr als 700 Seiten** umfasst. Oberhalb dieser Grenze muss der Bundsteg erneut bewusst angepasst werden.
 
 Diese Werte bilden zusammen das Layout. Einzelne Parameter sollen **nicht isoliert optimiert** werden, weil Satzspiegel, Schriftgröße, Zeilenlänge und Trennung voneinander abhängen.
 
@@ -216,6 +216,8 @@ Die kanonische Buchfassung verwendet:
 - **keine Beschnittzugabe** für den reinen Textsatz
 - keine laufende Kopfzeile
 - gespiegelte Ränder
+- Innenrand/Bundsteg **1,95 cm**
+- Außenrand **1,40 cm**
 - Seitenzahl unten außen
 - gerade/linke Seite → Seitenzahl links
 - ungerade/rechte Seite → Seitenzahl rechts
@@ -277,12 +279,12 @@ Der Standard-Build muss in dieser Reihenfolge laufen:
 5. Inhaltsverzeichnis mit `scripts/update_docx_toc.py` materialisieren.
 6. `scripts/kdp_book_layout.py AUSNAHMEZUSTAND.docx` **erneut** anwenden.
 7. DOCX technisch validieren.
-8. DOCX mit LibreOffice zu PDF rendern und Seitenzahl prüfen.
-9. Sicherstellen, dass die Ausgabe höchstens **500 Seiten** hat.
+8. DOCX mit LibreOffice zu PDF rendern und Seitenzahl als CI-Sicherheitscheck bestimmen.
+9. Sicherstellen, dass die Ausgabe höchstens **700 Seiten** hat.
 10. Artefakt hochladen.
 11. `AUSNAHMEZUSTAND.docx` ins Repo committen.
 
-Der zweite KDP-Layout-Pass ist Teil des Formatierungsvertrags und darf nicht entfernt werden.
+Der zweite KDP-Layout-Pass ist Teil des Formatierungsvertrags und darf nicht entfernt werden. Die LibreOffice-Seitenzahl ist ein reproduzierbarer CI-Guard; die finale Druckfreigabe erfolgt zusätzlich im KDP-Previewer.
 
 ---
 
@@ -291,11 +293,11 @@ Der zweite KDP-Layout-Pass ist Teil des Formatierungsvertrags und darf nicht ent
 Der Workflow muss mindestens prüfen:
 
 - Seitenformat **12,85 × 19,84 cm**
-- gespiegelt: Innen/Außen **1,78 / 1,57 cm**
+- gespiegelt: Innen/Außen **1,95 / 1,40 cm**
 - oben/unten **1,22 / 1,22 cm**
 - Textbereich rechnerisch **9,50 × 17,40 cm**
 - Footer-Abstand **0,75 cm**
-- Ausgabe **≤ 500 Seiten**
+- Ausgabe **≤ 700 Seiten**
 - Fließtext Blocksatz
 - Fließtext **Garamond 12,5 pt**
 - Zeilenabstand **1,12**
@@ -334,6 +336,7 @@ Ohne neue bewusste Layoutentscheidung nicht verändern:
 - kein Geviertstrich `—`
 - keine laufende Kopfzeile
 - keine Seitenzahl näher als 0,75 cm an der unteren Schnittkante
+- kein Innenrand unter **1,95 cm**, solange die gerenderte Ausgabe in der KDP-Klasse 501–700 Seiten liegt
 - keine vier parallelen Standard-DOCX-Dateien
 
 ---
