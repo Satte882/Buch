@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import re
 from pathlib import Path
 
@@ -21,7 +22,18 @@ def read_chapter(path: Path, number: int) -> str:
     return f"## {number}\n\n{body}"
 
 
-def assemble(source_dir: Path) -> str:
+def load_expected_title(config_path: Path) -> str:
+    data = json.loads(config_path.read_text(encoding="utf-8"))
+    if data.get("market_title_status") == "approved":
+        title = data.get("market_title")
+    else:
+        title = data.get("working_title")
+    if not isinstance(title, str) or not title.strip():
+        raise SystemExit(f"No valid English title in {config_path}")
+    return title.strip()
+
+
+def assemble(source_dir: Path, config_path: Path) -> str:
     prologue_path = source_dir / "00_PROLOGUE.md"
     prologue = prologue_path.read_text(encoding="utf-8").strip()
     marker = "## Prologue"
@@ -31,8 +43,11 @@ def assemble(source_dir: Path) -> str:
 
     front_matter = prologue[:idx].rstrip()
     prologue_story = prologue[idx:].strip()
-    if not front_matter.startswith("# NORMALFALL"):
-        raise SystemExit("Unexpected English front matter title; update assembler intentionally if title source changes")
+    expected_title = load_expected_title(config_path)
+    if not front_matter.startswith(f"# {expected_title}"):
+        raise SystemExit(
+            f"English front matter title does not match publishing config: expected {expected_title!r}"
+        )
 
     parts = [front_matter, prologue_story]
     for number in range(1, 48):
@@ -51,9 +66,10 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Assemble the approved English chapter files into one generated master manuscript.")
     parser.add_argument("source_dir", nargs="?", type=Path, default=Path("ENGLISH/manuscript"))
     parser.add_argument("output", nargs="?", type=Path, default=Path("ENGLISH/NORMALFALL_ENGLISH.md"))
+    parser.add_argument("--config", type=Path, default=Path("ENGLISH/PUBLISHING_CONFIG.json"))
     args = parser.parse_args()
 
-    text = assemble(args.source_dir)
+    text = assemble(args.source_dir, args.config)
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(text, encoding="utf-8")
     print(f"Assembled {args.output}: {len(text):,} characters, 48 story units")

@@ -1,10 +1,10 @@
-# Style Guide – NORMALFALL English Edition
+# Style Guide – REASONABLE MEASURES English Edition
 
 status: approved
 source_commit: f0aa559c27accfb136f1277e569adfb6dd9dfb96
 target_variant: English (US)
 
-Dieser Style Guide leitet die englische Stimme aus dem finalen deutschen Manuskript, `STILREFERENZ.md` und der verbindlichen Figurenlogik ab. Er beschreibt nicht allgemein gutes Thriller-Englisch, sondern die Zielwirkung von `NORMALFALL`.
+Dieser Style Guide leitet die englische Stimme aus dem finalen deutschen Manuskript, `STILREFERENZ.md` und der verbindlichen Figurenlogik ab. Er beschreibt nicht allgemein gutes Thriller-Englisch, sondern die Zielwirkung des deutschen `NORMALFALL` in der englischen Edition `REASONABLE MEASURES`.
 
 ## 1. Narrative Stimme
 
@@ -234,3 +234,4 @@ Die Pilot-Voice ist damit **eingefrorene Kalibrierungsreferenz**. Weitere Kapite
 |---|---|---|
 | 2026-08-29 | Pilot-Style-Guide aus finalem Manuskript, `STILREFERENZ.md` und Figurenlogik abgeleitet | Start English Edition |
 | 2026-08-29 | Pilot freigegeben; Kollokations- und Wiederholungsmuster-Regel ergänzt; Voice eingefroren | Human Review des Piloten |
+| 2026-08-30 | Dokumenttitel auf `REASONABLE MEASURES` aktualisiert; `NORMALFALL` bleibt Source-/Ausgangstitel | Publishing title decision |

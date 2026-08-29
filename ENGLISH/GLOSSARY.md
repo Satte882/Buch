@@ -1,4 +1,4 @@
-# Glossary – NORMALFALL English Edition
+# Glossary – REASONABLE MEASURES English Edition
 
 status: approved
 source_commit: f0aa559c27accfb136f1277e569adfb6dd9dfb96
@@ -9,7 +9,7 @@ Das Glossary wächst nur bei wiederkehrenden oder institutionell relevanten Ents
 
 | Source | Target | Kontext/Regel | Status |
 |---|---|---|---|
-| Normalfall | normal case | Begriffserklärung; **nicht automatisch finaler englischer Buchtitel** | approved |
+| Normalfall | normal case | Begriffserklärung im Front Matter; der finale englische Buchtitel ist `REASONABLE MEASURES`, keine Titelübersetzung | approved |
 | BKA | Germany's Federal Criminal Police Office (BKA) | bei erster erklärungsbedürftiger Nennung; danach `BKA` | approved |
 | Bundestag | Bundestag | falls nötig funktional als `German parliament` erklären; niemals `Congress` | approved |
 | Bundesgebäude | federal government building | kein US-spezifisches `Federal Building` als Eigenbegriff erzeugen | approved |
@@ -82,11 +82,11 @@ Das Glossary wächst nur bei wiederkehrenden oder institutionell relevanten Ents
 | Bundestag | nicht `Congress` |
 | deutsche Rollen-/Verfahrensrealität | funktional erklären, nicht amerikanisieren |
 
-## Offene Kandidaten
+## Titelentscheidung
 
-| Source | Kandidaten | Problem | Entscheidung |
+| Deutscher Titel | Englischer Markttitel | Regel | Status |
 |---|---|---|---|
-| NORMALFALL als Buchtitel | `NORMALFALL`, `NORMAL CASE`, weitere Markttitel | Titelwirkung ist Marketing-/Positionierungsentscheidung, nicht Textübersetzung | open |
+| `NORMALFALL` | `REASONABLE MEASURES` | eigenständige englische Marktpositionierung; keine wörtliche Titelübersetzung | approved |
 
 ## Änderungsverlauf
 
@@ -95,3 +95,4 @@ Das Glossary wächst nur bei wiederkehrenden oder institutionell relevanten Ents
 | 2026-08-29 | initiale Pilot-Terminologie angelegt | Prolog + Kapitel 1–3 |
 | 2026-08-29 | Status nach Pilot freigegeben; Register-/Systembegriffe aus Kapitel 5 ergänzt | Fortsetzung der English Edition |
 | 2026-08-30 | Terminologie aus Global-QA ergänzt: Gegenlesart/Gegenprüfung, Verbundprüfung, Täter-/Unterstützernetzwerk, Fehlbelastung und Oversight-Begriffe | Beseitigung wiederkehrender Germanismen und institutioneller Drift |
+| 2026-08-30 | `REASONABLE MEASURES` als finaler englischer Markttitel festgelegt | Publishing title decision |

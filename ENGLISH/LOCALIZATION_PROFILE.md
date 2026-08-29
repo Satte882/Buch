@@ -1,4 +1,4 @@
-# Localization Profile – NORMALFALL English Edition
+# Localization Profile – REASONABLE MEASURES English Edition
 
 status: approved
 source_repository: Satte882/Buch
@@ -8,6 +8,8 @@ source_blob: 26b755fddf84d8dcdd86dc44420c5c0d3ce476ce
 source_language: German
 source_status: final / published
 working_title: NORMALFALL
+market_title: REASONABLE MEASURES
+market_title_status: approved
 global_qa_status: COMPLETE
 global_qa_date: 2026-08-30
 
@@ -19,7 +21,7 @@ global_qa_date: 2026-08-30
 - genre: psychological thriller / political-institutional thriller
 - audience: adult commercial thriller readers
 
-Der englische Markttitel wird **noch nicht** festgelegt. `NORMALFALL` bleibt bis zur separaten Titel-/Metadatenentscheidung der Arbeitstitel. Die Textlokalisierung darf keine Marketingentscheidung erzwingen.
+Der finale englische Markttitel ist **`REASONABLE MEASURES`**. `NORMALFALL` bleibt als deutscher Ausgangstitel und interner Arbeits-/Source-Bezug erhalten; die Publishing-Artefakte verwenden den freigegebenen Markttitel.
 
 ## Localization Objective
 
@@ -126,7 +128,7 @@ Geprüft und bereinigt wurden insbesondere:
 - bekannte False Friends und wörtliche deutsche Satzkonstruktionen,
 - die Benennungskontinuität zwischen Kapitel 43 und 44.
 
-Ergebnis: keine erkannte Plot-, Figuren-, Informations- oder Ambiguitätsabweichung durch den QA-Pass. Die englische Fassung gilt auf Textebene als **editorially complete**. Offene Publishing-Entscheidungen betreffen Titel/Metadaten, nicht mehr die Romanübersetzung.
+Ergebnis: keine erkannte Plot-, Figuren-, Informations- oder Ambiguitätsabweichung durch den QA-Pass. Die englische Fassung gilt auf Textebene als **editorially complete**. Offene Publishing-Entscheidungen betreffen Beschreibung und übrige Metadaten; der englische Buchtitel ist freigegeben.
 
 ## Dokumentierte Source-Abweichungen
 
@@ -139,7 +141,7 @@ Ergebnis: keine erkannte Plot-, Figuren-, Informations- oder Ambiguitätsabweich
 
 | Thema | Entscheidung nötig bis | Status | Entscheidung |
 |---|---|---|---|
-| finaler englischer Buchtitel | vor KDP-Metadaten/Produktion | open | `NORMALFALL` bleibt Arbeitstitel |
+| finaler englischer Buchtitel | vor KDP-Metadaten/Produktion | approved | `REASONABLE MEASURES` |
 | finale englische KDP-Beschreibung | Publishing | open | nicht Teil der Textlokalisierung |
 
 ## Änderungsverlauf
@@ -150,3 +152,4 @@ Ergebnis: keine erkannte Plot-, Figuren-, Informations- oder Ambiguitätsabweich
 | 2026-08-29 | Pilot-Voice freigegeben; Localization-Linie eingefroren | Human Review Prolog + Kapitel 1–3 |
 | 2026-08-29 | transparente Regel für offensichtliche mechanische Source-Fehler ergänzt; Kapitel-4-Duplikat dokumentiert | Editorial Review Kapitel 4 |
 | 2026-08-30 | Global-QA-Pass Prolog + Kapitel 1–47 abgeschlossen; Terminologie, institutionelles Englisch, wiederkehrende Germanismen und Kapitel-43/44-Benennungskontinuität bereinigt | English manuscript editorial completion |
+| 2026-08-30 | `REASONABLE MEASURES` als finaler englischer Markttitel freigegeben | Publishing title decision |
