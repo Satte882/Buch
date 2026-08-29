@@ -24,7 +24,7 @@ A case handled according to the usual rules.
 
 ## Prologue
 
-The rain ran over the slide of the pistol and gathered at the front sight.
+The rain ran over the slide of the pistol and pooled at the front sight.
 
 A hand held the weapon steady enough.
 
