@@ -1,0 +1,85 @@
+name: Build English EPUB
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'ENGLISH/manuscript/**'
+      - 'ENGLISH/PUBLISHING_CONFIG.json'
+      - 'scripts/assemble_english_manuscript.py'
+      - 'scripts/build_english_epub.py'
+      - 'scripts/build_english_book_docx.py'
+      - '.github/workflows/build-english-epub.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate publishing configuration
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          cfg = json.loads(Path('ENGLISH/PUBLISHING_CONFIG.json').read_text(encoding='utf-8'))
+          assert cfg['market_title_status'] == 'approved'
+          assert cfg['market_title'] == 'REASONABLE MEASURES'
+          assert cfg['language'] == 'en-US'
+          print('English eBook title:', cfg['market_title'])
+          PY
+
+      - name: Assemble English master manuscript
+        run: python scripts/assemble_english_manuscript.py ENGLISH/manuscript ENGLISH/NORMALFALL_ENGLISH.md
+
+      - name: Build reflowable EPUB
+        run: python scripts/build_english_epub.py ENGLISH/NORMALFALL_ENGLISH.md ENGLISH/REASONABLE_MEASURES.epub --config ENGLISH/PUBLISHING_CONFIG.json
+
+      - name: Validate EPUB package
+        run: |
+          python - <<'PY'
+          import zipfile
+          from pathlib import Path
+          path = Path('ENGLISH/REASONABLE_MEASURES.epub')
+          assert path.stat().st_size > 100_000
+          with zipfile.ZipFile(path) as zf:
+              names = set(zf.namelist())
+              assert 'OEBPS/content.opf' in names
+              assert 'OEBPS/nav.xhtml' in names
+              assert 'OEBPS/prologue.xhtml' in names
+              assert 'OEBPS/chapter-47.xhtml' in names
+              assert len([n for n in names if n.startswith('OEBPS/chapter-') and n.endswith('.xhtml')]) == 47
+          print('Validated English EPUB:', path.stat().st_size, 'bytes')
+          PY
+
+      - name: Upload English eBook artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: reasonable-measures-english-ebook
+          path: |
+            ENGLISH/REASONABLE_MEASURES.epub
+            ENGLISH/NORMALFALL_ENGLISH.md
+          retention-days: 7
+
+      - name: Commit generated EPUB
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ENGLISH/REASONABLE_MEASURES.epub ENGLISH/NORMALFALL_ENGLISH.md
+          if git diff --cached --quiet; then
+            echo "English eBook production files unchanged"
+            exit 0
+          fi
+          git commit -m "Refresh English eBook production files"
+          git pull --rebase origin main
+          git push
