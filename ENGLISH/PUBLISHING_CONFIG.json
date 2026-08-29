@@ -1,0 +1,10 @@
+{
+  "working_title": "NORMALFALL",
+  "market_title": null,
+  "market_title_status": "open",
+  "subtitle": null,
+  "language": "en-US",
+  "primary_market": "Amazon.com",
+  "trim_size": "5.06 x 7.81 in",
+  "production_rule": "Until market_title_status is approved, generated production files use working_title only and are not final KDP metadata deliverables."
+}

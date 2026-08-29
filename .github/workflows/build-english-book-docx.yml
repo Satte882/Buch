@@ -1,0 +1,199 @@
+name: Build English KDP DOCX
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ENGLISH/manuscript/**
+      - ENGLISH/PUBLISHING_CONFIG.json
+      - scripts/assemble_english_manuscript.py
+      - scripts/build_english_book_docx.py
+      - scripts/english_kdp_book_layout.py
+      - scripts/update_docx_toc.py
+      - .github/workflows/build-english-book-docx.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: english-kdp-book-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate publishing configuration
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          cfg = json.loads(Path('ENGLISH/PUBLISHING_CONFIG.json').read_text(encoding='utf-8'))
+          assert cfg['language'] == 'en-US'
+          assert cfg['trim_size'] == '5.06 x 7.81 in'
+          assert cfg['market_title_status'] in {'open', 'approved'}
+          if cfg['market_title_status'] == 'approved':
+              assert isinstance(cfg.get('market_title'), str) and cfg['market_title'].strip()
+          else:
+              assert cfg['working_title'] == 'NORMALFALL'
+          print(f"Publishing title status: {cfg['market_title_status']}")
+
+      - name: Assemble English master manuscript
+        run: python scripts/assemble_english_manuscript.py ENGLISH/manuscript ENGLISH/NORMALFALL_ENGLISH.md
+
+      - name: Validate English manuscript structure
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          text = Path('ENGLISH/NORMALFALL_ENGLISH.md').read_text(encoding='utf-8')
+          assert re.findall(r'^## (Prologue|\d+)$', text, re.M) == ['Prologue'] + [str(i) for i in range(1, 48)]
+          assert text.rstrip().endswith('"How strong is your counterhypothesis?"')
+          assert '»' not in text and '«' not in text
+          assert text.count('"') > 4000
+
+      - name: Install DOCX dependencies
+        run: |
+          python -m pip install python-docx pyphen
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno hyphen-en-us poppler-utils
+
+      - name: Build English KDP paperback DOCX
+        run: |
+          python scripts/build_english_book_docx.py ENGLISH/NORMALFALL_ENGLISH.md ENGLISH/NORMALFALL.docx --config ENGLISH/PUBLISHING_CONFIG.json
+          python scripts/english_kdp_book_layout.py ENGLISH/NORMALFALL.docx
+          /usr/bin/python3 scripts/update_docx_toc.py ENGLISH/NORMALFALL.docx
+          python scripts/english_kdp_book_layout.py ENGLISH/NORMALFALL.docx
+          unzip -t ENGLISH/NORMALFALL.docx >/dev/null
+
+      - name: Validate English KDP paperback layout
+        shell: python
+        run: |
+          from docx import Document
+          from docx.enum.text import WD_ALIGN_PARAGRAPH
+          from docx.oxml.ns import qn
+
+          doc = Document('ENGLISH/NORMALFALL.docx')
+          for section in doc.sections:
+              assert abs(section.page_width.cm - 12.85) < 0.02
+              assert abs(section.page_height.cm - 19.84) < 0.02
+              assert abs(section.top_margin.cm - 1.22) < 0.02
+              assert abs(section.bottom_margin.cm - 1.22) < 0.02
+              assert abs(section.left_margin.cm - 1.95) < 0.02
+              assert abs(section.right_margin.cm - 1.40) < 0.02
+              assert abs(section.footer_distance.cm - 0.75) < 0.02
+              assert abs(section.page_width.cm - section.left_margin.cm - section.right_margin.cm - 9.50) < 0.03
+              assert abs(section.page_height.cm - section.top_margin.cm - section.bottom_margin.cm - 17.40) < 0.03
+
+          story_started = False
+          headings = 0
+          checked = 0
+          literal_soft_hyphens = 0
+          word_soft_hyphens = 0
+          double_quotes = 0
+          english_lang_runs = 0
+
+          for paragraph in doc.paragraphs:
+              style_name = paragraph.style.name if paragraph.style is not None else ''
+              literal_soft_hyphens += paragraph.text.count('\u00ad')
+              word_soft_hyphens += len(paragraph._p.xpath('.//w:softHyphen'))
+              double_quotes += paragraph.text.count('"')
+              assert '»' not in paragraph.text and '«' not in paragraph.text
+
+              for run in paragraph.runs:
+                  rpr = run._element.rPr
+                  if rpr is not None:
+                      lang = rpr.find(qn('w:lang'))
+                      if lang is not None and lang.get(qn('w:val')) == 'en-US':
+                          english_lang_runs += 1
+
+              if style_name == 'Heading 1':
+                  story_started = True
+                  headings += 1
+                  assert paragraph.paragraph_format.page_break_before is True
+                  continue
+              if not story_started or style_name != 'Normal' or not paragraph.text.strip():
+                  continue
+
+              checked += 1
+              fmt = paragraph.paragraph_format
+              assert paragraph.alignment == WD_ALIGN_PARAGRAPH.JUSTIFY
+              indent = 0.0 if fmt.first_line_indent is None else fmt.first_line_indent.cm
+              assert abs(indent) < 0.01
+              after = 0.0 if fmt.space_after is None else fmt.space_after.pt
+              assert abs(after) < 0.01
+              assert abs(float(fmt.line_spacing) - 1.12) < 0.01
+              sizes = [r.font.size.pt for r in paragraph.runs if r.font.size is not None]
+              assert sizes and all(abs(size - 12.5) < 0.01 for size in sizes)
+              assert all((r.font.name or '') == 'Garamond' for r in paragraph.runs)
+
+          assert headings == 48
+          assert checked > 10000
+          assert literal_soft_hyphens == 0
+          assert word_soft_hyphens > 1000
+          assert double_quotes > 4000
+          assert english_lang_runs > 10000
+
+          settings = doc.settings._element
+          assert settings.find(qn('w:autoHyphenation')) is not None
+          assert settings.find(qn('w:doNotHyphenateCaps')) is not None
+          assert settings.find(qn('w:hyphenationZone')) is not None
+          assert settings.find(qn('w:consecutiveHyphenLimit')) is not None
+          assert settings.find(qn('w:mirrorMargins')) is not None
+          assert settings.find(qn('w:evenAndOddHeaders')) is not None
+
+          story = doc.sections[-1]
+          assert story.footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.RIGHT
+          assert story.even_page_footer.paragraphs[0].alignment == WD_ALIGN_PARAGRAPH.LEFT
+          assert all(not p.text.strip() for p in story.header.paragraphs)
+
+          print(
+              f'Validated English KDP layout: headings={headings}, paragraphs={checked}, '
+              f'word_soft_hyphens={word_soft_hyphens}, double_quotes={double_quotes}, '
+              f'en-US runs={english_lang_runs}'
+          )
+
+      - name: Check KDP page-count gutter band
+        run: |
+          mkdir -p build/english-kdp-preview
+          libreoffice --headless --convert-to pdf --outdir build/english-kdp-preview ENGLISH/NORMALFALL.docx >/dev/null
+          PAGES=$(pdfinfo build/english-kdp-preview/NORMALFALL.pdf | awk '/^Pages:/ {print $2}')
+          if [ -z "$PAGES" ]; then
+            echo "Could not determine rendered page count"
+            exit 1
+          fi
+          if [ "$PAGES" -lt 24 ] || [ "$PAGES" -gt 700 ]; then
+            echo "Rendered page count $PAGES is outside the approved KDP band 24-700"
+            exit 1
+          fi
+          echo "English LibreOffice KDP preview page count: $PAGES"
+
+      - name: Upload English production artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: normalfall-english-kdp-5-06x7-81
+          path: |
+            ENGLISH/NORMALFALL_ENGLISH.md
+            ENGLISH/NORMALFALL.docx
+          retention-days: 7
+
+      - name: Commit generated English production files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ENGLISH/NORMALFALL_ENGLISH.md ENGLISH/NORMALFALL.docx
+          if git diff --cached --quiet; then
+            echo "English production files unchanged"
+            exit 0
+          fi
+          git commit -m "Refresh English KDP production files"
+          git pull --rebase origin main
+          git push

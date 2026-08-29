@@ -1,0 +1,429 @@
+from __future__ import annotations
+
+import argparse
+import json
+import re
+from pathlib import Path
+
+from docx import Document
+from docx.enum.section import WD_SECTION
+from docx.enum.style import WD_STYLE_TYPE
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+from docx.shared import Cm, Pt, RGBColor
+
+CHAPTER_RE = re.compile(r"^##\s+(Prologue|\d+)\s*$")
+INLINE_RE = re.compile(r"(\*\*\*.+?\*\*\*|\*\*.+?\*\*|(?<!\*)\*[^*]+?\*(?!\*))")
+PROLOG_MARKER = "## Prologue\n"
+
+CHAPTER_TITLES = {
+    1: "Strange Isn't Enough",
+    2: "The Innocent Explanation",
+    3: "Three Doors",
+    4: "One Millimeter",
+    5: "Warehouse C",
+    6: "Hamburg",
+    7: "The Yellow Strip",
+    8: "Private",
+    9: "Only Truth",
+    10: "Two Risks",
+    11: "Right Enough",
+    12: "The Clock",
+    13: "Parking Level 3",
+    14: "Not Yet",
+    15: "Independent",
+    16: "The Operation",
+    17: "Before the Search",
+    18: "What the Source Wants",
+    19: "Not Bigger",
+    20: "Three Hits",
+    21: "The Special Route",
+    22: "Tuesday",
+    23: "Too Often",
+    24: "The Better Question",
+    25: "Before the Case",
+    26: "Holding Back",
+    27: "Outside the Case",
+    28: "Own Decision",
+    29: "The Rule Remains",
+    30: "Dangerously Reasonable",
+    31: "Idle Time",
+    32: "The Old Version",
+    33: "The Old Boundary",
+    34: "Without Heller",
+    35: "The Blue Van",
+    36: "The Simple Story",
+    37: "The Clock Is Running",
+    38: "Three Anchors",
+    39: "Discarded Names",
+    40: "The Shot",
+    41: "What Do We Have Ourselves?",
+    42: "Not Because He Said It",
+    43: "5:18 A.M.",
+    44: "Integrated Review",
+    45: "That's How It Is Now",
+    46: "Bad Gut Feeling",
+    47: "The Counterhypothesis",
+}
+
+
+def load_title(config_path: Path) -> str:
+    data = json.loads(config_path.read_text(encoding="utf-8"))
+    status = data.get("market_title_status")
+    market = data.get("market_title")
+    working = data.get("working_title")
+    if status == "approved":
+        if not isinstance(market, str) or not market.strip():
+            raise SystemExit("market_title_status is approved but market_title is empty")
+        return market.strip()
+    if not isinstance(working, str) or not working.strip():
+        raise SystemExit("working_title is missing")
+    return working.strip()
+
+
+def set_run_font(run, name: str = "Times New Roman", size: float = 12.0) -> None:
+    run.font.name = name
+    run.font.size = Pt(size)
+    rpr = run._element.get_or_add_rPr()
+    rfonts = rpr.rFonts
+    if rfonts is None:
+        rfonts = OxmlElement("w:rFonts")
+        rpr.insert(0, rfonts)
+    for attr in ("ascii", "hAnsi", "eastAsia", "cs"):
+        rfonts.set(qn(f"w:{attr}"), name)
+    lang = rpr.find(qn("w:lang"))
+    if lang is None:
+        lang = OxmlElement("w:lang")
+        rpr.append(lang)
+    for attr in ("val", "eastAsia", "bidi"):
+        lang.set(qn(f"w:{attr}"), "en-US")
+
+
+def set_style_font(style, name: str, size: float, bold: bool | None = None) -> None:
+    style.font.name = name
+    style.font.size = Pt(size)
+    if bold is not None:
+        style.font.bold = bold
+    rpr = style.element.get_or_add_rPr()
+    rfonts = rpr.rFonts
+    if rfonts is None:
+        rfonts = OxmlElement("w:rFonts")
+        rpr.insert(0, rfonts)
+    for attr in ("ascii", "hAnsi", "eastAsia", "cs"):
+        rfonts.set(qn(f"w:{attr}"), name)
+    lang = rpr.find(qn("w:lang"))
+    if lang is None:
+        lang = OxmlElement("w:lang")
+        rpr.append(lang)
+    lang.set(qn("w:val"), "en-US")
+
+
+def add_page_number(paragraph) -> None:
+    paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = paragraph.add_run()
+    set_run_font(run, size=10)
+    begin = OxmlElement("w:fldChar")
+    begin.set(qn("w:fldCharType"), "begin")
+    instr = OxmlElement("w:instrText")
+    instr.set(qn("xml:space"), "preserve")
+    instr.text = " PAGE "
+    end = OxmlElement("w:fldChar")
+    end.set(qn("w:fldCharType"), "end")
+    run._r.extend([begin, instr, end])
+
+
+def add_toc_field(paragraph) -> None:
+    run = paragraph.add_run()
+    begin = OxmlElement("w:fldChar")
+    begin.set(qn("w:fldCharType"), "begin")
+    instr = OxmlElement("w:instrText")
+    instr.set(qn("xml:space"), "preserve")
+    instr.text = ' TOC \\o "1-1" \\h \\z \\u '
+    separate = OxmlElement("w:fldChar")
+    separate.set(qn("w:fldCharType"), "separate")
+    placeholder = OxmlElement("w:t")
+    placeholder.text = "Table of contents updates during the production build."
+    end = OxmlElement("w:fldChar")
+    end.set(qn("w:fldCharType"), "end")
+    run._r.extend([begin, instr, separate, placeholder, end])
+
+
+def request_field_update(doc: Document) -> None:
+    settings = doc.settings._element
+    update = settings.find(qn("w:updateFields"))
+    if update is None:
+        update = OxmlElement("w:updateFields")
+        settings.append(update)
+    update.set(qn("w:val"), "true")
+
+
+def set_page_number_start(section, start: int = 1) -> None:
+    sect_pr = section._sectPr
+    node = sect_pr.find(qn("w:pgNumType"))
+    if node is None:
+        node = OxmlElement("w:pgNumType")
+        sect_pr.append(node)
+    node.set(qn("w:start"), str(start))
+
+
+def configure_section(section) -> None:
+    section.page_width = Cm(21.0)
+    section.page_height = Cm(29.7)
+    section.top_margin = Cm(2.5)
+    section.bottom_margin = Cm(2.5)
+    section.left_margin = Cm(2.6)
+    section.right_margin = Cm(2.4)
+    section.header_distance = Cm(1.2)
+    section.footer_distance = Cm(1.25)
+
+
+def next_meaningful(lines: list[str], start: int) -> str | None:
+    for idx in range(start, len(lines)):
+        value = lines[idx].strip()
+        if value:
+            return value
+    return None
+
+
+def parse_manuscript(text: str):
+    chapters: list[tuple[str, list[tuple[str, str]]]] = []
+    current_title: str | None = None
+    current_blocks: list[tuple[str, str]] = []
+    paragraph_lines: list[str] = []
+    lines = text.splitlines()
+
+    def flush_paragraph() -> None:
+        nonlocal paragraph_lines
+        if paragraph_lines and current_title is not None:
+            value = " ".join(line.strip() for line in paragraph_lines if line.strip()).strip()
+            if value:
+                current_blocks.append(("paragraph", value))
+        paragraph_lines = []
+
+    def flush_chapter() -> None:
+        nonlocal current_title, current_blocks
+        flush_paragraph()
+        if current_title is not None:
+            chapters.append((current_title, current_blocks))
+        current_blocks = []
+
+    for idx, raw_line in enumerate(lines):
+        line = raw_line.rstrip()
+        stripped = line.strip()
+        match = CHAPTER_RE.match(stripped)
+        if match:
+            flush_chapter()
+            current_title = match.group(1)
+            continue
+        if current_title is None:
+            continue
+        if not stripped:
+            flush_paragraph()
+            continue
+        if stripped == "---":
+            flush_paragraph()
+            following = next_meaningful(lines, idx + 1)
+            if following and CHAPTER_RE.match(following):
+                continue
+            if current_blocks and current_blocks[-1][0] != "scene_break":
+                current_blocks.append(("scene_break", "*"))
+            continue
+        if line.lstrip().startswith("#"):
+            flush_paragraph()
+            continue
+        paragraph_lines.append(line)
+
+    flush_chapter()
+    expected = ["Prologue"] + [str(i) for i in range(1, 48)]
+    actual = [title for title, _ in chapters]
+    if actual != expected:
+        raise SystemExit(f"Chapter structure mismatch: expected {expected}, got {actual}")
+    return chapters
+
+
+def add_inline_markdown(paragraph, text: str) -> None:
+    cursor = 0
+    for match in INLINE_RE.finditer(text):
+        if match.start() > cursor:
+            run = paragraph.add_run(text[cursor:match.start()])
+            set_run_font(run)
+        token = match.group(0)
+        run = paragraph.add_run()
+        if token.startswith("***") and token.endswith("***"):
+            run.text = token[3:-3]
+            run.bold = True
+            run.italic = True
+        elif token.startswith("**") and token.endswith("**"):
+            run.text = token[2:-2]
+            run.bold = True
+        else:
+            run.text = token[1:-1]
+            run.italic = True
+        set_run_font(run)
+        cursor = match.end()
+    if cursor < len(text):
+        run = paragraph.add_run(text[cursor:])
+        set_run_font(run)
+
+
+def add_centered_lines(doc: Document, lines: list[str], *, italic: bool = False, size: float = 12.0, space_after: float = 0) -> None:
+    for line in lines:
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p.paragraph_format.first_line_indent = Cm(0)
+        p.paragraph_format.space_before = Pt(0)
+        p.paragraph_format.space_after = Pt(space_after)
+        run = p.add_run(line)
+        run.italic = italic
+        set_run_font(run, size=size)
+
+
+def build_docx(source: Path, output: Path, config_path: Path) -> None:
+    title_text = load_title(config_path)
+    text = source.read_text(encoding="utf-8")
+    if PROLOG_MARKER not in text:
+        raise SystemExit("English master is missing '## Prologue'")
+    chapters = parse_manuscript(text)
+
+    doc = Document()
+    doc.core_properties.title = title_text
+    doc.core_properties.subject = f"{title_text} – English KDP production manuscript"
+    doc.core_properties.author = ""
+    doc.core_properties.keywords = ""
+    doc.core_properties.comments = ""
+    request_field_update(doc)
+
+    first_section = doc.sections[0]
+    configure_section(first_section)
+    first_section.different_first_page_header_footer = True
+
+    normal = doc.styles["Normal"]
+    set_style_font(normal, "Times New Roman", 12)
+    normal.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
+    normal.paragraph_format.line_spacing = 1.15
+    normal.paragraph_format.space_before = Pt(0)
+    normal.paragraph_format.space_after = Pt(0)
+    normal.paragraph_format.first_line_indent = Cm(0)
+
+    heading1 = doc.styles["Heading 1"]
+    set_style_font(heading1, "Times New Roman", 16, bold=True)
+    heading1.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    heading1.paragraph_format.first_line_indent = Cm(0)
+    heading1.paragraph_format.space_before = Pt(0)
+    heading1.paragraph_format.space_after = Pt(18)
+    heading1.paragraph_format.keep_with_next = True
+    heading1.paragraph_format.keep_together = True
+    heading1.font.color.rgb = RGBColor(0, 0, 0)
+
+    style_names = [style.name for style in doc.styles]
+    front_style = doc.styles["Front Matter"] if "Front Matter" in style_names else doc.styles.add_style("Front Matter", WD_STYLE_TYPE.PARAGRAPH)
+    set_style_font(front_style, "Times New Roman", 12)
+    front_style.paragraph_format.first_line_indent = Cm(0)
+    front_style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+
+    scene_style = doc.styles["Scene Break"] if "Scene Break" in style_names else doc.styles.add_style("Scene Break", WD_STYLE_TYPE.PARAGRAPH)
+    set_style_font(scene_style, "Times New Roman", 10)
+    scene_style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    scene_style.paragraph_format.first_line_indent = Cm(0)
+    scene_style.paragraph_format.space_before = Pt(8)
+    scene_style.paragraph_format.space_after = Pt(8)
+    scene_style.paragraph_format.keep_with_next = True
+
+    for _ in range(5):
+        doc.add_paragraph(style="Front Matter")
+    title = doc.add_paragraph(style="Front Matter")
+    title.paragraph_format.space_after = Pt(28)
+    run = title.add_run(title_text)
+    run.bold = True
+    set_run_font(run, size=24)
+
+    add_centered_lines(doc, ["A rule withstands", "everything,"], italic=True, size=12)
+    spacer = doc.add_paragraph(style="Front Matter")
+    spacer.paragraph_format.space_after = Pt(4)
+    add_centered_lines(doc, ["except proof"], italic=True, size=12)
+    spacer = doc.add_paragraph(style="Front Matter")
+    spacer.paragraph_format.space_after = Pt(4)
+    add_centered_lines(doc, ["that things work", "better without it."], italic=True, size=12)
+
+    doc.add_page_break()
+    for _ in range(6):
+        doc.add_paragraph(style="Front Matter")
+    definition_head = doc.add_paragraph(style="Front Matter")
+    definition_head.paragraph_format.space_after = Pt(14)
+    run = definition_head.add_run("Normalfall (German noun):")
+    set_run_font(run, size=12)
+    add_centered_lines(doc, ["A case handled according to the usual rules."], size=12)
+    gap = doc.add_paragraph(style="Front Matter")
+    gap.paragraph_format.space_after = Pt(20)
+    add_centered_lines(doc, ["A rule withstands everything,"], italic=True, size=12)
+    gap = doc.add_paragraph(style="Front Matter")
+    gap.paragraph_format.space_after = Pt(4)
+    add_centered_lines(doc, ["except proof"], italic=True, size=12)
+    gap = doc.add_paragraph(style="Front Matter")
+    gap.paragraph_format.space_after = Pt(4)
+    add_centered_lines(doc, ["that things work better without it."], italic=True, size=12)
+
+    doc.add_page_break()
+    toc_title = doc.add_paragraph(style="Front Matter")
+    toc_title.paragraph_format.space_after = Pt(24)
+    run = toc_title.add_run("CONTENTS")
+    run.bold = True
+    set_run_font(run, size=18)
+    toc = doc.add_paragraph(style="Front Matter")
+    toc.alignment = WD_ALIGN_PARAGRAPH.LEFT
+    add_toc_field(toc)
+
+    manuscript_section = doc.add_section(WD_SECTION.NEW_PAGE)
+    configure_section(manuscript_section)
+    manuscript_section.different_first_page_header_footer = False
+    manuscript_section.footer.is_linked_to_previous = False
+    set_page_number_start(manuscript_section, 1)
+    add_page_number(manuscript_section.footer.paragraphs[0])
+
+    scene_breaks = 0
+    for chapter_index, (chapter_title, blocks) in enumerate(chapters):
+        if chapter_title == "Prologue":
+            display = "Prologue"
+        else:
+            number = int(chapter_title)
+            display = f"Chapter {number} – {CHAPTER_TITLES[number]}"
+        heading = doc.add_paragraph(style="Heading 1")
+        if chapter_index > 0:
+            heading.paragraph_format.page_break_before = True
+        run = heading.add_run(display)
+        set_run_font(run, size=16)
+        run.bold = True
+
+        for block_type, value in blocks:
+            if block_type == "scene_break":
+                p = doc.add_paragraph(style="Scene Break")
+                run = p.add_run("*")
+                set_run_font(run, size=10)
+                scene_breaks += 1
+                continue
+            if block_type != "paragraph":
+                continue
+            p = doc.add_paragraph(style="Normal")
+            p.alignment = WD_ALIGN_PARAGRAPH.LEFT
+            p.paragraph_format.first_line_indent = Cm(0)
+            add_inline_markdown(p, value)
+
+    output.parent.mkdir(parents=True, exist_ok=True)
+    doc.save(output)
+    if output.stat().st_size < 100_000:
+        raise SystemExit(f"DOCX unexpectedly small: {output.stat().st_size} bytes")
+    print(f"Built {output} ({output.stat().st_size} bytes, {len(chapters)} story units, {scene_breaks} scene breaks, title={title_text!r})")
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Build the English NORMALFALL production DOCX from the generated English master.")
+    parser.add_argument("source", nargs="?", type=Path, default=Path("ENGLISH/NORMALFALL_ENGLISH.md"))
+    parser.add_argument("output", nargs="?", type=Path, default=Path("ENGLISH/NORMALFALL.docx"))
+    parser.add_argument("--config", type=Path, default=Path("ENGLISH/PUBLISHING_CONFIG.json"))
+    args = parser.parse_args()
+    build_docx(args.source, args.output, args.config)
+
+
+if __name__ == "__main__":
+    main()
