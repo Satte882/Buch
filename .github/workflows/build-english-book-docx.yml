@@ -183,6 +183,7 @@ jobs:
           path: |
             ENGLISH/NORMALFALL_ENGLISH.md
             ENGLISH/NORMALFALL.docx
+            build/english-kdp-preview/NORMALFALL.pdf
           retention-days: 7
 
       - name: Commit generated English production files
