@@ -90,6 +90,8 @@ Die englische Edition darf ohne bewusste menschliche Entscheidung nicht:
 - moralische oder politische Positionen stärker erklären als im Source-Text,
 - deutsche Institutionen durch sachlich falsche anglophone Entsprechungen ersetzen.
 
+Offensichtliche mechanische Kontinuitätsfehler im Source dürfen in der englischen Edition nur dann bereinigt werden, wenn keine Bedeutung, Handlung oder Figurenlogik verändert wird. Jede solche Abweichung wird unten dokumentiert; der deutsche Source wird dadurch nicht stillschweigend geändert.
+
 ## Pilot
 
 Pilotumfang:
@@ -114,6 +116,12 @@ Ab jetzt gilt der freigegebene Pilot zusammen mit `STYLE_GUIDE.md` als Kalibrier
 
 Diese Punkte blockieren die Fortsetzung nicht; sie werden beim Auftreten geprüft.
 
+## Dokumentierte Source-Abweichungen
+
+| Kapitel | Source | English Edition | Grund |
+|---|---|---|---|
+| 4 | Daniel zieht innerhalb derselben fortlaufenden Wohnungsszene zweimal die Jacke aus. | Zweite redundante Jacken-Handlung ausgelassen. | offensichtlicher mechanischer Kontinuitätsfehler; keine Story-/Bedeutungsänderung |
+
 ## Offene Entscheidungen
 
 | Thema | Entscheidung nötig bis | Status | Entscheidung |
@@ -127,3 +135,4 @@ Diese Punkte blockieren die Fortsetzung nicht; sie werden beim Auftreten geprüf
 |---|---|---|
 | 2026-08-29 | Profil angelegt, Source auf Commit `f0aa559...` eingefroren, English (US) als Pilotvariante gesetzt | Start der englischen Edition |
 | 2026-08-29 | Pilot-Voice freigegeben; Localization-Linie eingefroren | Human Review Prolog + Kapitel 1–3 |
+| 2026-08-29 | transparente Regel für offensichtliche mechanische Source-Fehler ergänzt; Kapitel-4-Duplikat dokumentiert | Editorial Review Kapitel 4 |
