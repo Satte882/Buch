@@ -88,6 +88,42 @@ At KDP submission:
 - KDP also requires translated works to credit a translator in the contributor field
 - translator contributor value remains a submission-level open item: do not invent a human translator name or misattribute the translation
 
+## Pricing – initial target
+
+### Kindle eBook
+
+- target Amazon.com list price: **$4.99**
+- royalty option: **70%**, subject to KDP eligibility/territory rules
+- rationale: commercial indie-thriller entry price with room for later price testing; pricing can be changed after publication
+
+### Paperback
+
+Current CI render: **568 pages**.
+
+For a black-ink regular-trim paperback on Amazon.com, the current KDP cost formula gives an estimated print cost of approximately **$7.82** at 568 pages. This is only a pre-upload estimate; the KDP-rendered page count is authoritative.
+
+- target Amazon.com list price after KDP preview: **$18.99**
+- estimated Amazon.com royalty at 568 pages: approximately **$3.58** per sale under the current 60% royalty band
+- do not lock the paperback price until the uploaded interior has produced the final KDP page count
+
+### Hardcover
+
+Not part of the first English release package unless explicitly opened later. If added, it requires its own ISBN, cover dimensions and pricing calculation.
+
+## Format production state
+
+### Paperback
+
+- interior: READY (`ENGLISH/NORMALFALL.docx`)
+- CI page-count guard: 568 pages
+- cover: BLOCKED until final KDP interior page count / Cover Calculator template
+
+### Kindle eBook
+
+- print DOCX must not be reused as the final Kindle layout
+- target format: reflowable EPUB (or KPF if later produced with Kindle Create)
+- eBook production remains open until a dedicated reflowable file is built and previewed
+
 ## Metadata consistency rules
 
 - Title in KDP: `REASONABLE MEASURES`
@@ -99,9 +135,11 @@ At KDP submission:
 
 ## Status
 
-Ready for KDP entry except for:
+Ready for KDP detail entry. Remaining release gates:
 
 1. translator contributor handling in the live KDP form
 2. format-specific ISBN assignment for print
-3. final cover asset with the approved English title
-4. pricing / royalty / territory selections
+3. paperback interior upload and final KDP page count
+4. final paperback cover PDF from the exact KDP Cover Calculator template
+5. dedicated reflowable eBook file and Kindle preview
+6. final pricing / royalty / territory confirmation in KDP
