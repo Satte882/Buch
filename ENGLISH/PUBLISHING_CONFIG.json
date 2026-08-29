@@ -6,5 +6,9 @@
   "language": "en-US",
   "primary_market": "Amazon.com",
   "trim_size": "5.06 x 7.81 in",
-  "production_rule": "The approved market_title is authoritative for English KDP front matter and metadata; working_title remains the internal/source reference only."
+  "metadata_file": "ENGLISH/KDP_METADATA.md",
+  "metadata_status": "approved-for-submission",
+  "ai_generated_translation_disclosure": true,
+  "translator_contributor_status": "open-submission-gate",
+  "production_rule": "The approved market_title and KDP metadata are authoritative for the English edition; working_title remains the internal/source reference only."
 }
