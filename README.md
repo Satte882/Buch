@@ -1,6 +1,6 @@
 # NORMALFALL – Repository
 
-Dieses Repository enthält den vollständigen Roman **NORMALFALL**, seine verbindlichen Story-/Stilgrundlagen und den reproduzierbaren Word-Build.
+Dieses Repository enthält den vollständigen Roman **NORMALFALL**, seine verbindlichen Story-/Stilgrundlagen, den reproduzierbaren Word-Build und den deutschen KDP-Releaseblock.
 
 ## Drei Dateien, die man zuerst kennen muss
 
@@ -15,7 +15,7 @@ Dieses Repository enthält den vollständigen Roman **NORMALFALL**, seine verbin
 ## Aktive Grundlagen
 
 - `BUCHIDEE.md` – Grundidee und moralischer Kern
-- `ROTER_FADEN.md` – globale Plotlogik und Doppelboden
+- `ROTER_FADEN.md` – globale Plotlogik, Positionierung und Doppelboden
 - `FIGUREN.md` – Figuren- und Rollenlogik
 - `STILREFERENZ.md` – Sprach- und Spannungsarchitektur
 - `RECHERCHE_PLAUSIBILITAET.md` – institutionelle, rechtliche und operative Realitätsanker
@@ -27,12 +27,16 @@ Diese Dateien dürfen den finalen Romantext nicht stillschweigend überschreiben
 
 ## Amazon KDP – deutscher Release
 
-- `BUCHBESCHREIBUNG_KDP.md` – deutsche Amazon-Buchbeschreibung inklusive HTML-Fassung
-- `KDP_METADATA.md` – Positionierung, Keywords, Kategorien, Zielgruppe, KI-Angabe, ISBN-/Preisstrategie und Cover-Soll
-- `KDP_SUBMISSION.md` – operative Feld-für-Feld- und Upload-Checkliste für Amazon.de
-- `KDP_PRODUKTIONSSTANDARD.md` – technischer Innenraum-/Cover-Produktionsstandard und wiederverwendbare KDP-Regeln
+| Zweck | Datei |
+|---|---|
+| Buchbeschreibung | `BUCHBESCHREIBUNG_KDP.md` |
+| Metadaten, Keywords, Kategorien, Preis-/ISBN-Strategie | `KDP_METADATA.md` |
+| operative Amazon.de-Checkliste | `KDP_SUBMISSION.md` |
+| technischer Produktionsstandard | `KDP_PRODUKTIONSSTANDARD.md` |
+| verbindliche Cover-Gestaltung | `COVER_SPEC.md` |
+| aktuell erzeugte Cover-PDF | **`NORMALFALL_COVER.pdf`** |
 
-Der deutsche Paperback-Innenraum ist repository-seitig vorbereitet. Das finale Druckcover bleibt bewusst blockiert, bis der Innenraum im KDP-Previewer gerendert wurde und die daraus resultierende Seitenzahl in den KDP Cover Calculator eingegangen ist.
+`NORMALFALL_COVER.pdf` ist die aktuell erzeugte einseitige Full-Wrap-PDF für den derzeitigen 591-Seiten-CI-Stand. Sie liegt direkt im Repository-Root und wird reproduzierbar über `scripts/build_kdp_cover.py` erzeugt. Die endgültige Rückenbreite wird erst nach der Live-Seitenzahl im KDP-Previewer bestätigt.
 
 ## Technik
 
@@ -40,19 +44,22 @@ Der deutsche Paperback-Innenraum ist repository-seitig vorbereitet. Das finale D
 - `scripts/polish_docx.py` – setzt den verbindlichen Buchsatz um
 - `scripts/update_docx_toc.py` – materialisiert das Inhaltsverzeichnis
 - `scripts/audit_scene_breaks.py` – prüft semantische Szenenbrüche
+- `scripts/build_kdp_cover.py` – erzeugt die Full-Wrap-Cover-PDF
 - `.github/workflows/build-book-docx.yml` – erzeugt und validiert `AUSNAHMEZUSTAND.docx`
 - `.github/workflows/manuskript-metriken.yml` – misst den aktuellen finalen Markdown-Master
+- `.github/workflows/build-kdp-cover.yml` – baut und validiert `NORMALFALL_COVER.pdf`
 
-## Historische Unterlagen
+## Archiv
 
-Frühere Volltext-Splits unter `MANUSKRIPT/`, die Ausbau-Matrix und die alte Umfangssteuerung wurden aus dem aktiven Arbeitsbaum entfernt, weil sie nach Fertigstellung des Romans veraltete Zwischenstände bzw. historische Planungslogik darstellen.
+Alte Konzept-/Planungsdateien werden nicht mehr im Root geführt. Physisch aufbewahrte Entwicklungsunterlagen liegen unter `ARCHIV/ENTWICKLUNG/`; frühere große Zwischenfassungen bleiben über die Git-Historie nachvollziehbar.
 
-Die Dateien bleiben vollständig über die Git-Historie nachvollziehbar. Sie sind in `ARCHIV/README.md` dokumentiert und dürfen nicht als aktuelle Source of Truth verwendet werden.
+Details und Archivregeln: `ARCHIV/README.md`.
 
 ## Arbeitsregel ab Fertigstellung
 
 1. Keine parallelen Manuskriptfassungen erzeugen.
 2. Inhalt nur in `AUSNAHMEZUSTAND_FINAL.md` ändern.
 3. Format nur über `MANUSKRIPT_FORMATIERUNG.md` + Build-Skripte ändern.
-4. Nach Änderungen den automatischen Build und seine Validierungen abwarten.
-5. Historische Ausbauziele sind keine aktuellen Qualitäts- oder Abnahmekriterien.
+4. KDP-/Cover-Arbeit nur gegen die aktuellen KDP-Dateien und `COVER_SPEC.md` ausführen.
+5. Nach Änderungen den automatischen Build und seine Validierungen abwarten.
+6. Historische Unterlagen unter `ARCHIV/` sind keine aktuellen Qualitäts- oder Abnahmekriterien.

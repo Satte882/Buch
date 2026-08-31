@@ -26,14 +26,14 @@ Keine ältere Teilfassung, Ausbauplanung, Issue-Beschreibung oder generierte Wor
 ### Story-, Figuren- und Stilarchitektur
 
 - `BUCHIDEE.md` – Grundidee und moralischer Kern
-- `ROTER_FADEN.md` – globale Plotlogik, Bedrohungsarchitektur und Doppelboden
+- `ROTER_FADEN.md` – globale Plotlogik, Bedrohungsarchitektur, Positionierung und Doppelboden
 - `FIGUREN.md` – Figuren- und Rollenlogik
 - `STILREFERENZ.md` – Sprach- und Spannungsarchitektur
 - `RECHERCHE_PLAUSIBILITAET.md` – institutionelle, rechtliche und operative Realitätsanker
 - `ROMAN_MAP.md` – Story-/Szenenfolge
 - `BAUSTEINE/` – Entwicklungsarchitektur, Ereignisse und Szenenkarten
-- `Bausteine_in_5_Ebenen_zerlegen.md` – historische Arbeitsmethodik; nur relevant, wenn bewusst wieder auf eine Planungsebene zurückgesprungen wird
-- `PSYCHOTHRILLER_POSITIONIERUNG_UND_BAUSTEINE.md` – Genre- und Thriller-Leitplanken
+
+Frühere Planungs- und Positionierungsdokumente liegen unter `ARCHIV/` und sind **keine aktive Vorgabe**. Insbesondere wurden `Bausteine_in_5_Ebenen_zerlegen.md` und `PSYCHOTHRILLER_POSITIONIERUNG_UND_BAUSTEINE.md` nach `ARCHIV/ENTWICKLUNG/` verschoben, weil ihre weiterhin gültigen Inhalte inzwischen in den aktiven Architekturquellen konsolidiert sind.
 
 ---
 
@@ -44,7 +44,7 @@ Bei widersprüchlichen Aussagen gilt:
 1. Für den **tatsächlich geschriebenen Romantext** gilt `AUSNAHMEZUSTAND_FINAL.md`.
 2. Für **Buchsatz und Word-Ausgabe** gilt `MANUSKRIPT_FORMATIERUNG.md` plus die Build-Skripte.
 3. Für bewusste Storyänderungen gelten zusätzlich die thematisch zuständigen Architekturquellen (`ROTER_FADEN.md`, `FIGUREN.md`, `RECHERCHE_PLAUSIBILITAET.md`, `ROMAN_MAP.md`, `STILREFERENZ.md`).
-4. Historische Issues, Commits und ausgemusterte Ausbauunterlagen sind nur Nachweise früherer Entscheidungen, keine aktuellen Masterquellen.
+4. Historische Issues, Commits und Archivunterlagen sind nur Nachweise früherer Entscheidungen, keine aktuellen Masterquellen.
 
 Wenn Architekturquelle und finaler Romantext voneinander abweichen, wird **nicht automatisch der Romantext überschrieben**. Zuerst ist zu klären, ob die Architekturdatei veraltet ist oder ob eine bewusste Romanänderung erforderlich ist.
 
@@ -108,6 +108,15 @@ Inhalt nicht verändern. Maßgeblich sind:
 - `scripts/update_docx_toc.py`
 - `.github/workflows/build-book-docx.yml`
 
+### KDP / Cover
+
+Inhalt nicht aus historischen Entwurfsständen ableiten. Maßgeblich sind:
+- `KDP_METADATA.md`
+- `KDP_SUBMISSION.md`
+- `KDP_PRODUKTIONSSTANDARD.md`
+- `COVER_SPEC.md`
+- `NORMALFALL_COVER.pdf` als aktuell erzeugte Cover-PDF; finale Rückenbreite erst nach Live-KDP-Seitenzahl bestätigen
+
 ---
 
 ## 5. Anti-Drift-Regel
@@ -117,8 +126,9 @@ Inhalt nicht verändern. Maßgeblich sind:
 - Keine historischen Wortziele als aktuelle Schreibvorgabe verwenden.
 - Keine Issue-Beschreibung als aktuellere Wahrheit behandeln als die Masterdateien.
 - Keine generierte DOCX manuell zum neuen Master machen.
+- Keine Datei unter `ARCHIV/` stillschweigend wieder zur aktiven Vorgabe machen.
 
-Historisch ausgemusterte Quellen sind in `ARCHIV/README.md` dokumentiert und bleiben über Git vollständig nachvollziehbar.
+Historisch ausgemusterte Quellen sind in `ARCHIV/README.md` dokumentiert. Physisch archivierte Konzeptdateien liegen unter `ARCHIV/ENTWICKLUNG/`; weitere alte Zwischenstände bleiben über Git vollständig nachvollziehbar.
 
 ---
 
