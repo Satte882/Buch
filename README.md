@@ -25,6 +25,15 @@ Dieses Repository enthält den vollständigen Roman **NORMALFALL**, seine verbin
 
 Diese Dateien dürfen den finalen Romantext nicht stillschweigend überschreiben. Wenn eine Änderung der Story notwendig wird, muss sie bewusst zuerst in der passenden Architekturquelle und anschließend in `AUSNAHMEZUSTAND_FINAL.md` synchronisiert werden.
 
+## Amazon KDP – deutscher Release
+
+- `BUCHBESCHREIBUNG_KDP.md` – deutsche Amazon-Buchbeschreibung inklusive HTML-Fassung
+- `KDP_METADATA.md` – Positionierung, Keywords, Kategorien, Zielgruppe, KI-Angabe, ISBN-/Preisstrategie und Cover-Soll
+- `KDP_SUBMISSION.md` – operative Feld-für-Feld- und Upload-Checkliste für Amazon.de
+- `KDP_PRODUKTIONSSTANDARD.md` – technischer Innenraum-/Cover-Produktionsstandard und wiederverwendbare KDP-Regeln
+
+Der deutsche Paperback-Innenraum ist repository-seitig vorbereitet. Das finale Druckcover bleibt bewusst blockiert, bis der Innenraum im KDP-Previewer gerendert wurde und die daraus resultierende Seitenzahl in den KDP Cover Calculator eingegangen ist.
+
 ## Technik
 
 - `scripts/build_book_docx.py` – erzeugt die DOCX-Grundstruktur aus dem Markdown-Master
