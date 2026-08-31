@@ -29,7 +29,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y fonts-roboto fonts-dejavu-core poppler-utils
           python -m pip install --upgrade pip
-          pip install reportlab
+          pip install reportlab pypdf
 
       - name: Build cover
         run: |
