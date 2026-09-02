@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/build_kdp_cover.py'
+      - 'COVER_SPEC.md'
       - '.github/workflows/build-kdp-cover.yml'
   workflow_dispatch:
 
@@ -26,18 +27,20 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y fonts-roboto fonts-dejavu-core poppler-utils
+          sudo apt-get install -y fonts-dejavu-core poppler-utils
           python -m pip install --upgrade pip
-          pip install reportlab pypdf
+          pip install pillow pymupdf pypdf
 
-      - name: Build cover
+      - name: Build live KDP cover
         run: |
-          python scripts/build_kdp_cover.py --pages 591 --paper white --output NORMALFALL_COVER.pdf
+          python scripts/build_kdp_cover.py --output NORMALFALL_COVER.pdf --dpi 400
 
       - name: Validate KDP PDF
         run: |
           pdfinfo NORMALFALL_COVER.pdf
           pdffonts NORMALFALL_COVER.pdf
+          pdfimages -list NORMALFALL_COVER.pdf
+
           python - <<'PY'
           from pypdf import PdfReader
           r = PdfReader('NORMALFALL_COVER.pdf')
@@ -45,16 +48,29 @@ jobs:
           box = r.pages[0].mediabox
           w = float(box.width) / 72
           h = float(box.height) / 72
-          assert abs(w - 11.700932) < 0.001, (w, h)
-          assert abs(h - 8.060) < 0.001, (w, h)
+          assert abs(w - 13.356) < 0.0001, (w, h)
+          assert abs(h - 9.250) < 0.0001, (w, h)
           print('cover geometry OK', w, h)
           PY
-          if pdffonts NORMALFALL_COVER.pdf | tail -n +3 | awk 'NF && $4 != "yes" {exit 1}'; then
-            echo 'font embedding OK'
-          else
-            echo 'non-embedded font found' >&2
+
+          if pdffonts NORMALFALL_COVER.pdf | tail -n +3 | grep -q '[^[:space:]]'; then
+            echo 'Unexpected PDF font resource found' >&2
+            pdffonts NORMALFALL_COVER.pdf >&2
             exit 1
+          else
+            echo 'fontless cover PDF OK'
           fi
+
+          pdfimages -list NORMALFALL_COVER.pdf | awk '
+            NR > 2 && $3 == "image" {
+              found=1
+              if ($13 < 300 || $14 < 300) {
+                print "image resolution below 300 dpi:", $0 > "/dev/stderr"
+                exit 1
+              }
+            }
+            END { if (!found) exit 2 }
+          '
 
       - name: Commit production PDF
         run: |
@@ -64,6 +80,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'No cover change.'
           else
-            git commit -m 'production: rebuild NORMALFALL KDP cover'
+            git commit -m 'production: build live KDP NORMALFALL cover'
             git push
           fi
